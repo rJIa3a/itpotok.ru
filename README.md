@@ -4,6 +4,6 @@
 
 ## Статьи
 
-- [`defender-windows-11/`](defender-windows-11/) — черновик «Как отключить Microsoft Defender в Windows 11».
+- [«Как отключить Microsoft Defender в Windows 11»](https://github.com/rJIa3a/itpotok.ru/tree/editorial/defender-windows-11/defender-windows-11) — опубликована 30 сентября 2026 года; материалы хранятся в ветке `editorial/defender-windows-11`.
 
 Доступы к WordPress, пароли и токены в репозиторий не помещаются. Работа в GitHub не публикует запись на сайте: публикация выполняется отдельно в WordPress после выбора нужной записи.
