@@ -1,10 +1,10 @@
 # Как отключить Microsoft Defender в Windows 11
 
-Актуальный редакционный исходник: [`defender-factchecked.html`](defender-factchecked.html). [Статья опубликована на ITpotok.ru](https://itpotok.ru/kak-otklyuchit-microsoft-defender-v-windows-11/) 30 сентября 2026 года, запись WordPress 11875.
+Актуальный редакционный исходник: [`defender-factchecked.html`](defender-factchecked.html). [Статья опубликована на ITpotok.ru](https://itpotok.ru/kak-otklyuchit-microsoft-defender-v-windows-11/) 30 сентября 2026 года, запись WordPress 11875. В исходнике подготовлено добавление `rel="nofollow"` к 20 внешним ссылкам на источники. **Эта правка ещё не применена в WordPress:** доступ браузера к сайту отклонён, поэтому содержимое опубликованной записи пока может отличаться от исходника.
 
 ## Что входит в папку
 
-- `defender-factchecked.html` — HTML, сохранённый в WordPress.
+- `defender-factchecked.html` — HTML для обновления опубликованной записи после восстановления доступа к WordPress.
 - `defender-factcheck.md` — проверенные утверждения, первичные источники, редакционные исправления и границы проверки.
 - `illustrations.md` — происхождение восьми изображений и правила подписей.
 - `cover-defender-windows-11.png` — созданная для статьи обложка, установленная как «Изображение записи» в WordPress.
