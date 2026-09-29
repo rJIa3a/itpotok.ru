@@ -1,0 +1,9 @@
+pass.txt
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+__pycache__/
+*.tmp
