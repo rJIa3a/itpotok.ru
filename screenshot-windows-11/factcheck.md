@@ -9,6 +9,10 @@
 3. [Microsoft — копирование содержимого окна или экрана](https://support.microsoft.com/ru-RU/Office/copy-the-window-or-screen-contents): Alt + PrtSc копирует активное окно, Ctrl + V вставляет снимок.
 4. [Microsoft — сочетание для печати экрана](https://support.microsoft.com/ru-ru/windows/%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D1%88-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B8-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-601210c0-b3a9-7b58-bc40-bae4dcf5f108): Fn + Win + пробел при отсутствии PrtSc, зависимость от оборудования.
 5. [Microsoft — Xbox Game Bar](https://support.microsoft.com/ru-ru/accessibility/windows/use-a-screen-reader-to-record-your-screen-with-xbox-game-bar): Win + Alt + PrtSc сохраняет PNG снимка игры/приложения в Captures.
+6. [Microsoft — журнал буфера обмена](https://support.microsoft.com/en-us/windows/apps/using-the-clipboard): Win + V открывает журнал, если он включён; его включение — отдельное действие.
+7. [Microsoft Learn — несколько мониторов](https://learn.microsoft.com/en-us/windows/win32/gdi/about-multiple-display-monitors): Print Screen захватывает виртуальную область дисплеев, если клавиша не переназначена на приложение захвата.
+8. [Mozilla — снимки страниц Firefox](https://support.mozilla.org/en-US/kb/take-screenshots-firefox): Ctrl + Shift + S, пункт полного снимка и скачивание файла.
+9. [ShareX — scrolling screenshot](https://getsharex.com/docs/scrolling-screenshot): прокрутка и склейка выбранной области, возможные ошибки из-за закреплённых и движущихся элементов.
 
 ## Что исправлено относительно исходной статьи
 
@@ -20,6 +24,6 @@
 
 ## Конкурент и границы проверки
 
-- Читатель указал [remontka.pro/screenshot-windows-11](https://remontka.pro/screenshot-windows-11/). По поисковой выдаче видны темы системных способов и сторонних утилит; полный текст страницы 30 сентября 2026 года получить не удалось из-за ошибки доступа. Его формулировки не переносились.
+- Читатель указал [remontka.pro/screenshot-windows-11](https://remontka.pro/screenshot-windows-11/). Прямая загрузка страницы 30 сентября 2026 года дала ошибку доступа, но поисковая копия показала полный текст: Print Screen, Win + Shift + S, Win + PrtSc, «Ножницы», Xbox Game Bar, Office, PicPick и ShareX. Формулировки конкурента не переносились. Наше обновление делает акцент на различии файла и буфера, проверке результата, одном мониторе и длинной странице.
 - Практический прогон сочетаний клавиш, задержки и Xbox Game Bar не выполнялся. Сведения сверены по документации Microsoft, а названия кнопок и работа Fn могут различаться в зависимости от версии приложения и клавиатуры.
-- Не проверялись сохранение в перенесённую папку «Изображения», синхронизация OneDrive, несколько мониторов и захват защищённого видеоконтента.
+- Не проверялись сохранение в перенесённую папку «Изображения», синхронизация OneDrive, физическая конфигурация из нескольких мониторов, Firefox, ShareX и захват защищённого видеоконтента. Иллюстрации являются схемами, а не практическими кадрами интерфейса.
