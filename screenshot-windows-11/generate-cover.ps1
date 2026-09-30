@@ -52,9 +52,9 @@ $hintFont = [System.Drawing.Font]::new('Segoe UI', 24, [System.Drawing.FontStyle
 $badgeFont = [System.Drawing.Font]::new('Segoe UI', 25, [System.Drawing.FontStyle]::Bold)
 
 FillRound $panelBrush 85 78 1430 744 36
-$graphics.DrawString('Скриншот', $titleFont, $white, 130, 112)
-$graphics.DrawString('в Windows 11', $titleFont, $accent, 130, 205)
-$graphics.DrawString('Быстрые сочетания клавиш', $subtitleFont, $muted, 135, 310)
+$graphics.DrawString('Скриншот', $titleFont, $white, 250, 112)
+$graphics.DrawString('в Windows 11', $titleFont, $accent, 250, 205)
+$graphics.DrawString('Быстрые сочетания клавиш', $subtitleFont, $muted, 255, 310)
 
 function Key($x, $y, $w, $label) {
     FillRound $keyBrush $x $y $w 76 14
@@ -62,18 +62,18 @@ function Key($x, $y, $w, $label) {
     $graphics.DrawString($label, $keyFont, $keyText, ($x + ($w - $size.Width) / 2), ($y + 12))
 }
 
-Key 135 413 110 'Win'
-Key 264 413 145 'Shift'
-Key 428 413 90 'S'
-$graphics.DrawString('область', $hintFont, $white, 545, 435)
+Key 250 413 110 'Win'
+Key 379 413 145 'Shift'
+Key 543 413 90 'S'
+$graphics.DrawString('область', $hintFont, $white, 660, 435)
 
-Key 135 518 110 'Win'
-Key 264 518 205 'PrtSc'
-$graphics.DrawString('весь экран', $hintFont, $white, 495, 540)
+Key 250 518 110 'Win'
+Key 379 518 205 'PrtSc'
+$graphics.DrawString('весь экран', $hintFont, $white, 610, 540)
 
-Key 135 623 110 'Alt'
-Key 264 623 205 'PrtSc'
-$graphics.DrawString('одно окно', $hintFont, $white, 495, 645)
+Key 250 623 110 'Alt'
+Key 379 623 205 'PrtSc'
+$graphics.DrawString('одно окно', $hintFont, $white, 610, 645)
 
 FillRound (Brush 18 50 84) 990 382 405 300 24
 $graphics.DrawRectangle($outline, 1022, 415, 342, 232)
@@ -81,7 +81,7 @@ $graphics.DrawLine($thin, 1022, 430, 1364, 430)
 $graphics.DrawString('ВЫБРАТЬ', $badgeFont, $accent, 1062, 496)
 $graphics.DrawString('ОБЛАСТЬ', $badgeFont, $white, 1062, 547)
 
-$graphics.DrawString('Иллюстрация сочетаний, не снимок интерфейса', $hintFont, $muted, 130, 755)
+$graphics.DrawString('Иллюстрация сочетаний, не снимок интерфейса', $hintFont, $muted, 250, 755)
 
 $path = Join-Path $PSScriptRoot 'keyboard-shortcuts-cover.png'
 $bitmap.Save($path, [System.Drawing.Imaging.ImageFormat]::Png)
