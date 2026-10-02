@@ -1,0 +1,23 @@
+# Фактчекинг — 2 октября 2026
+
+Проверены актуальные первичные источники. Практическая установка, создание USB, удаление разделов, сброс, активация и откат на тестовом ПК не выполнялись. Текст описывает ожидаемое поведение по документации, без обещания конкретного времени или результата на любой конфигурации.
+
+| Утверждение / редакционное решение | Первичный источник |
+| --- | --- |
+| Целевой накопитель нужно определить до удаления разделов; редакция должна соответствовать лицензии; чистая установка удаляет данные | [Переустановка с носителя](https://support.microsoft.com/ru-ru/windows/deployment/install-upgrade/reinstall-windows-with-the-installation-media) |
+| Восстановление через Центр обновления сохраняет программы, файлы и настройки; ограничения 22H2, обновление февраля 2024, управляемые обновления | [Восстановление текущей версии](https://support.microsoft.com/en-us/windows/deployment/install-upgrade/fix-issues-by-reinstalling-the-current-version-of-windows) |
+| Запуск setup.exe внутри работающей Windows и выбор сохраняемых компонентов отличаются от загрузки с USB | [Способы установки](https://support.microsoft.com/en-us/windows/deployment/install-upgrade/ways-to-install-windows-11) |
+| Сброс с сохранением личных файлов удаляет приложения; облачная и локальная переустановка; не прерывать из-за чёрного экрана | [Сброс ПК](https://support.microsoft.com/ru-ru/windows/experience/backup-recovery/reset-your-pc) |
+| USB от 8 ГБ очищается; Media Creation Tool, ISO, x64 и отдельный ARM64; одинаковый язык для установки поверх | [Загрузка Windows 11](https://www.microsoft.com/ru-ru/software-download/windows11), [Создание носителя](https://support.microsoft.com/en-us/windows/deployment/install-upgrade/create-installation-media-for-windows) |
+| Совместимый процессор, TPM 2.0, UEFI/Secure Boot capable, память и накопитель; интернет и аккаунт Home/Pro personal use | [Требования](https://www.microsoft.com/en-us/windows/windows-11-specifications) |
+| Неподдерживаемое оборудование: поддержка и обновления не гарантируются | [Позиция Microsoft](https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-on-devices-that-don-t-meet-minimum-system-requirements) |
+| Ключ BitLocker хранить отдельно; сверять ID | [Поиск ключа](https://support.microsoft.com/en-us/windows/security/encryption/find-your-bitlocker-recovery-key) |
+| При отсутствии диска на некоторых моделях требуется распакованный драйвер IRST/VMD | [Dell](https://www.dell.com/support/kbdoc/en-us/000188116/intel-11th-generation-processors-no-drives-can-be-found-during-windows-10-installation) |
+| Возврат после обновления обычно доступен 10 дней, нужны файлы старой установки; не равен отмене чистой установки | [Возврат к предыдущей версии](https://support.microsoft.com/en-us/windows/deployment/install-upgrade/go-back-to-the-previous-version-of-windows) |
+| Сначала рассмотреть менее радикальные средства восстановления | [Варианты восстановления](https://support.microsoft.com/en-us/windows/experience/backup-recovery/recovery-options-in-windows) |
+
+На странице загрузки в день проверки указан текущий выпуск 26H2. Статья намеренно не закрепляет номер актуального ISO: читатель выбирает доступный официальный выпуск. Загрузка самого ISO и доступность сервиса для каждого региона практически не проверялись. Удалено старое безусловное обещание, что Media Creation Tool работает без проблем и не требует смены сети.
+
+Русская справка Microsoft местами содержит машинные переводы и несогласованный вводный абзац о загрузке с носителя для сохранения программ. Ориентир — конкретные шаги: setup.exe из запущенной Windows; загрузка с носителя для чистой установки. Номер Disk 0 из примера Microsoft не перенесён как универсальная рекомендация.
+
+Правило о разных языках подтверждено страницей загрузки. При недоступном сохранении приложений указана остановка, а не обещание исправления сменой одного параметра. Разметка MBR/GPT и изменение RAID/VMD не превращены в универсальные команды очистки.
