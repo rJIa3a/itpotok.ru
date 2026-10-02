@@ -45,16 +45,24 @@ $outline = [System.Drawing.Pen]::new((Color 70 191 255), 6)
 $outline.DashStyle = [System.Drawing.Drawing2D.DashStyle]::Dash
 $thin = [System.Drawing.Pen]::new((Color 125 211 255), 3)
 
-$titleFont = [System.Drawing.Font]::new('Segoe UI', 70, [System.Drawing.FontStyle]::Bold)
-$subtitleFont = [System.Drawing.Font]::new('Segoe UI', 31, [System.Drawing.FontStyle]::Regular)
-$keyFont = [System.Drawing.Font]::new('Segoe UI', 32, [System.Drawing.FontStyle]::Bold)
-$hintFont = [System.Drawing.Font]::new('Segoe UI', 24, [System.Drawing.FontStyle]::Regular)
+$titleFont = [System.Drawing.Font]::new('Segoe UI', 46, [System.Drawing.FontStyle]::Bold)
+$subtitleFont = [System.Drawing.Font]::new('Segoe UI', 25, [System.Drawing.FontStyle]::Regular)
+$keyFont = [System.Drawing.Font]::new('Segoe UI', 30, [System.Drawing.FontStyle]::Bold)
+$hintFont = [System.Drawing.Font]::new('Segoe UI', 22, [System.Drawing.FontStyle]::Regular)
 $badgeFont = [System.Drawing.Font]::new('Segoe UI', 25, [System.Drawing.FontStyle]::Bold)
 
-FillRound $panelBrush 85 78 1430 744 36
-$graphics.DrawString('Скриншот', $titleFont, $white, 250, 112)
-$graphics.DrawString('в Windows 11', $titleFont, $accent, 250, 205)
-$graphics.DrawString('Быстрые сочетания клавиш', $subtitleFont, $muted, 255, 310)
+FillRound $panelBrush 85 48 1430 804 36
+
+function CenterText($label, $font, $brush, $y) {
+    $size = $graphics.MeasureString($label, $font)
+    $graphics.DrawString($label, $font, $brush, (($width - $size.Width) / 2), $y)
+}
+
+# The theme crops the wide image to a portrait card. Keep all text within
+# the central 500 pixels so it survives that crop.
+CenterText 'Скриншот' $titleFont $white 106
+CenterText 'Windows 11' $titleFont $accent 185
+CenterText '3 быстрых способа' $subtitleFont $muted 280
 
 function Key($x, $y, $w, $label) {
     FillRound $keyBrush $x $y $w 76 14
@@ -62,26 +70,16 @@ function Key($x, $y, $w, $label) {
     $graphics.DrawString($label, $keyFont, $keyText, ($x + ($w - $size.Width) / 2), ($y + 12))
 }
 
-Key 250 413 110 'Win'
-Key 379 413 145 'Shift'
-Key 543 413 90 'S'
-$graphics.DrawString('область', $hintFont, $white, 660, 435)
+Key 550 368 500 'Win + Shift + S'
+CenterText 'выбранная область' $hintFont $white 447
 
-Key 250 518 110 'Win'
-Key 379 518 205 'PrtSc'
-$graphics.DrawString('весь экран', $hintFont, $white, 610, 540)
+Key 550 502 500 'Win + PrtSc'
+CenterText 'весь экран в файл' $hintFont $white 581
 
-Key 250 623 110 'Alt'
-Key 379 623 205 'PrtSc'
-$graphics.DrawString('одно окно', $hintFont, $white, 610, 645)
+Key 550 636 500 'Alt + PrtSc'
+CenterText 'одно окно в буфер' $hintFont $white 715
 
-FillRound (Brush 18 50 84) 990 382 405 300 24
-$graphics.DrawRectangle($outline, 1022, 415, 342, 232)
-$graphics.DrawLine($thin, 1022, 430, 1364, 430)
-$graphics.DrawString('ВЫБРАТЬ', $badgeFont, $accent, 1062, 496)
-$graphics.DrawString('ОБЛАСТЬ', $badgeFont, $white, 1062, 547)
-
-$graphics.DrawString('Иллюстрация сочетаний, не снимок интерфейса', $hintFont, $muted, 250, 755)
+CenterText 'Схема редакции' $hintFont $muted 792
 
 $path = Join-Path $PSScriptRoot 'keyboard-shortcuts-cover.png'
 $bitmap.Save($path, [System.Drawing.Imaging.ImageFormat]::Png)
