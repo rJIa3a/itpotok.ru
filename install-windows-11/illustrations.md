@@ -4,7 +4,7 @@
 
 | Иллюстрация | Назначение | Происхождение / использование |
 | --- | --- | --- |
-| install-windows-11-cover-20261002.png, 1600×900 | Отдельная обложка; название и резервная копия в центральной области | Собственная редакционная типографическая иллюстрация, создана generate-cover.ps1. Не является снимком интерфейса. Можно хранить в GitHub. |
+| install-windows-11-cover-20261003.png, 1448×1086 | Новая превью: Windows 11, установка и переустановка, ноутбук и USB | Редакционная AI-иллюстрация, создана imagegen 03.10.2026; prompt — cover-prompt.md. Не является снимком интерфейса. Разрешена для GitHub. На сайте пока не назначена. Предыдущая типографическая обложка доступна в истории Git. |
 | [fix-problems-with-windows-update.png](https://support.microsoft.com/ru-ru/windows/media/fix-problems-with-windows-update.png), 637×373 | Подтверждение восстановления с сохранением программ | Кадр Microsoft из [справки](https://support.microsoft.com/ru-ru/windows/deployment/install-upgrade/fix-issues-by-reinstalling-the-current-version-of-windows). Основной текст русский; кнопка Cancel английская. Кадр не показывает расположение раздела в «Параметрах». |
 | [installation-media-install-option.png](https://support.microsoft.com/ru-ru/windows/media/installation-media-install-option.png), 712×557 | Выбор чистой установки и предупреждение удаления | Кадр Microsoft из [справки](https://support.microsoft.com/ru-ru/windows/deployment/install-upgrade/reinstall-windows-with-the-installation-media). Английский интерфейс обозначен в alt и подписи. Это не снимок дисков, активации или результата установки. |
 
