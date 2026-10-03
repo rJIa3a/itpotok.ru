@@ -6,5 +6,10 @@
   "public_url": "https://itpotok.ru/widgets-windows-11/",
   "post_id": 11944,
   "status": "publish",
-  "lock_media_id": 11947
+  "lock_media_id": 11947,
+  "additional_media_ids": [
+    11949,
+    11950,
+    11951
+  ]
 }
