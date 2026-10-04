@@ -1,0 +1,7 @@
+Use case: stylized-concept. Asset type: editorial cover for Russian tutorial about creating a Windows 11 installation USB. Primary request: premium clean 3D illustration of a metallic USB flash drive and abstract blue Windows-style four-pane shape, dark navy to blue background. Wide landscape composition. All meaningful objects and exact text "Windows 11" and "Загрузочная флешка" within central 60% safe area for website cropping. Modern legible typography. No software UI, no screenshot, no extra text, no watermark.
+
+Первый вариант заменён после проверки: тема обрезала надписи.
+
+Актуальный промпт: Create a square editorial cover for a Russian how-to article about making a Windows 11 bootable USB drive. Premium clean realistic 3D metallic USB flash drive centered on dark navy blue background with soft blue light. Keep entire USB object and simple blue four-pane abstract OS motif inside central 45% of the canvas, generous empty margins on all sides so portrait and landscape crops retain the complete object. No text, no lettering, no numbers, no UI, no screenshot, no watermark.
+
+Mode: generate. Tool: image_gen. No references. Output: windows-11-usb-cover-square-20261004.png. Назначена в WP 11992, проверена обрезка на обычном экране.
