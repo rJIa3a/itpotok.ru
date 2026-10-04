@@ -62,3 +62,11 @@ public-factcheck-proof.png и public-factcheck-mobile-proof.png — собств
 rainmeter-layout-saved-ru-20261004.png — собственный русский кадр управления Rainmeter 4.5.26 после сохранения itpotok-test. Без личных данных; не снимок скинов. Пока локально, в статью не добавлен.
 
 Кадр rainmeter-layout-saved-ru-20261004.png загружен в WordPress как media 11968, URL в rainmeter-layout-media.json; добавлен в черновик 11969. Наличие медиа подтверждено, визуальная проверка на сайте ещё не завершена.
+
+## Собственные новые кадры — 04.10.2026
+- rainmeter-clock-position-ru-20261004.png: русское управление Clock.ini, X=500/Y=0; media 11970.
+- rainmeter-layout-load-ru-20261004.png: выбран itpotok-test, доступна «Загрузить»; media 11971.
+- rainmeter-clock-restored-ru-20261004.png: поля после загрузки снова 1326/0; media 11972.
+Все три — настоящие собственные неизменённые кадры 958×694 окна управления Rainmeter 4.5.26 через Computer Use, без личных данных. Опубликованы и включены в Git; лицензирование GUI Rainmeter указано выше, права на сторонние скины этим не расширяются. Они показывают управление и координаты, а не часы или нагрузку рабочего стола. Кадр сохранения media 11968 также опубликован.
+public-layout-return-proof-20261004.png, public-layout-mobile-proof-20261004.png и public-bewidgets-mobile-proof-20261004.png — собственные доказательства веб-проверки: увеличение, раскрытый FAQ и конец инструкции BeWidgets. Не иллюстрации Windows.
+Ранние пометки об ожидании установки и неопубликованном сохранении относятся к предыдущим этапам; актуальный остаток — completion-audit.md.
