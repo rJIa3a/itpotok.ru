@@ -46,6 +46,12 @@
 
 Обновите сведения о C в «Этот компьютер» и сравните свободное место с исходным значением. Оценки разных средств могут учитывать одни и те же файлы — не складывайте их. Кэш создаётся заново; если место быстро исчезает, проверьте растущую категорию в разделе «Память» и данные приложений.
 
+Для точного значения выделите диск C в «Этот компьютер» и нажмите **Alt + Enter**: откроются его свойства.
+
+![Свойства диска C: занятое и свободное место](drive-c-properties-ru-20261008.jpg)
+
+Собственный снимок Windows 11. Used with permission from Microsoft. Значения показывают состояние одного ПК, а не результат выполненной очистки.
+
 **Не удаляйте вручную системные папки, весь AppData, `hiberfil.sys` и `pagefile.sys`.** Установленные программы удаляйте штатным способом. Если почти всё место занимают нужные данные, потребуется другой накопитель или увеличение хранилища.
 
 Способы и ограничения описаны в справках Microsoft: <a href="https://support.microsoft.com/ru-ru/windows/experience/storage-filemanagement/free-up-drive-space-in-windows" rel="nofollow">освобождение места</a>, <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cleanmgr" rel="nofollow">cleanmgr</a>, <a href="https://support.microsoft.com/ru-ru/windows/experience/storage-filemanagement/manage-drive-space-with-storage-sense" rel="nofollow">контроль памяти</a>, <a href="https://support.microsoft.com/ru-ru/windows/deployment/install-upgrade/delete-your-previous-version-of-windows" rel="nofollow">предыдущая установка Windows</a>, <a href="https://support.microsoft.com/ru-ru/onedrive/save-disk-space-with-onedrive-files-on-demand-for-windows" rel="nofollow">файлы OneDrive по запросу</a>.
