@@ -1,0 +1,2249 @@
+{
+  "date": "2026-10-08",
+  "query_column_present": true,
+  "region": null,
+  "frequency_measurement_date": null,
+  "rows": [
+    {
+      "row": 1,
+      "query": "как отключить антивирус на виндовс 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 11105,
+      "exact_frequency": 8847,
+      "very_exact_frequency": 8544
+    },
+    {
+      "row": 2,
+      "query": "как сделать скриншот на виндовс 11",
+      "competitor_url": "https://remontka.pro/screenshot-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 10263,
+      "exact_frequency": 8544,
+      "very_exact_frequency": 8456
+    },
+    {
+      "row": 3,
+      "query": "скачать виндовс 11 бесплатно с официального сайта на русском",
+      "competitor_url": "https://remontka.pro/download-windows-11-iso",
+      "competitor_position": 6,
+      "base_frequency": 10546,
+      "exact_frequency": 7649,
+      "very_exact_frequency": 7641
+    },
+    {
+      "row": 4,
+      "query": "как переустановить виндовс 11",
+      "competitor_url": "https://remontka.pro/reinstall-windows-without-losing-data",
+      "competitor_position": 4,
+      "base_frequency": 16671,
+      "exact_frequency": 7232,
+      "very_exact_frequency": 7193
+    },
+    {
+      "row": 5,
+      "query": "как установить виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 7,
+      "base_frequency": 41678,
+      "exact_frequency": 5079,
+      "very_exact_frequency": 4766
+    },
+    {
+      "row": 6,
+      "query": "rufus windows 11",
+      "competitor_url": "https://remontka.pro/rufus-windows-11-no-tpm-secure-boot",
+      "competitor_position": 6,
+      "base_frequency": 9819,
+      "exact_frequency": 3876,
+      "very_exact_frequency": 3811
+    },
+    {
+      "row": 7,
+      "query": "как обновить windows 10 до windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-upgrade",
+      "competitor_position": 7,
+      "base_frequency": 5706,
+      "exact_frequency": 3964,
+      "very_exact_frequency": 3770
+    },
+    {
+      "row": 8,
+      "query": "как обновить виндовс 10 до виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-upgrade",
+      "competitor_position": 4,
+      "base_frequency": 7384,
+      "exact_frequency": 3957,
+      "very_exact_frequency": 3463
+    },
+    {
+      "row": 9,
+      "query": "как отключить брандмауэр windows 11",
+      "competitor_url": "https://remontka.pro/disable-firewall-windows",
+      "competitor_position": 2,
+      "base_frequency": 3723,
+      "exact_frequency": 3152,
+      "very_exact_frequency": 2611
+    },
+    {
+      "row": 10,
+      "query": "как зайти в биос на виндовс 11",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 3285,
+      "exact_frequency": 2520,
+      "very_exact_frequency": 2487
+    },
+    {
+      "row": 11,
+      "query": "как сделать загрузочную флешку windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 4387,
+      "exact_frequency": 2272,
+      "very_exact_frequency": 2258
+    },
+    {
+      "row": 12,
+      "query": "файл подкачки виндовс 11",
+      "competitor_url": "https://remontka.pro/fail-podkachki-windows",
+      "competitor_position": 2,
+      "base_frequency": 5592,
+      "exact_frequency": 2229,
+      "very_exact_frequency": 2194
+    },
+    {
+      "row": 13,
+      "query": "как установить виндовс 11 с флешки",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 2,
+      "base_frequency": 6001,
+      "exact_frequency": 2310,
+      "very_exact_frequency": 2159
+    },
+    {
+      "row": 14,
+      "query": "как почистить диск с на виндовс 11",
+      "competitor_url": "https://remontka.pro/clean-disk-windows-11-tools",
+      "competitor_position": 1,
+      "base_frequency": 2813,
+      "exact_frequency": 2150,
+      "very_exact_frequency": 2142
+    },
+    {
+      "row": 15,
+      "query": "как сбросить виндовс 11 до заводских настроек",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 4241,
+      "exact_frequency": 2301,
+      "very_exact_frequency": 1916
+    },
+    {
+      "row": 16,
+      "query": "как очистить диск с на windows 11",
+      "competitor_url": "https://remontka.pro/clean-disk-windows-11-tools",
+      "competitor_position": 1,
+      "base_frequency": 2668,
+      "exact_frequency": 1890,
+      "very_exact_frequency": 1890
+    },
+    {
+      "row": 17,
+      "query": "установка виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 3,
+      "base_frequency": 37675,
+      "exact_frequency": 1926,
+      "very_exact_frequency": 1854
+    },
+    {
+      "row": 18,
+      "query": "как открыть биос на виндовс 11",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 2552,
+      "exact_frequency": 1509,
+      "very_exact_frequency": 1476
+    },
+    {
+      "row": 19,
+      "query": "как создать загрузочную флешку windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 3873,
+      "exact_frequency": 1472,
+      "very_exact_frequency": 1458
+    },
+    {
+      "row": 20,
+      "query": "как скачать виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 3,
+      "base_frequency": 16516,
+      "exact_frequency": 1588,
+      "very_exact_frequency": 1456
+    },
+    {
+      "row": 21,
+      "query": "очистка диска с на windows 11",
+      "competitor_url": "https://remontka.pro/clean-disk-windows-11-tools",
+      "competitor_position": 1,
+      "base_frequency": 1759,
+      "exact_frequency": 1360,
+      "very_exact_frequency": 1360
+    },
+    {
+      "row": 22,
+      "query": "загрузочная флешка windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 16338,
+      "exact_frequency": 1648,
+      "very_exact_frequency": 1349
+    },
+    {
+      "row": 23,
+      "query": "как открыть командную строку в windows 11",
+      "competitor_url": "https://remontka.pro/cmd-as-admin-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 2090,
+      "exact_frequency": 1345,
+      "very_exact_frequency": 1341
+    },
+    {
+      "row": 24,
+      "query": "как зайти в безопасный режим windows 11",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 1866,
+      "exact_frequency": 1366,
+      "very_exact_frequency": 1325
+    },
+    {
+      "row": 25,
+      "query": "как поменять имя пользователя на windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 3,
+      "base_frequency": 1600,
+      "exact_frequency": 1271,
+      "very_exact_frequency": 1255
+    },
+    {
+      "row": 26,
+      "query": "как изменить имя пользователя в windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 3,
+      "base_frequency": 1650,
+      "exact_frequency": 1197,
+      "very_exact_frequency": 1194
+    },
+    {
+      "row": 27,
+      "query": "обновить windows 10 до windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-upgrade-on-unsupported-computer",
+      "competitor_position": 6,
+      "base_frequency": 4763,
+      "exact_frequency": 1675,
+      "very_exact_frequency": 1190
+    },
+    {
+      "row": 28,
+      "query": "как удалить приложение на виндовс 11",
+      "competitor_url": "https://remontka.pro/uninstall-programs-windows",
+      "competitor_position": 2,
+      "base_frequency": 3334,
+      "exact_frequency": 1215,
+      "very_exact_frequency": 1178
+    },
+    {
+      "row": 29,
+      "query": "как выключить антивирус на виндовс 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 5,
+      "base_frequency": 1441,
+      "exact_frequency": 1197,
+      "very_exact_frequency": 1172
+    },
+    {
+      "row": 30,
+      "query": "как поставить пароль на виндовс 11",
+      "competitor_url": "https://remontka.pro/change-password-windows",
+      "competitor_position": 7,
+      "base_frequency": 2961,
+      "exact_frequency": 1195,
+      "very_exact_frequency": 1123
+    },
+    {
+      "row": 31,
+      "query": "связь с телефоном windows 11",
+      "competitor_url": "https://remontka.pro/your-phone-app",
+      "competitor_position": 2,
+      "base_frequency": 2620,
+      "exact_frequency": 1099,
+      "very_exact_frequency": 1073
+    },
+    {
+      "row": 32,
+      "query": "как отключить залипание клавиш на windows 11",
+      "competitor_url": "https://remontka.pro/disable-sticky-keys-windows",
+      "competitor_position": 2,
+      "base_frequency": 1143,
+      "exact_frequency": 991,
+      "very_exact_frequency": 987
+    },
+    {
+      "row": 33,
+      "query": "как увеличить файл подкачки в windows 11",
+      "competitor_url": "https://remontka.pro/fail-podkachki-windows",
+      "competitor_position": 1,
+      "base_frequency": 1097,
+      "exact_frequency": 920,
+      "very_exact_frequency": 920
+    },
+    {
+      "row": 34,
+      "query": "установка windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 4,
+      "base_frequency": 49536,
+      "exact_frequency": 1061,
+      "very_exact_frequency": 876
+    },
+    {
+      "row": 35,
+      "query": "как снести винду 11",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 2696,
+      "exact_frequency": 911,
+      "very_exact_frequency": 874
+    },
+    {
+      "row": 36,
+      "query": "как отключить защиту виндовс 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 1993,
+      "exact_frequency": 857,
+      "very_exact_frequency": 851
+    },
+    {
+      "row": 37,
+      "query": "как включить безопасную загрузку для виндовс 11",
+      "competitor_url": "https://remontka.pro/enable-secure-boot",
+      "competitor_position": 2,
+      "base_frequency": 1334,
+      "exact_frequency": 842,
+      "very_exact_frequency": 842
+    },
+    {
+      "row": 38,
+      "query": "по неизвестной причине запуск этого средства на вашем компьютере не удался виндовс 11",
+      "competitor_url": "https://remontka.pro/0xc1900500-0x20000-media-creation-tool",
+      "competitor_position": 3,
+      "base_frequency": 1287,
+      "exact_frequency": 840,
+      "very_exact_frequency": 840
+    },
+    {
+      "row": 39,
+      "query": "как показать скрытые папки в windows 11",
+      "competitor_url": "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 1344,
+      "exact_frequency": 1024,
+      "very_exact_frequency": 839
+    },
+    {
+      "row": 40,
+      "query": "как запустить безопасный режим windows 11",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 1662,
+      "exact_frequency": 816,
+      "very_exact_frequency": 792
+    },
+    {
+      "row": 41,
+      "query": "как установить windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 4,
+      "base_frequency": 21251,
+      "exact_frequency": 921,
+      "very_exact_frequency": 790
+    },
+    {
+      "row": 42,
+      "query": "переустановить виндовс 11",
+      "competitor_url": "https://remontka.pro/reinstall-windows-without-losing-data",
+      "competitor_position": 7,
+      "base_frequency": 18144,
+      "exact_frequency": 800,
+      "very_exact_frequency": 743
+    },
+    {
+      "row": 43,
+      "query": "как отключить пароль на виндовс 11 при включении компьютера",
+      "competitor_url": "https://remontka.pro/disable-password-windows-11-login",
+      "competitor_position": 2,
+      "base_frequency": 761,
+      "exact_frequency": 729,
+      "very_exact_frequency": 729
+    },
+    {
+      "row": 44,
+      "query": "создание загрузочной флешки windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 6,
+      "base_frequency": 3283,
+      "exact_frequency": 740,
+      "very_exact_frequency": 720
+    },
+    {
+      "row": 45,
+      "query": "как отключить защитник виндовс 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 5,
+      "base_frequency": 1693,
+      "exact_frequency": 814,
+      "very_exact_frequency": 712
+    },
+    {
+      "row": 46,
+      "query": "командная строка в виндовс 11",
+      "competitor_url": "https://remontka.pro/cmd-as-admin-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 1983,
+      "exact_frequency": 704,
+      "very_exact_frequency": 704
+    },
+    {
+      "row": 47,
+      "query": "как включить безопасный режим на windows 11",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 890,
+      "exact_frequency": 705,
+      "very_exact_frequency": 704
+    },
+    {
+      "row": 48,
+      "query": "как отключить обновления windows 11 навсегда",
+      "competitor_url": "https://remontka.pro/disable-updates-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 1099,
+      "exact_frequency": 741,
+      "very_exact_frequency": 700
+    },
+    {
+      "row": 49,
+      "query": "как войти в биос на виндовс 11",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 1131,
+      "exact_frequency": 699,
+      "very_exact_frequency": 695
+    },
+    {
+      "row": 50,
+      "query": "как переустановить виндовс 11 с флешки",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 3,
+      "base_frequency": 1982,
+      "exact_frequency": 707,
+      "very_exact_frequency": 690
+    },
+    {
+      "row": 51,
+      "query": "установка виндовс 11 с флешки",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 4,
+      "base_frequency": 4473,
+      "exact_frequency": 714,
+      "very_exact_frequency": 676
+    },
+    {
+      "row": 52,
+      "query": "как скачать виндовс 11 на флешку",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 4,
+      "base_frequency": 1993,
+      "exact_frequency": 752,
+      "very_exact_frequency": 672
+    },
+    {
+      "row": 53,
+      "query": "сделать загрузочную флешку windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 5044,
+      "exact_frequency": 676,
+      "very_exact_frequency": 660
+    },
+    {
+      "row": 54,
+      "query": "как изменить имя учетной записи в windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 3,
+      "base_frequency": 1103,
+      "exact_frequency": 655,
+      "very_exact_frequency": 654
+    },
+    {
+      "row": 55,
+      "query": "скачать 11 виндовс с официального сайта",
+      "competitor_url": "https://remontka.pro/download-windows-11-iso",
+      "competitor_position": 6,
+      "base_frequency": 35239,
+      "exact_frequency": 6408,
+      "very_exact_frequency": 650
+    },
+    {
+      "row": 56,
+      "query": "как отключить безопасность windows 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 1429,
+      "exact_frequency": 698,
+      "very_exact_frequency": 647
+    },
+    {
+      "row": 57,
+      "query": "как включить состояние безопасной загрузки на windows 11",
+      "competitor_url": "https://remontka.pro/enable-secure-boot",
+      "competitor_position": 2,
+      "base_frequency": 1084,
+      "exact_frequency": 650,
+      "very_exact_frequency": 644
+    },
+    {
+      "row": 58,
+      "query": "как открыть командную строку на виндовс 11",
+      "competitor_url": "https://remontka.pro/cmd-as-admin-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 880,
+      "exact_frequency": 644,
+      "very_exact_frequency": 641
+    },
+    {
+      "row": 59,
+      "query": "как поменять курсор на виндовс 11",
+      "competitor_url": "https://remontka.pro/mouse-pointer-appearance-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 1062,
+      "exact_frequency": 613,
+      "very_exact_frequency": 609
+    },
+    {
+      "row": 60,
+      "query": "как разделить диск на виндовс 11",
+      "competitor_url": "https://remontka.pro/split-disk-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 1782,
+      "exact_frequency": 613,
+      "very_exact_frequency": 603
+    },
+    {
+      "row": 61,
+      "query": "как сделать скрин на виндовс 11",
+      "competitor_url": "https://remontka.pro/screenshot-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 1818,
+      "exact_frequency": 637,
+      "very_exact_frequency": 599
+    },
+    {
+      "row": 62,
+      "query": "невозможно найти среду восстановления windows 11",
+      "competitor_url": "https://remontka.pro/could-not-find-recovery-environment-windows",
+      "competitor_position": 1,
+      "base_frequency": 1206,
+      "exact_frequency": 596,
+      "very_exact_frequency": 596
+    },
+    {
+      "row": 63,
+      "query": "как сбросить ноутбук до заводских настроек windows 11",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 1048,
+      "exact_frequency": 630,
+      "very_exact_frequency": 587
+    },
+    {
+      "row": 64,
+      "query": "как переустановить винду 11",
+      "competitor_url": "https://remontka.pro/reinstall-windows-without-losing-data",
+      "competitor_position": 4,
+      "base_frequency": 2553,
+      "exact_frequency": 667,
+      "very_exact_frequency": 582
+    },
+    {
+      "row": 65,
+      "query": "rufus создание загрузочной флешки windows 11",
+      "competitor_url": "https://remontka.pro/rufus-windows-11-no-tpm-secure-boot",
+      "competitor_position": 2,
+      "base_frequency": 899,
+      "exact_frequency": 738,
+      "very_exact_frequency": 580
+    },
+    {
+      "row": 66,
+      "query": "как поменять днс сервер на виндовс 11",
+      "competitor_url": "https://remontka.pro/change-dns-server-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 681,
+      "exact_frequency": 585,
+      "very_exact_frequency": 574
+    },
+    {
+      "row": 67,
+      "query": "бесплатный антивирус для windows 11",
+      "competitor_url": "https://remontka.pro/best-free-antivirus",
+      "competitor_position": 2,
+      "base_frequency": 2668,
+      "exact_frequency": 636,
+      "very_exact_frequency": 573
+    },
+    {
+      "row": 68,
+      "query": "как снести виндовс 11",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 2381,
+      "exact_frequency": 581,
+      "very_exact_frequency": 569
+    },
+    {
+      "row": 69,
+      "query": "msvcp110 dll что это за ошибка как исправить",
+      "competitor_url": "https://remontka.pro/msvcp110-dll-otsutstvuet",
+      "competitor_position": 2,
+      "base_frequency": 651,
+      "exact_frequency": 567,
+      "very_exact_frequency": 567
+    },
+    {
+      "row": 70,
+      "query": "как почистить диск с от ненужных файлов windows 11",
+      "competitor_url": "https://remontka.pro/clean-disk-windows-11-tools",
+      "competitor_position": 1,
+      "base_frequency": 681,
+      "exact_frequency": 564,
+      "very_exact_frequency": 564
+    },
+    {
+      "row": 71,
+      "query": "как отключить антивирус виндовс 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 5,
+      "base_frequency": 13466,
+      "exact_frequency": 1022,
+      "very_exact_frequency": 560
+    },
+    {
+      "row": 72,
+      "query": "как открыть панель управления на windows 11",
+      "competitor_url": "https://remontka.pro/control-panel-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 1023,
+      "exact_frequency": 562,
+      "very_exact_frequency": 558
+    },
+    {
+      "row": 73,
+      "query": "сбой запроса дескриптора устройства usb windows 11",
+      "competitor_url": "https://remontka.pro/usb-descriptor-failure-code-43",
+      "competitor_position": 1,
+      "base_frequency": 944,
+      "exact_frequency": 594,
+      "very_exact_frequency": 557
+    },
+    {
+      "row": 74,
+      "query": "как включить secure boot windows 11",
+      "competitor_url": "https://remontka.pro/enable-secure-boot",
+      "competitor_position": 3,
+      "base_frequency": 1065,
+      "exact_frequency": 604,
+      "very_exact_frequency": 551
+    },
+    {
+      "row": 75,
+      "query": "как установить виндовс 11 на неподдерживаемый компьютер",
+      "competitor_url": "https://remontka.pro/windows-11-upgrade-on-unsupported-computer",
+      "competitor_position": 1,
+      "base_frequency": 713,
+      "exact_frequency": 561,
+      "very_exact_frequency": 545
+    },
+    {
+      "row": 76,
+      "query": "msvcp110 dll",
+      "competitor_url": "https://remontka.pro/msvcp110-dll-otsutstvuet",
+      "competitor_position": 2,
+      "base_frequency": 4789,
+      "exact_frequency": 545,
+      "very_exact_frequency": 545
+    },
+    {
+      "row": 77,
+      "query": "как отключить автозапуск приложений в windows 11",
+      "competitor_url": "https://remontka.pro/disable-autorun-apps-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 598,
+      "exact_frequency": 532,
+      "very_exact_frequency": 529
+    },
+    {
+      "row": 78,
+      "query": "как убрать корзину с рабочего стола в windows 11",
+      "competitor_url": "https://remontka.pro/remove-recycle-bin-windows",
+      "competitor_position": 1,
+      "base_frequency": 538,
+      "exact_frequency": 528,
+      "very_exact_frequency": 528
+    },
+    {
+      "row": 79,
+      "query": "как добавить папку в исключения антивируса в виндовс 11",
+      "competitor_url": "https://remontka.pro/add-exclusions-microsoft-defender-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 647,
+      "exact_frequency": 545,
+      "very_exact_frequency": 525
+    },
+    {
+      "row": 80,
+      "query": "как вызвать командную строку в windows 11",
+      "competitor_url": "https://remontka.pro/cmd-as-admin-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 863,
+      "exact_frequency": 522,
+      "very_exact_frequency": 520
+    },
+    {
+      "row": 81,
+      "query": "как уменьшить иконки на рабочем столе в windows 11",
+      "competitor_url": "https://remontka.pro/change-icons-size-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 667,
+      "exact_frequency": 519,
+      "very_exact_frequency": 519
+    },
+    {
+      "row": 82,
+      "query": "как установить виндовс 11 на пк",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 5,
+      "base_frequency": 3812,
+      "exact_frequency": 567,
+      "very_exact_frequency": 518
+    },
+    {
+      "row": 83,
+      "query": "установка windows 11 без интернета",
+      "competitor_url": "https://remontka.pro/install-windows-11-no-internet-local-account",
+      "competitor_position": 1,
+      "base_frequency": 1245,
+      "exact_frequency": 839,
+      "very_exact_frequency": 508
+    },
+    {
+      "row": 84,
+      "query": "обновить виндовс 10 до windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-upgrade",
+      "competitor_position": 4,
+      "base_frequency": 617,
+      "exact_frequency": 501,
+      "very_exact_frequency": 501
+    },
+    {
+      "row": 85,
+      "query": "как сделать установочную флешку windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 1039,
+      "exact_frequency": 491,
+      "very_exact_frequency": 490
+    },
+    {
+      "row": 86,
+      "query": "как установить виндовс 11 на флешку",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 7,
+      "base_frequency": 5566,
+      "exact_frequency": 566,
+      "very_exact_frequency": 489
+    },
+    {
+      "row": 87,
+      "query": "как переименовать папку пользователя в windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 7,
+      "base_frequency": 721,
+      "exact_frequency": 482,
+      "very_exact_frequency": 482
+    },
+    {
+      "row": 88,
+      "query": "как удалить учетную запись в windows 11",
+      "competitor_url": "https://remontka.pro/delete-user-windows",
+      "competitor_position": 1,
+      "base_frequency": 2131,
+      "exact_frequency": 480,
+      "very_exact_frequency": 480
+    },
+    {
+      "row": 89,
+      "query": "как изменить файл подкачки в windows 11",
+      "competitor_url": "https://remontka.pro/fail-podkachki-windows",
+      "competitor_position": 2,
+      "base_frequency": 537,
+      "exact_frequency": 475,
+      "very_exact_frequency": 471
+    },
+    {
+      "row": 90,
+      "query": "как переключаться между рабочими столами в windows 11",
+      "competitor_url": "https://remontka.pro/virtual-desktops-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 776,
+      "exact_frequency": 473,
+      "very_exact_frequency": 468
+    },
+    {
+      "row": 91,
+      "query": "как добавить папку в исключение защитника windows 11",
+      "competitor_url": "https://remontka.pro/add-exclusions-microsoft-defender-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 552,
+      "exact_frequency": 466,
+      "very_exact_frequency": 464
+    },
+    {
+      "row": 92,
+      "query": "как обновить виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-24h2-upgrade",
+      "competitor_position": 4,
+      "base_frequency": 17406,
+      "exact_frequency": 512,
+      "very_exact_frequency": 464
+    },
+    {
+      "row": 93,
+      "query": "скачать блокнот виндовс 11",
+      "competitor_url": "https://remontka.pro/classic-notepad-windows",
+      "competitor_position": 7,
+      "base_frequency": 1725,
+      "exact_frequency": 500,
+      "very_exact_frequency": 461
+    },
+    {
+      "row": 94,
+      "query": "безопасный режим windows 11 как включить",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 2022,
+      "exact_frequency": 555,
+      "very_exact_frequency": 461
+    },
+    {
+      "row": 95,
+      "query": "очистка пк от мусора виндовс 11",
+      "competitor_url": "https://remontka.pro/clean-disk-windows-11-tools",
+      "competitor_position": 1,
+      "base_frequency": 567,
+      "exact_frequency": 461,
+      "very_exact_frequency": 461
+    },
+    {
+      "row": 96,
+      "query": "как полностью отключить антивирус в windows 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 522,
+      "exact_frequency": 461,
+      "very_exact_frequency": 460
+    },
+    {
+      "row": 97,
+      "query": "как уменьшить значки на рабочем столе windows 11",
+      "competitor_url": "https://remontka.pro/change-icons-size-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 547,
+      "exact_frequency": 458,
+      "very_exact_frequency": 458
+    },
+    {
+      "row": 98,
+      "query": "как поставить живые обои на пк виндовс 11",
+      "competitor_url": "https://remontka.pro/live-wallpaper-windows-10-lively",
+      "competitor_position": 4,
+      "base_frequency": 593,
+      "exact_frequency": 469,
+      "very_exact_frequency": 455
+    },
+    {
+      "row": 99,
+      "query": "как делать скриншот на виндовс 11",
+      "competitor_url": "https://remontka.pro/screenshot-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 649,
+      "exact_frequency": 468,
+      "very_exact_frequency": 454
+    },
+    {
+      "row": 100,
+      "query": "как открыть скрытые папки на windows 11",
+      "competitor_url": "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 458,
+      "exact_frequency": 449,
+      "very_exact_frequency": 448
+    },
+    {
+      "row": 101,
+      "query": "как поменять пароль на виндовс 11",
+      "competitor_url": "https://remontka.pro/change-password-windows",
+      "competitor_position": 2,
+      "base_frequency": 1091,
+      "exact_frequency": 469,
+      "very_exact_frequency": 447
+    },
+    {
+      "row": 102,
+      "query": "как сбросить пк до заводских настроек windows 11",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 574,
+      "exact_frequency": 446,
+      "very_exact_frequency": 440
+    },
+    {
+      "row": 103,
+      "query": "режим гибернации windows 11 что это",
+      "competitor_url": "https://remontka.pro/hibernation-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 443,
+      "exact_frequency": 436,
+      "very_exact_frequency": 436
+    },
+    {
+      "row": 104,
+      "query": "win 11 iso",
+      "competitor_url": "https://remontka.pro/download-windows-10-11-iso-russia",
+      "competitor_position": 7,
+      "base_frequency": 2003,
+      "exact_frequency": 634,
+      "very_exact_frequency": 432
+    },
+    {
+      "row": 105,
+      "query": "сброс виндовс 11 до заводских настроек",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 1208,
+      "exact_frequency": 537,
+      "very_exact_frequency": 431
+    },
+    {
+      "row": 106,
+      "query": "как убрать корзину с рабочего стола на виндовс 11",
+      "competitor_url": "https://remontka.pro/remove-recycle-bin-windows",
+      "competitor_position": 1,
+      "base_frequency": 442,
+      "exact_frequency": 435,
+      "very_exact_frequency": 429
+    },
+    {
+      "row": 107,
+      "query": "как включить биос на виндовс 11",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 1115,
+      "exact_frequency": 439,
+      "very_exact_frequency": 429
+    },
+    {
+      "row": 108,
+      "query": "как отключить автозапуск программ в windows 11",
+      "competitor_url": "https://remontka.pro/disable-autorun-apps-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 493,
+      "exact_frequency": 428,
+      "very_exact_frequency": 427
+    },
+    {
+      "row": 109,
+      "query": "как убрать автозапуск приложений windows 11",
+      "competitor_url": "https://remontka.pro/disable-autorun-apps-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 615,
+      "exact_frequency": 424,
+      "very_exact_frequency": 424
+    },
+    {
+      "row": 110,
+      "query": "скачать msvcp110 dll",
+      "competitor_url": "https://remontka.pro/msvcp110-dll-otsutstvuet",
+      "competitor_position": 5,
+      "base_frequency": 1828,
+      "exact_frequency": 881,
+      "very_exact_frequency": 424
+    },
+    {
+      "row": 111,
+      "query": "как открыть диспетчер задач в windows 11",
+      "competitor_url": "https://remontka.pro/classic-task-manager-windows-11",
+      "competitor_position": 6,
+      "base_frequency": 551,
+      "exact_frequency": 444,
+      "very_exact_frequency": 422
+    },
+    {
+      "row": 112,
+      "query": "как узнать свою материнскую плату на windows 11",
+      "competitor_url": "https://remontka.pro/motherboard-model",
+      "competitor_position": 1,
+      "base_frequency": 450,
+      "exact_frequency": 421,
+      "very_exact_frequency": 421
+    },
+    {
+      "row": 113,
+      "query": "как обновиться с windows 10 до windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-upgrade",
+      "competitor_position": 4,
+      "base_frequency": 978,
+      "exact_frequency": 643,
+      "very_exact_frequency": 421
+    },
+    {
+      "row": 114,
+      "query": "скачать media creation tool windows 11",
+      "competitor_url": "https://remontka.pro/download-media-creation-tool-no-vpn",
+      "competitor_position": 7,
+      "base_frequency": 1311,
+      "exact_frequency": 801,
+      "very_exact_frequency": 420
+    },
+    {
+      "row": 115,
+      "query": "0x0000011b при подключении принтера",
+      "competitor_url": "https://remontka.pro/0x0000011b-error-printer",
+      "competitor_position": 1,
+      "base_frequency": 1114,
+      "exact_frequency": 419,
+      "very_exact_frequency": 419
+    },
+    {
+      "row": 116,
+      "query": "сделать загрузочную флешку виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 1388,
+      "exact_frequency": 444,
+      "very_exact_frequency": 417
+    },
+    {
+      "row": 117,
+      "query": "создание установочного носителя windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 7,
+      "base_frequency": 878,
+      "exact_frequency": 429,
+      "very_exact_frequency": 415
+    },
+    {
+      "row": 118,
+      "query": "как открыть биос на виндовс 11 на пк",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 559,
+      "exact_frequency": 419,
+      "very_exact_frequency": 414
+    },
+    {
+      "row": 119,
+      "query": "как запустить виндовс 11 в безопасном режиме",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 1263,
+      "exact_frequency": 560,
+      "very_exact_frequency": 407
+    },
+    {
+      "row": 120,
+      "query": "как выйти из безопасного режима windows 11",
+      "competitor_url": "https://remontka.pro/exit-safe-mode-windows",
+      "competitor_position": 1,
+      "base_frequency": 567,
+      "exact_frequency": 420,
+      "very_exact_frequency": 407
+    },
+    {
+      "row": 121,
+      "query": "как отключить битлокер в виндовс 11",
+      "competitor_url": "https://remontka.pro/bitlocker-awaiting-activation-windows",
+      "competitor_position": 4,
+      "base_frequency": 483,
+      "exact_frequency": 406,
+      "very_exact_frequency": 406
+    },
+    {
+      "row": 122,
+      "query": "живые обои для виндовс 11",
+      "competitor_url": "https://remontka.pro/live-wallpaper-windows-10-lively",
+      "competitor_position": 6,
+      "base_frequency": 694,
+      "exact_frequency": 410,
+      "very_exact_frequency": 404
+    },
+    {
+      "row": 123,
+      "query": "безопасный режим виндовс 11",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 6089,
+      "exact_frequency": 444,
+      "very_exact_frequency": 404
+    },
+    {
+      "row": 124,
+      "query": "msvcp110 dll скачать",
+      "competitor_url": "https://remontka.pro/msvcp110-dll-otsutstvuet",
+      "competitor_position": 6,
+      "base_frequency": 1310,
+      "exact_frequency": 621,
+      "very_exact_frequency": 404
+    },
+    {
+      "row": 125,
+      "query": "msvcr110 dll",
+      "competitor_url": "https://remontka.pro/msvcr110-dll-otsutstvuet-skachat",
+      "competitor_position": 5,
+      "base_frequency": 3544,
+      "exact_frequency": 401,
+      "very_exact_frequency": 401
+    },
+    {
+      "row": 126,
+      "query": "как очистить диск с на виндовс 11",
+      "competitor_url": "https://remontka.pro/clean-disk-windows-11-tools",
+      "competitor_position": 6,
+      "base_frequency": 801,
+      "exact_frequency": 417,
+      "very_exact_frequency": 401
+    },
+    {
+      "row": 127,
+      "query": "отключить антивирус windows 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 2483,
+      "exact_frequency": 430,
+      "very_exact_frequency": 401
+    },
+    {
+      "row": 128,
+      "query": "как поменять имя учетной записи в windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 2,
+      "base_frequency": 684,
+      "exact_frequency": 481,
+      "very_exact_frequency": 398
+    },
+    {
+      "row": 129,
+      "query": "как запустить биос на виндовс 11",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 512,
+      "exact_frequency": 404,
+      "very_exact_frequency": 396
+    },
+    {
+      "row": 130,
+      "query": "скриншот на виндовс 11",
+      "competitor_url": "https://remontka.pro/screenshot-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 13446,
+      "exact_frequency": 400,
+      "very_exact_frequency": 395
+    },
+    {
+      "row": 131,
+      "query": "как сделать скрин на пк виндовс 11",
+      "competitor_url": "https://remontka.pro/screenshot-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 565,
+      "exact_frequency": 423,
+      "very_exact_frequency": 393
+    },
+    {
+      "row": 132,
+      "query": "как убрать пин код на виндовс 11 при входе",
+      "competitor_url": "https://remontka.pro/remove-pin-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 489,
+      "exact_frequency": 399,
+      "very_exact_frequency": 393
+    },
+    {
+      "row": 133,
+      "query": "как переустановить windows 11",
+      "competitor_url": "https://remontka.pro/reinstall-windows-without-losing-data",
+      "competitor_position": 4,
+      "base_frequency": 2352,
+      "exact_frequency": 407,
+      "very_exact_frequency": 390
+    },
+    {
+      "row": 134,
+      "query": "как сделать флешку загрузочной для windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 3,
+      "base_frequency": 546,
+      "exact_frequency": 390,
+      "very_exact_frequency": 390
+    },
+    {
+      "row": 135,
+      "query": "управление дисками windows 11",
+      "competitor_url": "https://remontka.pro/run-disk-management-windows",
+      "competitor_position": 2,
+      "base_frequency": 1336,
+      "exact_frequency": 443,
+      "very_exact_frequency": 390
+    },
+    {
+      "row": 136,
+      "query": "как отключить быстрый запуск в windows 11",
+      "competitor_url": "https://remontka.pro/disable-fast-startup-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 438,
+      "exact_frequency": 388,
+      "very_exact_frequency": 388
+    },
+    {
+      "row": 137,
+      "query": "как создать точку восстановления в windows 11",
+      "competitor_url": "https://remontka.pro/restore-points-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 459,
+      "exact_frequency": 402,
+      "very_exact_frequency": 388
+    },
+    {
+      "row": 138,
+      "query": "как установить виндовс 11 с флешки на компьютер",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 2,
+      "base_frequency": 1341,
+      "exact_frequency": 415,
+      "very_exact_frequency": 386
+    },
+    {
+      "row": 139,
+      "query": "как откатить виндовс 11 до точки восстановления",
+      "competitor_url": "https://remontka.pro/restore-points-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 488,
+      "exact_frequency": 387,
+      "very_exact_frequency": 385
+    },
+    {
+      "row": 140,
+      "query": "как сделать снимок экрана на виндовс 11",
+      "competitor_url": "https://remontka.pro/screenshot-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 526,
+      "exact_frequency": 391,
+      "very_exact_frequency": 385
+    },
+    {
+      "row": 141,
+      "query": "как отключить спящий режим в windows 11",
+      "competitor_url": "https://remontka.pro/sleep-mode-windows",
+      "competitor_position": 1,
+      "base_frequency": 701,
+      "exact_frequency": 390,
+      "very_exact_frequency": 385
+    },
+    {
+      "row": 142,
+      "query": "командная строка виндовс 11",
+      "competitor_url": "https://remontka.pro/cmd-as-admin-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 43303,
+      "exact_frequency": 404,
+      "very_exact_frequency": 384
+    },
+    {
+      "row": 143,
+      "query": "как поменять цвет выделения в windows 11",
+      "competitor_url": "https://remontka.pro/change-selection-color-windows",
+      "competitor_position": 1,
+      "base_frequency": 490,
+      "exact_frequency": 383,
+      "very_exact_frequency": 383
+    },
+    {
+      "row": 144,
+      "query": "как установить windows 11 с флешки",
+      "competitor_url": "https://remontka.pro/windows-11-install",
+      "competitor_position": 5,
+      "base_frequency": 1182,
+      "exact_frequency": 432,
+      "very_exact_frequency": 382
+    },
+    {
+      "row": 145,
+      "query": "0x0000011b при подключении принтера windows 10",
+      "competitor_url": "https://remontka.pro/0x0000011b-error-printer",
+      "competitor_position": 1,
+      "base_frequency": 436,
+      "exact_frequency": 380,
+      "very_exact_frequency": 380
+    },
+    {
+      "row": 146,
+      "query": "как перейти в безопасный режим в windows 11",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 475,
+      "exact_frequency": 396,
+      "very_exact_frequency": 379
+    },
+    {
+      "row": 147,
+      "query": "как удалить касперский с виндовс 11",
+      "competitor_url": "https://remontka.pro/remove-kaspersky-antivirus",
+      "competitor_position": 2,
+      "base_frequency": 416,
+      "exact_frequency": 379,
+      "very_exact_frequency": 379
+    },
+    {
+      "row": 148,
+      "query": "как сменить имя пользователя в windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 3,
+      "base_frequency": 533,
+      "exact_frequency": 378,
+      "very_exact_frequency": 378
+    },
+    {
+      "row": 149,
+      "query": "как зайти в биос виндовс 11",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 3758,
+      "exact_frequency": 400,
+      "very_exact_frequency": 376
+    },
+    {
+      "row": 150,
+      "query": "hosts windows 11",
+      "competitor_url": "https://remontka.pro/hosts-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 2727,
+      "exact_frequency": 404,
+      "very_exact_frequency": 376
+    },
+    {
+      "row": 151,
+      "query": "как переключить рабочий стол в windows 11",
+      "competitor_url": "https://remontka.pro/virtual-desktops-windows-11",
+      "competitor_position": 6,
+      "base_frequency": 675,
+      "exact_frequency": 375,
+      "very_exact_frequency": 375
+    },
+    {
+      "row": 152,
+      "query": "файл подкачки windows 11 как настроить",
+      "competitor_url": "https://remontka.pro/fail-podkachki-windows",
+      "competitor_position": 1,
+      "base_frequency": 721,
+      "exact_frequency": 378,
+      "very_exact_frequency": 374
+    },
+    {
+      "row": 153,
+      "query": "как изменить курсор мыши на windows 11",
+      "competitor_url": "https://remontka.pro/mouse-pointer-appearance-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 598,
+      "exact_frequency": 373,
+      "very_exact_frequency": 373
+    },
+    {
+      "row": 154,
+      "query": "как отключить антивирус 11 виндовс",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 13466,
+      "exact_frequency": 1022,
+      "very_exact_frequency": 372
+    },
+    {
+      "row": 155,
+      "query": "как сбросить компьютер до заводских настроек windows 11",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 487,
+      "exact_frequency": 373,
+      "very_exact_frequency": 371
+    },
+    {
+      "row": 156,
+      "query": "как поменять рабочий стол на windows 11",
+      "competitor_url": "https://remontka.pro/virtual-desktops-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 1015,
+      "exact_frequency": 371,
+      "very_exact_frequency": 371
+    },
+    {
+      "row": 157,
+      "query": "как откатить обновление виндовс 11",
+      "competitor_url": "https://remontka.pro/rollback-windows-version",
+      "competitor_position": 1,
+      "base_frequency": 942,
+      "exact_frequency": 375,
+      "very_exact_frequency": 370
+    },
+    {
+      "row": 158,
+      "query": "ошибка 0х0000011b при подключении сетевого принтера",
+      "competitor_url": "https://remontka.pro/0x0000011b-error-printer",
+      "competitor_position": 1,
+      "base_frequency": 431,
+      "exact_frequency": 369,
+      "very_exact_frequency": 369
+    },
+    {
+      "row": 159,
+      "query": "автозагрузка в windows 11 где находится",
+      "competitor_url": "https://remontka.pro/add-program-autorun-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 517,
+      "exact_frequency": 402,
+      "very_exact_frequency": 368
+    },
+    {
+      "row": 160,
+      "query": "как переустановить виндовс 11 на ноутбуке",
+      "competitor_url": "https://remontka.pro/reinstall-windows-without-losing-data",
+      "competitor_position": 4,
+      "base_frequency": 1172,
+      "exact_frequency": 377,
+      "very_exact_frequency": 368
+    },
+    {
+      "row": 161,
+      "query": "как проверить оперативную память на ошибки в windows 11",
+      "competitor_url": "https://remontka.pro/test-ram",
+      "competitor_position": 2,
+      "base_frequency": 369,
+      "exact_frequency": 367,
+      "very_exact_frequency": 367
+    },
+    {
+      "row": 162,
+      "query": "файл подкачки windows 11",
+      "competitor_url": "https://remontka.pro/fail-podkachki-windows",
+      "competitor_position": 1,
+      "base_frequency": 6128,
+      "exact_frequency": 451,
+      "very_exact_frequency": 366
+    },
+    {
+      "row": 163,
+      "query": "тест оперативной памяти windows 11",
+      "competitor_url": "https://remontka.pro/test-ram",
+      "competitor_position": 2,
+      "base_frequency": 523,
+      "exact_frequency": 370,
+      "very_exact_frequency": 366
+    },
+    {
+      "row": 164,
+      "query": "как добавить в исключения в защитнике виндовс 11",
+      "competitor_url": "https://remontka.pro/add-exclusions-microsoft-defender-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 624,
+      "exact_frequency": 366,
+      "very_exact_frequency": 366
+    },
+    {
+      "row": 165,
+      "query": "как удалить one drive в windows 11 полностью",
+      "competitor_url": "https://remontka.pro/uninstall-onedrive-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 377,
+      "exact_frequency": 364,
+      "very_exact_frequency": 364
+    },
+    {
+      "row": 166,
+      "query": "как поменять обои на виндовс 11",
+      "competitor_url": "https://remontka.pro/change-windows-wallpaper-without-activation",
+      "competitor_position": 3,
+      "base_frequency": 1220,
+      "exact_frequency": 385,
+      "very_exact_frequency": 359
+    },
+    {
+      "row": 167,
+      "query": "рабочий стол виндовс 11",
+      "competitor_url": "https://remontka.pro/virtual-desktops-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 17337,
+      "exact_frequency": 428,
+      "very_exact_frequency": 357
+    },
+    {
+      "row": 168,
+      "query": "загрузочная флешка виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 5224,
+      "exact_frequency": 483,
+      "very_exact_frequency": 355
+    },
+    {
+      "row": 169,
+      "query": "как сбросить windows 11 до заводских настроек",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 2864,
+      "exact_frequency": 468,
+      "very_exact_frequency": 353
+    },
+    {
+      "row": 170,
+      "query": "переустановка windows 11",
+      "competitor_url": "https://remontka.pro/reinstall-windows-without-losing-data",
+      "competitor_position": 4,
+      "base_frequency": 2650,
+      "exact_frequency": 376,
+      "very_exact_frequency": 353
+    },
+    {
+      "row": 171,
+      "query": "установочная флешка windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 3957,
+      "exact_frequency": 474,
+      "very_exact_frequency": 352
+    },
+    {
+      "row": 172,
+      "query": "обновление виндовс 10 до виндовс 11",
+      "competitor_url": "https://remontka.pro/windows-11-upgrade",
+      "competitor_position": 2,
+      "base_frequency": 1587,
+      "exact_frequency": 401,
+      "very_exact_frequency": 351
+    },
+    {
+      "row": 173,
+      "query": "как добавить файл в исключение защитника windows 11",
+      "competitor_url": "https://remontka.pro/add-exclusions-microsoft-defender-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 462,
+      "exact_frequency": 352,
+      "very_exact_frequency": 351
+    },
+    {
+      "row": 174,
+      "query": "горячие клавиши виндовс 11",
+      "competitor_url": "https://remontka.pro/hotkeys-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 1811,
+      "exact_frequency": 368,
+      "very_exact_frequency": 351
+    },
+    {
+      "row": 175,
+      "query": "как сбросить настройки сети в windows 11",
+      "competitor_url": "https://remontka.pro/reset-network-settings-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 391,
+      "exact_frequency": 350,
+      "very_exact_frequency": 350
+    },
+    {
+      "row": 176,
+      "query": "как отключить изоляцию ядра в windows 11",
+      "competitor_url": "https://remontka.pro/disable-core-isolation-windows",
+      "competitor_position": 1,
+      "base_frequency": 410,
+      "exact_frequency": 350,
+      "very_exact_frequency": 350
+    },
+    {
+      "row": 177,
+      "query": "автозапуск приложений windows 11",
+      "competitor_url": "https://remontka.pro/add-program-autorun-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 2444,
+      "exact_frequency": 377,
+      "very_exact_frequency": 350
+    },
+    {
+      "row": 178,
+      "query": "как создать точку восстановления на виндовс 11",
+      "competitor_url": "https://remontka.pro/restore-points-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 414,
+      "exact_frequency": 359,
+      "very_exact_frequency": 349
+    },
+    {
+      "row": 179,
+      "query": "сброс до заводских настроек windows 11",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 1557,
+      "exact_frequency": 508,
+      "very_exact_frequency": 349
+    },
+    {
+      "row": 180,
+      "query": "проверка оперативной памяти windows 11",
+      "competitor_url": "https://remontka.pro/test-ram",
+      "competitor_position": 1,
+      "base_frequency": 757,
+      "exact_frequency": 354,
+      "very_exact_frequency": 349
+    },
+    {
+      "row": 181,
+      "query": "как зайти в биос на пк windows 11",
+      "competitor_url": "https://remontka.pro/enter-bios-uefi-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 401,
+      "exact_frequency": 348,
+      "very_exact_frequency": 347
+    },
+    {
+      "row": 182,
+      "query": "как создать ярлык на рабочем столе в windows 11",
+      "competitor_url": "https://remontka.pro/create-desktop-shortcut-windows",
+      "competitor_position": 1,
+      "base_frequency": 703,
+      "exact_frequency": 357,
+      "very_exact_frequency": 347
+    },
+    {
+      "row": 183,
+      "query": "как открыть панель управления nvidia на windows 11",
+      "competitor_url": "https://remontka.pro/nvidia-control-panel-not-opening",
+      "competitor_position": 3,
+      "base_frequency": 374,
+      "exact_frequency": 349,
+      "very_exact_frequency": 344
+    },
+    {
+      "row": 184,
+      "query": "безопасная загрузка windows 11 как включить",
+      "competitor_url": "https://remontka.pro/enable-secure-boot",
+      "competitor_position": 2,
+      "base_frequency": 2552,
+      "exact_frequency": 346,
+      "very_exact_frequency": 343
+    },
+    {
+      "row": 185,
+      "query": "как отключить брендмауэры windows 11",
+      "competitor_url": "https://remontka.pro/disable-firewall-windows",
+      "competitor_position": 2,
+      "base_frequency": 475,
+      "exact_frequency": 343,
+      "very_exact_frequency": 343
+    },
+    {
+      "row": 186,
+      "query": "установка виндовс 11 без интернета",
+      "competitor_url": "https://remontka.pro/install-windows-11-no-internet-local-account",
+      "competitor_position": 1,
+      "base_frequency": 590,
+      "exact_frequency": 365,
+      "very_exact_frequency": 342
+    },
+    {
+      "row": 187,
+      "query": "как добавить пользователя в windows 11",
+      "competitor_url": "https://remontka.pro/create-user-windows",
+      "competitor_position": 3,
+      "base_frequency": 728,
+      "exact_frequency": 347,
+      "very_exact_frequency": 339
+    },
+    {
+      "row": 188,
+      "query": "как скачать виндовс 11 с официального сайта",
+      "competitor_url": "https://remontka.pro/download-windows-11-iso",
+      "competitor_position": 3,
+      "base_frequency": 1688,
+      "exact_frequency": 366,
+      "very_exact_frequency": 338
+    },
+    {
+      "row": 189,
+      "query": "как выключить антивирус виндовс 11",
+      "competitor_url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 2022,
+      "exact_frequency": 357,
+      "very_exact_frequency": 336
+    },
+    {
+      "row": 190,
+      "query": "как отключить hyper v в windows 11",
+      "competitor_url": "https://remontka.pro/hyper-v-enable-disable-windows",
+      "competitor_position": 3,
+      "base_frequency": 411,
+      "exact_frequency": 337,
+      "very_exact_frequency": 335
+    },
+    {
+      "row": 191,
+      "query": "код ошибки 0xc004f074 при активации виндовс 11 как исправить",
+      "competitor_url": "https://remontka.pro/0xc004f074-activation-error-windows",
+      "competitor_position": 1,
+      "base_frequency": 338,
+      "exact_frequency": 335,
+      "very_exact_frequency": 335
+    },
+    {
+      "row": 192,
+      "query": "uup dump windows 11 скачать",
+      "competitor_url": "https://remontka.pro/download-windows-uup-dump",
+      "competitor_position": 2,
+      "base_frequency": 365,
+      "exact_frequency": 335,
+      "very_exact_frequency": 335
+    },
+    {
+      "row": 193,
+      "query": "восстановление системы windows 11",
+      "competitor_url": "https://remontka.pro/recovery-environment-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 2927,
+      "exact_frequency": 428,
+      "very_exact_frequency": 335
+    },
+    {
+      "row": 194,
+      "query": "как удалять приложения на виндовс 11",
+      "competitor_url": "https://remontka.pro/uninstall-programs-windows",
+      "competitor_position": 2,
+      "base_frequency": 3296,
+      "exact_frequency": 343,
+      "very_exact_frequency": 334
+    },
+    {
+      "row": 195,
+      "query": "как посмотреть скрытые папки на windows 11",
+      "competitor_url": "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 361,
+      "exact_frequency": 336,
+      "very_exact_frequency": 333
+    },
+    {
+      "row": 196,
+      "query": "как отключить синхронизацию onedrive в windows 11",
+      "competitor_url": "https://remontka.pro/uninstall-onedrive-windows-11",
+      "competitor_position": 5,
+      "base_frequency": 407,
+      "exact_frequency": 332,
+      "very_exact_frequency": 332
+    },
+    {
+      "row": 197,
+      "query": "как выключить автозапуск программ в windows 11",
+      "competitor_url": "https://remontka.pro/disable-autorun-apps-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 345,
+      "exact_frequency": 331,
+      "very_exact_frequency": 331
+    },
+    {
+      "row": 198,
+      "query": "как изменить размер иконок на рабочем столе windows 11",
+      "competitor_url": "https://remontka.pro/change-icons-size-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 346,
+      "exact_frequency": 331,
+      "very_exact_frequency": 331
+    },
+    {
+      "row": 199,
+      "query": "создать точку восстановления windows 11",
+      "competitor_url": "https://remontka.pro/restore-points-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 1014,
+      "exact_frequency": 351,
+      "very_exact_frequency": 330
+    },
+    {
+      "row": 200,
+      "query": "как изменить расширение файла в windows 11",
+      "competitor_url": "https://remontka.pro/change-file-extension-windows",
+      "competitor_position": 6,
+      "base_frequency": 398,
+      "exact_frequency": 329,
+      "very_exact_frequency": 329
+    },
+    {
+      "row": 201,
+      "query": "как выключить залипание клавиш на windows 11",
+      "competitor_url": "https://remontka.pro/disable-sticky-keys-windows",
+      "competitor_position": 1,
+      "base_frequency": 356,
+      "exact_frequency": 329,
+      "very_exact_frequency": 329
+    },
+    {
+      "row": 202,
+      "query": "как сделать файл подкачки на виндовс 11",
+      "competitor_url": "https://remontka.pro/fail-podkachki-windows",
+      "competitor_position": 2,
+      "base_frequency": 393,
+      "exact_frequency": 333,
+      "very_exact_frequency": 329
+    },
+    {
+      "row": 203,
+      "query": "как отключить пароль при входе виндовс 11",
+      "competitor_url": "https://remontka.pro/disable-password-windows-11-login",
+      "competitor_position": 4,
+      "base_frequency": 970,
+      "exact_frequency": 348,
+      "very_exact_frequency": 328
+    },
+    {
+      "row": 204,
+      "query": "как увеличить файл подкачки на виндовс 11",
+      "competitor_url": "https://remontka.pro/fail-podkachki-windows",
+      "competitor_position": 1,
+      "base_frequency": 391,
+      "exact_frequency": 335,
+      "very_exact_frequency": 327
+    },
+    {
+      "row": 205,
+      "query": "где скачать виндовс 11",
+      "competitor_url": "https://remontka.pro/download-windows-11-iso",
+      "competitor_position": 3,
+      "base_frequency": 2388,
+      "exact_frequency": 353,
+      "very_exact_frequency": 327
+    },
+    {
+      "row": 206,
+      "query": "как поменять обои на пк виндовс 11",
+      "competitor_url": "https://remontka.pro/change-windows-wallpaper-without-activation",
+      "competitor_position": 4,
+      "base_frequency": 473,
+      "exact_frequency": 329,
+      "very_exact_frequency": 326
+    },
+    {
+      "row": 207,
+      "query": "как добавить приложение в автозагрузку windows 11",
+      "competitor_url": "https://remontka.pro/add-program-autorun-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 394,
+      "exact_frequency": 337,
+      "very_exact_frequency": 325
+    },
+    {
+      "row": 208,
+      "query": "как сбросить виндовс 11",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 9208,
+      "exact_frequency": 330,
+      "very_exact_frequency": 325
+    },
+    {
+      "row": 209,
+      "query": "как добавить мой компьютер на рабочий windows 11",
+      "competitor_url": "https://remontka.pro/computer-icon-windows-11-desktop-enable",
+      "competitor_position": 1,
+      "base_frequency": 931,
+      "exact_frequency": 333,
+      "very_exact_frequency": 325
+    },
+    {
+      "row": 210,
+      "query": "папка автозагрузки windows 11",
+      "competitor_url": "https://remontka.pro/add-program-autorun-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 618,
+      "exact_frequency": 329,
+      "very_exact_frequency": 324
+    },
+    {
+      "row": 211,
+      "query": "как отключить onedrive windows 11",
+      "competitor_url": "https://remontka.pro/uninstall-onedrive-windows-11",
+      "competitor_position": 3,
+      "base_frequency": 1404,
+      "exact_frequency": 331,
+      "very_exact_frequency": 323
+    },
+    {
+      "row": 212,
+      "query": "как открыть командную строку от имени администратора в windows 11",
+      "competitor_url": "https://remontka.pro/cmd-as-admin-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 449,
+      "exact_frequency": 427,
+      "very_exact_frequency": 323
+    },
+    {
+      "row": 213,
+      "query": "как зайти в безопасный режим виндовс 11",
+      "competitor_url": "https://remontka.pro/safe-mode-windows-11",
+      "competitor_position": 4,
+      "base_frequency": 752,
+      "exact_frequency": 346,
+      "very_exact_frequency": 322
+    },
+    {
+      "row": 214,
+      "query": "как включить скрытые папки в windows 11",
+      "competitor_url": "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 815,
+      "exact_frequency": 324,
+      "very_exact_frequency": 322
+    },
+    {
+      "row": 215,
+      "query": "произошла ошибка при распаковке невозможно записать данные на диск unarc dll вернул код ошибки 11",
+      "competitor_url": "https://remontka.pro/oshibka-unarc-dll",
+      "competitor_position": 3,
+      "base_frequency": 823,
+      "exact_frequency": 338,
+      "very_exact_frequency": 322
+    },
+    {
+      "row": 216,
+      "query": "как открыть панель управления на виндовс 11",
+      "competitor_url": "https://remontka.pro/control-panel-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 590,
+      "exact_frequency": 337,
+      "very_exact_frequency": 319
+    },
+    {
+      "row": 217,
+      "query": "как выключить брандмауэр windows 11",
+      "competitor_url": "https://remontka.pro/disable-firewall-windows",
+      "competitor_position": 2,
+      "base_frequency": 367,
+      "exact_frequency": 321,
+      "very_exact_frequency": 319
+    },
+    {
+      "row": 218,
+      "query": "ventoy windows 11",
+      "competitor_url": "https://remontka.pro/ventoy-bootable-usb",
+      "competitor_position": 4,
+      "base_frequency": 599,
+      "exact_frequency": 324,
+      "very_exact_frequency": 317
+    },
+    {
+      "row": 219,
+      "query": "возникла проблема ваш пин код недоступен windows 11",
+      "competitor_url": "https://remontka.pro/pin-isnt-available-windows",
+      "competitor_position": 2,
+      "base_frequency": 601,
+      "exact_frequency": 316,
+      "very_exact_frequency": 316
+    },
+    {
+      "row": 220,
+      "query": "браузер по умолчанию windows 11",
+      "competitor_url": "https://remontka.pro/set-default-browser-windows",
+      "competitor_position": 3,
+      "base_frequency": 2037,
+      "exact_frequency": 322,
+      "very_exact_frequency": 315
+    },
+    {
+      "row": 221,
+      "query": "как создать локальную учетную запись в windows 11",
+      "competitor_url": "https://remontka.pro/local-account-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 584,
+      "exact_frequency": 331,
+      "very_exact_frequency": 315
+    },
+    {
+      "row": 222,
+      "query": "как изменить днс сервер на компьютере windows 11",
+      "competitor_url": "https://remontka.pro/change-dns-server-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 334,
+      "exact_frequency": 315,
+      "very_exact_frequency": 315
+    },
+    {
+      "row": 223,
+      "query": "как сменить учетную запись майкрософт на виндовс 11",
+      "competitor_url": "https://remontka.pro/convert-microsoft-to-local-account-windows",
+      "competitor_position": 6,
+      "base_frequency": 390,
+      "exact_frequency": 315,
+      "very_exact_frequency": 315
+    },
+    {
+      "row": 224,
+      "query": "как переименовать пользователя в windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 3,
+      "base_frequency": 1308,
+      "exact_frequency": 314,
+      "very_exact_frequency": 314
+    },
+    {
+      "row": 225,
+      "query": "как полностью удалить приложение с компьютера windows 11",
+      "competitor_url": "https://remontka.pro/uninstall-programs-windows",
+      "competitor_position": 2,
+      "base_frequency": 401,
+      "exact_frequency": 356,
+      "very_exact_frequency": 314
+    },
+    {
+      "row": 226,
+      "query": "как отключить smartscreen в windows 11",
+      "competitor_url": "https://remontka.pro/windows-protected-your-pc",
+      "competitor_position": 3,
+      "base_frequency": 485,
+      "exact_frequency": 316,
+      "very_exact_frequency": 314
+    },
+    {
+      "row": 227,
+      "query": "как свернуть все окна в windows 11",
+      "competitor_url": "https://remontka.pro/minimize-all-windows",
+      "competitor_position": 3,
+      "base_frequency": 355,
+      "exact_frequency": 315,
+      "very_exact_frequency": 314
+    },
+    {
+      "row": 228,
+      "query": "как переименовать учетную запись в windows 11",
+      "competitor_url": "https://remontka.pro/change-user-name-windows",
+      "competitor_position": 3,
+      "base_frequency": 575,
+      "exact_frequency": 315,
+      "very_exact_frequency": 314
+    },
+    {
+      "row": 229,
+      "query": "как переустановить виндовс 11 на компьютере",
+      "competitor_url": "https://remontka.pro/reinstall-windows-without-losing-data",
+      "competitor_position": 6,
+      "base_frequency": 1056,
+      "exact_frequency": 315,
+      "very_exact_frequency": 313
+    },
+    {
+      "row": 230,
+      "query": "снимок экрана в windows 11",
+      "competitor_url": "https://remontka.pro/screenshot-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 505,
+      "exact_frequency": 313,
+      "very_exact_frequency": 313
+    },
+    {
+      "row": 231,
+      "query": "как добавить программу в автозагрузку в windows 11",
+      "competitor_url": "https://remontka.pro/add-program-autorun-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 625,
+      "exact_frequency": 519,
+      "very_exact_frequency": 312
+    },
+    {
+      "row": 232,
+      "query": "как посмотреть материнскую плату на виндовс 11",
+      "competitor_url": "https://remontka.pro/motherboard-model",
+      "competitor_position": 1,
+      "base_frequency": 701,
+      "exact_frequency": 313,
+      "very_exact_frequency": 312
+    },
+    {
+      "row": 233,
+      "query": "сброс пароля windows 11",
+      "competitor_url": "https://remontka.pro/reset-password-windows-11",
+      "competitor_position": 6,
+      "base_frequency": 1161,
+      "exact_frequency": 356,
+      "very_exact_frequency": 311
+    },
+    {
+      "row": 234,
+      "query": "как отключить bitlocker в windows 11",
+      "competitor_url": "https://remontka.pro/bitlocker-awaiting-activation-windows",
+      "competitor_position": 4,
+      "base_frequency": 671,
+      "exact_frequency": 312,
+      "very_exact_frequency": 311
+    },
+    {
+      "row": 235,
+      "query": "изменить цвет панели задач windows 11",
+      "competitor_url": "https://remontka.pro/taskbar-start-menu-color-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 806,
+      "exact_frequency": 315,
+      "very_exact_frequency": 310
+    },
+    {
+      "row": 236,
+      "query": "при входе в виндовс 11 требует пароль от учетной записи майкрософт как убрать",
+      "competitor_url": "https://remontka.pro/disable-password-windows-11-login",
+      "competitor_position": 5,
+      "base_frequency": 317,
+      "exact_frequency": 310,
+      "very_exact_frequency": 310
+    },
+    {
+      "row": 237,
+      "query": "0x0000011b подключение к принтеру",
+      "competitor_url": "https://remontka.pro/0x0000011b-error-printer",
+      "competitor_position": 1,
+      "base_frequency": 535,
+      "exact_frequency": 313,
+      "very_exact_frequency": 309
+    },
+    {
+      "row": 238,
+      "query": "произошла ошибка при распаковке невозможно записать данные на диск unarc dll 11",
+      "competitor_url": "https://remontka.pro/oshibka-unarc-dll",
+      "competitor_position": 5,
+      "base_frequency": 1240,
+      "exact_frequency": 309,
+      "very_exact_frequency": 309
+    },
+    {
+      "row": 239,
+      "query": "balena etcher windows 11",
+      "competitor_url": "https://remontka.pro/balenaetcher",
+      "competitor_position": 3,
+      "base_frequency": 319,
+      "exact_frequency": 308,
+      "very_exact_frequency": 308
+    },
+    {
+      "row": 240,
+      "query": "как поменять dns сервер на windows 11",
+      "competitor_url": "https://remontka.pro/change-dns-server-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 342,
+      "exact_frequency": 307,
+      "very_exact_frequency": 307
+    },
+    {
+      "row": 241,
+      "query": "как откатить виндовс 11 до заводских настроек",
+      "competitor_url": "https://remontka.pro/reset-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 405,
+      "exact_frequency": 313,
+      "very_exact_frequency": 306
+    },
+    {
+      "row": 242,
+      "query": "как убрать спящий режим на виндовс 11",
+      "competitor_url": "https://remontka.pro/sleep-mode-windows",
+      "competitor_position": 1,
+      "base_frequency": 374,
+      "exact_frequency": 319,
+      "very_exact_frequency": 303
+    },
+    {
+      "row": 243,
+      "query": "irql not less or equal windows 11",
+      "competitor_url": "https://remontka.pro/irql-not-less-or-equal",
+      "competitor_position": 1,
+      "base_frequency": 838,
+      "exact_frequency": 303,
+      "very_exact_frequency": 303
+    },
+    {
+      "row": 244,
+      "query": "как создать установочную флешку windows 11",
+      "competitor_url": "https://remontka.pro/windows-11-boot-usb",
+      "competitor_position": 5,
+      "base_frequency": 451,
+      "exact_frequency": 303,
+      "very_exact_frequency": 303
+    },
+    {
+      "row": 245,
+      "query": "как открыть диспетчер задач на виндовс 11",
+      "competitor_url": "https://remontka.pro/classic-task-manager-windows-11",
+      "competitor_position": 6,
+      "base_frequency": 504,
+      "exact_frequency": 381,
+      "very_exact_frequency": 302
+    },
+    {
+      "row": 246,
+      "query": "как отключить пин код на виндовс 11 при входе в систему",
+      "competitor_url": "https://remontka.pro/remove-pin-windows-11",
+      "competitor_position": 1,
+      "base_frequency": 335,
+      "exact_frequency": 318,
+      "very_exact_frequency": 302
+    },
+    {
+      "row": 247,
+      "query": "центр обновления виндовс 11 что то пошло не так",
+      "competitor_url": "https://remontka.pro/something-didnt-go-as-planned-windows-update",
+      "competitor_position": 2,
+      "base_frequency": 624,
+      "exact_frequency": 328,
+      "very_exact_frequency": 300
+    },
+    {
+      "row": 248,
+      "query": "как удалить временные файлы в windows 11",
+      "competitor_url": "https://remontka.pro/delete-temporary-files-windows",
+      "competitor_position": 2,
+      "base_frequency": 392,
+      "exact_frequency": 311,
+      "very_exact_frequency": 300
+    },
+    {
+      "row": 249,
+      "query": "как отобразить скрытые папки в windows 11",
+      "competitor_url": "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11",
+      "competitor_position": 2,
+      "base_frequency": 397,
+      "exact_frequency": 305,
+      "very_exact_frequency": 300
+    }
+  ]
+}

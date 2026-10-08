@@ -1,0 +1,2534 @@
+{
+  "prepared_date": "2026-10-08",
+  "source_rows": 249,
+  "unique_competitor_pages": 92,
+  "planned_topics": 82,
+  "actions": {
+    "Покрыто": 3,
+    "Новая тема": 66,
+    "Обновить по пробелам": 1,
+    "Завершить черновик": 1,
+    "Обновить": 2,
+    "Резерв: проверить актуальность": 8,
+    "Проверить и обновить": 1
+  },
+  "topics": [
+    {
+      "topic_key": "disable-microsoft-defender-windows-11",
+      "topic": "Microsoft Defender в Windows 11: отключение и исключения",
+      "action": "Покрыто",
+      "priority_wave": "Готовое покрытие",
+      "max_very_exact_frequency": 8544,
+      "source_row_count": 14,
+      "source_rows": [
+        1,
+        29,
+        36,
+        45,
+        56,
+        71,
+        79,
+        91,
+        96,
+        127,
+        154,
+        164,
+        173,
+        189
+      ],
+      "queries": [
+        "как отключить антивирус на виндовс 11",
+        "как выключить антивирус на виндовс 11",
+        "как отключить защиту виндовс 11",
+        "как отключить защитник виндовс 11",
+        "как отключить безопасность windows 11",
+        "как отключить антивирус виндовс 11",
+        "как добавить папку в исключения антивируса в виндовс 11",
+        "как добавить папку в исключение защитника windows 11",
+        "как полностью отключить антивирус в windows 11",
+        "отключить антивирус windows 11",
+        "как отключить антивирус 11 виндовс",
+        "как добавить в исключения в защитнике виндовс 11",
+        "как добавить файл в исключение защитника windows 11",
+        "как выключить антивирус виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-microsoft-defender-windows-11",
+        "https://remontka.pro/add-exclusions-microsoft-defender-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "existing_post_id": 11548,
+      "existing_url": "https://itpotok.ru/disable-defender-antivirus-windows-11/",
+      "related_post_ids": [],
+      "recommended_slug": "disable-defender-antivirus-windows-11",
+      "note": "Уже опубликована; исключения есть в H2. Пока оставить на этой странице. Выделять отдельную инструкцию только при подтверждённом самостоятельном спросе."
+    },
+    {
+      "topic_key": "screenshot-windows-11",
+      "topic": "Как сделать скриншот в Windows 11 — все способы",
+      "action": "Покрыто",
+      "priority_wave": "Готовое покрытие",
+      "max_very_exact_frequency": 8456,
+      "source_row_count": 7,
+      "source_rows": [
+        2,
+        61,
+        99,
+        130,
+        131,
+        140,
+        230
+      ],
+      "queries": [
+        "как сделать скриншот на виндовс 11",
+        "как сделать скрин на виндовс 11",
+        "как делать скриншот на виндовс 11",
+        "скриншот на виндовс 11",
+        "как сделать скрин на пк виндовс 11",
+        "как сделать снимок экрана на виндовс 11",
+        "снимок экрана в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/screenshot-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2,
+        3
+      ],
+      "existing_post_id": 11541,
+      "existing_url": "https://itpotok.ru/take-screenshot-windows-11/",
+      "related_post_ids": [],
+      "recommended_slug": "take-screenshot-windows-11",
+      "note": "Недавно обновлена. Проверить поисковые результаты и обнаруженные пробелы, новую страницу не создавать."
+    },
+    {
+      "topic_key": "download-windows-11-iso",
+      "topic": "Скачать Windows 11 ISO и Media Creation Tool: официальные способы и ограничения",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 7641,
+      "source_row_count": 7,
+      "source_rows": [
+        3,
+        20,
+        55,
+        104,
+        114,
+        188,
+        205
+      ],
+      "queries": [
+        "скачать виндовс 11 бесплатно с официального сайта на русском",
+        "как скачать виндовс 11",
+        "скачать 11 виндовс с официального сайта",
+        "win 11 iso",
+        "скачать media creation tool windows 11",
+        "как скачать виндовс 11 с официального сайта",
+        "где скачать виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/download-windows-11-iso",
+        "https://remontka.pro/windows-11-install",
+        "https://remontka.pro/download-windows-10-11-iso-russia",
+        "https://remontka.pro/download-media-creation-tool-no-vpn"
+      ],
+      "competitor_positions": [
+        3,
+        6,
+        7
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "download-windows-11-iso",
+      "note": "Новая высокая приоритетность: 7 641. Развести получение ISO, скачивание MCT, создание USB и установку. Региональные способы проверять на дату статьи; сведения про Windows 10 вынести при наличии соответствующих запросов."
+    },
+    {
+      "topic_key": "windows-11-install",
+      "topic": "Установка и переустановка Windows 11, включая сохранение данных",
+      "action": "Обновить по пробелам",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 7193,
+      "source_row_count": 17,
+      "source_rows": [
+        4,
+        5,
+        13,
+        17,
+        34,
+        41,
+        42,
+        50,
+        51,
+        64,
+        82,
+        133,
+        138,
+        144,
+        160,
+        170,
+        229
+      ],
+      "queries": [
+        "как переустановить виндовс 11",
+        "как установить виндовс 11",
+        "как установить виндовс 11 с флешки",
+        "установка виндовс 11",
+        "установка windows 11",
+        "как установить windows 11",
+        "переустановить виндовс 11",
+        "как переустановить виндовс 11 с флешки",
+        "установка виндовс 11 с флешки",
+        "как переустановить винду 11",
+        "как установить виндовс 11 на пк",
+        "как переустановить windows 11",
+        "как установить виндовс 11 с флешки на компьютер",
+        "как установить windows 11 с флешки",
+        "как переустановить виндовс 11 на ноутбуке",
+        "переустановка windows 11",
+        "как переустановить виндовс 11 на компьютере"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/reinstall-windows-without-losing-data",
+        "https://remontka.pro/windows-11-install"
+      ],
+      "competitor_positions": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "existing_post_id": 11476,
+      "existing_url": "https://itpotok.ru/how-to-install-windows-11/",
+      "related_post_ids": [],
+      "recommended_slug": "how-to-install-windows-11",
+      "note": "Уже есть отдельные разделы переустановки через обновления и ISO. Сначала проверить именно сохранение файлов и приложений. Отдельную статью о переустановке без потерь создавать только при подтверждённом разделении запросов."
+    },
+    {
+      "topic_key": "windows-11-boot-usb",
+      "topic": "Как создать загрузочную флешку Windows 11: MCT и Rufus",
+      "action": "Завершить черновик",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 3811,
+      "source_row_count": 16,
+      "source_rows": [
+        6,
+        11,
+        19,
+        22,
+        44,
+        52,
+        53,
+        65,
+        85,
+        86,
+        116,
+        117,
+        134,
+        168,
+        171,
+        244
+      ],
+      "queries": [
+        "rufus windows 11",
+        "как сделать загрузочную флешку windows 11",
+        "как создать загрузочную флешку windows 11",
+        "загрузочная флешка windows 11",
+        "создание загрузочной флешки windows 11",
+        "как скачать виндовс 11 на флешку",
+        "сделать загрузочную флешку windows 11",
+        "rufus создание загрузочной флешки windows 11",
+        "как сделать установочную флешку windows 11",
+        "как установить виндовс 11 на флешку",
+        "сделать загрузочную флешку виндовс 11",
+        "создание установочного носителя windows 11",
+        "как сделать флешку загрузочной для windows 11",
+        "загрузочная флешка виндовс 11",
+        "установочная флешка windows 11",
+        "как создать установочную флешку windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/rufus-windows-11-no-tpm-secure-boot",
+        "https://remontka.pro/windows-11-boot-usb"
+      ],
+      "competitor_positions": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "create-windows-11-usb",
+      "note": "Черновик 11989 известен из README, в публичном каталоге отсутствует. Запросы про Rufus общие, поэтому не строить основную статью вокруг обхода TPM. Фразу «установить Windows на флешку» проверить отдельно: она может означать переносную систему. Авторизованный статус черновика сегодня не проверен."
+    },
+    {
+      "topic_key": "windows-11-upgrade",
+      "topic": "Обновление до Windows 11 с Windows 10",
+      "action": "Обновить",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 3770,
+      "source_row_count": 6,
+      "source_rows": [
+        7,
+        8,
+        27,
+        84,
+        113,
+        172
+      ],
+      "queries": [
+        "как обновить windows 10 до windows 11",
+        "как обновить виндовс 10 до виндовс 11",
+        "обновить windows 10 до windows 11",
+        "обновить виндовс 10 до windows 11",
+        "как обновиться с windows 10 до windows 11",
+        "обновление виндовс 10 до виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/windows-11-upgrade",
+        "https://remontka.pro/windows-11-upgrade-on-unsupported-computer"
+      ],
+      "competitor_positions": [
+        2,
+        4,
+        6,
+        7
+      ],
+      "existing_post_id": 11544,
+      "existing_url": "https://itpotok.ru/upgrade-windows-10-to-windows-11/",
+      "related_post_ids": [],
+      "recommended_slug": "upgrade-windows-10-to-windows-11",
+      "note": "Обновить ID 11544: различить обновление с сохранением программ и чистую установку; проверить актуальные пути и ограничения. Не создавать вторую общую статью."
+    },
+    {
+      "topic_key": "disable-firewall-windows",
+      "topic": "Как отключить брандмауэр Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 2611,
+      "source_row_count": 3,
+      "source_rows": [
+        9,
+        185,
+        217
+      ],
+      "queries": [
+        "как отключить брандмауэр windows 11",
+        "как отключить брендмауэры windows 11",
+        "как выключить брандмауэр windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-firewall-windows"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11548
+      ],
+      "recommended_slug": "disable-firewall-windows-11",
+      "note": "Defender Antivirus и брандмауэр выполняют разные задачи. Нужна отдельная статья с выбором профиля, проверкой и повторным включением."
+    },
+    {
+      "topic_key": "enter-bios-uefi-windows-11",
+      "topic": "Как зайти в БИОС или UEFI в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 2487,
+      "source_row_count": 8,
+      "source_rows": [
+        10,
+        18,
+        49,
+        107,
+        118,
+        129,
+        149,
+        181
+      ],
+      "queries": [
+        "как зайти в биос на виндовс 11",
+        "как открыть биос на виндовс 11",
+        "как войти в биос на виндовс 11",
+        "как включить биос на виндовс 11",
+        "как открыть биос на виндовс 11 на пк",
+        "как запустить биос на виндовс 11",
+        "как зайти в биос виндовс 11",
+        "как зайти в биос на пк windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/enter-bios-uefi-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        7434
+      ],
+      "recommended_slug": "enter-bios-uefi-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "fail-podkachki-windows",
+      "topic": "Файл подкачки Windows 10 и 11: настройка и увеличение",
+      "action": "Обновить",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 2194,
+      "source_row_count": 7,
+      "source_rows": [
+        12,
+        33,
+        89,
+        152,
+        162,
+        202,
+        204
+      ],
+      "queries": [
+        "файл подкачки виндовс 11",
+        "как увеличить файл подкачки в windows 11",
+        "как изменить файл подкачки в windows 11",
+        "файл подкачки windows 11 как настроить",
+        "файл подкачки windows 11",
+        "как сделать файл подкачки на виндовс 11",
+        "как увеличить файл подкачки на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/fail-podkachki-windows"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": 9878,
+      "existing_url": "https://itpotok.ru/fajl-podkachki-v-windows-10/",
+      "related_post_ids": [],
+      "recommended_slug": "fajl-podkachki-v-windows-10",
+      "note": "ID 9878 уже упоминает Windows 11. Сохранить URL, расширить применимость и исправить спорные советы после фактчекинга."
+    },
+    {
+      "topic_key": "clean-disk-windows-11-tools",
+      "topic": "Очистка диска C и временных файлов Windows 11",
+      "action": "Покрыто",
+      "priority_wave": "Готовое покрытие",
+      "max_very_exact_frequency": 2142,
+      "source_row_count": 7,
+      "source_rows": [
+        14,
+        16,
+        21,
+        70,
+        95,
+        126,
+        248
+      ],
+      "queries": [
+        "как почистить диск с на виндовс 11",
+        "как очистить диск с на windows 11",
+        "очистка диска с на windows 11",
+        "как почистить диск с от ненужных файлов windows 11",
+        "очистка пк от мусора виндовс 11",
+        "как очистить диск с на виндовс 11",
+        "как удалить временные файлы в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/clean-disk-windows-11-tools",
+        "https://remontka.pro/delete-temporary-files-windows"
+      ],
+      "competitor_positions": [
+        1,
+        2,
+        6
+      ],
+      "existing_post_id": 11994,
+      "existing_url": "https://itpotok.ru/clean-drive-c-windows-11/",
+      "related_post_ids": [],
+      "recommended_slug": "clean-drive-c-windows-11",
+      "note": "Временные файлы уже описаны. Сохранить текущую страницу; отдельную статью про те же действия сейчас не создавать."
+    },
+    {
+      "topic_key": "reset-windows-11",
+      "topic": "Как сбросить Windows 11 до заводских настроек",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 1916,
+      "source_row_count": 11,
+      "source_rows": [
+        15,
+        35,
+        63,
+        68,
+        102,
+        105,
+        155,
+        169,
+        179,
+        208,
+        241
+      ],
+      "queries": [
+        "как сбросить виндовс 11 до заводских настроек",
+        "как снести винду 11",
+        "как сбросить ноутбук до заводских настроек windows 11",
+        "как снести виндовс 11",
+        "как сбросить пк до заводских настроек windows 11",
+        "сброс виндовс 11 до заводских настроек",
+        "как сбросить компьютер до заводских настроек windows 11",
+        "как сбросить windows 11 до заводских настроек",
+        "сброс до заводских настроек windows 11",
+        "как сбросить виндовс 11",
+        "как откатить виндовс 11 до заводских настроек"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/reset-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11476,
+        4511
+      ],
+      "recommended_slug": "reset-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "cmd-as-admin-windows-11",
+      "topic": "Как запустить командную строку от Администратора в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 1341,
+      "source_row_count": 6,
+      "source_rows": [
+        23,
+        46,
+        58,
+        80,
+        142,
+        212
+      ],
+      "queries": [
+        "как открыть командную строку в windows 11",
+        "командная строка в виндовс 11",
+        "как открыть командную строку на виндовс 11",
+        "как вызвать командную строку в windows 11",
+        "командная строка виндовс 11",
+        "как открыть командную строку от имени администратора в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/cmd-as-admin-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        9935,
+        9220
+      ],
+      "recommended_slug": "open-command-prompt-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "safe-mode-windows-11",
+      "topic": "Вход в безопасный режим Windows 11 и выход из него",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 1325,
+      "source_row_count": 9,
+      "source_rows": [
+        24,
+        40,
+        47,
+        94,
+        119,
+        120,
+        123,
+        146,
+        213
+      ],
+      "queries": [
+        "как зайти в безопасный режим windows 11",
+        "как запустить безопасный режим windows 11",
+        "как включить безопасный режим на windows 11",
+        "безопасный режим windows 11 как включить",
+        "как запустить виндовс 11 в безопасном режиме",
+        "как выйти из безопасного режима windows 11",
+        "безопасный режим виндовс 11",
+        "как перейти в безопасный режим в windows 11",
+        "как зайти в безопасный режим виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/safe-mode-windows-11",
+        "https://remontka.pro/exit-safe-mode-windows"
+      ],
+      "competitor_positions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        8727
+      ],
+      "recommended_slug": "safe-mode-windows-11",
+      "note": "Выход из режима раскрыть в той же статье; не создавать второй короткий материал с повторением шагов."
+    },
+    {
+      "topic_key": "change-user-name-windows",
+      "topic": "Как изменить имя пользователя Windows 11 и Windows 10",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 1255,
+      "source_row_count": 7,
+      "source_rows": [
+        25,
+        26,
+        54,
+        128,
+        148,
+        224,
+        228
+      ],
+      "queries": [
+        "как поменять имя пользователя на windows 11",
+        "как изменить имя пользователя в windows 11",
+        "как изменить имя учетной записи в windows 11",
+        "как поменять имя учетной записи в windows 11",
+        "как сменить имя пользователя в windows 11",
+        "как переименовать пользователя в windows 11",
+        "как переименовать учетную запись в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-user-name-windows"
+      ],
+      "competitor_positions": [
+        2,
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        9938
+      ],
+      "recommended_slug": "change-user-name-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "uninstall-programs-windows",
+      "topic": "Как удалять программы в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 1178,
+      "source_row_count": 3,
+      "source_rows": [
+        28,
+        194,
+        225
+      ],
+      "queries": [
+        "как удалить приложение на виндовс 11",
+        "как удалять приложения на виндовс 11",
+        "как полностью удалить приложение с компьютера windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/uninstall-programs-windows"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11994,
+        7381
+      ],
+      "recommended_slug": "uninstall-apps-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "change-password-windows",
+      "topic": "Как поставить или изменить пароль в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 1123,
+      "source_row_count": 2,
+      "source_rows": [
+        30,
+        101
+      ],
+      "queries": [
+        "как поставить пароль на виндовс 11",
+        "как поменять пароль на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-password-windows"
+      ],
+      "competitor_positions": [
+        2,
+        7
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        9871,
+        8646
+      ],
+      "recommended_slug": "change-password-windows-11",
+      "note": "Максимальный запрос — поставить пароль (1 123); второй — поменять (447). Объединить установку и смену известного пароля. Сброс забытого пароля оставить отдельной темой."
+    },
+    {
+      "topic_key": "your-phone-app",
+      "topic": "Связь с телефоном в Windows 11 и 10",
+      "action": "Новая тема",
+      "priority_wave": "1",
+      "max_very_exact_frequency": 1073,
+      "source_row_count": 1,
+      "source_rows": [
+        31
+      ],
+      "queries": [
+        "связь с телефоном windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/your-phone-app"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "phone-link-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "disable-sticky-keys-windows",
+      "topic": "Как отключить залипание клавиш в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 987,
+      "source_row_count": 2,
+      "source_rows": [
+        32,
+        201
+      ],
+      "queries": [
+        "как отключить залипание клавиш на windows 11",
+        "как выключить залипание клавиш на windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-sticky-keys-windows"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "disable-sticky-keys-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "enable-secure-boot",
+      "topic": "Как включить безопасную загрузку Secure Boot в Windows 11 и 10",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 842,
+      "source_row_count": 4,
+      "source_rows": [
+        37,
+        57,
+        74,
+        184
+      ],
+      "queries": [
+        "как включить безопасную загрузку для виндовс 11",
+        "как включить состояние безопасной загрузки на windows 11",
+        "как включить secure boot windows 11",
+        "безопасная загрузка windows 11 как включить"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/enable-secure-boot"
+      ],
+      "competitor_positions": [
+        2,
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11508
+      ],
+      "recommended_slug": "enable-secure-boot-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "0xc1900500-0x20000-media-creation-tool",
+      "topic": "Ошибка 0xc1900500 — 0x20000 в Media Creation Tool — решение",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 840,
+      "source_row_count": 1,
+      "source_rows": [
+        38
+      ],
+      "queries": [
+        "по неизвестной причине запуск этого средства на вашем компьютере не удался виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/0xc1900500-0x20000-media-creation-tool"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "media-creation-tool-launch-error-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "show-hide-hidden-system-files-folders-windows-11",
+      "topic": "Как показать или скрыть скрытые и системные файлы и папки Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 839,
+      "source_row_count": 5,
+      "source_rows": [
+        39,
+        100,
+        195,
+        214,
+        249
+      ],
+      "queries": [
+        "как показать скрытые папки в windows 11",
+        "как открыть скрытые папки на windows 11",
+        "как посмотреть скрытые папки на windows 11",
+        "как включить скрытые папки в windows 11",
+        "как отобразить скрытые папки в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11"
+      ],
+      "competitor_positions": [
+        2,
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "show-hidden-files-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "disable-password-windows-11-login",
+      "topic": "Как убрать пароль при входе в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 729,
+      "source_row_count": 3,
+      "source_rows": [
+        43,
+        203,
+        236
+      ],
+      "queries": [
+        "как отключить пароль на виндовс 11 при включении компьютера",
+        "как отключить пароль при входе виндовс 11",
+        "при входе в виндовс 11 требует пароль от учетной записи майкрософт как убрать"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-password-windows-11-login"
+      ],
+      "competitor_positions": [
+        2,
+        4,
+        5
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        9871,
+        8646
+      ],
+      "recommended_slug": "disable-login-password-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "disable-updates-windows-11",
+      "topic": "Как отключить обновления Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 700,
+      "source_row_count": 1,
+      "source_rows": [
+        48
+      ],
+      "queries": [
+        "как отключить обновления windows 11 навсегда"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-updates-windows-11"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        9875,
+        8552
+      ],
+      "recommended_slug": "disable-updates-windows-11",
+      "note": "Запрос содержит «навсегда». Проверить возможности и пределы способов; не обещать бессрочное отключение без подтверждения."
+    },
+    {
+      "topic_key": "mouse-pointer-appearance-windows-11",
+      "topic": "Настройки указателя мыши или курсора в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 609,
+      "source_row_count": 2,
+      "source_rows": [
+        59,
+        153
+      ],
+      "queries": [
+        "как поменять курсор на виндовс 11",
+        "как изменить курсор мыши на windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/mouse-pointer-appearance-windows-11"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        3845,
+        3642
+      ],
+      "recommended_slug": "mouse-pointer-appearance-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "split-disk-windows-11",
+      "topic": "Управление дисками и разделение диска в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 603,
+      "source_row_count": 2,
+      "source_rows": [
+        60,
+        135
+      ],
+      "queries": [
+        "как разделить диск на виндовс 11",
+        "управление дисками windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/split-disk-windows-11",
+        "https://remontka.pro/run-disk-management-windows"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        3214,
+        3089
+      ],
+      "recommended_slug": "split-disk-windows-11",
+      "note": "Запуск управления дисками — вводный раздел; разделение диска — основная задача. При подготовке учесть сохранность данных и ограничения операций."
+    },
+    {
+      "topic_key": "could-not-find-recovery-environment-windows",
+      "topic": "Невозможно найти среду восстановления Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 596,
+      "source_row_count": 1,
+      "source_rows": [
+        62
+      ],
+      "queries": [
+        "невозможно найти среду восстановления windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/could-not-find-recovery-environment-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "recovery-environment-not-found-windows-11",
+      "note": "Конкретная ошибка отсутствия WinRE — отдельная диагностика. Связать со сбросом и восстановлением; не подменять широкой статьёй без действий для ошибки."
+    },
+    {
+      "topic_key": "change-dns-server-windows-11",
+      "topic": "Как изменить DNS-сервер в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 574,
+      "source_row_count": 3,
+      "source_rows": [
+        66,
+        222,
+        240
+      ],
+      "queries": [
+        "как поменять днс сервер на виндовс 11",
+        "как изменить днс сервер на компьютере windows 11",
+        "как поменять dns сервер на windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-dns-server-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "change-dns-server-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "best-free-antivirus",
+      "topic": "Бесплатные антивирусы: сравнение для современной Windows",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 573,
+      "source_row_count": 1,
+      "source_rows": [
+        67
+      ],
+      "queries": [
+        "бесплатный антивирус для windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/best-free-antivirus"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        3856,
+        9894
+      ],
+      "recommended_slug": "best-free-antivirus",
+      "note": "Есть конкретный запрос «бесплатный антивирус для Windows 11», но для сравнительной статьи нужны критерии, актуальные первичные сведения и основания сравнения. Обзоры Windows 7/XP не считать актуальным покрытием."
+    },
+    {
+      "topic_key": "msvcp110-dll-otsutstvuet",
+      "topic": "Ошибки MSVCP110.dll и MSVCR110.dll",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 567,
+      "source_row_count": 5,
+      "source_rows": [
+        69,
+        76,
+        110,
+        124,
+        125
+      ],
+      "queries": [
+        "msvcp110 dll что это за ошибка как исправить",
+        "msvcp110 dll",
+        "скачать msvcp110 dll",
+        "msvcp110 dll скачать",
+        "msvcr110 dll"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/msvcp110-dll-otsutstvuet",
+        "https://remontka.pro/msvcr110-dll-otsutstvuet-skachat"
+      ],
+      "competitor_positions": [
+        2,
+        5,
+        6
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "fix-msvcp110-msvcr110-dll",
+      "note": "Объединить как близкие ошибки библиотек одного семейства. Причины и официальные компоненты проверить; не предлагать отдельные DLL из случайных каталогов."
+    },
+    {
+      "topic_key": "control-panel-windows-11",
+      "topic": "Как открыть панель управления Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 558,
+      "source_row_count": 2,
+      "source_rows": [
+        72,
+        216
+      ],
+      "queries": [
+        "как открыть панель управления на windows 11",
+        "как открыть панель управления на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/control-panel-windows-11"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        4746,
+        2640
+      ],
+      "recommended_slug": "control-panel-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "usb-descriptor-failure-code-43",
+      "topic": "Сбой запроса дескриптора устройства (код 43) в Windows 11 и 10 — как исправить?",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 557,
+      "source_row_count": 1,
+      "source_rows": [
+        73
+      ],
+      "queries": [
+        "сбой запроса дескриптора устройства usb windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/usb-descriptor-failure-code-43"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "usb-descriptor-failure-code-43",
+      "note": ""
+    },
+    {
+      "topic_key": "windows-11-upgrade-on-unsupported-computer",
+      "topic": "Как обновиться до Windows 11 на неподдерживаемом компьютере",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 545,
+      "source_row_count": 1,
+      "source_rows": [
+        75
+      ],
+      "queries": [
+        "как установить виндовс 11 на неподдерживаемый компьютер"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/windows-11-upgrade-on-unsupported-computer"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11544,
+        11508
+      ],
+      "recommended_slug": "windows-11-upgrade-on-unsupported-computer",
+      "note": "Общий запрос обновления с частотностью 1 190 перенесён на обновление Windows 10 → 11. Здесь остаётся явная установка на неподдерживаемый ПК, 545. Отдельный материал назначать после сверки требований и условий Microsoft; учитывать пересечение с Rufus."
+    },
+    {
+      "topic_key": "disable-autorun-apps-windows-11",
+      "topic": "Автозагрузка Windows 11: отключить или добавить программу",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 529,
+      "source_row_count": 9,
+      "source_rows": [
+        77,
+        108,
+        109,
+        159,
+        177,
+        197,
+        207,
+        210,
+        231
+      ],
+      "queries": [
+        "как отключить автозапуск приложений в windows 11",
+        "как отключить автозапуск программ в windows 11",
+        "как убрать автозапуск приложений windows 11",
+        "автозагрузка в windows 11 где находится",
+        "автозапуск приложений windows 11",
+        "как выключить автозапуск программ в windows 11",
+        "как добавить приложение в автозагрузку windows 11",
+        "папка автозагрузки windows 11",
+        "как добавить программу в автозагрузку в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-autorun-apps-windows-11",
+        "https://remontka.pro/add-program-autorun-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        8699
+      ],
+      "recommended_slug": "disable-autorun-apps-windows-11",
+      "note": "Отключение и добавление программы объединить в одной инструкции; статья Windows 10 остаётся смежной."
+    },
+    {
+      "topic_key": "remove-recycle-bin-windows",
+      "topic": "Способы убрать корзину с рабочего стола или отключить её в Windows",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 528,
+      "source_row_count": 2,
+      "source_rows": [
+        78,
+        106
+      ],
+      "queries": [
+        "как убрать корзину с рабочего стола в windows 11",
+        "как убрать корзину с рабочего стола на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/remove-recycle-bin-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        1958
+      ],
+      "recommended_slug": "remove-recycle-bin-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "change-icons-size-windows-11",
+      "topic": "Как увеличить или уменьшить значки на рабочем столе и в папках Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "2",
+      "max_very_exact_frequency": 519,
+      "source_row_count": 3,
+      "source_rows": [
+        81,
+        97,
+        198
+      ],
+      "queries": [
+        "как уменьшить иконки на рабочем столе в windows 11",
+        "как уменьшить значки на рабочем столе windows 11",
+        "как изменить размер иконок на рабочем столе windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-icons-size-windows-11"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        1958
+      ],
+      "recommended_slug": "change-icons-size-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "install-windows-11-no-internet-local-account",
+      "topic": "Простая установка Windows 11 без Интернета с локальной учётной записью",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 508,
+      "source_row_count": 2,
+      "source_rows": [
+        83,
+        186
+      ],
+      "queries": [
+        "установка windows 11 без интернета",
+        "установка виндовс 11 без интернета"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/install-windows-11-no-internet-local-account"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "install-windows-11-no-internet-local-account",
+      "note": "Способы зависят от выпуска и сборки. Проверить текущее поведение в тестовой среде; не обещать постоянную работоспособность обходов."
+    },
+    {
+      "topic_key": "change-profile-folder-windows-11",
+      "topic": "Как изменить имя папки пользователя в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 482,
+      "source_row_count": 1,
+      "source_rows": [
+        87
+      ],
+      "queries": [
+        "как переименовать папку пользователя в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-user-name-windows"
+      ],
+      "competitor_positions": [
+        7
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "change-profile-folder-windows-11",
+      "note": "Запрос о папке пользователя (482) отличается от отображаемого имени учётной записи. Выделен отдельно; способы и сохранность профиля требуют самостоятельной проверки."
+    },
+    {
+      "topic_key": "delete-user-windows",
+      "topic": "Как удалить пользователя Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 480,
+      "source_row_count": 1,
+      "source_rows": [
+        88
+      ],
+      "queries": [
+        "как удалить учетную запись в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/delete-user-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        2454
+      ],
+      "recommended_slug": "delete-user-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "virtual-desktops-windows-11",
+      "topic": "Виртуальные рабочие столы Windows 11 — возможности и использование",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 468,
+      "source_row_count": 4,
+      "source_rows": [
+        90,
+        151,
+        156,
+        167
+      ],
+      "queries": [
+        "как переключаться между рабочими столами в windows 11",
+        "как переключить рабочий стол в windows 11",
+        "как поменять рабочий стол на windows 11",
+        "рабочий стол виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/virtual-desktops-windows-11"
+      ],
+      "competitor_positions": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "virtual-desktops-windows-11",
+      "note": "Три фразы про переключение виртуальных столов; «рабочий стол виндовс 11» шире. Основную инструкцию строить вокруг переключения, широкую фразу не считать доказательством того же намерения."
+    },
+    {
+      "topic_key": "windows-11-24h2-upgrade",
+      "topic": "Как обновить Windows 11 до актуальной версии",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 464,
+      "source_row_count": 1,
+      "source_rows": [
+        92
+      ],
+      "queries": [
+        "как обновить виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/windows-11-24h2-upgrade"
+      ],
+      "competitor_positions": [
+        4
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11467,
+        11544
+      ],
+      "recommended_slug": "update-windows-11",
+      "note": "Запрос «как обновить виндовс 11» общий и не содержит 24H2. Нужна инструкция актуального обновления самой Windows 11. Новость ID 11467 о 24H2 не считать её заменой. Отделить от перехода Windows 10 → 11."
+    },
+    {
+      "topic_key": "classic-notepad-windows",
+      "topic": "Как скачать и установить Блокнот Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 461,
+      "source_row_count": 1,
+      "source_rows": [
+        93
+      ],
+      "queries": [
+        "скачать блокнот виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/classic-notepad-windows"
+      ],
+      "competitor_positions": [
+        7
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "install-notepad-windows-11",
+      "note": "Запрос — скачать Блокнот Windows 11, а конкурент — про возвращение классического Блокнота. Основная задача: получение текущего приложения из официального источника; вариант старого приложения не подменяет её."
+    },
+    {
+      "topic_key": "live-wallpaper-windows-10-lively",
+      "topic": "Живые обои на рабочий стол Windows 11 и Windows 10 в Lively Wallpaper",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 455,
+      "source_row_count": 2,
+      "source_rows": [
+        98,
+        122
+      ],
+      "queries": [
+        "как поставить живые обои на пк виндовс 11",
+        "живые обои для виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/live-wallpaper-windows-10-lively"
+      ],
+      "competitor_positions": [
+        4,
+        6
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        6391
+      ],
+      "recommended_slug": "live-wallpaper-windows-10-lively",
+      "note": ""
+    },
+    {
+      "topic_key": "hibernation-windows-11",
+      "topic": "Гибернация в Windows 11 — как отключить, включить, добавить в меню завершения работы",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 436,
+      "source_row_count": 1,
+      "source_rows": [
+        103
+      ],
+      "queries": [
+        "режим гибернации windows 11 что это"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/hibernation-windows-11"
+      ],
+      "competitor_positions": [
+        4
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "hibernation-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "classic-task-manager-windows-11",
+      "topic": "Как открыть диспетчер задач в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 422,
+      "source_row_count": 2,
+      "source_rows": [
+        111,
+        245
+      ],
+      "queries": [
+        "как открыть диспетчер задач в windows 11",
+        "как открыть диспетчер задач на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/classic-task-manager-windows-11"
+      ],
+      "competitor_positions": [
+        6
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "open-task-manager-windows-11",
+      "note": "Запросы про обычный запуск диспетчера. Конкурент описывает старый вариант; основной материал должен объяснять текущий диспетчер, а старый вариант — только при самостоятельной необходимости."
+    },
+    {
+      "topic_key": "motherboard-model",
+      "topic": "Как узнать модель материнской платы компьютера",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 421,
+      "source_row_count": 2,
+      "source_rows": [
+        112,
+        232
+      ],
+      "queries": [
+        "как узнать свою материнскую плату на windows 11",
+        "как посмотреть материнскую плату на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/motherboard-model"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "motherboard-model",
+      "note": ""
+    },
+    {
+      "topic_key": "0x0000011b-error-printer",
+      "topic": "Как исправить ошибку 0x0000011b при подключении принтера в Windows 11 и Windows 10",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 419,
+      "source_row_count": 4,
+      "source_rows": [
+        115,
+        145,
+        158,
+        237
+      ],
+      "queries": [
+        "0x0000011b при подключении принтера",
+        "0x0000011b при подключении принтера windows 10",
+        "ошибка 0х0000011b при подключении сетевого принтера",
+        "0x0000011b подключение к принтеру"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/0x0000011b-error-printer"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "0x0000011b-error-printer",
+      "note": ""
+    },
+    {
+      "topic_key": "bitlocker-awaiting-activation-windows",
+      "topic": "Как отключить BitLocker в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 406,
+      "source_row_count": 2,
+      "source_rows": [
+        121,
+        234
+      ],
+      "queries": [
+        "как отключить битлокер в виндовс 11",
+        "как отключить bitlocker в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/bitlocker-awaiting-activation-windows"
+      ],
+      "competitor_positions": [
+        4
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "disable-bitlocker-windows-11",
+      "note": "Запросы — отключить BitLocker. Страница конкурента про ожидание активации не задаёт основной сценарий статьи. Проверить обычное отключение, отличие от приостановки и условия восстановления доступа."
+    },
+    {
+      "topic_key": "remove-pin-windows-11",
+      "topic": "Как убрать ПИН-код в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 393,
+      "source_row_count": 2,
+      "source_rows": [
+        132,
+        246
+      ],
+      "queries": [
+        "как убрать пин код на виндовс 11 при входе",
+        "как отключить пин код на виндовс 11 при входе в систему"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/remove-pin-windows-11"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "remove-pin-windows-11",
+      "note": "Удаление PIN не равно автоматическому входу. Отдельная задача; дать связь со статьёй о запросе пароля."
+    },
+    {
+      "topic_key": "disable-fast-startup-windows-11",
+      "topic": "Как отключить быстрый запуск Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 388,
+      "source_row_count": 1,
+      "source_rows": [
+        136
+      ],
+      "queries": [
+        "как отключить быстрый запуск в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-fast-startup-windows-11"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "disable-fast-startup-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "restore-points-windows-11",
+      "topic": "Точки восстановления Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 388,
+      "source_row_count": 4,
+      "source_rows": [
+        137,
+        139,
+        178,
+        199
+      ],
+      "queries": [
+        "как создать точку восстановления в windows 11",
+        "как откатить виндовс 11 до точки восстановления",
+        "как создать точку восстановления на виндовс 11",
+        "создать точку восстановления windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/restore-points-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "restore-points-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "sleep-mode-windows",
+      "topic": "Спящий режим Windows 11 — как отключить, включить и решение проблем",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 385,
+      "source_row_count": 2,
+      "source_rows": [
+        141,
+        242
+      ],
+      "queries": [
+        "как отключить спящий режим в windows 11",
+        "как убрать спящий режим на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/sleep-mode-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        7907
+      ],
+      "recommended_slug": "sleep-mode-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "change-selection-color-windows",
+      "topic": "Как изменить цвет выделения в Windows 11",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 383,
+      "source_row_count": 1,
+      "source_rows": [
+        143
+      ],
+      "queries": [
+        "как поменять цвет выделения в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-selection-color-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "change-selection-color-windows",
+      "note": "Узкая персонализация. Проверить эффект в текущих приложениях и возможность отмены; пока резерв."
+    },
+    {
+      "topic_key": "remove-kaspersky-antivirus",
+      "topic": "Как полностью удалить Касперского с компьютера",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 379,
+      "source_row_count": 1,
+      "source_rows": [
+        147
+      ],
+      "queries": [
+        "как удалить касперский с виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/remove-kaspersky-antivirus"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "remove-kaspersky-antivirus",
+      "note": ""
+    },
+    {
+      "topic_key": "hosts-windows-11",
+      "topic": "Файл hosts в Windows 11 — где находится, как изменить или восстановить",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 376,
+      "source_row_count": 1,
+      "source_rows": [
+        150
+      ],
+      "queries": [
+        "hosts windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/hosts-windows-11"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "hosts-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "rollback-windows-version",
+      "topic": "Как откатить Windows 11 до предыдущей версии",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 370,
+      "source_row_count": 1,
+      "source_rows": [
+        157
+      ],
+      "queries": [
+        "как откатить обновление виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/rollback-windows-version"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11476,
+        11544
+      ],
+      "recommended_slug": "rollback-windows-version",
+      "note": "Возврат предыдущего выпуска и восстановление через точку — разные сценарии; указать условия и ограничения."
+    },
+    {
+      "topic_key": "test-ram",
+      "topic": "Как проверить оперативную память компьютера или ноутбука",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 367,
+      "source_row_count": 3,
+      "source_rows": [
+        161,
+        163,
+        180
+      ],
+      "queries": [
+        "как проверить оперативную память на ошибки в windows 11",
+        "тест оперативной памяти windows 11",
+        "проверка оперативной памяти windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/test-ram"
+      ],
+      "competitor_positions": [
+        1,
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "test-ram",
+      "note": ""
+    },
+    {
+      "topic_key": "uninstall-onedrive-windows-11",
+      "topic": "Как удалить OneDrive в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 364,
+      "source_row_count": 3,
+      "source_rows": [
+        165,
+        196,
+        211
+      ],
+      "queries": [
+        "как удалить one drive в windows 11 полностью",
+        "как отключить синхронизацию onedrive в windows 11",
+        "как отключить onedrive windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/uninstall-onedrive-windows-11"
+      ],
+      "competitor_positions": [
+        3,
+        4,
+        5
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "uninstall-onedrive-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "change-windows-wallpaper-without-activation",
+      "topic": "Как поменять обои в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 359,
+      "source_row_count": 2,
+      "source_rows": [
+        166,
+        206
+      ],
+      "queries": [
+        "как поменять обои на виндовс 11",
+        "как поменять обои на пк виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-windows-wallpaper-without-activation"
+      ],
+      "competitor_positions": [
+        3,
+        4
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "change-wallpaper-windows-11",
+      "note": "В запросах нет условия отсутствия активации. Основная инструкция — смена обоев; ограничения неактивированной системы — отдельная развилка при необходимости."
+    },
+    {
+      "topic_key": "hotkeys-windows-11",
+      "topic": "Горячие клавиши Windows 11",
+      "action": "Проверить и обновить",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 351,
+      "source_row_count": 1,
+      "source_rows": [
+        174
+      ],
+      "queries": [
+        "горячие клавиши виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/hotkeys-windows-11"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": 9903,
+      "existing_url": "https://itpotok.ru/goryachie-klavishi-chtoby-upravlyat-svoim-kompyuterom-so-skorostyu-mysli/",
+      "related_post_ids": [],
+      "recommended_slug": "goryachie-klavishi-chtoby-upravlyat-svoim-kompyuterom-so-skorostyu-mysli",
+      "note": "Есть общий материал ID 9903. Рассмотреть обновление того же URL под современную Windows; окончательный охват определить по запросам."
+    },
+    {
+      "topic_key": "reset-network-settings-windows-11",
+      "topic": "Как сбросить сетевые настройки Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 350,
+      "source_row_count": 1,
+      "source_rows": [
+        175
+      ],
+      "queries": [
+        "как сбросить настройки сети в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/reset-network-settings-windows-11"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "reset-network-settings-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "disable-core-isolation-windows",
+      "topic": "Как отключить изоляцию ядра в Windows 11 и Windows 10",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 350,
+      "source_row_count": 1,
+      "source_rows": [
+        176
+      ],
+      "queries": [
+        "как отключить изоляцию ядра в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/disable-core-isolation-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "disable-core-isolation-windows",
+      "note": "Нужен конкретный повод пользователя и диагностика несовместимости. Не назначать отключение защиты как универсальную оптимизацию."
+    },
+    {
+      "topic_key": "create-desktop-shortcut-windows",
+      "topic": "Как создать ярлык на рабочем столе Windows 11 и Windows 10",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 347,
+      "source_row_count": 1,
+      "source_rows": [
+        182
+      ],
+      "queries": [
+        "как создать ярлык на рабочем столе в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/create-desktop-shortcut-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "create-desktop-shortcut-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "nvidia-control-panel-not-opening",
+      "topic": "Как открыть панель управления NVIDIA в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 344,
+      "source_row_count": 1,
+      "source_rows": [
+        183
+      ],
+      "queries": [
+        "как открыть панель управления nvidia на windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/nvidia-control-panel-not-opening"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "open-nvidia-control-panel-windows-11",
+      "note": "В запросе нужно открыть панель, конкурент отвечает на неполадку запуска. Сначала объяснить получение и обычный запуск, диагностику поставить вторым разделом."
+    },
+    {
+      "topic_key": "create-user-windows",
+      "topic": "Как добавить пользователя и создать локальную учётную запись Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 339,
+      "source_row_count": 2,
+      "source_rows": [
+        187,
+        221
+      ],
+      "queries": [
+        "как добавить пользователя в windows 11",
+        "как создать локальную учетную запись в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/create-user-windows",
+        "https://remontka.pro/local-account-windows-11"
+      ],
+      "competitor_positions": [
+        1,
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        2454
+      ],
+      "recommended_slug": "create-user-windows",
+      "note": "Добавление пользователя и создание локальной записи связаны. Смена учётной записи Microsoft вынесена отдельно: исходная фраза не означает однозначно переход на локальную запись."
+    },
+    {
+      "topic_key": "hyper-v-enable-disable-windows",
+      "topic": "Как отключить Hyper-V в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 335,
+      "source_row_count": 1,
+      "source_rows": [
+        190
+      ],
+      "queries": [
+        "как отключить hyper v в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/hyper-v-enable-disable-windows"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "disable-hyper-v-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "0xc004f074-activation-error-windows",
+      "topic": "Ошибка активации 0xC004F074 в Windows 11 — способы исправить",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 335,
+      "source_row_count": 1,
+      "source_rows": [
+        191
+      ],
+      "queries": [
+        "код ошибки 0xc004f074 при активации виндовс 11 как исправить"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/0xc004f074-activation-error-windows"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "0xc004f074-activation-error-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "download-windows-uup-dump",
+      "topic": "Как скачать Windows 11 и 10 ISO с помощью UUP Dump",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 335,
+      "source_row_count": 1,
+      "source_rows": [
+        192
+      ],
+      "queries": [
+        "uup dump windows 11 скачать"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/download-windows-uup-dump"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "download-windows-uup-dump",
+      "note": "Технический инструмент для отдельной аудитории. Развести скачивание готового ISO и сборку из компонентов; пока резерв после основного ISO."
+    },
+    {
+      "topic_key": "recovery-environment-windows-11",
+      "topic": "Восстановление системы Windows 11: выбор способа",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 335,
+      "source_row_count": 1,
+      "source_rows": [
+        193
+      ],
+      "queries": [
+        "восстановление системы windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/recovery-environment-windows-11"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        11476
+      ],
+      "recommended_slug": "recover-windows-11",
+      "note": "Запрос «восстановление системы Windows 11» шире страницы конкурента о входе в WinRE. Сначала уточнить намерение по выдаче; возможно, нужен обзор выбора между точкой восстановления, ремонтом и сбросом. Ошибка отсутствия WinRE вынесена отдельно."
+    },
+    {
+      "topic_key": "change-file-extension-windows",
+      "topic": "Как изменить расширение файла в Windows 11 и Windows 10",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 329,
+      "source_row_count": 1,
+      "source_rows": [
+        200
+      ],
+      "queries": [
+        "как изменить расширение файла в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/change-file-extension-windows"
+      ],
+      "competitor_positions": [
+        6
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        6347
+      ],
+      "recommended_slug": "change-file-extension-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "computer-icon-windows-11-desktop-enable",
+      "topic": "Как вернуть значок компьютера на рабочий стол Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 325,
+      "source_row_count": 1,
+      "source_rows": [
+        209
+      ],
+      "queries": [
+        "как добавить мой компьютер на рабочий windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/computer-icon-windows-11-desktop-enable"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [
+        1958
+      ],
+      "recommended_slug": "computer-icon-windows-11-desktop-enable",
+      "note": ""
+    },
+    {
+      "topic_key": "oshibka-unarc-dll",
+      "topic": "Unarc.dll: код ошибки 11, невозможно записать данные на диск",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 322,
+      "source_row_count": 2,
+      "source_rows": [
+        215,
+        238
+      ],
+      "queries": [
+        "произошла ошибка при распаковке невозможно записать данные на диск unarc dll вернул код ошибки 11",
+        "произошла ошибка при распаковке невозможно записать данные на диск unarc dll 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/oshibka-unarc-dll"
+      ],
+      "competitor_positions": [
+        3,
+        5
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "fix-isdone-unarc-dll",
+      "note": "Две фразы указывают код 11 и невозможность записи на диск. Сосредоточить диагностику на этом сценарии; общий заголовок про любые ошибки Unarc.dll был бы слишком широким."
+    },
+    {
+      "topic_key": "ventoy-bootable-usb",
+      "topic": "Использование Ventoy для создания мультизагрузочной флешки",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 317,
+      "source_row_count": 1,
+      "source_rows": [
+        218
+      ],
+      "queries": [
+        "ventoy windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/ventoy-bootable-usb"
+      ],
+      "competitor_positions": [
+        4
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "ventoy-bootable-usb",
+      "note": "Самостоятельная утилита и мультизагрузочный носитель; добавить ссылку из USB-инструкции после проверки."
+    },
+    {
+      "topic_key": "pin-isnt-available-windows",
+      "topic": "Ваш ПИН-код недоступен в Windows 11 и 10 — причины и решения",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 316,
+      "source_row_count": 1,
+      "source_rows": [
+        219
+      ],
+      "queries": [
+        "возникла проблема ваш пин код недоступен windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/pin-isnt-available-windows"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "pin-isnt-available-windows",
+      "note": "Диагностика ошибки входа; не смешивать с удалением PIN или сменой пароля."
+    },
+    {
+      "topic_key": "set-default-browser-windows",
+      "topic": "Как установить браузер по умолчанию Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 315,
+      "source_row_count": 1,
+      "source_rows": [
+        220
+      ],
+      "queries": [
+        "браузер по умолчанию windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/set-default-browser-windows"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "set-default-browser-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "convert-microsoft-to-local-account-windows",
+      "topic": "Как сменить учётную запись Microsoft в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 315,
+      "source_row_count": 1,
+      "source_rows": [
+        223
+      ],
+      "queries": [
+        "как сменить учетную запись майкрософт на виндовс 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/convert-microsoft-to-local-account-windows"
+      ],
+      "competitor_positions": [
+        6
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "change-microsoft-account-windows-11",
+      "note": "Запрос «сменить учётную запись Microsoft» не уточняет: другая Microsoft-запись или локальная. Конкурент описывает второй вариант. Предусмотреть выбор сценария до инструкций."
+    },
+    {
+      "topic_key": "windows-protected-your-pc",
+      "topic": "Как отключить SmartScreen в Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 314,
+      "source_row_count": 1,
+      "source_rows": [
+        226
+      ],
+      "queries": [
+        "как отключить smartscreen в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/windows-protected-your-pc"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "disable-smartscreen-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "minimize-all-windows",
+      "topic": "Как свернуть все окна в Windows 11 и 10",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 314,
+      "source_row_count": 1,
+      "source_rows": [
+        227
+      ],
+      "queries": [
+        "как свернуть все окна в windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/minimize-all-windows"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "minimize-all-windows",
+      "note": ""
+    },
+    {
+      "topic_key": "reset-password-windows-11",
+      "topic": "Как сбросить пароль Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 311,
+      "source_row_count": 1,
+      "source_rows": [
+        233
+      ],
+      "queries": [
+        "сброс пароля windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/reset-password-windows-11"
+      ],
+      "competitor_positions": [
+        6
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "reset-password-windows-11",
+      "note": "Восстановление доступа к своей записи; разделить локальную и Microsoft-учётную запись. Не смешивать со сменой известного пароля."
+    },
+    {
+      "topic_key": "taskbar-start-menu-color-windows-11",
+      "topic": "Как изменить цвет панели задач и меню Пуск Windows 11",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 310,
+      "source_row_count": 1,
+      "source_rows": [
+        235
+      ],
+      "queries": [
+        "изменить цвет панели задач windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/taskbar-start-menu-color-windows-11"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "taskbar-start-menu-color-windows-11",
+      "note": ""
+    },
+    {
+      "topic_key": "balenaetcher",
+      "topic": "Загрузочная флешка или карта памяти в balenaEtcher",
+      "action": "Резерв: проверить актуальность",
+      "priority_wave": "Резерв",
+      "max_very_exact_frequency": 308,
+      "source_row_count": 1,
+      "source_rows": [
+        239
+      ],
+      "queries": [
+        "balena etcher windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/balenaetcher"
+      ],
+      "competitor_positions": [
+        3
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "balenaetcher",
+      "note": "Не переносить инструмент для разных образов автоматически в инструкцию установочной флешки Windows. Сначала проверить назначение и запрос."
+    },
+    {
+      "topic_key": "irql-not-less-or-equal",
+      "topic": "Синий экран IRQL NOT LESS OR EQUAL в Windows 11 и Windows 10 — как исправить?",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 303,
+      "source_row_count": 1,
+      "source_rows": [
+        243
+      ],
+      "queries": [
+        "irql not less or equal windows 11"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/irql-not-less-or-equal"
+      ],
+      "competitor_positions": [
+        1
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "irql-not-less-or-equal",
+      "note": ""
+    },
+    {
+      "topic_key": "something-didnt-go-as-planned-windows-update",
+      "topic": "Что-то пошло не так в Центре обновления Windows — как исправить?",
+      "action": "Новая тема",
+      "priority_wave": "3",
+      "max_very_exact_frequency": 300,
+      "source_row_count": 1,
+      "source_rows": [
+        247
+      ],
+      "queries": [
+        "центр обновления виндовс 11 что то пошло не так"
+      ],
+      "competitor_urls": [
+        "https://remontka.pro/something-didnt-go-as-planned-windows-update"
+      ],
+      "competitor_positions": [
+        2
+      ],
+      "existing_post_id": null,
+      "existing_url": null,
+      "related_post_ids": [],
+      "recommended_slug": "something-didnt-go-as-planned-windows-update",
+      "note": ""
+    }
+  ]
+}

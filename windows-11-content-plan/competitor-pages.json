@@ -1,0 +1,738 @@
+[
+  {
+    "url": "https://remontka.pro/disable-microsoft-defender-windows-11",
+    "final_url": "https://remontka.pro/disable-microsoft-defender-windows-11/",
+    "status": 200,
+    "title": "Как отключить Microsoft Defender в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/screenshot-windows-11",
+    "final_url": "https://remontka.pro/screenshot-windows-11/",
+    "status": 200,
+    "title": "Как сделать скриншот в Windows 11 — все способы",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/download-windows-11-iso",
+    "final_url": "https://remontka.pro/download-windows-11-iso/",
+    "status": 200,
+    "title": "Как скачать Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/reinstall-windows-without-losing-data",
+    "final_url": "https://remontka.pro/reinstall-windows-without-losing-data/",
+    "status": 200,
+    "title": "Переустановка Windows 11 и 10 без потери данных",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/windows-11-install",
+    "final_url": "https://remontka.pro/windows-11-install/",
+    "status": 200,
+    "title": "Установка Windows 11 с флешки",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/rufus-windows-11-no-tpm-secure-boot",
+    "final_url": "https://remontka.pro/rufus-windows-11-no-tpm-secure-boot/",
+    "status": 200,
+    "title": "Использование Rufus для создания загрузочной флешки Windows 11 без проверки TPM 2.0 и Secure Boot",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/windows-11-upgrade",
+    "final_url": "https://remontka.pro/windows-11-upgrade/",
+    "status": 200,
+    "title": "Обновление до Windows 11 с Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/disable-firewall-windows",
+    "final_url": "https://remontka.pro/disable-firewall-windows/",
+    "status": 200,
+    "title": "Как отключить брандмауэр Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/enter-bios-uefi-windows-11",
+    "final_url": "https://remontka.pro/enter-bios-uefi-windows-11/",
+    "status": 200,
+    "title": "Как зайти в БИОС или UEFI в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/windows-11-boot-usb",
+    "final_url": "https://remontka.pro/windows-11-boot-usb/",
+    "status": 200,
+    "title": "Загрузочная флешка Windows 11 — 5 способов создания",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/fail-podkachki-windows",
+    "final_url": "https://remontka.pro/fail-podkachki-windows/",
+    "status": 200,
+    "title": "Файл подкачки Windows — настройка и полезная информация",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/clean-disk-windows-11-tools",
+    "final_url": "https://remontka.pro/clean-disk-windows-11-tools/",
+    "status": 200,
+    "title": "Очистка диска Windows 11 встроенными утилитами",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/reset-windows-11",
+    "final_url": "https://remontka.pro/reset-windows-11/",
+    "status": 200,
+    "title": "Как сбросить Windows 11 до заводских настроек",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/cmd-as-admin-windows-11",
+    "final_url": "https://remontka.pro/cmd-as-admin-windows-11/",
+    "status": 200,
+    "title": "Как запустить командную строку от Администратора в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/safe-mode-windows-11",
+    "final_url": "https://remontka.pro/safe-mode-windows-11/",
+    "status": 200,
+    "title": "Безопасный режим Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/change-user-name-windows",
+    "final_url": "https://remontka.pro/change-user-name-windows/",
+    "status": 200,
+    "title": "Как изменить имя пользователя Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/windows-11-upgrade-on-unsupported-computer",
+    "final_url": "https://remontka.pro/windows-11-upgrade-on-unsupported-computer/",
+    "status": 200,
+    "title": "Как обновиться до Windows 11 на неподдерживаемом компьютере",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/uninstall-programs-windows",
+    "final_url": "https://remontka.pro/uninstall-programs-windows/",
+    "status": 200,
+    "title": "Как удалять программы в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/change-password-windows",
+    "final_url": "https://remontka.pro/change-password-windows/",
+    "status": 200,
+    "title": "Как изменить пароль или ПИН-код Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/your-phone-app",
+    "final_url": "https://remontka.pro/your-phone-app/",
+    "status": 200,
+    "title": "Связь с телефоном в Windows 11 и 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/disable-sticky-keys-windows",
+    "final_url": "https://remontka.pro/disable-sticky-keys-windows/",
+    "status": 200,
+    "title": "Как отключить залипание клавиш в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/enable-secure-boot",
+    "final_url": "https://remontka.pro/enable-secure-boot/",
+    "status": 200,
+    "title": "Как включить безопасную загрузку Secure Boot в Windows 11 и 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/0xc1900500-0x20000-media-creation-tool",
+    "final_url": "https://remontka.pro/0xc1900500-0x20000-media-creation-tool/",
+    "status": 200,
+    "title": "Ошибка 0xc1900500 — 0x20000 в Media Creation Tool — решение",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11",
+    "final_url": "https://remontka.pro/show-hide-hidden-system-files-folders-windows-11/",
+    "status": 200,
+    "title": "Как показать или скрыть скрытые и системные файлы и папки Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/disable-password-windows-11-login",
+    "final_url": "https://remontka.pro/disable-password-windows-11-login/",
+    "status": 200,
+    "title": "Как убрать пароль при входе в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/disable-updates-windows-11",
+    "final_url": "https://remontka.pro/disable-updates-windows-11/",
+    "status": 200,
+    "title": "Как отключить обновления Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/mouse-pointer-appearance-windows-11",
+    "final_url": "https://remontka.pro/mouse-pointer-appearance-windows-11/",
+    "status": 200,
+    "title": "Настройки указателя мыши или курсора в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/split-disk-windows-11",
+    "final_url": "https://remontka.pro/split-disk-windows-11/",
+    "status": 200,
+    "title": "Как разделить диск в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/could-not-find-recovery-environment-windows",
+    "final_url": "https://remontka.pro/could-not-find-recovery-environment-windows/",
+    "status": 200,
+    "title": "Невозможно найти среду восстановления Windows 11 — варианты решения",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/change-dns-server-windows-11",
+    "final_url": "https://remontka.pro/change-dns-server-windows-11/",
+    "status": 200,
+    "title": "Как изменить DNS-сервер в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/best-free-antivirus",
+    "final_url": "https://remontka.pro/best-free-antivirus/",
+    "status": 200,
+    "title": "Лучший бесплатный антивирус 2025",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/msvcp110-dll-otsutstvuet",
+    "final_url": "https://remontka.pro/msvcp110-dll-otsutstvuet/",
+    "status": 200,
+    "title": "msvcp110.dll отсутствует на компьютере — как скачать и исправить ошибку",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/control-panel-windows-11",
+    "final_url": "https://remontka.pro/control-panel-windows-11/",
+    "status": 200,
+    "title": "Как открыть панель управления Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/usb-descriptor-failure-code-43",
+    "final_url": "https://remontka.pro/usb-descriptor-failure-code-43/",
+    "status": 200,
+    "title": "Сбой запроса дескриптора устройства (код 43) в Windows 11 и 10 — как исправить?",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/disable-autorun-apps-windows-11",
+    "final_url": "https://remontka.pro/disable-autorun-apps-windows-11/",
+    "status": 200,
+    "title": "Способы удалить программы из автозагрузки Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/remove-recycle-bin-windows",
+    "final_url": "https://remontka.pro/remove-recycle-bin-windows/",
+    "status": 200,
+    "title": "Способы убрать корзину с рабочего стола или отключить её в Windows",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/add-exclusions-microsoft-defender-windows-11",
+    "final_url": "https://remontka.pro/add-exclusions-microsoft-defender-windows-11/",
+    "status": 200,
+    "title": "Как добавить исключения в Microsoft Defender Windows 11 (Защитник Windows 11)",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/change-icons-size-windows-11",
+    "final_url": "https://remontka.pro/change-icons-size-windows-11/",
+    "status": 200,
+    "title": "Как увеличить или уменьшить значки на рабочем столе и в папках Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/install-windows-11-no-internet-local-account",
+    "final_url": "https://remontka.pro/install-windows-11-no-internet-local-account/",
+    "status": 200,
+    "title": "Простая установка Windows 11 без Интернета с локальной учётной записью",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/delete-user-windows",
+    "final_url": "https://remontka.pro/delete-user-windows/",
+    "status": 200,
+    "title": "Как удалить пользователя Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/virtual-desktops-windows-11",
+    "final_url": "https://remontka.pro/virtual-desktops-windows-11/",
+    "status": 200,
+    "title": "Виртуальные рабочие столы Windows 11 — возможности и использование",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/windows-11-24h2-upgrade",
+    "final_url": "https://remontka.pro/windows-11-24h2-upgrade/",
+    "status": 200,
+    "title": "Как установить обновление Windows 11 24H2",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/classic-notepad-windows",
+    "final_url": "https://remontka.pro/classic-notepad-windows/",
+    "status": 200,
+    "title": "Как вернуть классический Блокнот в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/live-wallpaper-windows-10-lively",
+    "final_url": "https://remontka.pro/live-wallpaper-windows-10-lively/",
+    "status": 200,
+    "title": "Живые обои на рабочий стол Windows 11 и Windows 10 в Lively Wallpaper",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/hibernation-windows-11",
+    "final_url": "https://remontka.pro/hibernation-windows-11/",
+    "status": 200,
+    "title": "Гибернация в Windows 11 — как отключить, включить, добавить в меню завершения работы",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/download-windows-10-11-iso-russia",
+    "final_url": "https://remontka.pro/download-windows-10-11-iso-russia/",
+    "status": 200,
+    "title": "Как скачать Windows 11 и Windows 10 оригинальные ISO из России в 2025",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/classic-task-manager-windows-11",
+    "final_url": "https://remontka.pro/classic-task-manager-windows-11/",
+    "status": 200,
+    "title": "Как запустить старый диспетчер задач в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/motherboard-model",
+    "final_url": "https://remontka.pro/motherboard-model/",
+    "status": 200,
+    "title": "Как узнать модель материнской платы компьютера",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/download-media-creation-tool-no-vpn",
+    "final_url": "https://remontka.pro/download-media-creation-tool-no-vpn/",
+    "status": 200,
+    "title": "Как скачать Media Creation Tool Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/0x0000011b-error-printer",
+    "final_url": "https://remontka.pro/0x0000011b-error-printer/",
+    "status": 200,
+    "title": "Как исправить ошибку 0x0000011b при подключении принтера в Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/exit-safe-mode-windows",
+    "final_url": "https://remontka.pro/exit-safe-mode-windows/",
+    "status": 200,
+    "title": "Как выйти из безопасного режима Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/bitlocker-awaiting-activation-windows",
+    "final_url": "https://remontka.pro/bitlocker-awaiting-activation-windows/",
+    "status": 200,
+    "title": "Ожидание активации BitLocker в Windows 11 — как убрать?",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/msvcr110-dll-otsutstvuet-skachat",
+    "final_url": "https://remontka.pro/msvcr110-dll-otsutstvuet-skachat/",
+    "status": 200,
+    "title": "Запуск программы невозможен, поскольку msvcr110.dll отсутствует — как исправить ошибку",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/remove-pin-windows-11",
+    "final_url": "https://remontka.pro/remove-pin-windows-11/",
+    "status": 200,
+    "title": "Как убрать ПИН-код в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/run-disk-management-windows",
+    "final_url": "https://remontka.pro/run-disk-management-windows/",
+    "status": 200,
+    "title": "Как открыть управление дисками Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/disable-fast-startup-windows-11",
+    "final_url": "https://remontka.pro/disable-fast-startup-windows-11/",
+    "status": 200,
+    "title": "Как отключить быстрый запуск Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/restore-points-windows-11",
+    "final_url": "https://remontka.pro/restore-points-windows-11/",
+    "status": 200,
+    "title": "Точки восстановления Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/sleep-mode-windows",
+    "final_url": "https://remontka.pro/sleep-mode-windows/",
+    "status": 200,
+    "title": "Спящий режим Windows 11 — как отключить, включить и решение проблем",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/change-selection-color-windows",
+    "final_url": "https://remontka.pro/change-selection-color-windows/",
+    "status": 200,
+    "title": "Как изменить цвет выделения в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/remove-kaspersky-antivirus",
+    "final_url": "https://remontka.pro/remove-kaspersky-antivirus/",
+    "status": 200,
+    "title": "Как полностью удалить Касперского с компьютера",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/hosts-windows-11",
+    "final_url": "https://remontka.pro/hosts-windows-11/",
+    "status": 200,
+    "title": "Файл hosts в Windows 11 — где находится, как изменить или восстановить",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/rollback-windows-version",
+    "final_url": "https://remontka.pro/rollback-windows-version/",
+    "status": 200,
+    "title": "Как откатить Windows 11 до предыдущей версии",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/add-program-autorun-windows-11",
+    "final_url": "https://remontka.pro/add-program-autorun-windows-11/",
+    "status": 200,
+    "title": "Как добавить программу в автозагрузку Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/test-ram",
+    "final_url": "https://remontka.pro/test-ram/",
+    "status": 200,
+    "title": "Как проверить оперативную память компьютера или ноутбука",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/uninstall-onedrive-windows-11",
+    "final_url": "https://remontka.pro/uninstall-onedrive-windows-11/",
+    "status": 200,
+    "title": "Как удалить OneDrive в Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/change-windows-wallpaper-without-activation",
+    "final_url": "https://remontka.pro/change-windows-wallpaper-without-activation/",
+    "status": 200,
+    "title": "Как изменить обои Windows 11 и Windows 10 без активации",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/hotkeys-windows-11",
+    "final_url": "https://remontka.pro/hotkeys-windows-11/",
+    "status": 200,
+    "title": "Горячие клавиши Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/reset-network-settings-windows-11",
+    "final_url": "https://remontka.pro/reset-network-settings-windows-11/",
+    "status": 200,
+    "title": "Как сбросить сетевые настройки Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/disable-core-isolation-windows",
+    "final_url": "https://remontka.pro/disable-core-isolation-windows/",
+    "status": 200,
+    "title": "Как отключить изоляцию ядра в Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/create-desktop-shortcut-windows",
+    "final_url": "https://remontka.pro/create-desktop-shortcut-windows/",
+    "status": 200,
+    "title": "Как создать ярлык на рабочем столе Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/nvidia-control-panel-not-opening",
+    "final_url": "https://remontka.pro/nvidia-control-panel-not-opening/",
+    "status": 200,
+    "title": "Панель управления NVIDIA не открывается — как исправить",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/create-user-windows",
+    "final_url": "https://remontka.pro/create-user-windows/",
+    "status": 200,
+    "title": "Как создать пользователя Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/hyper-v-enable-disable-windows",
+    "final_url": "https://remontka.pro/hyper-v-enable-disable-windows/",
+    "status": 200,
+    "title": "Как включить или отключить Hyper-V в Windows 11 Pro и Домашняя",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/0xc004f074-activation-error-windows",
+    "final_url": "https://remontka.pro/0xc004f074-activation-error-windows/",
+    "status": 200,
+    "title": "Ошибка активации 0xC004F074 в Windows 11 — способы исправить",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/download-windows-uup-dump",
+    "final_url": "https://remontka.pro/download-windows-uup-dump/",
+    "status": 200,
+    "title": "Как скачать Windows 11 и 10 ISO с помощью UUP Dump",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/recovery-environment-windows-11",
+    "final_url": "https://remontka.pro/recovery-environment-windows-11/",
+    "status": 200,
+    "title": "Как зайти в среду восстановления Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/change-file-extension-windows",
+    "final_url": "https://remontka.pro/change-file-extension-windows/",
+    "status": 200,
+    "title": "Как изменить расширение файла в Windows 11 и Windows 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/computer-icon-windows-11-desktop-enable",
+    "final_url": "https://remontka.pro/computer-icon-windows-11-desktop-enable/",
+    "status": 200,
+    "title": "Как вернуть значок компьютера на рабочий стол Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/oshibka-unarc-dll",
+    "final_url": "https://remontka.pro/oshibka-unarc-dll/",
+    "status": 200,
+    "title": "Как исправить ошибку ISDone.dll Unarc.dll при установке игры или программы",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/ventoy-bootable-usb",
+    "final_url": "https://remontka.pro/ventoy-bootable-usb/",
+    "status": 200,
+    "title": "Использование Ventoy для создания мультизагрузочной флешки",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/pin-isnt-available-windows",
+    "final_url": "https://remontka.pro/pin-isnt-available-windows/",
+    "status": 200,
+    "title": "Ваш ПИН-код недоступен в Windows 11 и 10 — причины и решения",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/set-default-browser-windows",
+    "final_url": "https://remontka.pro/set-default-browser-windows/",
+    "status": 200,
+    "title": "Как установить браузер по умолчанию Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/local-account-windows-11",
+    "final_url": "https://remontka.pro/local-account-windows-11/",
+    "status": 200,
+    "title": "Локальная учетная запись Windows 11 — как создать при установке и после",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/convert-microsoft-to-local-account-windows",
+    "final_url": "https://remontka.pro/convert-microsoft-to-local-account-windows/",
+    "status": 200,
+    "title": "Как сделать учетную запись локальной из учетной записи Майкрософт",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/windows-protected-your-pc",
+    "final_url": "https://remontka.pro/windows-protected-your-pc/",
+    "status": 200,
+    "title": "Система Windows защитила ваш компьютер — как отключить",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/minimize-all-windows",
+    "final_url": "https://remontka.pro/minimize-all-windows/",
+    "status": 200,
+    "title": "Как свернуть все окна в Windows 11 и 10",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/reset-password-windows-11",
+    "final_url": "https://remontka.pro/reset-password-windows-11/",
+    "status": 200,
+    "title": "Как сбросить пароль Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/taskbar-start-menu-color-windows-11",
+    "final_url": "https://remontka.pro/taskbar-start-menu-color-windows-11/",
+    "status": 200,
+    "title": "Как изменить цвет панели задач и меню Пуск Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/balenaetcher",
+    "final_url": "https://remontka.pro/balenaetcher/",
+    "status": 200,
+    "title": "Загрузочная флешка или карта памяти в balenaEtcher",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/irql-not-less-or-equal",
+    "final_url": "https://remontka.pro/irql-not-less-or-equal/",
+    "status": 200,
+    "title": "Синий экран IRQL NOT LESS OR EQUAL в Windows 11 и Windows 10 — как исправить?",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/something-didnt-go-as-planned-windows-update",
+    "final_url": "https://remontka.pro/something-didnt-go-as-planned-windows-update/",
+    "status": 200,
+    "title": "Что-то пошло не так в Центре обновления Windows — как исправить?",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  },
+  {
+    "url": "https://remontka.pro/delete-temporary-files-windows",
+    "final_url": "https://remontka.pro/delete-temporary-files-windows/",
+    "status": 200,
+    "title": "Как удалить временные файлы Windows 11",
+    "encoding": "utf-8",
+    "checked_date": "2026-10-08"
+  }
+]
