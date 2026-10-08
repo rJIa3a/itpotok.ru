@@ -10,27 +10,29 @@
 
 ## Очередь работ и сверка с сайтом
 
-| Очередь | Тема статьи | Частотность | Что есть на itpotok.ru | Действие |
-|---|---|---:|---|---|
-| 1 | Как отключить брандмауэр в Windows 11 и включить его обратно | 2 611 | Отдельная статья не найдена. [Defender](https://itpotok.ru/disable-defender-antivirus-windows-11/) относится к антивирусу | Новая статья |
-| 2 | Как зайти в BIOS или UEFI в Windows 11 | 2 487 | [UEFI в Windows 8](https://itpotok.ru/kak-zajti-v-uefi-uluchshenii-bios-v-windows-8/), ID 7434 | Новая статья для Windows 11 |
-| 3 | Файл подкачки в Windows 10 и 11: настройка и увеличение | 2 194 | [Существующее руководство](https://itpotok.ru/fajl-podkachki-v-windows-10/), ID 9878, уже упоминает Windows 11 | Обновить эту запись, сохранить URL |
-| 4 | Как сбросить Windows 11 до заводских настроек | 1 916 | Сброс кратко разобран в [статье об установке](https://itpotok.ru/how-to-install-windows-11/); отдельной статьи для Windows 11 не найдено | Новая статья с подробным выбором вариантов |
-| 5 | Как открыть командную строку в Windows 11, в том числе от администратора | 1 341 | Для Windows 10 есть [ID 9935](https://itpotok.ru/kak-otkryt-komandnuyu-stroku-v-windows-10/) и [ID 9220](https://itpotok.ru/command-line-windows-10/) | Новая статья для Windows 11; старые страницы отдельно проверить на дублирование |
-| 6 | Как зайти в безопасный режим Windows 11 и выйти из него | 1 325 | [Безопасный режим Windows 10](https://itpotok.ru/safe-mode-widnows-10/), ID 8727 | Новая статья для Windows 11 |
-| 7 | Как изменить имя пользователя в Windows 11 | 1 255 | [Материал для Windows 10](https://itpotok.ru/kak-izmenit-imya-polzovatelya-v-windows-10/), ID 9938 | Новая статья для Windows 11 |
-| 8 | Как удалить приложение или программу в Windows 11 | 1 178 | [Удаление программ в Windows 7](https://itpotok.ru/vse-sposoby-pravilnogo-udaleniya-programm-v-windows-7/); краткий раздел в статье об очистке C | Новая статья; из очистки C дать ссылку на подробности |
-| 9 | «Связь с телефоном» в Windows 11: подключение и отключение | 1 073 | Отдельное руководство по приложению не найдено | Новая статья |
-| 10 | Как отключить залипание клавиш в Windows 11 | 987 | Отдельная статья не найдена | Новая короткая инструкция |
-| 11 | Как включить Secure Boot для Windows 11 | 842 | Есть [системные требования](https://itpotok.ru/system-requirements-windows-11/), но отдельной инструкции не найдено | Новая статья после BIOS/UEFI |
-| 12 | Media Creation Tool: «По неизвестной причине запуск этого средства… не удался» | 840 | Отдельная диагностика не найдена; рядом материалы об установке и черновик USB | Новая статья с диагностикой конкретной ошибки |
-| 13 | Как показать скрытые файлы и папки в Windows 11 | 839 | Есть [руководство для Windows 7](https://itpotok.ru/dlya-chego-nuzhny-skrytye-papki-v-windows-7-i-kak-sdelat-ih-vidimymi/) и другие старые материалы | Новая короткая инструкция для Windows 11 |
-| 14 | Как отключить запрос пароля при включении Windows 11 | 729 | Две страницы для Windows 10: [ID 9871](https://itpotok.ru/kak-ubrat-parol-pri-vhode-v-windows-10/) и [ID 8646](https://itpotok.ru/how-disable-lock-screen-windows-10/) | Новая статья для Windows 11; отдельно проверить старые дубли |
-| Уже есть | Как сделать скриншот в Windows 11 | 8 456 | [ID 11541](https://itpotok.ru/take-screenshot-windows-11/), обновлено 02.10.2026 | Сохранить текущую страницу |
-| Уже есть | Как установить Windows 11 с флешки; установка; скачивание | 2 159 | [ID 11476](https://itpotok.ru/how-to-install-windows-11/), обновлено 03.10.2026 | Использовать текущую страницу; раздел скачивания дополнить только при обнаруженном пробеле |
-| Уже есть | Как почистить диск C в Windows 11 | 2 142 | [ID 11994](https://itpotok.ru/clean-drive-c-windows-11/), обновлено 07.10.2026 | Сохранить текущую публикацию; короткий черновик не считать новой темой |
+| Очередь | Тема статьи | Частотность | Что есть на itpotok.ru | Действие | Страница конкурента |
+|---|---|---:|---|---|---|
+| 1 | Как отключить брандмауэр в Windows 11 и включить его обратно | 2 611 | Отдельная статья не найдена. [Defender](https://itpotok.ru/disable-defender-antivirus-windows-11/) относится к антивирусу | Новая статья | [disable-firewall-windows](https://remontka.pro/disable-firewall-windows) |
+| 2 | Как зайти в BIOS или UEFI в Windows 11 | 2 487 | [UEFI в Windows 8](https://itpotok.ru/kak-zajti-v-uefi-uluchshenii-bios-v-windows-8/), ID 7434 | Новая статья для Windows 11 | [enter-bios-uefi-windows-11](https://remontka.pro/enter-bios-uefi-windows-11) |
+| 3 | Файл подкачки в Windows 10 и 11: настройка и увеличение | 2 194 | [Существующее руководство](https://itpotok.ru/fajl-podkachki-v-windows-10/), ID 9878, уже упоминает Windows 11 | Обновить эту запись, сохранить URL | [fail-podkachki-windows](https://remontka.pro/fail-podkachki-windows) |
+| 4 | Как сбросить Windows 11 до заводских настроек | 1 916 | Сброс кратко разобран в [статье об установке](https://itpotok.ru/how-to-install-windows-11/); отдельной статьи для Windows 11 не найдено | Новая статья с подробным выбором вариантов | [reset-windows-11](https://remontka.pro/reset-windows-11) |
+| 5 | Как открыть командную строку в Windows 11, в том числе от администратора | 1 341 | Для Windows 10 есть [ID 9935](https://itpotok.ru/kak-otkryt-komandnuyu-stroku-v-windows-10/) и [ID 9220](https://itpotok.ru/command-line-windows-10/) | Новая статья для Windows 11; старые страницы отдельно проверить на дублирование | [cmd-as-admin-windows-11](https://remontka.pro/cmd-as-admin-windows-11) |
+| 6 | Как зайти в безопасный режим Windows 11 и выйти из него | 1 325 | [Безопасный режим Windows 10](https://itpotok.ru/safe-mode-widnows-10/), ID 8727 | Новая статья для Windows 11 | [safe-mode-windows-11](https://remontka.pro/safe-mode-windows-11) |
+| 7 | Как изменить имя пользователя в Windows 11 | 1 255 | [Материал для Windows 10](https://itpotok.ru/kak-izmenit-imya-polzovatelya-v-windows-10/), ID 9938 | Новая статья для Windows 11 | [change-user-name-windows](https://remontka.pro/change-user-name-windows) |
+| 8 | Как удалить приложение или программу в Windows 11 | 1 178 | [Удаление программ в Windows 7](https://itpotok.ru/vse-sposoby-pravilnogo-udaleniya-programm-v-windows-7/); краткий раздел в статье об очистке C | Новая статья; из очистки C дать ссылку на подробности | [uninstall-programs-windows](https://remontka.pro/uninstall-programs-windows) |
+| 9 | «Связь с телефоном» в Windows 11: подключение и отключение | 1 073 | Отдельное руководство по приложению не найдено | Новая статья | [your-phone-app](https://remontka.pro/your-phone-app) |
+| 10 | Как отключить залипание клавиш в Windows 11 | 987 | Отдельная статья не найдена | Новая короткая инструкция | [disable-sticky-keys-windows](https://remontka.pro/disable-sticky-keys-windows) |
+| 11 | Как включить Secure Boot для Windows 11 | 842 | Есть [системные требования](https://itpotok.ru/system-requirements-windows-11/), но отдельной инструкции не найдено | Новая статья после BIOS/UEFI | [enable-secure-boot](https://remontka.pro/enable-secure-boot) |
+| 12 | Media Creation Tool: «По неизвестной причине запуск этого средства… не удался» | 840 | Отдельная диагностика не найдена; рядом материалы об установке и черновик USB | Новая статья с диагностикой конкретной ошибки | [0xc1900500-0x20000-media-creation-tool](https://remontka.pro/0xc1900500-0x20000-media-creation-tool) |
+| 13 | Как показать скрытые файлы и папки в Windows 11 | 839 | Есть [руководство для Windows 7](https://itpotok.ru/dlya-chego-nuzhny-skrytye-papki-v-windows-7-i-kak-sdelat-ih-vidimymi/) и другие старые материалы | Новая короткая инструкция для Windows 11 | [show-hide-hidden-system-files-folders-windows-11](https://remontka.pro/show-hide-hidden-system-files-folders-windows-11) |
+| 14 | Как отключить запрос пароля при включении Windows 11 | 729 | Две страницы для Windows 10: [ID 9871](https://itpotok.ru/kak-ubrat-parol-pri-vhode-v-windows-10/) и [ID 8646](https://itpotok.ru/how-disable-lock-screen-windows-10/) | Новая статья для Windows 11; отдельно проверить старые дубли | [disable-password-windows-11-login](https://remontka.pro/disable-password-windows-11-login) |
+| Уже есть | Как сделать скриншот в Windows 11 | 8 456 | [ID 11541](https://itpotok.ru/take-screenshot-windows-11/), обновлено 02.10.2026 | Сохранить текущую страницу | [screenshot-windows-11](https://remontka.pro/screenshot-windows-11) |
+| Уже есть | Как установить Windows 11 с флешки; установка; скачивание | 2 159 | [ID 11476](https://itpotok.ru/how-to-install-windows-11/), обновлено 03.10.2026 | Использовать текущую страницу; раздел скачивания дополнить только при обнаруженном пробеле | [windows-11-install](https://remontka.pro/windows-11-install) |
+| Уже есть | Как почистить диск C в Windows 11 | 2 142 | [ID 11994](https://itpotok.ru/clean-drive-c-windows-11/), обновлено 07.10.2026 | Сохранить текущую публикацию; короткий черновик не считать новой темой | [clean-disk-windows-11-tools](https://remontka.pro/clean-disk-windows-11-tools) |
 
 Отсутствие отдельной статьи означает, что она не найдена в полном публичном каталоге публикаций и при дополнительном поиске Windows 11. Это не утверждение об отсутствии каждого упоминания темы внутри всех 317 текстов.
+
+В колонке «Страница конкурента» указана соответствующая страница remontka.pro из исходной таблицы пользователя. Для объединённых запросов одной темы ссылка совпадает. Она служит ориентиром для сравнительного разбора; технические утверждения будущей статьи нужно проверять по первичным источникам.
 
 ## Какие запросы объединить
 
