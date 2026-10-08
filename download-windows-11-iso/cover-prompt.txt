@@ -1,0 +1,3 @@
+Встроенный imagegen, генерация новой редакционной обложки, 08.10.2026.
+
+Use case: stylized-concept. Create one square editorial cover illustration for Russian tech guide about downloading original Windows 11 ISO and Media Creation Tool. Premium restrained 3D illustration: a simple silver optical disc partly behind a deep blue rounded file card, large clear text 'ISO' on card, a white downward download arrow above the card. Soft studio lighting, dark navy to cobalt background with subtle curved blue light. All important objects concentrated in central 55 percent of canvas so both square and wide center crops work. Only text ISO, no logos, no screen or UI, no people, no watermark, no extra captions. Calm professional IT tutorial cover.

@@ -1,0 +1,25 @@
+{
+  "status": "draft",
+  "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12015&action=edit",
+  "post_id": 12015,
+  "preview_url": "https://itpotok.ru/?p=12015&preview=true",
+  "planned_url": "https://itpotok.ru/download-windows-11-iso/",
+  "slug": "download-windows-11-iso",
+  "media": {
+    "cover": {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/windows-11-iso-cover-20261008.png",
+      "id": 12012,
+      "file": "windows-11-iso-cover-20261008.png"
+    },
+    "mct_download": {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/microsoft-mct-download-20261008.jpg",
+      "id": 12014,
+      "file": "microsoft-mct-download-20261008.png"
+    },
+    "iso_language": {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/microsoft-iso-russian-language-20261008.jpg",
+      "id": 12013,
+      "file": "microsoft-iso-russian-language-20261008.png"
+    }
+  }
+}
