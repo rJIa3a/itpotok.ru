@@ -4,4 +4,7 @@ Use case: stylized-concept. Asset type: editorial cover for Russian tutorial abo
 
 Актуальный промпт: Create a square editorial cover for a Russian how-to article about making a Windows 11 bootable USB drive. Premium clean realistic 3D metallic USB flash drive centered on dark navy blue background with soft blue light. Keep entire USB object and simple blue four-pane abstract OS motif inside central 45% of the canvas, generous empty margins on all sides so portrait and landscape crops retain the complete object. No text, no lettering, no numbers, no UI, no screenshot, no watermark.
 
-Mode: generate. Tool: image_gen. No references. Output: windows-11-usb-cover-square-20261004.png. Назначена в WP 11992, проверена обрезка на обычном экране.
+Предыдущий квадратный вариант заменён 09.10.2026 из-за высокого превью. Исходник сохранён в истории Git.
+
+Current mode: edit. Tool: built-in image_gen. Input: previous square cover. Output: windows-11-usb-cover-wide-20261009.png, 1672×941. WordPress media 12023.
+Final prompt: Edit target: the supplied square editorial cover. Convert it into a wide horizontal 16:9 cover, 1536x864 if possible. Preserve the silver USB flash drive, glowing blue four-pane motif, dark navy background and polished 3D illustration style. Rearrange and scale the subjects into the central area of the wide composition, with generous safe margins, fully visible connector and loop. No text, no labels, no interface, no watermark. The final canvas must be wide landscape, not square or portrait.
