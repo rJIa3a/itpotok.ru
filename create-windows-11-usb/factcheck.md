@@ -1,18 +1,33 @@
 # Фактчекинг
 
-Дата сверки: 04.10.2026. Первичные источники; практическая запись USB и установка ОС не выполнялись.
+Дата сверки: 08–09.10.2026. Факты ниже проверены по первичным источникам. Сведения документации отделены от выполненных действий.
 
-| Утверждение | Источник |
+| Утверждение | Источник и вывод |
 |---|---|
-| MCT создаёт USB, минимум 8 ГБ, данные удаляются, нужны права администратора; x64 отличается от ARM | [Загрузка Windows 11](https://www.microsoft.com/ru-ru/software-download/windows11), [создание носителя](https://support.microsoft.com/ru-ru/windows/deployment/install-upgrade/create-installation-media-for-windows). Текущий номер выпуска не закреплён в тексте. |
-| Совместимый CPU, TPM 2.0, UEFI и поддержка Secure Boot | [Требования Microsoft](https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-system-requirements). Запись флешки не подтверждает совместимость целевого ПК. |
-| TPM может называться Intel PTT или AMD fTPM | [Справка Microsoft](https://support.microsoft.com/en-gb/windows/security/devicesecurity/enable-tpm-2-0-on-your-pc). Настройки на рабочем ПК не изменялись. |
-| Для неподдерживаемого ПК обновления, включая безопасность, не гарантированы | [Позиция Microsoft](https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-on-devices-that-don-t-meet-minimum-system-requirements). Это не утверждение о полном отсутствии обновлений. |
-| Rufus: Windows 8+, portable, стандартная установка, GPT/UEFI | [Сайт разработчика](https://rufus.ie/ru/), [репозиторий](https://github.com/pbatard/rufus). |
-| Опции после START, ограничения обхода, UEFI:NTFS и восстановление незагрузочным форматированием | [FAQ Rufus](https://github.com/pbatard/rufus/wiki/FAQ). Доступность опций зависит от версии и ISO. |
-| FAT32: отдельный файл до 4 ГБ, WIM можно разделить | [Microsoft Learn](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive?view=windows-11). |
-| SHA256 и LiteralPath в Get-FileHash | [PowerShell](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-5.1). Путь в статье — пример. |
+| MCT скачивает файлы и создаёт USB; минимум 8 ГБ; выбранный накопитель очищается; нужен администратор | [Microsoft: загрузка Windows 11](https://www.microsoft.com/ru-ru/software-download/windows11), [создание носителя](https://support.microsoft.com/ru-ru/windows/deployment/install-upgrade/create-installation-media-for-windows). Для произвольного ISO 8 ГБ недостаточно гарантировать; рекомендовано 16 ГБ или больше. |
+| MCT предназначен для x64; ARM64 — отдельный образ | Та же страница Microsoft. Архитектура запускаемой сборки Rufus и архитектура записываемой Windows — разные параметры. |
+| Rufus 4.15, Windows 8+, обычный и portable запускаются без установки | [Русский сайт Rufus](https://rufus.ie/ru/), [выпуск v4.15](https://github.com/pbatard/rufus/releases/tag/v4.15), опубликован 30.06.2026. Проверен latest в GitHub API. Portable сохраняет настройки рядом с программой. |
+| «Опыт использования Windows» открывается после «СТАРТ»; пункты зависят от версии и ISO | [FAQ Rufus](https://github.com/pbatard/rufus/wiki/FAQ). Старый выбор обхода в «Параметрах образа» не воспроизводится как текущий способ. |
+| Точные русские названия и опасная тихая установка | [Локализация v4.15](https://github.com/pbatard/rufus/blob/v4.15/res/loc/rufus.loc), раздел ru-RU: MSG327–335, MSG355–356. Последние предупреждают об удалении первого обнаруженного диска при автоматической установке. В статье эта опция выключена. Названия сверены по исходнику; окно опций практически не открывалось. |
+| «Готов» бывает до записи; ноль устройств и недоступный «СТАРТ» не являются результатом | Непосредственно наблюдалось русское окно Rufus 4.15.2396 portable без подходящего накопителя. Файл кадра для статьи не сохранён. |
+| GPT/UEFI относятся к USB и не преобразуют внутренний диск; стандартная установка отличается от Windows To Go | [FAQ Rufus](https://github.com/pbatard/rufus/wiki/FAQ), [репозиторий](https://github.com/pbatard/rufus). Инструкция не включает установку системы на сам USB. |
+| NTFS может загружаться в UEFI; Rufus создаёт вспомогательный раздел | [UEFI:NTFS](https://github.com/pbatard/uefi-ntfs). NTFS не приравнивается к Legacy/CSM. |
+| FAT32 ограничивает один файл 4 ГБ; WIM можно разделить | [Microsoft Learn](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive?view=windows-11). Подробный ручной способ исключён из области статьи. |
+| CPU, TPM 2.0, UEFI с поддержкой Secure Boot входят в требования | [Требования Windows 11](https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-system-requirements). Создание флешки не подтверждает совместимость ПК. |
+| TPM бывает отключён и называется Intel PTT / AMD fTPM | [Microsoft: включение TPM](https://support.microsoft.com/en-gb/windows/security/devicesecurity/enable-tpm-2-0-on-your-pc). Настройки текущего ПК не менялись. |
+| Обход проверок не гарантирует аппаратную совместимость и обновления | [Microsoft о неподдерживаемых устройствах](https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-on-devices-that-don-t-meet-minimum-system-requirements), [FAQ Rufus](https://github.com/pbatard/rufus/wiki/FAQ). Отсутствие гарантии обновлений не подменяется утверждением, что они никогда не приходят. |
+| Кнопка скачивания зависит от проверки обновлений и доступности скрипта; для ISO достаточно «ВЫБРАТЬ» | [FAQ Rufus](https://github.com/pbatard/rufus/wiki/FAQ). Настройки обновлений в ходе работы не менялись. |
+| «Незагрузочный» возвращает накопитель к хранению файлов и удаляет созданные разделы | [FAQ Rufus](https://github.com/pbatard/rufus/wiki/FAQ). Это повторное форматирование, не восстановление ранее удалённых данных. |
 
-Конкурент посвящён Universal Media Creation Tool и обходу проверок. Запрос шире, поэтому в статье сначала штатное средство и Rufus, затем отдельный ограниченный сценарий обхода. Формулировки не копировались.
+## Выполненные проверки
 
-Не выполнялись: запись накопителя, SHA-256 настоящего ISO, Boot Menu, установка, обход TPM, форматирование. Эти шаги не представлены как собственное испытание. Текст и отрывок сохранены в WP; пять FAQ и ответы присутствуют в предпросмотре. Обложка 11992 назначена и проверена в теме на обычном экране. Публичная страница не проверялась: запись — черновик. Попытка мобильного размера не изменила реальную ширину, поэтому мобильная проверка не засчитана.
+- Проверена действительная Authenticode-подпись скачанного `rufus-4.15p.exe`: Akeo Consulting.
+- С официальной страницы Microsoft получен русский x64 ISO `Windows11_Client_x64_ru-ru_26300_9457.iso`, 8 748 939 264 байта. SHA-256 совпал с таблицей Microsoft: `3DD71E8F84BFDC0054E1C4383DB2EAC921D21952AC03B2231CB6E9610A2F7423`. Временная подписанная ссылка и ISO не включаются в GitHub.
+- Прочитано русское окно Rufus 4.15.2396 без устройств. Выбор накопителя, запись, дополнительные параметры и возврат флешки форматированием не выполнялись.
+- Официальный ISO загружен в изолированной QEMU 11.1.0 (TCG, 2 ГБ ОЗУ, 2 виртуальных CPU, без сети, жёстких дисков и проброса USB) до русского экрана языковых параметров. Успешный кадр получен в режиме BIOS; попытка UEFI остановилась на оболочке прошивки и успешной проверкой не считается. Это иллюстрация интерфейса установщика, не проверка UEFI-носителя или соответствия виртуальной машины требованиям Windows 11. Установка не запускалась, после съёмки процесс завершён. QEMU получена по ссылке официального проекта, SHA-512 дистрибутива совпал с опубликованным. Использованы [параметры запуска QEMU](https://www.qemu.org/docs/master/system/invocation.html) и штатный [QMP screendump](https://www.qemu.org/docs/master/interop/qemu-qmp-ref.html#command-screendump).
+- WordPress 11989 остался черновиком. REST подтвердил тело, отрывок, заголовок, ключ и обложку. В предпросмотре сверены начало, содержание и якоря, списки шагов (7/6/5), таблицы, отсутствие видимого шорткода и пять ответов FAQ.
+- Проверены обычная ширина 1280 и узкая 390×844. На узком экране таблица выбора шире контейнера и прокручивается внутри него; вся страница не выходит за экран. Это не испытание на физическом телефоне.
+
+Не подтверждены практикой: запись и загрузка физического USB, обход TPM/Secure Boot, установка и активация Windows, работа всех драйверов. После будущей публикации потребуется проверка без авторизации. Публикация в этой задаче не выполняется.
+
+Разбор конкурентов и решение о едином материале Rufus/MCT сохранены в `editorial.md`.
