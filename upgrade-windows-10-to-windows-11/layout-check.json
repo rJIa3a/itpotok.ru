@@ -1,0 +1,22 @@
+[
+  {
+    "cover": [
+      {
+        "height": 319.3500061035156,
+        "width": 370
+      }
+    ],
+    "scrollWidth": 1273,
+    "viewport": 1280
+  },
+  {
+    "cover": [
+      {
+        "height": 188.65000915527344,
+        "width": 335.20001220703125
+      }
+    ],
+    "scrollWidth": 375,
+    "viewport": 390
+  }
+]
