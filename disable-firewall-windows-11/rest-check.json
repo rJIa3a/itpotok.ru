@@ -1,0 +1,10 @@
+{
+  "post_id": 12031,
+  "status": "draft",
+  "method": "saved WordPress editor after confirmed submit",
+  "body_matches": true,
+  "excerpt_matches": true,
+  "faq_fields": 8,
+  "checked": "2026-10-11",
+  "rest_note": "Initial REST readback passed; later REST requests returned transport EOF. Final content checked through saved native editor."
+}
