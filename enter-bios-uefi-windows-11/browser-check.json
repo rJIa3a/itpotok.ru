@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-11",
+  "method": "WordPress native editor saved-data readback and authorized preview",
+  "post_id": 12040,
+  "status": "draft",
+  "body_matches_source_trim_end": true,
+  "excerpt_matches": true,
+  "faq_pairs_match": true,
+  "faq_answers_revealed": 4,
+  "visible_shortcode": false,
+  "featured_media": 12037,
+  "mobile_viewport": [390, 844],
+  "mobile_document_width": 375,
+  "mobile_cover_dimensions": [335.2, 188.55],
+  "first_image_zoom_original_dimensions": [1024, 768],
+  "public_unauthenticated_check": false,
+  "practical_firmware_entry_test": false
+}
