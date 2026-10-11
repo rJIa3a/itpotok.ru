@@ -1,0 +1,23 @@
+{
+  "preview_url": "https://itpotok.ru/?p=12040&preview=true",
+  "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12040&action=edit",
+  "choose": {
+    "url": "https://itpotok.ru/wp-content/uploads/2023/01/microsoft-choose.png",
+    "width": 1024,
+    "height": 768,
+    "id": 12038
+  },
+  "cover": {
+    "url": "https://itpotok.ru/wp-content/uploads/2023/01/bios-uefi-cover-wide-20261011.png",
+    "width": 1672,
+    "height": 941,
+    "id": 12037
+  },
+  "advanced": {
+    "url": "https://itpotok.ru/wp-content/uploads/2023/01/microsoft-advanced.png",
+    "width": 1024,
+    "height": 768,
+    "id": 12039
+  },
+  "draft_id": 12040
+}

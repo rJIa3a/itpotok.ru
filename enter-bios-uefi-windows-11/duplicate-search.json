@@ -1,0 +1,471 @@
+[
+  {
+    "id": 403,
+    "status": "publish",
+    "slug": "sozdanie-zagruzochnoj-fleshki-i-ustanovka-operacionnoj-sistemy-windows-xp",
+    "title": "Создание загрузочной флешки и установка операционной системы Windows XP",
+    "link": "https://itpotok.ru/sozdanie-zagruzochnoj-fleshki-i-ustanovka-operacionnoj-sistemy-windows-xp/"
+  },
+  {
+    "id": 462,
+    "status": "publish",
+    "slug": "kak-ustanovit-windows-xp-na-netbuk-poshagovaya-instrukciya-dlya-novichkov",
+    "title": "Пошаговая инструкция: как установить Windows ХР на нетбук новичку",
+    "link": "https://itpotok.ru/kak-ustanovit-windows-xp-na-netbuk-poshagovaya-instrukciya-dlya-novichkov/"
+  },
+  {
+    "id": 538,
+    "status": "publish",
+    "slug": "azbuka-ustanovki-windows-xp-sozdanie-zagruzochnogo-diska",
+    "title": "Азбука установки Windows XP: создание загрузочного диска",
+    "link": "https://itpotok.ru/azbuka-ustanovki-windows-xp-sozdanie-zagruzochnogo-diska/"
+  },
+  {
+    "id": 607,
+    "status": "publish",
+    "slug": "podrobnaya-ustanovka-windows-xp-na-noutbuk-i-nastrojki",
+    "title": "Подробная установка и настройка Windows XP на ноутбуке",
+    "link": "https://itpotok.ru/podrobnaya-ustanovka-windows-xp-na-noutbuk-i-nastrojki/"
+  },
+  {
+    "id": 827,
+    "status": "publish",
+    "slug": "pochemu-net-zvuka-v-windows-xp-kak-reshit-problemu-so-zvukom",
+    "title": "Как решить проблему со звуком, если его нет в Windows XP?",
+    "link": "https://itpotok.ru/pochemu-net-zvuka-v-windows-xp-kak-reshit-problemu-so-zvukom/"
+  },
+  {
+    "id": 859,
+    "status": "publish",
+    "slug": "kak-razdelit-ili-podelit-na-chasti-zhestkij-disk-windows-xp",
+    "title": "Как разделить или поделить на части жесткий диск Windows XP?",
+    "link": "https://itpotok.ru/kak-razdelit-ili-podelit-na-chasti-zhestkij-disk-windows-xp/"
+  },
+  {
+    "id": 946,
+    "status": "publish",
+    "slug": "izuchaem-sposoby-razblokirovki-windows-xp",
+    "title": "Изучаем способы разблокировки Windows XP",
+    "link": "https://itpotok.ru/izuchaem-sposoby-razblokirovki-windows-xp/"
+  },
+  {
+    "id": 1015,
+    "status": "publish",
+    "slug": "kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov",
+    "title": "Как переустановить Windows XP, если у вас нет привода для чтения дисков",
+    "link": "https://itpotok.ru/kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov/"
+  },
+  {
+    "id": 1041,
+    "status": "publish",
+    "slug": "kakie-sboi-v-operacionnoj-sisteme-windows-xp-vstrechayutsya-chashhe-vsego",
+    "title": "Какие сбои в операционной системе Windows XP встречаются чаще всего?",
+    "link": "https://itpotok.ru/kakie-sboi-v-operacionnoj-sisteme-windows-xp-vstrechayutsya-chashhe-vsego/"
+  },
+  {
+    "id": 1086,
+    "status": "publish",
+    "slug": "pochemu-kompyuter-pod-upravleniem-windows-xp-perezagruzhaetsya-pri-starte",
+    "title": "Почему компьютер под управлением Windows XP перезагружается при старте?",
+    "link": "https://itpotok.ru/pochemu-kompyuter-pod-upravleniem-windows-xp-perezagruzhaetsya-pri-starte/"
+  },
+  {
+    "id": 1149,
+    "status": "publish",
+    "slug": "poshagovaya-instrukciya-pravilnaya-ustanovki-windows-xp",
+    "title": "Пошаговая инструкция правильной установки Windows XP",
+    "link": "https://itpotok.ru/poshagovaya-instrukciya-pravilnaya-ustanovki-windows-xp/"
+  },
+  {
+    "id": 1363,
+    "status": "publish",
+    "slug": "rukovodstvo-po-sozdaniyu-zagruzochnoj-fleshki-s-windows-xp",
+    "title": "Руководство по созданию загрузочной флешки с Windows XP",
+    "link": "https://itpotok.ru/rukovodstvo-po-sozdaniyu-zagruzochnoj-fleshki-s-windows-xp/"
+  },
+  {
+    "id": 1378,
+    "status": "publish",
+    "slug": "kak-pravilno-udalit-zabitii-parol-vhoda-v-windows-xp",
+    "title": "Как правильно удалить забытый пароль входа в Windows XP?",
+    "link": "https://itpotok.ru/kak-pravilno-udalit-zabitii-parol-vhoda-v-windows-xp/"
+  },
+  {
+    "id": 1621,
+    "status": "publish",
+    "slug": "reshenie-problem-s-printerom-i-pechatyu-na-kompyutere-s-windows-xp",
+    "title": "Решение проблем с принтером и печатью на компьютере с Windows XP",
+    "link": "https://itpotok.ru/reshenie-problem-s-printerom-i-pechatyu-na-kompyutere-s-windows-xp/"
+  },
+  {
+    "id": 1661,
+    "status": "publish",
+    "slug": "sinij-ekran-smerti-bsod-v-windows-xp-a-smert-li",
+    "title": "Синий экран смерти (BSOD) в Windows XP – а смерть ли?",
+    "link": "https://itpotok.ru/sinij-ekran-smerti-bsod-v-windows-xp-a-smert-li/"
+  },
+  {
+    "id": 1676,
+    "status": "publish",
+    "slug": "sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska",
+    "title": "Способы традиционной и автоматической установки Windows XP с диска",
+    "link": "https://itpotok.ru/sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska/"
+  },
+  {
+    "id": 1788,
+    "status": "publish",
+    "slug": "kak-udalit-operacionnuyu-sistemu-windows-xp",
+    "title": "Как удалить операционную систему Windows XP?",
+    "link": "https://itpotok.ru/kak-udalit-operacionnuyu-sistemu-windows-xp/"
+  },
+  {
+    "id": 1814,
+    "status": "publish",
+    "slug": "poshagovoe-rukovodstvo-ustanovki-windows-xp-s-fleshki",
+    "title": "Пошаговое руководство установки Windows XP с флешки",
+    "link": "https://itpotok.ru/poshagovoe-rukovodstvo-ustanovki-windows-xp-s-fleshki/"
+  },
+  {
+    "id": 1896,
+    "status": "publish",
+    "slug": "chto-delat-esli-vmesto-rabochego-stola-windows-xp-otobragaetsya-chernui-ekran",
+    "title": "Что делать, если вместо рабочего стола Windows XP отображается черный экран?",
+    "link": "https://itpotok.ru/chto-delat-esli-vmesto-rabochego-stola-windows-xp-otobragaetsya-chernui-ekran/"
+  },
+  {
+    "id": 2050,
+    "status": "publish",
+    "slug": "nastrojka-terminalnogo-servera-na-windows-xp",
+    "title": "Настройка терминального сервера на Windows XP",
+    "link": "https://itpotok.ru/nastrojka-terminalnogo-servera-na-windows-xp/"
+  },
+  {
+    "id": 2151,
+    "status": "publish",
+    "slug": "pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya",
+    "title": "Почему компьютер под управлением Windows XP не запускается",
+    "link": "https://itpotok.ru/pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya/"
+  },
+  {
+    "id": 2266,
+    "status": "publish",
+    "slug": "zapusk-konsoli-vosstanovleniya-v-os-windows-xp",
+    "title": "Запуск консоли восстановления в ОС Windows XP",
+    "link": "https://itpotok.ru/zapusk-konsoli-vosstanovleniya-v-os-windows-xp/"
+  },
+  {
+    "id": 2288,
+    "status": "publish",
+    "slug": "ustanovka-windows-xp-s-fleshki-s-pomoshhyu-winsetupfromusb",
+    "title": "Установка Windows XP с флешки с помощью WinSetupFromUSB",
+    "link": "https://itpotok.ru/ustanovka-windows-xp-s-fleshki-s-pomoshhyu-winsetupfromusb/"
+  },
+  {
+    "id": 2308,
+    "status": "publish",
+    "slug": "osobennosti-ustanovki-windows-xp-s-zhestkogo-diska-na-ssd",
+    "title": "Особенности установки Windows XP с жесткого диска на SSD",
+    "link": "https://itpotok.ru/osobennosti-ustanovki-windows-xp-s-zhestkogo-diska-na-ssd/"
+  },
+  {
+    "id": 2546,
+    "status": "publish",
+    "slug": "sozdanie-obraza-dlya-ustanovki-windows-xp-na-fleshke",
+    "title": "Создание образа для установки Windows XP на флешке",
+    "link": "https://itpotok.ru/sozdanie-obraza-dlya-ustanovki-windows-xp-na-fleshke/"
+  },
+  {
+    "id": 3015,
+    "status": "publish",
+    "slug": "kak-nastraivat-ssd-dlya-povysheniya-proizvoditelnosti-windows-7",
+    "title": "Как настраивать SSD для повышения производительности Windows 7?",
+    "link": "https://itpotok.ru/kak-nastraivat-ssd-dlya-povysheniya-proizvoditelnosti-windows-7/"
+  },
+  {
+    "id": 3063,
+    "status": "publish",
+    "slug": "kak-poborot-sinij-ekran-smerti-v-operacionnoj-sisteme-windows-7",
+    "title": "Как побороть синий экран смерти в операционной системе Windows 7?",
+    "link": "https://itpotok.ru/kak-poborot-sinij-ekran-smerti-v-operacionnoj-sisteme-windows-7/"
+  },
+  {
+    "id": 3193,
+    "status": "publish",
+    "slug": "rabota-s-zhestkimi-diskami-v-xode-ustanovki-windows-7-i-ne-tolko",
+    "title": "Работа с жесткими дисками в ходе установки Windows 7 и не только",
+    "link": "https://itpotok.ru/rabota-s-zhestkimi-diskami-v-xode-ustanovki-windows-7-i-ne-tolko/"
+  },
+  {
+    "id": 3272,
+    "status": "publish",
+    "slug": "sozdanie-zagruzochnoj-fleshki-s-distributivom-windows-7",
+    "title": "Создание загрузочной флешки с дистрибутивом Windows 7",
+    "link": "https://itpotok.ru/sozdanie-zagruzochnoj-fleshki-s-distributivom-windows-7/"
+  },
+  {
+    "id": 3322,
+    "status": "publish",
+    "slug": "prichiny-i-resheniya-chernogo-ekrana-smerti-pri-zapuske-windows-7",
+    "title": "Причины и решения черного экрана смерти при запуске Windows 7",
+    "link": "https://itpotok.ru/prichiny-i-resheniya-chernogo-ekrana-smerti-pri-zapuske-windows-7/"
+  },
+  {
+    "id": 3354,
+    "status": "publish",
+    "slug": "tri-sposoba-sdelat-zagruzochnuyu-fleshku-dlya-instalyacii-windows-7",
+    "title": "Три способа сделать загрузочную флешку для инсталляции Windows 7",
+    "link": "https://itpotok.ru/tri-sposoba-sdelat-zagruzochnuyu-fleshku-dlya-instalyacii-windows-7/"
+  },
+  {
+    "id": 3453,
+    "status": "publish",
+    "slug": "kak-s-pomoshhyu-raznyx-programm-sozdat-zagruzochnuyu-fleshku-windows-7",
+    "title": "Как с помощью разных программ создать загрузочную флешку Windows 7?",
+    "link": "https://itpotok.ru/kak-s-pomoshhyu-raznyx-programm-sozdat-zagruzochnuyu-fleshku-windows-7/"
+  },
+  {
+    "id": 3584,
+    "status": "publish",
+    "slug": "prichiny-oshibok-pri-zagruzke-windows-7-i-metody-ix-ustraneniya",
+    "title": "Причины ошибок при загрузке Windows 7 и методы их устранения",
+    "link": "https://itpotok.ru/prichiny-oshibok-pri-zagruzke-windows-7-i-metody-ix-ustraneniya/"
+  },
+  {
+    "id": 4299,
+    "status": "publish",
+    "slug": "instrukciya-po-sozdaniu-ustanovochnoi-fleshki-s-windows-7",
+    "title": "Инструкция по созданию установочной флешки с Windows 7",
+    "link": "https://itpotok.ru/instrukciya-po-sozdaniu-ustanovochnoi-fleshki-s-windows-7/"
+  },
+  {
+    "id": 4319,
+    "status": "publish",
+    "slug": "ustanovka-operatsionnoy-sistemi-windows-7-s-pomoshhyu-usb",
+    "title": "Установка операционной системы Windows 7 с помощью USB",
+    "link": "https://itpotok.ru/ustanovka-operatsionnoy-sistemi-windows-7-s-pomoshhyu-usb/"
+  },
+  {
+    "id": 4334,
+    "status": "publish",
+    "slug": "obzor-prichin-vozniknoveniya-osnovnih-sistemnih-oshibok-v-windows-7",
+    "title": "Причины возникновения основных системных ошибок в Windows 7",
+    "link": "https://itpotok.ru/obzor-prichin-vozniknoveniya-osnovnih-sistemnih-oshibok-v-windows-7/"
+  },
+  {
+    "id": 4511,
+    "status": "publish",
+    "slug": "vipolnenie-sbrosa-windows-7-k-zavodskim-nastroikam",
+    "title": "Выполнение сброса Windows 7 к заводским настройкам",
+    "link": "https://itpotok.ru/vipolnenie-sbrosa-windows-7-k-zavodskim-nastroikam/"
+  },
+  {
+    "id": 4684,
+    "status": "publish",
+    "slug": "chto-takoe-bios-i-kak-ego-nastroit-dlya-ustanovki-windows-7",
+    "title": "Что такое BIOS и как его настроить для установки Windows 7?",
+    "link": "https://itpotok.ru/chto-takoe-bios-i-kak-ego-nastroit-dlya-ustanovki-windows-7/"
+  },
+  {
+    "id": 4689,
+    "status": "publish",
+    "slug": "programmy-dlya-ustanovki-nuzhnih-drajverov-na-windows-7",
+    "title": "Программы для установки нужных драйверов на Windows 7",
+    "link": "https://itpotok.ru/programmy-dlya-ustanovki-nuzhnih-drajverov-na-windows-7/"
+  },
+  {
+    "id": 6156,
+    "status": "publish",
+    "slug": "kak-ustanovit-windows-7-na-kompyuter-ili-noutbuk",
+    "title": "Как установить Windows 7 на компьютер или ноутбук?",
+    "link": "https://itpotok.ru/kak-ustanovit-windows-7-na-kompyuter-ili-noutbuk/"
+  },
+  {
+    "id": 6209,
+    "status": "publish",
+    "slug": "vsyo-ob-ispolzovanii-virtualnyh-mashin-v-windows-7",
+    "title": "Всё об использовании виртуальных машин в Windows 7",
+    "link": "https://itpotok.ru/vsyo-ob-ispolzovanii-virtualnyh-mashin-v-windows-7/"
+  },
+  {
+    "id": 6782,
+    "status": "publish",
+    "slug": "zapisyvaem-obraz-windows-7-na-ustanovochnuyu-fleshku",
+    "title": "Записываем образ Windows 7 на установочную флешку",
+    "link": "https://itpotok.ru/zapisyvaem-obraz-windows-7-na-ustanovochnuyu-fleshku/"
+  },
+  {
+    "id": 7099,
+    "status": "publish",
+    "slug": "pyat-sposobov-sozdaniya-ustanovochnoj-fleshki-s-windows-7",
+    "title": "Пять способов создания установочной флешки с Windows 7",
+    "link": "https://itpotok.ru/pyat-sposobov-sozdaniya-ustanovochnoj-fleshki-s-windows-7/"
+  },
+  {
+    "id": 7154,
+    "status": "publish",
+    "slug": "oshibki-ustanovki-windows-7-iz-za-chego-oni-voznikayut-i-kak-reshayutsya",
+    "title": "Ошибки установки Windows 7. Из-за чего они возникают и как решаются",
+    "link": "https://itpotok.ru/oshibki-ustanovki-windows-7-iz-za-chego-oni-voznikayut-i-kak-reshayutsya/"
+  },
+  {
+    "id": 7190,
+    "status": "publish",
+    "slug": "razlichnie-oshibki-posle-obnovleniya-windows-7",
+    "title": "Различные ошибки после обновления Windows 7",
+    "link": "https://itpotok.ru/razlichnie-oshibki-posle-obnovleniya-windows-7/"
+  },
+  {
+    "id": 7220,
+    "status": "publish",
+    "slug": "sposoby-legalnoj-i-piratskoj-aktivatsii-windows-7-udalenie-aktivatsii",
+    "title": "Способы легальной и пиратской активации Windows 7",
+    "link": "https://itpotok.ru/sposoby-legalnoj-i-piratskoj-aktivatsii-windows-7-udalenie-aktivatsii/"
+  },
+  {
+    "id": 7434,
+    "status": "publish",
+    "slug": "kak-zajti-v-uefi-uluchshenii-bios-v-windows-8",
+    "title": "Как зайти в UEFI &#8212; улучшеный BIOS в Windows 8",
+    "link": "https://itpotok.ru/kak-zajti-v-uefi-uluchshenii-bios-v-windows-8/"
+  },
+  {
+    "id": 8310,
+    "status": "publish",
+    "slug": "reshaem-problemy-s-podklyucheniem-wi-fi-na-windows-8",
+    "title": "Решаем проблемы с подключением Wi-Fi на Windows 8",
+    "link": "https://itpotok.ru/reshaem-problemy-s-podklyucheniem-wi-fi-na-windows-8/"
+  },
+  {
+    "id": 8685,
+    "status": "publish",
+    "slug": "how-install-windows-10-from-usb",
+    "title": "Установка Windows 10 с флешки",
+    "link": "https://itpotok.ru/how-install-windows-10-from-usb/"
+  },
+  {
+    "id": 8727,
+    "status": "publish",
+    "slug": "safe-mode-widnows-10",
+    "title": "9 способов зайти в безопасный режим Widnows 10",
+    "link": "https://itpotok.ru/safe-mode-widnows-10/"
+  },
+  {
+    "id": 8770,
+    "status": "publish",
+    "slug": "boot-usb-flash-drive-windows-10",
+    "title": "Создать загрузочную флешку с Windows 10",
+    "link": "https://itpotok.ru/boot-usb-flash-drive-windows-10/"
+  },
+  {
+    "id": 9431,
+    "status": "publish",
+    "slug": "chto-delat-esli-ne-zagruzhaetsya-i-zavisaet-windows-xp",
+    "title": "Если Ваш Windows XP зависает и не загружается",
+    "link": "https://itpotok.ru/chto-delat-esli-ne-zagruzhaetsya-i-zavisaet-windows-xp/"
+  },
+  {
+    "id": 9432,
+    "status": "publish",
+    "slug": "podrobnaya-ustanovka-windows-xp-na-netbook",
+    "title": "Подробная установка Windows XP на нетбук",
+    "link": "https://itpotok.ru/podrobnaya-ustanovka-windows-xp-na-netbook/"
+  },
+  {
+    "id": 9436,
+    "status": "publish",
+    "slug": "kak-sozdat-zagruzochnuu-fleshku-programmoi-ultra-iso",
+    "title": "Как создать загрузочную флешку программой  Ultra ISO под Windows XP?",
+    "link": "https://itpotok.ru/kak-sozdat-zagruzochnuu-fleshku-programmoi-ultra-iso/"
+  },
+  {
+    "id": 9873,
+    "status": "publish",
+    "slug": "kak-pereustanovit-windows-10-na-pk-noutbuke-s-fleshki",
+    "title": "Как переустановить Windows 10: на ПК, ноутбуке, с флешки",
+    "link": "https://itpotok.ru/kak-pereustanovit-windows-10-na-pk-noutbuke-s-fleshki/"
+  },
+  {
+    "id": 9882,
+    "status": "publish",
+    "slug": "soveti-po-sozdaniu-zagruzochnoj-fleshki-s-windows-xp",
+    "title": "Советы по созданию загрузочной флешки с Windows XP",
+    "link": "https://itpotok.ru/soveti-po-sozdaniu-zagruzochnoj-fleshki-s-windows-xp/"
+  },
+  {
+    "id": 9885,
+    "status": "publish",
+    "slug": "pochemu-u-windows-xp-ne-udaetsya-raspoznat-fleshku",
+    "title": "Почему у Windows XP не удается распознать флешку?",
+    "link": "https://itpotok.ru/pochemu-u-windows-xp-ne-udaetsya-raspoznat-fleshku/"
+  },
+  {
+    "id": 9888,
+    "status": "publish",
+    "slug": "kak-zapisat-obraz-windows-xp-cherez-ultraiso",
+    "title": "Как записать образ Windows XP через UltraISO?",
+    "link": "https://itpotok.ru/kak-zapisat-obraz-windows-xp-cherez-ultraiso/"
+  },
+  {
+    "id": 9896,
+    "status": "publish",
+    "slug": "vosstanovlenie-zapuska-windows-xp-pri-povrezhdenii-zagruzchika",
+    "title": "Восстановление запуска Windows XP при повреждении загрузчика",
+    "link": "https://itpotok.ru/vosstanovlenie-zapuska-windows-xp-pri-povrezhdenii-zagruzchika/"
+  },
+  {
+    "id": 9897,
+    "status": "publish",
+    "slug": "zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit",
+    "title": "Как сбросить забытый пароль к Windows XP?",
+    "link": "https://itpotok.ru/zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit/"
+  },
+  {
+    "id": 9901,
+    "status": "publish",
+    "slug": "chto-delat-esli-ne-ustanavlivaetsya-windows-xp",
+    "title": "Что делать, если не устанавливается Windows XP?",
+    "link": "https://itpotok.ru/chto-delat-esli-ne-ustanavlivaetsya-windows-xp/"
+  },
+  {
+    "id": 9902,
+    "status": "publish",
+    "slug": "ustranyaem-oshibki-ustanovki-windows-xp",
+    "title": "Устраняем ошибки установки Windows XP",
+    "link": "https://itpotok.ru/ustranyaem-oshibki-ustanovki-windows-xp/"
+  },
+  {
+    "id": 9904,
+    "status": "publish",
+    "slug": "osnovnie-prichini-poyavleniya-oshibki-stop-0x0000007b-pri-ustanovke-windows-xp",
+    "title": "Основные причины появления ошибки stop 0x0000007B при установке Windows XP",
+    "link": "https://itpotok.ru/osnovnie-prichini-poyavleniya-oshibki-stop-0x0000007b-pri-ustanovke-windows-xp/"
+  },
+  {
+    "id": 9911,
+    "status": "publish",
+    "slug": "kak-samostoyatelno-ustanovit-windows-xp-na-ssd-disk",
+    "title": "Как самостоятельно установить Windows XP на SSD диск?",
+    "link": "https://itpotok.ru/kak-samostoyatelno-ustanovit-windows-xp-na-ssd-disk/"
+  },
+  {
+    "id": 11476,
+    "status": "publish",
+    "slug": "how-to-install-windows-11",
+    "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+    "link": "https://itpotok.ru/how-to-install-windows-11/"
+  },
+  {
+    "id": 11544,
+    "status": "publish",
+    "slug": "upgrade-windows-10-to-windows-11",
+    "title": "Как обновить Windows 10 до Windows 11 с сохранением файлов и программ",
+    "link": "https://itpotok.ru/upgrade-windows-10-to-windows-11/"
+  },
+  {
+    "id": 11989,
+    "status": "publish",
+    "slug": "create-windows-11-usb",
+    "title": "Rufus для Windows 11: как создать загрузочную флешку",
+    "link": "https://itpotok.ru/create-windows-11-usb/"
+  }
+]
