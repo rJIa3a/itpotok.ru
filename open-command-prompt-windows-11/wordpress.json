@@ -1,11 +1,15 @@
 {
   "id": 12052,
-  "status": "draft",
+  "status": "publish",
+  "url": "https://itpotok.ru/open-command-prompt-windows-11/",
   "slug": "open-command-prompt-windows-11",
   "featured_media": 12054,
   "content_matches": true,
   "excerpt_matches": true,
-  "modified": "2026-10-12T19:10:12",
-  "preview_url": "https://itpotok.ru/?p=12052&preview=true",
+  "modified": "2026-10-12T19:28:03",
+  "published": "2026-10-12T19:28:03",
+  "public_status": "publish",
+  "faq_items": 6,
+  "visible_shortcode": false,
   "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12052&action=edit"
 }
