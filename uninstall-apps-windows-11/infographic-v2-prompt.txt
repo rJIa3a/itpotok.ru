@@ -1,0 +1,45 @@
+Create a polished, visually expressive Russian editorial infographic for ITpotok.ru about uninstalling apps in Windows 11. Portrait 3:4, target 1200x1600. This should be an attractive illustrated editorial poster with concise practical information, NOT a stack of four plain text boxes.
+
+Art direction: clean white canvas, deep blue #0E5BA5, pale blue #DAE6F4, dark green #034E30, black text. Sophisticated soft isometric illustration with subtle dimensionality, smooth matte surfaces and crisp line details. Large central scene: a generic laptop with a blue abstract screen and several rounded application tiles; one tile is being lifted away, leaving a clear empty slot. A small green checkmark communicates successful removal. No trash bin metaphor, no real Windows screenshots, no fake UI labels, no decorative QR code, no invented official logo. The central illustration should occupy about 40% of the poster and visibly explain removal, not just decorate.
+
+Composition: generous white space, beautiful typography, balanced asymmetry, a strong title at the top. Below the title a narrow preparation reminder. Place an unmistakable blue primary route near the laptop. In the lower half use three short illustrated alternatives laid out as a branching landscape: a small Start grid, a classic control-panel sliders symbol, and a wrench/application symbol. Visually separate alternatives, not numbered consecutive steps. Short connecting lines link each relevant icon to its own explanation, not to the next method. Bottom: two restrained illustrated caution notes, and a readable source URL with margins. Avoid heavy colored rectangular boxes, crowded arrows, flat template look, oversized warning panels, red colors, tiny text, excessive gradients. Final should look like commissioned editorial illustration with a useful hierarchy.
+
+Render exactly this Russian text, all correct and legible. No additional text.
+TITLE:
+«Удаляем приложение
+в Windows 11»
+SUBTITLE:
+«Начните с Параметров»
+PREPARATION:
+«Сначала сохраните важные данные
+и закройте приложение.»
+
+MAIN ROUTE, bold blue heading and three readable lines:
+«Основной путь»
+«Параметры → Приложения
+→ Установленные приложения
+→ ⋯ → Удалить»
+
+THREE ALTERNATIVE CAPTIONS:
+«Нашли в „Пуске“?»
+«Правая кнопка мыши → Удалить»
+
+«Настольная программа не удаляется?»
+«Панель управления
+→ Программы и компоненты → Удалить»
+
+«Мастер выдаёт ошибку?»
+«Официальная инструкция
+и помощь разработчика»
+
+BOTTOM NOTES with simple small icons, readable:
+«Удаление ярлыка не удаляет приложение.»
+«Некоторые системные приложения нельзя удалить.»
+«Повторная установка не возвращает потерянные данные.»
+
+FOOTER:
+«ITpotok.ru»
+«Полная инструкция:»
+«itpotok.ru/uninstall-apps-windows-11/»
+
+All content must fit safely, with at least 50px margins. Give the central laptop scene and action tile genuine visual presence. Illustrative richness and refined composition matter, but technical clarity and Cyrillic spelling take precedence.

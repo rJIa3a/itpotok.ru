@@ -21,6 +21,7 @@
 - wordpress.json, rest-check.json, link-check.json, verification.md — безопасные ID/URL и результаты проверки.
 - site-search.json — результаты проверки опубликованных записей без приватных данных.
 - infographic.md, infographic-prompt.txt, assets/uninstall-apps-infographic-1200x1600.png — отдельная карточка 1200×1600 для распространения статьи, созданная 13.10.2026; в тело публикации не вставлена.
+- infographic-v2-prompt.txt, assets/uninstall-apps-infographic-v2-1200x1600.png — более иллюстративная версия по последующему запросу пользователя; подробности в infographic.md.
 
 Применён установленный itpotok-writing: копии скилла в исходной текущей ветке не было. Изучены редакционный стандарт и примеры. Структура и язык проверены двумя проходами.
 
