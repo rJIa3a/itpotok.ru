@@ -1,0 +1,42 @@
+Edit the supplied Russian infographic as the target image. Produce a significantly more beautiful, refined, illustrative editorial graphic for embedding inside its own ITpotok.ru article. Portrait 3:4. Preserve the accurate Russian instructional content and recognizable blue/white/dark-green website palette (#0E5BA5, #DAE6F4, #034E30). No red.
+
+Required change: remove the entire footer branding/source region: no URL, no "Полная инструкция", no website name, no QR, no watermark. Rebalance the space elegantly instead of leaving a blank footer.
+
+Visual direction: commissioned premium editorial illustration, sophisticated soft isometric 3D matte objects mixed with crisp 2D typography. An airy flowing composition, not a poster template. Beautiful blue ambient light, precise soft shadows, translucent glass details used sparingly, natural visual depth. A graceful central laptop scene occupying about half the composition: a generic app tile visibly rises away from a group, leaving one dotted empty slot, with one confident green completion check. The app tiles should use generic pictograms, remove Chrome and any real product logos. Remove irrelevant books and houseplants. A clean abstract white-to-pale-blue background with subtle flowing blue ribbons grounds the scene. Avoid photorealistic clutter, harsh shadows, neon saturation, decorative random props, plastic toy look. The illustration must look genuinely polished and communicate removal.
+
+Typography/layout: top heading in two balanced lines, black first line and blue second line, more refined and less overwhelmingly huge than the target. Short preparation reminder integrated with an elegant document/check pictogram. Main route is the strongest instructional text near the central laptop, on an airy pale-blue area WITHOUT a heavy capsule header. The three alternatives sit below in a beautifully aligned row, each with a more expressive miniature illustration (Start tile panel; classic settings sliders; application/wrench), a bold blue or dark-green heading and concise body. Do not number or connect alternatives sequentially. One delicate connection from the central computer to each alternative is okay. Use space, visual hierarchy and subtle background forms rather than thick rounded text boxes. Bottom cautions form a calm integrated strip, with generous bottom margin. All text readable, no tiny type, consistent alignment, no overlaps, no clipped glyphs.
+
+Exact text, no additional words:
+TITLE:
+"Удаляем приложение"
+"в Windows 11"
+PREPARATION:
+"Сначала сохраните важные данные"
+"и закройте приложение."
+MAIN:
+"Основной путь"
+"Параметры → Приложения"
+"→ Установленные приложения"
+"→ ⋯ → Удалить"
+ALTERNATIVE 1:
+"Нашли в «Пуске»?"
+"Правая кнопка мыши → Удалить"
+ALTERNATIVE 2:
+"Настольная программа"
+"не удаляется?"
+"Панель управления"
+"→ Программы и компоненты → Удалить"
+ALTERNATIVE 3:
+"Мастер выдаёт ошибку?"
+"Официальная инструкция"
+"и помощь разработчика"
+BOTTOM, three separate illustrated notes:
+"Удаление ярлыка"
+"не удаляет приложение."
+"Некоторые системные"
+"приложения нельзя удалить."
+"Повторная установка"
+"не возвращает"
+"потерянные данные."
+
+Do not recreate real Windows interface or present this as a screenshot. Keep it an illustrative explanatory composition. Preserve technical wording exactly. The final should be visibly more elegant and visually sophisticated than the input, with no promotional footer.
