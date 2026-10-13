@@ -1,0 +1,18 @@
+{
+  "anonymous_http": 200,
+  "url": "https://itpotok.ru/uninstall-apps-windows-11/",
+  "adminbar_present": false,
+  "faq_count": 5,
+  "faq_text_matches": true,
+  "visible_shortcode": false,
+  "images": [
+    {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/settings-uninstall-paint-ru.png",
+      "http": 200
+    },
+    {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/control-panel-uninstall-ru.jpg",
+      "http": 200
+    }
+  ]
+}
