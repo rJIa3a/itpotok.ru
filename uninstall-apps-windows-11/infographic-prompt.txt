@@ -1,0 +1,56 @@
+Use case: infographic-diagram.
+Create a finished Russian editorial infographic for itpotok.ru, portrait 3:4, target 1200 × 1600 pixels. High-quality flat editorial graphic, crisp Cyrillic typography, generous whitespace. White background #FFFFFF, main text black #000000, primary blue #0E5BA5, pale-blue cards #DAE6F4, secondary very pale #F4F8FB, restrained dark-green #034E30 for checkmark and small accents. This matches the actual website. No fake Windows screenshots, no photo, no 3D, no invented logo, no watermark. Only simple outlined icons.
+
+Semantic purpose: help an ordinary reader choose ONE way of uninstalling a Windows 11 app; the four cards are alternatives, NOT sequential steps. Do NOT connect cards with arrows. Do NOT number them as steps. Use four equal-width stacked rounded cards with an icon, bold short situation heading and readable action path. Use subtle alternating pale backgrounds. Strong hierarchy, all text large enough for a mobile screen, avoid tiny text. Safe outer margins 64px. Spell all Russian text exactly as below, no additional claims or labels.
+
+Top title, large, two or three balanced lines:
+«Как удалить приложение
+в Windows 11»
+Subtitle:
+«Выберите подходящий способ»
+
+Preparation strip with a green checkmark:
+«Перед удалением»
+«Сохраните важные данные и закройте приложение.»
+
+Four alternative cards, with corresponding simple icons: settings gear; Start menu grid; classic control-panel sliders; wrench beside application window.
+Card A heading:
+«Основной способ»
+Body on three comfortable lines:
+«Параметры → Приложения
+→ Установленные приложения
+→ ⋯ → Удалить»
+
+Card B heading:
+«Приложение нашли в „Пуске“»
+Body:
+«Правая кнопка мыши по приложению
+→ Удалить»
+Small same readable-size note:
+«Может открыться Панель управления.»
+
+Card C heading:
+«Настольная программа не удаляется»
+Body:
+«Панель управления
+→ Программы и компоненты
+→ выберите программу → Удалить»
+
+Card D heading:
+«Мастер удаления не запускается»
+Body:
+«Найдите официальную инструкцию
+и средство удаления разработчика.»
+
+Bottom compact attention panel, readable, three separate short statements:
+«Важно»
+«Удаление ярлыка не удаляет приложение.»
+«Некоторые системные приложения нельзя удалить.»
+«Повторная установка не гарантирует возврата данных.»
+
+Footer:
+«ITpotok.ru»
+«Полная инструкция:»
+«itpotok.ru/uninstall-apps-windows-11/»
+
+Do not generate a QR code (a generated decorative code would not reliably scan). Use the complete readable URL above. Composition must feel like the site's instructional content, not an advertisement. No extra ornamental objects. Exact wording and technical accuracy are more important than decoration.
