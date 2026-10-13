@@ -1,0 +1,11 @@
+{
+  "http": 200,
+  "title_present": true,
+  "faq_items": 5,
+  "cover": true,
+  "choose": true,
+  "advanced": true,
+  "admin_bar": false,
+  "visible_shortcode": false,
+  "bitlocker_update": true
+}
