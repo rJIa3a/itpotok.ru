@@ -1,0 +1,23 @@
+{
+  "choose": {
+    "width": 1024,
+    "id": 12065,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/safe-mode-microsoft-choose-ru-20261013.png",
+    "height": 768
+  },
+  "draft_id": 12067,
+  "cover": {
+    "width": 1672,
+    "id": 12064,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/safe-mode-cover-wide-20261013.png",
+    "height": 941
+  },
+  "preview_url": "https://itpotok.ru/?p=12067&preview=true",
+  "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12067&action=edit",
+  "advanced": {
+    "width": 1024,
+    "id": 12066,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/safe-mode-microsoft-advanced-ru-20261013.png",
+    "height": 768
+  }
+}
