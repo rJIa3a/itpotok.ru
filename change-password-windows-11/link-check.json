@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://account.microsoft.com/security",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/accounts-billing/manage/change-your-microsoft-account-password",
+    "status": 200
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/accounts-billing/security/how-to-go-passwordless-with-your-microsoft-account",
+    "status": 200
+  }
+]
