@@ -1,0 +1,24 @@
+{
+  "checked": "2026-10-15",
+  "id": 12088,
+  "status": "publish",
+  "url": "https://itpotok.ru/phone-link-windows-11/",
+  "body_matches": true,
+  "excerpt_matches": true,
+  "cover_matches": true,
+  "http_status": 200,
+  "public_h1": "Связь с телефоном в Windows 11: подключение Android и iPhone",
+  "faq_count": 6,
+  "visible_shortcode": false,
+  "source_sha256": "a30f6c9655ddb8eb27cee5363a4013b74bd333dcce3e18cc0952e6f45d508226",
+  "browser_anonymous": true,
+  "browser_viewports": [
+    "default",
+    "390x844"
+  ],
+  "faq_all_answers_visible": true,
+  "screenshots": [
+    "verification/public-desktop.png",
+    "verification/public-mobile.png"
+  ]
+}
