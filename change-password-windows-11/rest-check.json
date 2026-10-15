@@ -1,12 +1,12 @@
 {
-  "cover_matches": true,
-  "checked": "2026-10-15",
-  "excerpt_matches": true,
-  "body_matches": true,
-  "status": "draft",
   "slug": "change-password-windows-11",
+  "cover_matches": true,
   "draft_id": 12084,
-  "visible_shortcode": false,
   "faq_count": 5,
-  "preview": "https://itpotok.ru/?p=12084&preview=true"
+  "preview": "https://itpotok.ru/?p=12084&preview=true",
+  "visible_shortcode": false,
+  "excerpt_matches": true,
+  "checked": "2026-10-15",
+  "body_matches": true,
+  "status": "draft"
 }
