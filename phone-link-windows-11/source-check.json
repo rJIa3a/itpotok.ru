@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://support.microsoft.com/en-US/Windows/Apps/PhoneLink/send-and-receive-text-messages-from-your-pc",
+    "status": 200,
+    "title": "Send and receive text messages from your PC | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-gb/windows/apps/photos/view-and-manage-photos-from-your-android-device-on-your-pc",
+    "status": 200,
+    "title": "View and manage photos from your Android device on your PC | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/apps/phonelink/remove-your-mobile-device-from-phone-link-link-to-windows-and-windows-settings",
+    "status": 200,
+    "title": "Remove your mobile device from Phone Link, Link to Windows, and Windows Settings | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/apps/phonelink/seamlessly-transfer-content-between-your-devices",
+    "status": 200,
+    "title": "Seamlessly transfer content between your devices | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/apps/phonelink/setting-up-and-using-phone-screen-in-the-phone-link",
+    "status": 200,
+    "title": "Setting up and using phone screen in the Phone Link | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/apps/phonelink/supported-devices-for-phone-link-experiences",
+    "status": 200,
+    "title": "Supported devices for Phone Link experiences | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/apps/phonelink/troubleshoot-apps-in-the-phone-link",
+    "status": 200,
+    "title": "Troubleshoot Apps in the Phone Link | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/apps/phonelink/troubleshooting-notifications-in-the-phone-link",
+    "status": 200,
+    "title": "Troubleshooting notifications in the Phone Link | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/apps/phonelink/troubleshooting-the-phone-link",
+    "status": 200,
+    "title": "Troubleshooting the Phone Link | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/windows/deployment/updates-lifecycle/windows-10-support-has-ended-on-october-14-2025",
+    "status": 200,
+    "title": "Windows 10 support has ended on October 14, 2025 | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/windows/apps/phonelink/phone-link-requirements-and-setup",
+    "status": 200,
+    "title": "Требования и настройка приложения \"Связь с телефоном\" | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/windows/apps/phonelink/setting-up-apps-in-the-phone-link",
+    "status": 200,
+    "title": "Настройка приложений в приложении \"Связь с телефоном\" | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/windows/apps/phonelink/setting-up-calls-in-the-phone-link",
+    "status": 200,
+    "title": "Настройка вызовов в приложении \"Связь с телефоном\" | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/windows/apps/phonelink/setting-up-messages-in-the-phone-link",
+    "status": 200,
+    "title": "Настройка сообщений в Связь с телефоном | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/windows/apps/phonelink/setting-up-notifications-in-the-phone-link",
+    "status": 200,
+    "title": "Настройка уведомлений в приложении \"Связь с телефоном\" | Microsoft Support"
+  },
+  {
+    "url": "https://support.microsoft.com/ru-ru/windows/apps/phonelink/troubleshooting-for-messages-in-the-phone-link",
+    "status": 200,
+    "title": "Устранение неполадок с сообщениями в приложении \"Связь с телефоном\" | Microsoft Support"
+  }
+]
