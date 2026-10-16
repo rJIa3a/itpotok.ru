@@ -1,0 +1,5 @@
+Built-in imagegen. Editorial illustration, not a screenshot.
+Landscape 16:9. Deep navy background, white keyboard keycaps and prominent blue Shift key, five small light dots. No computer screen, fake settings or Microsoft logo. Text: «Залипание клавиш», «Windows 11». Safe margins for website crop.
+Generated 1672×941; full composition resized to 1600×900 JPEG for the featured image. PNG is the original generated asset.
+
+Edit prompt: keep 16:9, move all text and blue Shift key inside central 40% width, title on two lines «Залипание» / «клавиш», below «Windows 11». Reason: website crops cover to a nearly square card on desktop.

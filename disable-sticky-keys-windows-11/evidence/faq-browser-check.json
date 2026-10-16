@@ -1,0 +1,26 @@
+{
+  "source": "Locally served authenticated WordPress preview HTML; original site assets",
+  "checked": "2026-10-16",
+  "checks": [
+    {
+      "question": "Нужно ли отключать Shift или менять раскладку?",
+      "answer_visible": true
+    },
+    {
+      "question": "Можно оставить залипание, но убрать случайный запуск?",
+      "answer_visible": true
+    },
+    {
+      "question": "Почему после отключения звука окно всё равно появляется?",
+      "answer_visible": true
+    },
+    {
+      "question": "Поможет ли это от повторяющихся букв?",
+      "answer_visible": true
+    },
+    {
+      "question": "Отключение действует во всех учётных записях?",
+      "answer_visible": true
+    }
+  ]
+}
