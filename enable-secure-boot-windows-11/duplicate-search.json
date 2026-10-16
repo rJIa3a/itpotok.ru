@@ -1,0 +1,72 @@
+[
+  {
+    "posts": [
+      {
+        "title": "Как зайти в BIOS или UEFI на Windows 11",
+        "id": 12040,
+        "url": "https://itpotok.ru/enter-bios-uefi-windows-11/"
+      },
+      {
+        "title": "Rufus для Windows 11: как создать загрузочную флешку",
+        "id": 11989,
+        "url": "https://itpotok.ru/create-windows-11-usb/"
+      },
+      {
+        "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+        "id": 11476,
+        "url": "https://itpotok.ru/how-to-install-windows-11/"
+      },
+      {
+        "title": "Как зайти в UEFI &#8212; улучшеный BIOS в Windows 8",
+        "id": 7434,
+        "url": "https://itpotok.ru/kak-zajti-v-uefi-uluchshenii-bios-v-windows-8/"
+      },
+      {
+        "title": "Что такое BIOS и как его настроить для установки Windows 7?",
+        "id": 4684,
+        "url": "https://itpotok.ru/chto-takoe-bios-i-kak-ego-nastroit-dlya-ustanovki-windows-7/"
+      },
+      {
+        "title": "Устраняем ошибки установки Windows XP",
+        "id": 9902,
+        "url": "https://itpotok.ru/ustranyaem-oshibki-ustanovki-windows-xp/"
+      }
+    ],
+    "term": "Secure Boot"
+  },
+  {
+    "posts": [
+      {
+        "title": "Rufus для Windows 11: как создать загрузочную флешку",
+        "id": 11989,
+        "url": "https://itpotok.ru/create-windows-11-usb/"
+      },
+      {
+        "title": "Как обновить Windows 10 до Windows 11 с сохранением файлов и программ",
+        "id": 11544,
+        "url": "https://itpotok.ru/upgrade-windows-10-to-windows-11/"
+      },
+      {
+        "title": "Для чего нужен безопасный режим в Windows 7 и как с ним работать",
+        "id": 6483,
+        "url": "https://itpotok.ru/dlya-chego-nuzhen-bezopasnyj-rezhim-v-windows-7-i-kak-s-nim-rabotat/"
+      },
+      {
+        "title": "Что такое BIOS и как его настроить для установки Windows 7?",
+        "id": 4684,
+        "url": "https://itpotok.ru/chto-takoe-bios-i-kak-ego-nastroit-dlya-ustanovki-windows-7/"
+      }
+    ],
+    "term": "безопасная загрузка"
+  },
+  {
+    "posts": [
+      {
+        "title": "Rufus для Windows 11: как создать загрузочную флешку",
+        "id": 11989,
+        "url": "https://itpotok.ru/create-windows-11-usb/"
+      }
+    ],
+    "term": "безопасную загрузку"
+  }
+]
