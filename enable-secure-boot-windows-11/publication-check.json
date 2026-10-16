@@ -1,0 +1,16 @@
+{
+  "checked": "2026-10-16",
+  "id": 12103,
+  "status": "publish",
+  "url": "https://itpotok.ru/enable-secure-boot-windows-11/",
+  "body_matches": true,
+  "excerpt_matches": true,
+  "cover_matches": true,
+  "http_status": 200,
+  "public_status": "publish",
+  "faq_count": 5,
+  "visible_shortcode": false,
+  "anonymous_no_adminbar": true,
+  "title": "Как включить безопасную загрузку Secure Boot в Windows 11",
+  "source_sha256": "22360d7f1f09d2745ef4450f6f70e624a3627f070a3f333649f865c2502e037e"
+}
