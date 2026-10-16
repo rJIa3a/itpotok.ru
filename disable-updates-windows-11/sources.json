@@ -86,5 +86,13 @@
     "checked_at": "2026-10-16",
     "excerpt": "Auto install and restart",
     "limitations": "Рекомендации управления и период активности; не тест личного ПК."
+  },
+  {
+    "id": "S12",
+    "url": "https://support.microsoft.com/en-us/windows/experience/system-configuration-tools-in-windows",
+    "title": "System configuration tools in Windows",
+    "checked_at": "2026-10-16",
+    "excerpt": "The Local Group Policy Editor is not availabe on Windows Home edition.",
+    "limitations": "Справка Microsoft о наличии редактора; не практический прогон."
   }
 ]

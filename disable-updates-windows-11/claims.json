@@ -67,9 +67,9 @@
   },
   {
     "id": "C7",
-    "claim": "Документированная область AllowAutoUpdate не включает Home; gpedit не штатный способ Home.",
+    "claim": "Таблица AllowAutoUpdate CSP не включает Home; это не эмпирический тест NoAutoUpdate в Home.",
     "source_id": "S4",
-    "evidence": "Таблица редакций Pro, Enterprise, Education, IoT.",
+    "evidence": "Перечень редакций политики MDM, а не доказательство выполнения реестра.",
     "checked_at": "2026-10-16",
     "next_review": "2026-11-16",
     "status": "supported",
@@ -119,5 +119,16 @@
     "status": "supported",
     "material": true,
     "location": "check"
+  },
+  {
+    "id": "C12",
+    "claim": "Штатный редактор локальной групповой политики отсутствует в Windows Home.",
+    "source_id": "S12",
+    "evidence": "Microsoft прямо исключает Home в разделе Local Group Policy Editor.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "home"
   }
 ]

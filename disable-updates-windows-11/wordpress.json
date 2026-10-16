@@ -9,8 +9,12 @@
   "draft_id": 12122,
   "preview_url": "https://itpotok.ru/?p=12122&preview=true",
   "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12122&action=edit",
-  "status": "draft",
+  "status": "publish",
   "faq_source_id": 12122,
   "draft_dependency": false,
-  "editorial_status": "unverified-draft"
+  "editorial_status": "source-checked; practical verification incomplete",
+  "published_id": 12122,
+  "published_url": "https://itpotok.ru/disable-updates-windows-11/",
+  "published_date": "2026-10-16",
+  "publication_authorization": "Явное поручение пользователя в текущем чате: Сделай фактчекинг и публикуй."
 }
