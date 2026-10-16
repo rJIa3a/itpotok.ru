@@ -1,0 +1,380 @@
+[
+  {
+    "id": 12094,
+    "status": "publish",
+    "title": "Как отключить залипание клавиш в Windows 11 и убрать вызов через Shift",
+    "url": "https://itpotok.ru/disable-sticky-keys-windows-11/"
+  },
+  {
+    "id": 12052,
+    "status": "publish",
+    "title": "Как открыть командную строку в Windows 11",
+    "url": "https://itpotok.ru/open-command-prompt-windows-11/"
+  },
+  {
+    "id": 12043,
+    "status": "draft",
+    "title": "Файл подкачки в Windows 11 и 10: как увеличить и настроить",
+    "url": "https://itpotok.ru/?p=12043"
+  },
+  {
+    "id": 11975,
+    "status": "draft",
+    "title": "Виджеты Windows 11: как добавить, настроить и убрать",
+    "url": "https://itpotok.ru/?p=11975"
+  },
+  {
+    "id": 11944,
+    "status": "publish",
+    "title": "Виджеты Windows 11: как добавить, настроить и убрать",
+    "url": "https://itpotok.ru/widgets-windows-11/"
+  },
+  {
+    "id": 11875,
+    "status": "draft",
+    "title": "Как отключить Microsoft Defender в Windows 11",
+    "url": "https://itpotok.ru/?p=11875"
+  },
+  {
+    "id": 11548,
+    "status": "publish",
+    "title": "Как отключить Microsoft Defender в Windows 11",
+    "url": "https://itpotok.ru/disable-defender-antivirus-windows-11/"
+  },
+  {
+    "id": 11541,
+    "status": "publish",
+    "title": "Как сделать скриншот в Windows 11",
+    "url": "https://itpotok.ru/take-screenshot-windows-11/"
+  },
+  {
+    "id": 11903,
+    "status": "draft",
+    "title": "Как сделать скриншот в Windows 11",
+    "url": "https://itpotok.ru/?p=11903"
+  },
+  {
+    "id": 9878,
+    "status": "publish",
+    "title": "Файл подкачки в Windows 11 и 10: как увеличить и настроить",
+    "url": "https://itpotok.ru/fajl-podkachki-v-windows-10/"
+  },
+  {
+    "id": 8531,
+    "status": "publish",
+    "title": "20 советов по ускорению работы Windows 10",
+    "url": "https://itpotok.ru/20-sovetov-po-uskoreniyu-raboty-windows-10/"
+  },
+  {
+    "id": 8310,
+    "status": "publish",
+    "title": "Решаем проблемы с подключением Wi-Fi на Windows 8",
+    "url": "https://itpotok.ru/reshaem-problemy-s-podklyucheniem-wi-fi-na-windows-8/"
+  },
+  {
+    "id": 8179,
+    "status": "publish",
+    "title": "Как работать с папками в Windows 8: новые возможности проводника",
+    "url": "https://itpotok.ru/kak-rabotat-s-papkami-v-windows-8-novye-vozmozhnosti-provodnika/"
+  },
+  {
+    "id": 8136,
+    "status": "publish",
+    "title": "Новые функции поиска в Windows 8. Как искать и делать видимыми скрытые файлы",
+    "url": "https://itpotok.ru/novye-funktsii-poiska-v-windows-8-kak-iskat-i-delat-vidimymi-skrytye-fajly/"
+  },
+  {
+    "id": 7599,
+    "status": "publish",
+    "title": "Шесть простых способов запуска калькулятора в Windows 8",
+    "url": "https://itpotok.ru/shest-prostyh-sposobov-zapuska-kalkulyatora-v-windows-8/"
+  },
+  {
+    "id": 7220,
+    "status": "publish",
+    "title": "Способы легальной и пиратской активации Windows 7",
+    "url": "https://itpotok.ru/sposoby-legalnoj-i-piratskoj-aktivatsii-windows-7-udalenie-aktivatsii/"
+  },
+  {
+    "id": 7190,
+    "status": "publish",
+    "title": "Различные ошибки после обновления Windows 7",
+    "url": "https://itpotok.ru/razlichnie-oshibki-posle-obnovleniya-windows-7/"
+  },
+  {
+    "id": 6691,
+    "status": "publish",
+    "title": "Где найти подходящие драйвера для ОС Windows 7 на ноутбук?",
+    "url": "https://itpotok.ru/gde-najti-podhodyashhie-drajvera-dlya-os-windows-7-na-noutbuk/"
+  },
+  {
+    "id": 6532,
+    "status": "publish",
+    "title": "Общая папка и как открыть к ней доступ в Windows 7",
+    "url": "https://itpotok.ru/obshhaya-papka-i-kak-otkryt-k-nej-dostup-v-windows-7/"
+  },
+  {
+    "id": 6511,
+    "status": "publish",
+    "title": "Для чего нужны скрытые папки в Windows 7 и как сделать их видимыми",
+    "url": "https://itpotok.ru/dlya-chego-nuzhny-skrytye-papki-v-windows-7-i-kak-sdelat-ih-vidimymi/"
+  },
+  {
+    "id": 6372,
+    "status": "publish",
+    "title": "Поиск файлов в Windows 7 по названию и содержимому",
+    "url": "https://itpotok.ru/poisk-fajlov-v-windows-7-po-nazvaniyu-i-soderzhimomu/"
+  },
+  {
+    "id": 6347,
+    "status": "publish",
+    "title": "Всё о расширениях и форматах имен файлов в Windows 7",
+    "url": "https://itpotok.ru/vsyo-o-rasshireniyah-i-formatah-imen-fajlov-v-windows-7/"
+  },
+  {
+    "id": 6284,
+    "status": "publish",
+    "title": "Оформление рабочей среды Windows 7 с помощью панели персонализации",
+    "url": "https://itpotok.ru/oformlenie-rabochej-sredy-windows-7-s-pomoshhyu-paneli-personalizatsii/"
+  },
+  {
+    "id": 6189,
+    "status": "publish",
+    "title": "Установка нового обновления Service Pack 1 на Windows 7",
+    "url": "https://itpotok.ru/ustanovka-novogo-obnovleniya-service-pack-1-na-windows-7/"
+  },
+  {
+    "id": 4768,
+    "status": "publish",
+    "title": "Добавление панели быстрого доступа на панель задач в Windows 7",
+    "url": "https://itpotok.ru/dobavlenie-paneli-bystrogo-dostupa-na-panel-zadach-v-windows-7/"
+  },
+  {
+    "id": 4761,
+    "status": "publish",
+    "title": "Возможности и принципы использования панели задач в Windows 7",
+    "url": "https://itpotok.ru/vozmozhnosti-i-printsipy-ispolzovaniya-paneli-zadach-v-windows-7/"
+  },
+  {
+    "id": 4756,
+    "status": "publish",
+    "title": "Восстановление запуска и работы языковой панели в Windows 7",
+    "url": "https://itpotok.ru/vosstanovlenie-zapuska-i-raboty-yazykovoj-paneli-v-windows-7/"
+  },
+  {
+    "id": 4746,
+    "status": "publish",
+    "title": "Основные функции и использование панели управления в Windows 7",
+    "url": "https://itpotok.ru/osnovnye-funktsii-i-ispolzovanie-paneli-upravleniya-v-windows-7/"
+  },
+  {
+    "id": 4684,
+    "status": "publish",
+    "title": "Что такое BIOS и как его настроить для установки Windows 7?",
+    "url": "https://itpotok.ru/chto-takoe-bios-i-kak-ego-nastroit-dlya-ustanovki-windows-7/"
+  },
+  {
+    "id": 4563,
+    "status": "publish",
+    "title": "Откат Windows 7 к сохраненному состоянию, factory reset и полное удаление",
+    "url": "https://itpotok.ru/otkat-windows-7-k-sohranennomu-sostoyaniu-factory-reset-i-polnoe-udalenie/"
+  },
+  {
+    "id": 4511,
+    "status": "publish",
+    "title": "Выполнение сброса Windows 7 к заводским настройкам",
+    "url": "https://itpotok.ru/vipolnenie-sbrosa-windows-7-k-zavodskim-nastroikam/"
+  },
+  {
+    "id": 4352,
+    "status": "publish",
+    "title": "Интересные секреты операционной системы Windows 7",
+    "url": "https://itpotok.ru/interesnye-sekrety-operatsionnoj-sistemy-windows-7/"
+  },
+  {
+    "id": 4275,
+    "status": "publish",
+    "title": "Как можно запустить редактор реестра в Windows 7?",
+    "url": "https://itpotok.ru/kak-mozhno-zapustit-redaktor-reestra-v-windows-7/"
+  },
+  {
+    "id": 3986,
+    "status": "publish",
+    "title": "Восстановление загрузки Windows 7 после установки сбойного обновления",
+    "url": "https://itpotok.ru/vosstanovlenie-zagruzku-windows-7-posle-ustanovki-sbojnogo-obnovleniya/"
+  },
+  {
+    "id": 3923,
+    "status": "publish",
+    "title": "Изучаем способы установки драйверов на Windows 7",
+    "url": "https://itpotok.ru/izuchaem-sposoby-ustanovki-drajjverov-na-windows-7/"
+  },
+  {
+    "id": 3868,
+    "status": "publish",
+    "title": "Оптимизация настроек Windows 7 и сброс к заводскому состоянию",
+    "url": "https://itpotok.ru/optimizaciya-nastroek-windows-7-i-sbros-k-zavodskomu-sostoyaniu/"
+  },
+  {
+    "id": 3774,
+    "status": "publish",
+    "title": "Основные изменения и отличия Windows 7 от предыдущих версий",
+    "url": "https://itpotok.ru/osnovnie-izmeneniya-i-otlichiya-windows-7-ot-predidushih-versii/"
+  },
+  {
+    "id": 3671,
+    "status": "publish",
+    "title": "Обзор основных достоинств и недостатков Windows 7",
+    "url": "https://itpotok.ru/obzor-osnovnih-dostoinstv-i-nedostatkov-windows-7/"
+  },
+  {
+    "id": 3505,
+    "status": "publish",
+    "title": "Работа с автозапуском  встроенными средствами Windows 7",
+    "url": "https://itpotok.ru/rabota-s-avtozapuskom-vstroennymi-sredstvami-windows-7/"
+  },
+  {
+    "id": 3396,
+    "status": "publish",
+    "title": "Почему не запускается Windows 7 и как восстановить запуск?",
+    "url": "https://itpotok.ru/pochemu-ne-zapuskaetsya-windows-7-i-kak-vosstanovit-zapusk/"
+  },
+  {
+    "id": 3237,
+    "status": "publish",
+    "title": "Как и с помощью чего работать со скрытыми файлами в Windows 7",
+    "url": "https://itpotok.ru/kak-i-s-pomoshhyu-chego-rabotat-so-skrytymi-fajlami-v-windows-7/"
+  },
+  {
+    "id": 3214,
+    "status": "publish",
+    "title": "Разделение жесткого диска в операционной системе Windows 7",
+    "url": "https://itpotok.ru/razdelenie-zhestkogo-diska-v-operacionnoj-sisteme-windows-7/"
+  },
+  {
+    "id": 3193,
+    "status": "publish",
+    "title": "Работа с жесткими дисками в ходе установки Windows 7 и не только",
+    "url": "https://itpotok.ru/rabota-s-zhestkimi-diskami-v-xode-ustanovki-windows-7-i-ne-tolko/"
+  },
+  {
+    "id": 3121,
+    "status": "publish",
+    "title": "Плюсы и минусы некоторых популярных браузеров для Windows 7",
+    "url": "https://itpotok.ru/plyusy-i-minusy-nekotoryx-populyarnyx-brauzerov-dlya-windows-7/"
+  },
+  {
+    "id": 3089,
+    "status": "publish",
+    "title": "Как разбить жесткий диск на разделы в Windows 7?",
+    "url": "https://itpotok.ru/kak-razbit-zhestkij-disk-na-razdely-v-windows-7/"
+  },
+  {
+    "id": 2993,
+    "status": "publish",
+    "title": "Ускорение работы компьютера с помощью изменения размера файла подкачки в Windows 7",
+    "url": "https://itpotok.ru/uskorenie-raboti-kompyutera-s-pomoshhyu-izmeneniya-razmera-fajla-podkachki-v-windows-7/"
+  },
+  {
+    "id": 2525,
+    "status": "publish",
+    "title": "Работа с автозапуском в Windows XP",
+    "url": "https://itpotok.ru/rabota-s-avtozapuskom-v-windows-xp/"
+  },
+  {
+    "id": 2477,
+    "status": "publish",
+    "title": "Отличия Windows 7 от предыдущих версий",
+    "url": "https://itpotok.ru/otlichiya-windows-7-ot-predydushhix-versij/"
+  },
+  {
+    "id": 2266,
+    "status": "publish",
+    "title": "Запуск консоли восстановления в ОС Windows XP",
+    "url": "https://itpotok.ru/zapusk-konsoli-vosstanovleniya-v-os-windows-xp/"
+  },
+  {
+    "id": 2249,
+    "status": "publish",
+    "title": "Работа с файлом подкачки Windows XP",
+    "url": "https://itpotok.ru/rabota-s-fajlom-podkachki-windows-xp/"
+  },
+  {
+    "id": 1814,
+    "status": "publish",
+    "title": "Пошаговое руководство установки Windows XP с флешки",
+    "url": "https://itpotok.ru/poshagovoe-rukovodstvo-ustanovki-windows-xp-s-fleshki/"
+  },
+  {
+    "id": 1788,
+    "status": "publish",
+    "title": "Как удалить операционную систему Windows XP?",
+    "url": "https://itpotok.ru/kak-udalit-operacionnuyu-sistemu-windows-xp/"
+  },
+  {
+    "id": 9911,
+    "status": "publish",
+    "title": "Как самостоятельно установить Windows XP на SSD диск?",
+    "url": "https://itpotok.ru/kak-samostoyatelno-ustanovit-windows-xp-na-ssd-disk/"
+  },
+  {
+    "id": 9900,
+    "status": "publish",
+    "title": "Создаем дистрибутив Windows XP с подобранным комплектом драйверов",
+    "url": "https://itpotok.ru/sozdaem-distributiv-windows-xp-s-podobrannym-komplektom-drajverov/"
+  },
+  {
+    "id": 1068,
+    "status": "publish",
+    "title": "Выбираем самый лучший антивирус для Windows XP",
+    "url": "https://itpotok.ru/vybiraem-samyj-luchshij-antivirus-dlya-windows-xp/"
+  },
+  {
+    "id": 946,
+    "status": "publish",
+    "title": "Изучаем способы разблокировки Windows XP",
+    "url": "https://itpotok.ru/izuchaem-sposoby-razblokirovki-windows-xp/"
+  },
+  {
+    "id": 916,
+    "status": "publish",
+    "title": "Как пользоваться функцией &#171;удаленный рабочий стол&#187; в Windows XP?",
+    "url": "https://itpotok.ru/kak-polzovatsya-funkciej-udalennyj-rabochij-stol-v-windows-xp/"
+  },
+  {
+    "id": 9896,
+    "status": "publish",
+    "title": "Восстановление запуска Windows XP при повреждении загрузчика",
+    "url": "https://itpotok.ru/vosstanovlenie-zapuska-windows-xp-pri-povrezhdenii-zagruzchika/"
+  },
+  {
+    "id": 9893,
+    "status": "publish",
+    "title": "Реализация общего доступа в Windows XP с правами администратора",
+    "url": "https://itpotok.ru/realizaciya-obshhego-dostupa-v-windows-xp-s-pravami-administratora/"
+  },
+  {
+    "id": 9887,
+    "status": "publish",
+    "title": "Установка обновлений системы Windows XP на компьютер",
+    "url": "https://itpotok.ru/ustanovka-obnovlenij-sistemy-windows-xp-na-kompyuter/"
+  },
+  {
+    "id": 518,
+    "status": "publish",
+    "title": "Работа с файлами и папками в Windows XP: операции с объектами",
+    "url": "https://itpotok.ru/rabota-s-fajlami-i-papkami-v-windows-xp-operacii-s-obektami/"
+  },
+  {
+    "id": 289,
+    "status": "publish",
+    "title": "Особенности настройки Wi-Fi  в Windows XP",
+    "url": "https://itpotok.ru/osobennosti-nastrojki-wi-fi-v-windows-xp/"
+  },
+  {
+    "id": 193,
+    "status": "publish",
+    "title": "Как убрать или отключить проверку подлинности Windows XP?",
+    "url": "https://itpotok.ru/kak-ubrat-ili-otklyuchit-proverku-podlinnosti-windows-xp/"
+  }
+]
