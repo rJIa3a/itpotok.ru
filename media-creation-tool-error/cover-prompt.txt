@@ -1,0 +1,3 @@
+Create a polished editorial cover for a Russian Windows troubleshooting article. Horizontal 16:9 canvas. Deep navy background, luminous blue abstract folded ribbon, USB drive, ISO disc symbol and amber warning triangle. Restrained 3D illustration. Exact text: «Media Creation Tool» and «Ошибка запуска». No screenshot or imitation dialog, no watermark. Important shapes and text must survive modest side cropping.
+
+Generated with built-in imagegen on 16.10.2026. Final 1672×941 PNG. The WordPress article uses a per-post contain rule to preserve the full image in the theme.

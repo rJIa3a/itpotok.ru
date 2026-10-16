@@ -1,0 +1,25 @@
+{
+  "preview_url": "https://itpotok.ru/?p=12099&preview=true",
+  "media": {
+    "iso_language": {
+      "file": "microsoft-iso-ru-20261016.jpg",
+      "id": 12097,
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/microsoft-iso-ru-20261016.jpg"
+    },
+    "cover": {
+      "file": "mct-error-cover-20261016.png",
+      "id": 12096,
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/mct-error-cover-20261016.png"
+    },
+    "mct_download": {
+      "file": "microsoft-mct-ru-20261016.jpg",
+      "id": 12098,
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/microsoft-mct-ru-20261016.jpg"
+    }
+  },
+  "planned_url": "https://itpotok.ru/media-creation-tool-launch-error-windows-11/",
+  "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12099&action=edit",
+  "post_id": 12099,
+  "slug": "media-creation-tool-launch-error-windows-11",
+  "status": "draft"
+}
