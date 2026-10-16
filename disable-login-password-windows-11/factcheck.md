@@ -11,6 +11,7 @@
 | Пароль, PIN, биометрия — разные способы подтверждения | https://support.microsoft.com/en-us/accounts-billing/security/user-account-access-in-windows |
 | netplwiz и флажок; его отсутствие при Hello-only | В официальной основной документации Microsoft актуальная полная инструкция netplwiz не найдена. Дополнительный источник — ответ добровольного модератора Microsoft Q&A: https://learn.microsoft.com/en-us/answers/questions/4278192/windows-11-22h2-auto-login-lost . Это не документация продукта. Последовательность и адрес аккаунта: https://learn.microsoft.com/en-us/answers/questions/4112483/how-to-log-in-without-a-password . Статья ограничивает применимость наличием флажка, не обещает универсальности, не рекомендует неподтверждённый обход PasswordLess |
 | BitLocker PIN относится к запуску/шифрованию, а не входу пользователя | https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/ . В статье только граница задачи, без отключения шифрования |
+| Пустой пароль локальной записи влияет на сетевой/удалённый вход | https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/accounts-limit-local-account-use-of-blank-passwords-to-console-logon-only . В Applies to указана Windows 11. При включённой политике пустые пароли ограничиваются консольным входом; в статье нет рекомендации отключать политику |
 
 ## Разбор конкурента и выбор записи
 
