@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cover",
+    "file": "assets/updates-cover-safe-20261016.png",
+    "purpose": "Обложка статьи",
+    "caption": "Редакционная иллюстрация ITpotok.ru, созданная с помощью imagegen.",
+    "alt": "Обновления Windows 11: пауза и ручная установка",
+    "status": "verified",
+    "required": true
+  }
+]

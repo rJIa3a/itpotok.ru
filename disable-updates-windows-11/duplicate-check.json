@@ -1,0 +1,602 @@
+[
+  {
+    "id": 12099,
+    "status": "publish",
+    "title": "По неизвестной причине запуск этого средства не удался: Media Creation Tool в Windows 11",
+    "url": "https://itpotok.ru/media-creation-tool-launch-error-windows-11/"
+  },
+  {
+    "id": 12103,
+    "status": "publish",
+    "title": "Как включить безопасную загрузку Secure Boot в Windows 11",
+    "url": "https://itpotok.ru/enable-secure-boot-windows-11/"
+  },
+  {
+    "id": 12088,
+    "status": "publish",
+    "title": "Связь с телефоном в Windows 11: подключение Android и iPhone",
+    "url": "https://itpotok.ru/phone-link-windows-11/"
+  },
+  {
+    "id": 12073,
+    "status": "publish",
+    "title": "Как поменять имя пользователя в Windows 11",
+    "url": "https://itpotok.ru/change-user-name-windows-11/"
+  },
+  {
+    "id": 12067,
+    "status": "publish",
+    "title": "Как зайти в безопасный режим Windows 11 и выйти из него",
+    "url": "https://itpotok.ru/safe-mode-windows-11/"
+  },
+  {
+    "id": 12048,
+    "status": "publish",
+    "title": "Как сбросить Windows 11 до заводских настроек",
+    "url": "https://itpotok.ru/reset-windows-11/"
+  },
+  {
+    "id": 12025,
+    "status": "draft",
+    "title": "Как обновить Windows 10 до Windows 11 с сохранением файлов и программ",
+    "url": "https://itpotok.ru/?p=12025"
+  },
+  {
+    "id": 11989,
+    "status": "publish",
+    "title": "Rufus для Windows 11: как создать загрузочную флешку",
+    "url": "https://itpotok.ru/create-windows-11-usb/"
+  },
+  {
+    "id": 12015,
+    "status": "publish",
+    "title": "Как скачать Windows 11 с официального сайта на русском",
+    "url": "https://itpotok.ru/download-windows-11-iso/"
+  },
+  {
+    "id": 11994,
+    "status": "publish",
+    "title": "Как почистить диск C в Windows 11: безопасные способы освободить место",
+    "url": "https://itpotok.ru/clean-drive-c-windows-11/"
+  },
+  {
+    "id": 11975,
+    "status": "draft",
+    "title": "Виджеты Windows 11: как добавить, настроить и убрать",
+    "url": "https://itpotok.ru/?p=11975"
+  },
+  {
+    "id": 11944,
+    "status": "publish",
+    "title": "Виджеты Windows 11: как добавить, настроить и убрать",
+    "url": "https://itpotok.ru/widgets-windows-11/"
+  },
+  {
+    "id": 11926,
+    "status": "draft",
+    "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+    "url": "https://itpotok.ru/?p=11926"
+  },
+  {
+    "id": 11875,
+    "status": "draft",
+    "title": "Как отключить Microsoft Defender в Windows 11",
+    "url": "https://itpotok.ru/?p=11875"
+  },
+  {
+    "id": 11589,
+    "status": "publish",
+    "title": "Как включить режим разработчика в Windows 11: Полное руководство",
+    "url": "https://itpotok.ru/how-enable-windows-11-developer-mode/"
+  },
+  {
+    "id": 11551,
+    "status": "draft",
+    "title": "Как отключить Защитник Windows 11",
+    "url": "https://itpotok.ru/?p=11551"
+  },
+  {
+    "id": 11548,
+    "status": "publish",
+    "title": "Как отключить Microsoft Defender в Windows 11",
+    "url": "https://itpotok.ru/disable-defender-antivirus-windows-11/"
+  },
+  {
+    "id": 11544,
+    "status": "publish",
+    "title": "Как обновить Windows 10 до Windows 11 с сохранением файлов и программ",
+    "url": "https://itpotok.ru/upgrade-windows-10-to-windows-11/"
+  },
+  {
+    "id": 11508,
+    "status": "publish",
+    "title": "Системные требования для Windows 11",
+    "url": "https://itpotok.ru/system-requirements-windows-11/"
+  },
+  {
+    "id": 11476,
+    "status": "publish",
+    "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+    "url": "https://itpotok.ru/how-to-install-windows-11/"
+  },
+  {
+    "id": 11467,
+    "status": "publish",
+    "title": "Новая сборка Windows 11, версия 24H2",
+    "url": "https://itpotok.ru/novaja-sborka-windows-11-versija-24h2/"
+  },
+  {
+    "id": 9936,
+    "status": "publish",
+    "title": "Как обновить драйвера на Windows 10",
+    "url": "https://itpotok.ru/kak-obnovit-drajvera-na-windows-10/"
+  },
+  {
+    "id": 9875,
+    "status": "publish",
+    "title": "Как отключить обновления Windows 10",
+    "url": "https://itpotok.ru/kak-otklyuchit-obnovleniya-windows-10/"
+  },
+  {
+    "id": 9873,
+    "status": "publish",
+    "title": "Как переустановить Windows 10: на ПК, ноутбуке, с флешки",
+    "url": "https://itpotok.ru/kak-pereustanovit-windows-10-na-pk-noutbuke-s-fleshki/"
+  },
+  {
+    "id": 9856,
+    "status": "publish",
+    "title": "Как отключить Защитник Windows 10",
+    "url": "https://itpotok.ru/kak-otklyuchit-zashhitnik-windows-10/"
+  },
+  {
+    "id": 9848,
+    "status": "draft",
+    "title": "Как переустановить Windows 10: на ПК, ноутбуке, с флешки",
+    "url": "https://itpotok.ru/?p=9848"
+  },
+  {
+    "id": 9829,
+    "status": "draft",
+    "title": "Лучшие ноутбуки до 100000 рублей",
+    "url": "https://itpotok.ru/?p=9829"
+  },
+  {
+    "id": 9595,
+    "status": "publish",
+    "title": "Лучшие смартфоны до 20000 рублей 2023 года",
+    "url": "https://itpotok.ru/best-smartphones-under-20000/"
+  },
+  {
+    "id": 9564,
+    "status": "publish",
+    "title": "Телефон с хорошей камерой &#8212; 2023 год",
+    "url": "https://itpotok.ru/best-camera-phone/"
+  },
+  {
+    "id": 9521,
+    "status": "publish",
+    "title": "Лучшие смартфоны Xiaomi- 2023 год",
+    "url": "https://itpotok.ru/best-xiaomi-smartphones/"
+  },
+  {
+    "id": 9505,
+    "status": "publish",
+    "title": "Лучшие роботы-пылесосы- 2023 год",
+    "url": "https://itpotok.ru/best-robot-vacuums/"
+  },
+  {
+    "id": 9486,
+    "status": "publish",
+    "title": "Лучшие смарт часы- 2023 год",
+    "url": "https://itpotok.ru/best-smartwatches/"
+  },
+  {
+    "id": 9427,
+    "status": "publish",
+    "title": "Лучший монитор &#8212; 2023 год: лучшие мониторы под любой бюджет",
+    "url": "https://itpotok.ru/best-monitor/"
+  },
+  {
+    "id": 9402,
+    "status": "publish",
+    "title": "Лучшие бюджетные смартфоны &#8212; 2023 год",
+    "url": "https://itpotok.ru/best-budget-smartphone/"
+  },
+  {
+    "id": 9389,
+    "status": "publish",
+    "title": "Лучший ноутбук &#8212; 2023 год: лучшие варианты для каждого пользователя и любого бюджета",
+    "url": "https://itpotok.ru/best-laptops/"
+  },
+  {
+    "id": 9382,
+    "status": "publish",
+    "title": "Лучший смартфон &#8212; 2023 год",
+    "url": "https://itpotok.ru/best-smartphone/"
+  },
+  {
+    "id": 9346,
+    "status": "publish",
+    "title": "Лучшие беспроводные Bluetooth-наушники &#8212; 2023 год",
+    "url": "https://itpotok.ru/best-wireless-headphones/"
+  },
+  {
+    "id": 8727,
+    "status": "publish",
+    "title": "9 способов зайти в безопасный режим Widnows 10",
+    "url": "https://itpotok.ru/safe-mode-widnows-10/"
+  },
+  {
+    "id": 8699,
+    "status": "publish",
+    "title": "Автозагрузка программ в Windows 10",
+    "url": "https://itpotok.ru/autorun-windows-10/"
+  },
+  {
+    "id": 8685,
+    "status": "publish",
+    "title": "Установка Windows 10 с флешки",
+    "url": "https://itpotok.ru/how-install-windows-10-from-usb/"
+  },
+  {
+    "id": 8646,
+    "status": "publish",
+    "title": "Как убрать пароль при входе в Windows 10",
+    "url": "https://itpotok.ru/how-disable-lock-screen-windows-10/"
+  },
+  {
+    "id": 8588,
+    "status": "pending",
+    "title": "Восстановление стартового меню в Windows 10",
+    "url": "https://itpotok.ru/?p=8588"
+  },
+  {
+    "id": 8575,
+    "status": "publish",
+    "title": "Работа и решение проблем с магазином приложений Windows 10",
+    "url": "https://itpotok.ru/rabota-i-reshenie-problem-s-magazinom-prilogenii-windows-10/"
+  },
+  {
+    "id": 8552,
+    "status": "publish",
+    "title": "Как отключить автоматические обновления на Windows 10",
+    "url": "https://itpotok.ru/kak-ostanovit-avtomaticheskoe-obnovlenie-windows-10/"
+  },
+  {
+    "id": 8531,
+    "status": "publish",
+    "title": "20 советов по ускорению работы Windows 10",
+    "url": "https://itpotok.ru/20-sovetov-po-uskoreniyu-raboty-windows-10/"
+  },
+  {
+    "id": 8428,
+    "status": "publish",
+    "title": "Исправляем ошибки кабельных сетевых подключений на Windows 8",
+    "url": "https://itpotok.ru/ispravlyaem-oshibki-kabelnyh-setevyh-podklyuchenij-na-windows-8/"
+  },
+  {
+    "id": 8230,
+    "status": "publish",
+    "title": "Устанавливаем принтер в Windows 8. Решаем проблемы с установкой",
+    "url": "https://itpotok.ru/ustanavlivaem-printer-v-windows-8-reshaem-problemy-s-ustanovkoj/"
+  },
+  {
+    "id": 8212,
+    "status": "publish",
+    "title": "Установка, обновление и откат DirectX на Windows 8 и 8.1",
+    "url": "https://itpotok.ru/ustanovka-obnovlenie-i-otkat-directx-na-windows-8-i-8-1/"
+  },
+  {
+    "id": 7930,
+    "status": "publish",
+    "title": "Использование и устранение неполадок Центра обновления Windows 8",
+    "url": "https://itpotok.ru/ispolzovanie-i-ustranenie-nepoladok-tsentra-obnovleniya-windows-8/"
+  },
+  {
+    "id": 7768,
+    "status": "publish",
+    "title": "Все способы выключения компьютера под Windows 8",
+    "url": "https://itpotok.ru/vse-sposoby-vyklyucheniya-kompyutera-pod-windows-8/"
+  },
+  {
+    "id": 7523,
+    "status": "publish",
+    "title": "Вход в магазин Windows 8 и его восстановление, если он не работает",
+    "url": "https://itpotok.ru/magazin-windows-kak-v-nego-zajti-i-kak-vosstanovit-esli-on-ne-rabotaet/"
+  },
+  {
+    "id": 7461,
+    "status": "publish",
+    "title": "Компоненты Windows 8: как их включить, отключить и восстановить",
+    "url": "https://itpotok.ru/komponenty-windows-8-kak-ih-vklyuchit-otklyuchit-i-vosstanovit/"
+  },
+  {
+    "id": 7434,
+    "status": "publish",
+    "title": "Как зайти в UEFI &#8212; улучшеный BIOS в Windows 8",
+    "url": "https://itpotok.ru/kak-zajti-v-uefi-uluchshenii-bios-v-windows-8/"
+  },
+  {
+    "id": 7381,
+    "status": "publish",
+    "title": "Все способы правильного удаления программ в Windows 7",
+    "url": "https://itpotok.ru/vse-sposoby-pravilnogo-udaleniya-programm-v-windows-7/"
+  },
+  {
+    "id": 7220,
+    "status": "publish",
+    "title": "Способы легальной и пиратской активации Windows 7",
+    "url": "https://itpotok.ru/sposoby-legalnoj-i-piratskoj-aktivatsii-windows-7-udalenie-aktivatsii/"
+  },
+  {
+    "id": 7190,
+    "status": "publish",
+    "title": "Различные ошибки после обновления Windows 7",
+    "url": "https://itpotok.ru/razlichnie-oshibki-posle-obnovleniya-windows-7/"
+  },
+  {
+    "id": 7076,
+    "status": "publish",
+    "title": "Поиск, закачка и запись на диск оригинального образа Windows 7?",
+    "url": "https://itpotok.ru/poisk-zakachka-i-zapis-na-disk-originalnogo-obraza-windows-7/"
+  },
+  {
+    "id": 7058,
+    "status": "publish",
+    "title": "Системные требования, совместимость Windows 7 с оборудованием и ПО",
+    "url": "https://itpotok.ru/sistemnye-trebovaniya-sovmestimost-windows-7-s-oborudovaniem-i-po/"
+  },
+  {
+    "id": 6782,
+    "status": "publish",
+    "title": "Записываем образ Windows 7 на установочную флешку",
+    "url": "https://itpotok.ru/zapisyvaem-obraz-windows-7-na-ustanovochnuyu-fleshku/"
+  },
+  {
+    "id": 6734,
+    "status": "publish",
+    "title": "Настройка интернета в Windows 7 и нужные для этого драйвера",
+    "url": "https://itpotok.ru/nastrojka-interneta-v-windows-7-i-nuzhnye-dlya-etogo-drajvera/"
+  },
+  {
+    "id": 6668,
+    "status": "publish",
+    "title": "Устранение неполадок и настройка клавиатуры в Windows 7",
+    "url": "https://itpotok.ru/ustranenie-nepoladok-i-nastrojka-klaviatury-v-windows-7/"
+  },
+  {
+    "id": 6651,
+    "status": "publish",
+    "title": "Какие программы можно использовать для обновления драйверов на Windows 7?",
+    "url": "https://itpotok.ru/kakie-programmy-mozhno-ispolzovat-dlya-obnovleniya-drajverov-na-windows-7/"
+  },
+  {
+    "id": 6407,
+    "status": "publish",
+    "title": "Нестандартные иконки в Windows 7 &#8212; штрихи вашей индивидуальности",
+    "url": "https://itpotok.ru/nestandartnye-ikonki-v-windows-7-shtrihi-vashej-individualnosti/"
+  },
+  {
+    "id": 6252,
+    "status": "publish",
+    "title": "Оптимизация Windows 7 для ускорения работы",
+    "url": "https://itpotok.ru/optimizaciya-windows-7-dlya-uskoreniya-raboty/"
+  },
+  {
+    "id": 6209,
+    "status": "publish",
+    "title": "Всё об использовании виртуальных машин в Windows 7",
+    "url": "https://itpotok.ru/vsyo-ob-ispolzovanii-virtualnyh-mashin-v-windows-7/"
+  },
+  {
+    "id": 6189,
+    "status": "publish",
+    "title": "Установка нового обновления Service Pack 1 на Windows 7",
+    "url": "https://itpotok.ru/ustanovka-novogo-obnovleniya-service-pack-1-na-windows-7/"
+  },
+  {
+    "id": 6156,
+    "status": "publish",
+    "title": "Как установить Windows 7 на компьютер или ноутбук?",
+    "url": "https://itpotok.ru/kak-ustanovit-windows-7-na-kompyuter-ili-noutbuk/"
+  },
+  {
+    "id": 4761,
+    "status": "publish",
+    "title": "Возможности и принципы использования панели задач в Windows 7",
+    "url": "https://itpotok.ru/vozmozhnosti-i-printsipy-ispolzovaniya-paneli-zadach-v-windows-7/"
+  },
+  {
+    "id": 4746,
+    "status": "publish",
+    "title": "Основные функции и использование панели управления в Windows 7",
+    "url": "https://itpotok.ru/osnovnye-funktsii-i-ispolzovanie-paneli-upravleniya-v-windows-7/"
+  },
+  {
+    "id": 4735,
+    "status": "publish",
+    "title": "Удаление и отмена установки стандартных обновлений Windows 7",
+    "url": "https://itpotok.ru/udalenie-i-otmena-ustanovki-standartnyh-obnovlenij-windows-7/"
+  },
+  {
+    "id": 4689,
+    "status": "publish",
+    "title": "Программы для установки нужных драйверов на Windows 7",
+    "url": "https://itpotok.ru/programmy-dlya-ustanovki-nuzhnih-drajverov-na-windows-7/"
+  },
+  {
+    "id": 4621,
+    "status": "publish",
+    "title": "Основы работы служб Windows 7 и способы их настройки",
+    "url": "https://itpotok.ru/osnovy-raboty-sluzhb-windows-7-i-sposoby-ih-nastrojki/"
+  },
+  {
+    "id": 4614,
+    "status": "publish",
+    "title": "Изменение параметров открытия папок в Windows 7",
+    "url": "https://itpotok.ru/izmenenie-parametrov-otkritiya-papok-v-windows-7/"
+  },
+  {
+    "id": 4568,
+    "status": "publish",
+    "title": "Изменение и установка дополнительного языка в Windows 7",
+    "url": "https://itpotok.ru/izmenenie-i-ustanovka-dopolnitelnogo-yazika-v-windows-7/"
+  },
+  {
+    "id": 4446,
+    "status": "publish",
+    "title": "Продление лицензии Windows 7 Enterprise до 360 дней",
+    "url": "https://itpotok.ru/prodlenie-litsenzii-windows-7-enterprise-do-360-dnej/"
+  },
+  {
+    "id": 4429,
+    "status": "publish",
+    "title": "Настройка прав администратора в Windows 7",
+    "url": "https://itpotok.ru/nastroika-prav-administratora-v-windows-7/"
+  },
+  {
+    "id": 4384,
+    "status": "publish",
+    "title": "Основные данные об ОС Windows XP и Windows 7",
+    "url": "https://itpotok.ru/osnovnye-dannye-ob-os-windows-xp-i-windows-7/"
+  },
+  {
+    "id": 4334,
+    "status": "publish",
+    "title": "Причины возникновения основных системных ошибок в Windows 7",
+    "url": "https://itpotok.ru/obzor-prichin-vozniknoveniya-osnovnih-sistemnih-oshibok-v-windows-7/"
+  },
+  {
+    "id": 4325,
+    "status": "publish",
+    "title": "Часто встречающиеся ошибки запуска приложений в Windows 7",
+    "url": "https://itpotok.ru/chasto-vstrechaushiesya-oshibki-zapuska-prilogenii-v-windows-7/"
+  },
+  {
+    "id": 4009,
+    "status": "publish",
+    "title": "Обновление Windows 7 стандартной утилитой",
+    "url": "https://itpotok.ru/obnovlenie-windows-7-standartnoi-utilitoi/"
+  },
+  {
+    "id": 3986,
+    "status": "publish",
+    "title": "Восстановление загрузки Windows 7 после установки сбойного обновления",
+    "url": "https://itpotok.ru/vosstanovlenie-zagruzku-windows-7-posle-ustanovki-sbojnogo-obnovleniya/"
+  },
+  {
+    "id": 3972,
+    "status": "publish",
+    "title": "Исправление ошибки обновления Windows 7",
+    "url": "https://itpotok.ru/ispravlenie-oshibku-obnovleniya-windows-7/"
+  },
+  {
+    "id": 3958,
+    "status": "publish",
+    "title": "Автоматическое обновление операционной системы Windows 7",
+    "url": "https://itpotok.ru/avtomaticheskoe-obnovlenie-operatsionnoj-sistemy-windows-7/"
+  },
+  {
+    "id": 3948,
+    "status": "publish",
+    "title": "Настройка автоматической установки драйверов в Windows 7",
+    "url": "https://itpotok.ru/nastrojjka-avtomaticheskojj-ustanovki-draiverov-v-windows-7/"
+  },
+  {
+    "id": 3923,
+    "status": "publish",
+    "title": "Изучаем способы установки драйверов на Windows 7",
+    "url": "https://itpotok.ru/izuchaem-sposoby-ustanovki-drajjverov-na-windows-7/"
+  },
+  {
+    "id": 3893,
+    "status": "publish",
+    "title": "Настройка Windows 7 для безопасного использования",
+    "url": "https://itpotok.ru/nastroika-windows-7-dlya-bezopasnogo-ispolzovaniya/"
+  },
+  {
+    "id": 3868,
+    "status": "publish",
+    "title": "Оптимизация настроек Windows 7 и сброс к заводскому состоянию",
+    "url": "https://itpotok.ru/optimizaciya-nastroek-windows-7-i-sbros-k-zavodskomu-sostoyaniu/"
+  },
+  {
+    "id": 3813,
+    "status": "publish",
+    "title": "Защита операционной системы и отключение встроенного защитника в Windows 7",
+    "url": "https://itpotok.ru/zashita-operacionnoi-sistemu-i-otklyuchenie-vstroennogo-zashitnika-v-windows-7/"
+  },
+  {
+    "id": 3757,
+    "status": "publish",
+    "title": "Особенности пакета MS Office и редактора Word версий 2007 и 2010 года под Windows 7",
+    "url": "https://itpotok.ru/osobennosti-paketa-ms-office-i-redaktora-word-versii-2007-i-2010-goda-pod-windows-7/"
+  },
+  {
+    "id": 3743,
+    "status": "publish",
+    "title": "Инсталляция программы Java на Windows 7",
+    "url": "https://itpotok.ru/installayciay-programmy-java-na-windows-7/"
+  },
+  {
+    "id": 3671,
+    "status": "publish",
+    "title": "Обзор основных достоинств и недостатков Windows 7",
+    "url": "https://itpotok.ru/obzor-osnovnih-dostoinstv-i-nedostatkov-windows-7/"
+  },
+  {
+    "id": 3584,
+    "status": "publish",
+    "title": "Причины ошибок при загрузке Windows 7 и методы их устранения",
+    "url": "https://itpotok.ru/prichiny-oshibok-pri-zagruzke-windows-7-i-metody-ix-ustraneniya/"
+  },
+  {
+    "id": 3558,
+    "status": "publish",
+    "title": "Причины зависаний Windows 7 и способы борьбы с ними",
+    "url": "https://itpotok.ru/prichiny-zavisanij-windows-7-i-sposoby-borby-s-nimi/"
+  },
+  {
+    "id": 3541,
+    "status": "publish",
+    "title": "Функции диспетчера и панели задач в системе Windows XP",
+    "url": "https://itpotok.ru/funkcii-dispetchera-i-paneli-zadach-v-sisteme-windows-xp/"
+  },
+  {
+    "id": 3322,
+    "status": "publish",
+    "title": "Причины и решения черного экрана смерти при запуске Windows 7",
+    "url": "https://itpotok.ru/prichiny-i-resheniya-chernogo-ekrana-smerti-pri-zapuske-windows-7/"
+  },
+  {
+    "id": 3121,
+    "status": "publish",
+    "title": "Плюсы и минусы некоторых популярных браузеров для Windows 7",
+    "url": "https://itpotok.ru/plyusy-i-minusy-nekotoryx-populyarnyx-brauzerov-dlya-windows-7/"
+  },
+  {
+    "id": 3131,
+    "status": "publish",
+    "title": "Установка и настройка шрифтов в Windows XP",
+    "url": "https://itpotok.ru/ustanovka-i-nastrojka-shriftov-windows-xp/"
+  },
+  {
+    "id": 3063,
+    "status": "publish",
+    "title": "Как побороть синий экран смерти в операционной системе Windows 7?",
+    "url": "https://itpotok.ru/kak-poborot-sinij-ekran-smerti-v-operacionnoj-sisteme-windows-7/"
+  },
+  {
+    "id": 3057,
+    "status": "publish",
+    "title": "Основные способы подключения звука в Windows 7",
+    "url": "https://itpotok.ru/osnovnye-sposoby-podklyucheniya-zvuka-v-windows-7/"
+  },
+  {
+    "id": 2957,
+    "status": "publish",
+    "title": "Настраиваем и проверяем производительность Windows 7",
+    "url": "https://itpotok.ru/nastraivaem-i-proveryaem-proizvoditelnost-windows-7/"
+  }
+]

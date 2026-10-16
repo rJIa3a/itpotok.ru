@@ -1,0 +1,34 @@
+{
+  "environment": {
+    "version": "не установлена инструментом",
+    "platform": "Windows",
+    "language": "ru",
+    "plan": "Home/Pro",
+    "permissions": "Изменения настроек рабочего ПК не выполнялись; тестовой среды нет"
+  },
+  "runs": [
+    {
+      "id": "access-20261016",
+      "kind": "initial",
+      "executed_at": "2026-10-16T15:12:47.897891+00:00",
+      "steps": [
+        {
+          "id": "access-settings",
+          "action": "Открыть Параметры для кадра",
+          "expected": "Доступное окно",
+          "actual": "SystemSettings.exe не предоставил targetable window; повторный inventory без Параметров",
+          "status": "blocked",
+          "evidence": "illustrations.md"
+        },
+        {
+          "id": "access-policy",
+          "action": "Открыть mmc для чтения политики",
+          "expected": "Доступная консоль",
+          "actual": "launch_app timeout; последующий inventory без консоли",
+          "status": "blocked",
+          "evidence": "illustrations.md"
+        }
+      ]
+    }
+  ]
+}

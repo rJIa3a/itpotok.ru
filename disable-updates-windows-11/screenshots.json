@@ -1,0 +1,34 @@
+[
+  {
+    "step_id": "pause",
+    "action": "Выбрать паузу",
+    "expected": "Видна дата возобновления",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": "Русский Windows 11, доступной тестовой среды нет",
+    "caption": "Пауза обновлений Windows 11",
+    "alt": "Пауза обновлений Windows 11",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Нет полученного кадра"
+  },
+  {
+    "step_id": "policy",
+    "action": "Открыть политику",
+    "expected": "Видно состояние Отключено",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": "Русский Windows 11, доступной тестовой среды нет",
+    "caption": "Настройка автоматического обновления",
+    "alt": "Настройка автоматического обновления",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Нет полученного кадра"
+  }
+]

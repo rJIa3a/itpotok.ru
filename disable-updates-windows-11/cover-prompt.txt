@@ -1,0 +1,3 @@
+Editorial 16:9 navy/cobalt Windows 11 updates illustration, blue ribbon and update arrow with pause. Text: «Обновления Windows 11», «Пауза и ручная установка». Center safe zone, no fake interface, no forever claim. imagegen 16.10.2026.
+
+Final edit: preserve navy/cobalt style and wording; all meaningful text and update/pause symbol inside central 58% width and central 65% height, empty outer margins. Original generated result rejected for theme crop.

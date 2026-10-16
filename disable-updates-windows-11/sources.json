@@ -1,0 +1,90 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/ru-ru/windows/deployment/updates-lifecycle/pause-updates-in-windows",
+    "title": "Приостановка обновлений в Windows",
+    "checked_at": "2026-10-16",
+    "excerpt": "до 35 дней с текущей даты",
+    "limitations": "Новая схема продления расходится с общим FAQ; зависит от обновлений интерфейса."
+  },
+  {
+    "id": "S2",
+    "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/4-configure-group-policy-settings-for-automatic-updates",
+    "title": "Configure Group Policy Settings for Automatic Updates",
+    "checked_at": "2026-10-16",
+    "excerpt": "Users must manually download and install",
+    "limitations": "Общая политика клиента, страница WSUS; сверена с CSP и документацией IoT. Не испытание Pro."
+  },
+  {
+    "id": "S3",
+    "url": "https://learn.microsoft.com/en-us/windows/deployment/update/wufb-compliancedeadlines",
+    "title": "Enforce compliance deadlines with policies",
+    "checked_at": "2026-10-16",
+    "excerpt": "ignored once the deadline passes",
+    "limitations": "Применимость: Windows 11 22H2+, обновление 10.12.2024 и заданные сроки."
+  },
+  {
+    "id": "S4",
+    "url": "https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-update",
+    "title": "Policy CSP - Update",
+    "checked_at": "2026-10-16",
+    "excerpt": "5 | Turn off automatic updates.",
+    "limitations": "Для AllowAutoUpdate перечислены Pro/Enterprise/Education/IoT; Home не перечислена. CSP не является эмпирическим тестом NoAutoUpdate в Home."
+  },
+  {
+    "id": "S5",
+    "url": "https://support.microsoft.com/ru-ru/windows/experience/connectivity-networking/metered-connections-in-windows",
+    "title": "Лимитные подключения в Windows",
+    "checked_at": "2026-10-16",
+    "excerpt": "Лимитное сетевое подключение",
+    "limitations": "Мера экономии трафика, не полная блокировка."
+  },
+  {
+    "id": "S6",
+    "url": "https://support.microsoft.com/ru-ru/windows/deployment/updates-lifecycle/windows-update-faq",
+    "title": "Центр обновления Windows: вопросы и ответы",
+    "checked_at": "2026-10-16",
+    "excerpt": "потребуется установить последние обновления",
+    "limitations": "Не согласуется с новой страницей паузы, конфликт раскрыт."
+  },
+  {
+    "id": "S7",
+    "url": "https://learn.microsoft.com/en-us/windows/deployment/update/waas-wu-settings",
+    "title": "Manage additional Windows Update settings",
+    "checked_at": "2026-10-16",
+    "excerpt": "NoAutoUpdate (REG_DWORD)",
+    "limitations": "Значение 1 документировано; нельзя переносить гарантии на Home и будущие версии."
+  },
+  {
+    "id": "S8",
+    "url": "https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/os-features/updates",
+    "title": "Updates — Windows IoT Enterprise",
+    "checked_at": "2026-10-16",
+    "excerpt": "no longer the supported method",
+    "limitations": "Отключение службы не поддерживается в описанном IoT-сценарии; не выдаётся за тест Home/Pro."
+  },
+  {
+    "id": "S9",
+    "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions",
+    "title": "Use of Microsoft Copyrighted Content",
+    "checked_at": "2026-10-16",
+    "excerpt": "Do not alter the screenshot except to resize it.",
+    "limitations": "Не разрешает чужие добавленные стрелки; внешние осмотренные кадры отклонены."
+  },
+  {
+    "id": "S10",
+    "url": "https://support.microsoft.com/ru-ru/windows/deployment/updates-lifecycle/get-windows-updates-as-soon-as-they-re-available-for-your-device",
+    "title": "Получение обновлений Windows, как только они будут доступны",
+    "checked_at": "2026-10-16",
+    "excerpt": "обычные обновления безопасности",
+    "limitations": "Переключатель дополнительного раннего получения не отключает security."
+  },
+  {
+    "id": "S11",
+    "url": "https://learn.microsoft.com/en-us/windows/deployment/update/waas-wufb-group-policy",
+    "title": "Configure Windows Update client policies via Group Policy",
+    "checked_at": "2026-10-16",
+    "excerpt": "Auto install and restart",
+    "limitations": "Рекомендации управления и период активности; не тест личного ПК."
+  }
+]

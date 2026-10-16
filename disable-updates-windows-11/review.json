@@ -1,0 +1,33 @@
+{
+  "article_sha256": "ea9e7a2c924143427328cd6d30f6608582400a060290db066b3eed9f98f95f39",
+  "coverage_checked": true,
+  "sources_reopened": true,
+  "visuals_checked": false,
+  "editor_reviewed": true,
+  "unresolved_material": [
+    "Нет практического initial/rerun Home/Pro",
+    "Нет обязательных русских кадров pause/policy",
+    "Название подпапки политики не сверено собственным кадром"
+  ],
+  "corrections": [
+    {
+      "before": "навсегда",
+      "after": "Управление с существенными пределами",
+      "reason": "Нет универсальной гарантии",
+      "evidence": "S1/S3/S4"
+    },
+    {
+      "before": "Лимитное подключение блокирует всё",
+      "after": "Возможны приоритетные обновления",
+      "reason": "Область действия",
+      "evidence": "S5"
+    },
+    {
+      "before": "NoAutoUpdate гарантирован Home",
+      "after": "Поддержка Home не подтверждена",
+      "reason": "Таблица редакций",
+      "evidence": "S4/S7"
+    }
+  ],
+  "reviewed_at": "2026-10-16T15:19:57.290469+00:00"
+}

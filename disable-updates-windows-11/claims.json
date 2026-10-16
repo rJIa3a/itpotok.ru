@@ -1,0 +1,123 @@
+[
+  {
+    "id": "C1",
+    "claim": "Пауза до 35 дней от текущей даты; новые варианты позволяют продление; срок автоматически заканчивается.",
+    "source_id": "S1",
+    "evidence": "Пауза временная, 35 дней; дату можно менять.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "pause"
+  },
+  {
+    "id": "C2",
+    "claim": "Configure Automatic Updates в Disabled оставляет ручное получение обновлений.",
+    "source_id": "S2",
+    "evidence": "Disabled: manual download and install through Settings.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "policy"
+  },
+  {
+    "id": "C3",
+    "claim": "На управляемых устройствах deadline переопределяет Configure Automatic Updates.",
+    "source_id": "S3",
+    "evidence": "После deadline политика игнорируется в описанных версиях.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "policy"
+  },
+  {
+    "id": "C4",
+    "claim": "При отключении автоматических обновлений не приходят также автоматические исправления безопасности.",
+    "source_id": "S4",
+    "evidence": "Предупреждение Microsoft: you will not get security updates as well.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "intro"
+  },
+  {
+    "id": "C5",
+    "claim": "Лимитное подключение экономит данные и не блокирует все обновления.",
+    "source_id": "S5",
+    "evidence": "Некоторые приоритетные обновления доступны и при лимитном подключении.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "metered"
+  },
+  {
+    "id": "C6",
+    "claim": "Общий FAQ требует установки последних обновлений после предела паузы.",
+    "source_id": "S6",
+    "evidence": "Условие сохранено в FAQ и расходится с S1.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "pause"
+  },
+  {
+    "id": "C7",
+    "claim": "Документированная область AllowAutoUpdate не включает Home; gpedit не штатный способ Home.",
+    "source_id": "S4",
+    "evidence": "Таблица редакций Pro, Enterprise, Education, IoT.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "home"
+  },
+  {
+    "id": "C8",
+    "claim": "NoAutoUpdate=1 документирован; это не доказательство универсального действия в Home.",
+    "source_id": "S7",
+    "evidence": "REG_DWORD 1 automatic updates disabled.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "home"
+  },
+  {
+    "id": "C9",
+    "claim": "Остановка службы не является поддерживаемым способом в документации IoT.",
+    "source_id": "S8",
+    "evidence": "Microsoft рекомендует политику вместо остановки службы.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "not-forever"
+  },
+  {
+    "id": "C10",
+    "claim": "Выключение раннего получения обновлений не отключает обычные исправления безопасности.",
+    "source_id": "S10",
+    "evidence": "Whether Off or On, regular security updates as usual.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "faq.json, вопрос 3"
+  },
+  {
+    "id": "C11",
+    "claim": "Период активности управляет временем автоматических перезапусков, а не блокирует получение исправлений.",
+    "source_id": "S11",
+    "evidence": "Active hours задают допустимое время перезапуска; получение обновлений сохраняется.",
+    "checked_at": "2026-10-16",
+    "next_review": "2026-11-16",
+    "status": "supported",
+    "material": true,
+    "location": "check"
+  }
+]

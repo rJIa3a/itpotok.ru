@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-16T15:19:57.643105+00:00",
+  "status": "unverified-draft",
+  "article_sha256": "ea9e7a2c924143427328cd6d30f6608582400a060290db066b3eed9f98f95f39",
+  "blockers": [
+    "Unverified screenshots: None",
+    "Unverified screenshots: None",
+    "Review missing: visuals_checked",
+    "Open material review findings",
+    "No successful initial with saved evidence/current text",
+    "No successful rerun with saved evidence/current text"
+  ],
+  "limits": "Completeness checks only; source truth and visual quality require recorded editorial review. No publication."
+}
