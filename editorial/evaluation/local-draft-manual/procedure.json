@@ -1,0 +1,74 @@
+{
+  "environment": {
+    "version": "3.12.10",
+    "platform": "Windows",
+    "language": "ru (текст), en (диагностика CLI)",
+    "plan": "not-applicable",
+    "permissions": "обычные права пользователя, временная папка"
+  },
+  "runs": [
+    {
+      "id": "initial",
+      "kind": "initial",
+      "executed_at": "2026-10-16T14:58:44.190457+00:00",
+      "steps": [
+        {
+          "id": "S1",
+          "action": "init <новая-папка> --format explanation --keyword Пример",
+          "expected": "exit=0",
+          "actual": "exit=0",
+          "status": "passed",
+          "evidence": "evidence/initial-1.txt"
+        },
+        {
+          "id": "S2",
+          "action": "check <новая-папка>",
+          "expected": "exit=1",
+          "actual": "exit=1",
+          "status": "passed",
+          "evidence": "evidence/initial-2.txt"
+        },
+        {
+          "id": "S3",
+          "action": "preview <новая-папка>",
+          "expected": "exit=0",
+          "actual": "exit=0",
+          "status": "passed",
+          "evidence": "evidence/initial-3.txt"
+        }
+      ]
+    },
+    {
+      "id": "rerun",
+      "kind": "rerun",
+      "executed_at": "2026-10-16T14:58:44.450861+00:00",
+      "steps": [
+        {
+          "id": "S1",
+          "action": "init <новая-папка> --format explanation --keyword Пример",
+          "expected": "exit=0",
+          "actual": "exit=0",
+          "status": "passed",
+          "evidence": "evidence/rerun-1.txt"
+        },
+        {
+          "id": "S2",
+          "action": "check <новая-папка>",
+          "expected": "exit=1",
+          "actual": "exit=1",
+          "status": "passed",
+          "evidence": "evidence/rerun-2.txt"
+        },
+        {
+          "id": "S3",
+          "action": "preview <новая-папка>",
+          "expected": "exit=0",
+          "actual": "exit=0",
+          "status": "passed",
+          "evidence": "evidence/rerun-3.txt"
+        }
+      ],
+      "article_sha256": "b28ef05366fb5dd57c31344e0f8528ccab021fce7809836b877d5c9133bec4d3"
+    }
+  ]
+}

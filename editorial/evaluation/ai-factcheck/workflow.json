@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "format": "explanation",
+  "status": "unverified-draft",
+  "article_file": "article.html",
+  "created_at": "2026-10-16T14:58:43.604563+00:00",
+  "stages": {
+    "article-brief": {
+      "recorded_at": "2026-10-16T14:58:43.657709+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    },
+    "research": {
+      "recorded_at": "2026-10-16T14:58:43.664808+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    },
+    "claim-ledger": {
+      "recorded_at": "2026-10-16T14:58:43.672976+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    },
+    "outline": {
+      "recorded_at": "2026-10-16T14:58:43.680279+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    },
+    "draft": {
+      "recorded_at": "2026-10-16T14:58:43.689285+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    },
+    "visuals": {
+      "recorded_at": "2026-10-16T14:58:43.697285+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    },
+    "fact-and-procedure-check": {
+      "recorded_at": "2026-10-16T14:58:43.705285+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    },
+    "edit-and-package": {
+      "recorded_at": "2026-10-16T14:58:43.714286+00:00",
+      "files": {
+        "brief.md": "3e19d513731cca947f92e0467c98ef6352a02c089fdfa35f677011ff1f17825d",
+        "article.html": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+        "sources.json": "ab04941c3c564ee5364e228ad4169d3832e0e94ed27ae7efd93825ac8c6e70a7",
+        "claims.json": "8a83b930bda1ded210062d324fbdd90bc3aaae4b1f939e1775c909208af17804",
+        "review.json": "5ce4d7fc1516151f524c196670c408dc228fa7cbff36e4529d9a0e813c064b32",
+        "illustrations.md": "6744cf9e14874ae4eca05e7d72a68a0024c10202764f797fbd4100a465062ea4"
+      }
+    }
+  }
+}

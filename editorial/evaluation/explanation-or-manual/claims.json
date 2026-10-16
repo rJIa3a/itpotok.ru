@@ -1,0 +1,13 @@
+[
+  {
+    "id": "C1",
+    "claim": "Diátaxis различает tutorials, how-to guides, technical reference и explanation.",
+    "source_id": "S1",
+    "evidence": "tutorials, how-to guides, technical reference and explanation",
+    "checked_at": "2026-10-16",
+    "next_review": "2027-01-14",
+    "status": "supported",
+    "material": true,
+    "location": "data-claims=C1"
+  }
+]

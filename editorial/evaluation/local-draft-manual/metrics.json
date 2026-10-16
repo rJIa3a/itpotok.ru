@@ -1,0 +1,11 @@
+{
+  "started_at": "2026-10-16T14:58:43.912737+00:00",
+  "checked_at": null,
+  "package_assembled_at": "2026-10-16T14:58:44.662823+00:00",
+  "assembly_seconds": 0.75,
+  "factual_corrections": 0,
+  "manual_edit_minutes": null,
+  "reproducibility": "CLI 3/3 twice; browser opening and rollback not exercised",
+  "screenshot_quality": "not-exercised",
+  "chart_quality": "not-exercised"
+}

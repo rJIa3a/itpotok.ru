@@ -1,0 +1,10 @@
+[
+  {
+    "id": "S1",
+    "url": "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content",
+    "title": "Google Search: generative AI content",
+    "checked_at": "2026-10-16",
+    "excerpt": "It is critical to manually factcheck and review all AI-generated content",
+    "limitations": "Рекомендации для веб-контента, не эксперимент об эффективности."
+  }
+]

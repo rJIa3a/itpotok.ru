@@ -1,0 +1,10 @@
+[
+  {
+    "id": "S1",
+    "url": "editorial/workflow.py",
+    "title": "CLI и сохранённые реальные прогоны",
+    "checked_at": "2026-10-16",
+    "excerpt": "init refuses existing folder; check emits blockers; preview creates local wrapper",
+    "limitations": "Собственный код; доказательства в evidence/, только текущая Python/Windows среда."
+  }
+]

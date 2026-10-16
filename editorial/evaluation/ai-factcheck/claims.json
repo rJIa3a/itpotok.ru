@@ -1,0 +1,13 @@
+[
+  {
+    "id": "C1",
+    "claim": "Google рекомендует вручную проверять точность и надёжность ИИ-контента перед публикацией.",
+    "source_id": "S1",
+    "evidence": "It is critical to manually factcheck and review all AI-generated content",
+    "checked_at": "2026-10-16",
+    "next_review": "2027-01-14",
+    "status": "supported",
+    "material": true,
+    "location": "data-claims=C1"
+  }
+]

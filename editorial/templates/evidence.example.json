@@ -1,0 +1,10 @@
+{
+  "_note": "Образец структуры, не доказательства. null заполнить реально полученными значениями; затем сохранить массивы в отдельные файлы по contracts.md.",
+  "source": {"id": "S1", "url": null, "title": null, "excerpt": null, "checked_at": null, "limitations": null},
+  "claim": {"id": "C1", "claim": null, "source_id": "S1", "evidence": null, "checked_at": null, "next_review": null, "status": "uncertain", "material": true, "location": null},
+  "environment": {"version": null, "platform": null, "language": "ru", "plan": null, "permissions": null},
+  "step": {"id": "S1", "action": null, "expected": null, "actual": null, "status": "not-run", "evidence": null},
+  "screenshot": {"step_id": "S1", "action": null, "expected": null, "file": null, "original": null, "annotated": null, "annotation_reason": null, "captured_at": null, "environment": {}, "caption": null, "alt": null, "rights": null, "privacy_checked": false, "status": "missing", "required": true},
+  "chart": {"type": "chart", "file": null, "data": null, "script": null, "purpose": null, "caption": null, "alt": null, "status": "missing", "required": true},
+  "correction": {"before": null, "after": null, "reason": null, "evidence": null}
+}

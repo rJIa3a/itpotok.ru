@@ -1,0 +1,15 @@
+{
+  "command": [
+    "python",
+    "editorial/workflow.py",
+    "init",
+    "<temporary>/sample-article",
+    "--format",
+    "explanation",
+    "--keyword",
+    "Пример"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

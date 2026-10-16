@@ -1,0 +1,22 @@
+{
+  "skills_checked": [
+    ".agents\\skills\\article-brief\\SKILL.md",
+    ".agents\\skills\\article-workflow\\SKILL.md",
+    ".agents\\skills\\claim-ledger\\SKILL.md",
+    ".agents\\skills\\draft\\SKILL.md",
+    ".agents\\skills\\edit-and-package\\SKILL.md",
+    ".agents\\skills\\fact-and-procedure-check\\SKILL.md",
+    ".agents\\skills\\itpotok-writing\\SKILL.md",
+    ".agents\\skills\\outline\\SKILL.md",
+    ".agents\\skills\\procedure-runner\\SKILL.md",
+    ".agents\\skills\\refresh\\SKILL.md",
+    ".agents\\skills\\research\\SKILL.md",
+    ".agents\\skills\\screenshot-capture\\SKILL.md",
+    ".agents\\skills\\visuals\\SKILL.md"
+  ],
+  "checks": [
+    "frontmatter name/description",
+    "local markdown reference targets"
+  ],
+  "bundled_validator": "Not run: PyYAML not installed; used limited stdlib checks, not equivalent to full validator"
+}

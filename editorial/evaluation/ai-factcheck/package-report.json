@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-10-16T14:59:53.160538+00:00",
+  "status": "unverified-draft",
+  "article_sha256": "627fd6d463e3a78f3fb0fd2aa62e24f0f6715ea7719eb796e5d67b39ebc1c379",
+  "blockers": [
+    "Review missing: editor_reviewed"
+  ],
+  "limits": "Completeness checks only; source truth and visual quality require recorded editorial review. No publication."
+}

@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python",
+    "editorial/workflow.py",
+    "preview",
+    "<temporary>/sample-article"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

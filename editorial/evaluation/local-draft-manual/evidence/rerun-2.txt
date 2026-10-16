@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python",
+    "editorial/workflow.py",
+    "check",
+    "<temporary>/sample-article"
+  ],
+  "exit_code": 1,
+  "stdout": "{\n  \"checked_at\": \"2026-10-16T14:58:44.357031+00:00\",\n  \"status\": \"unverified-draft\",\n  \"article_sha256\": \"\",\n  \"blockers\": [\n    \"Missing or empty: research.md\",\n    \"Missing or empty: outline.md\",\n    \"Missing or empty: illustrations.md\",\n    \"Missing or empty: review.md\",\n    \"Missing or empty: faq.md\",\n    \"Missing or empty: excerpt.txt\",\n    \"Missing or empty: article.html\",\n    \"No sources\",\n    \"No claims\",\n    \"Review does not cover current article\",\n    \"Review missing: coverage_checked\",\n    \"Review missing: sources_reopened\",\n    \"Review missing: visuals_checked\",\n    \"Review missing: editor_reviewed\",\n    \"Open material review findings\",\n    \"Review date invalid\",\n    \"Missing checkpoint: article-brief\",\n    \"Missing checkpoint: research\",\n    \"Missing checkpoint: claim-ledger\",\n    \"Missing checkpoint: outline\",\n    \"Missing checkpoint: draft\",\n    \"Missing checkpoint: visuals\",\n    \"Missing checkpoint: fact-and-procedure-check\",\n    \"Missing checkpoint: edit-and-package\"\n  ],\n  \"limits\": \"Completeness checks only; source truth and visual quality require recorded editorial review. No publication.\"\n}\n",
+  "stderr": ""
+}
