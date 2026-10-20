@@ -1,0 +1,80 @@
+[
+  {
+    "id": 12048,
+    "status": "publish",
+    "title": "Как сбросить Windows 11 до заводских настроек",
+    "url": "https://itpotok.ru/reset-windows-11/"
+  },
+  {
+    "id": 12040,
+    "status": "publish",
+    "title": "Как зайти в BIOS или UEFI на Windows 11",
+    "url": "https://itpotok.ru/enter-bios-uefi-windows-11/"
+  },
+  {
+    "id": 7326,
+    "status": "publish",
+    "title": "Назначение и определение пароля администратора в Windows 7",
+    "url": "https://itpotok.ru/naznachenie-i-opredelenie-parolya-administratora-v-windows-7/"
+  },
+  {
+    "id": 6752,
+    "status": "publish",
+    "title": "Восстановление реестра Windows 7 с помощью утилит Regedit и ERUNT",
+    "url": "https://itpotok.ru/vosstanovlenie-reestra-windows-7-s-pomoshhyu-utilit-regedit-i-erunt/"
+  },
+  {
+    "id": 4746,
+    "status": "publish",
+    "title": "Основные функции и использование панели управления в Windows 7",
+    "url": "https://itpotok.ru/osnovnye-funktsii-i-ispolzovanie-paneli-upravleniya-v-windows-7/"
+  },
+  {
+    "id": 4452,
+    "status": "publish",
+    "title": "Разблокировка Windows 7 от трояка-вымогателя",
+    "url": "https://itpotok.ru/razblikirovka-windows-7-ot-troyana-vimogatelya/"
+  },
+  {
+    "id": 3986,
+    "status": "publish",
+    "title": "Восстановление загрузки Windows 7 после установки сбойного обновления",
+    "url": "https://itpotok.ru/vosstanovlenie-zagruzku-windows-7-posle-ustanovki-sbojnogo-obnovleniya/"
+  },
+  {
+    "id": 3584,
+    "status": "publish",
+    "title": "Причины ошибок при загрузке Windows 7 и методы их устранения",
+    "url": "https://itpotok.ru/prichiny-oshibok-pri-zagruzke-windows-7-i-metody-ix-ustraneniya/"
+  },
+  {
+    "id": 3396,
+    "status": "publish",
+    "title": "Почему не запускается Windows 7 и как восстановить запуск?",
+    "url": "https://itpotok.ru/pochemu-ne-zapuskaetsya-windows-7-i-kak-vosstanovit-zapusk/"
+  },
+  {
+    "id": 2477,
+    "status": "publish",
+    "title": "Отличия Windows 7 от предыдущих версий",
+    "url": "https://itpotok.ru/otlichiya-windows-7-ot-predydushhix-versij/"
+  },
+  {
+    "id": 2151,
+    "status": "publish",
+    "title": "Почему компьютер под управлением Windows XP не запускается",
+    "url": "https://itpotok.ru/pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya/"
+  },
+  {
+    "id": 1086,
+    "status": "publish",
+    "title": "Почему компьютер под управлением Windows XP перезагружается при старте?",
+    "url": "https://itpotok.ru/pochemu-kompyuter-pod-upravleniem-windows-xp-perezagruzhaetsya-pri-starte/"
+  },
+  {
+    "id": 9895,
+    "status": "publish",
+    "title": "Способы восстановления Windows XP без полной переустановки",
+    "url": "https://itpotok.ru/sposoby-vosstanovleniya-windows-xp-bez-polnoj-pereustanovki/"
+  }
+]

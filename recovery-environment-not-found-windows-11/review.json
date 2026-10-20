@@ -1,0 +1,26 @@
+{
+  "article_sha256": "410f64546a2e6fed943b104e672e2a2bb54ae1e32fe7a28a46e872b504a39fb1",
+  "coverage_checked": true,
+  "sources_reopened": true,
+  "visuals_checked": true,
+  "editor_reviewed": true,
+  "unresolved_material": [
+    "Нет безопасного практического initial/rerun ремонта WinRE",
+    "Не подтверждено увеличение второго скриншота"
+  ],
+  "corrections": [
+    {
+      "before": "Обложка в шаблоне почти квадратная",
+      "after": "Scoped CSS 16:9, размеры проверены",
+      "reason": "Сохранить важные объекты и высоту",
+      "evidence": "verification.md"
+    },
+    {
+      "before": "Архивный кадр назван панелью входа в WinRE",
+      "after": "Кадр описан и размещён у альтернатив",
+      "reason": "Соответствие тому, что видно",
+      "evidence": "assets/recovery-settings-ru.png"
+    }
+  ],
+  "reviewed_at": "2026-10-20"
+}

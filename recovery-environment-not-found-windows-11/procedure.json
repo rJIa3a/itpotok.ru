@@ -1,0 +1,42 @@
+{
+  "environment": {
+    "version": "Windows 11; безопасная отдельная тестовая среда не предоставлена",
+    "platform": "Windows",
+    "language": "ru",
+    "plan": "Документальная сверка, без изменения пользовательской загрузки/разделов",
+    "permissions": "Запрет пользователя на изменения ради испытаний"
+  },
+  "runs": [
+    {
+      "id": "initial-doc-check",
+      "kind": "initial",
+      "executed_at": "2026-10-20",
+      "steps": [
+        {
+          "id": "enable",
+          "action": "reagentc /enable и проверка входа",
+          "expected": "Enabled и загрузка WinRE",
+          "actual": "Не выполнялось на пользовательском ПК",
+          "status": "not-run",
+          "evidence": "factcheck.md"
+        },
+        {
+          "id": "diagnose",
+          "action": "Документальная сверка/архивная иллюстрация",
+          "expected": "Подходящий русский кадр",
+          "actual": "Нового практического прогона нет",
+          "status": "not-run",
+          "evidence": "illustrations.md"
+        },
+        {
+          "id": "alternatives",
+          "action": "Документальная сверка/архивная иллюстрация",
+          "expected": "Подходящий русский кадр",
+          "actual": "Нового практического прогона нет",
+          "status": "not-run",
+          "evidence": "illustrations.md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-10-20T16:54:33.087495+00:00",
+  "status": "unverified-draft",
+  "article_sha256": "410f64546a2e6fed943b104e672e2a2bb54ae1e32fe7a28a46e872b504a39fb1",
+  "blockers": [
+    "Unverified screenshots: https://remontka.pro/images/recovery-environment-disabled-info.png",
+    "Open material review findings",
+    "No successful initial with saved evidence/current text",
+    "No successful rerun with saved evidence/current text"
+  ],
+  "limits": "Completeness checks only; source truth and visual quality require recorded editorial review. No publication."
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "S1",
+    "url": "https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/reagentc-command-line-options?view=windows-11",
+    "title": "REAgentC command-line options",
+    "checked_at": "2026-10-20",
+    "excerpt": "Sets the location of a Windows RE boot image.",
+    "limitations": "Справка команд, не гарантия совместимости и успешного сброса."
+  },
+  {
+    "id": "S2",
+    "url": "https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/customize-windows-re?view=windows-11",
+    "title": "Customize Windows RE",
+    "checked_at": "2026-10-20",
+    "excerpt": "The WinRE image is included inside the installation images",
+    "limitations": "Руководство развёртывания; предполагает подготовленную среду и согласованное обслуживание."
+  },
+  {
+    "id": "S3",
+    "url": "https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14?view=windows-11",
+    "title": "DISM Image Management Command-Line Options",
+    "checked_at": "2026-10-20",
+    "excerpt": "verify the architecture for the image",
+    "limitations": "Метаданные не подтверждают загрузку на конкретном устройстве."
+  },
+  {
+    "id": "S4",
+    "url": "https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/windows-recovery-environment--windows-re--technical-reference?view=windows-10",
+    "title": "Windows Recovery Environment",
+    "checked_at": "2026-10-20",
+    "excerpt": "a newer version of the Windows RE image replaces the existing one",
+    "limitations": "Страница также охватывает Windows 11; часть функций — Insider, не перенесены в статью."
+  },
+  {
+    "id": "S5",
+    "url": "https://support.microsoft.com/en-us/windows/experience/backup-recovery/windows-recovery-environment",
+    "title": "Windows Recovery Environment",
+    "checked_at": "2026-10-20",
+    "excerpt": "Select Repair my PC",
+    "limitations": "Экраны различаются между версиями установщика."
+  },
+  {
+    "id": "S6",
+    "url": "https://support.microsoft.com/en-gb/windows/experience/backup-recovery/recovery-options-in-windows",
+    "title": "Recovery options in Windows",
+    "checked_at": "2026-10-20",
+    "excerpt": "Back up your important files",
+    "limitations": "Общий выбор средств, не решение конкретной ошибки."
+  },
+  {
+    "id": "S7",
+    "url": "https://support.microsoft.com/en-US/Windows/Deployment/Install-Upgrade/fix-issues-by-reinstalling-the-current-version-of-windows",
+    "title": "Fix issues by reinstalling the current version of Windows",
+    "checked_at": "2026-10-20",
+    "excerpt": "Preserves your apps, files, and settings",
+    "limitations": "Нужны обновлённая Windows 11, интернет; управление организацией может исключать функцию."
+  },
+  {
+    "id": "S8",
+    "url": "https://support.microsoft.com/en-au/windows/deployment/install-upgrade/reinstall-windows-with-the-installation-media",
+    "title": "Reinstall Windows with the installation media",
+    "checked_at": "2026-10-20",
+    "excerpt": "Keep personal files and apps",
+    "limitations": "Различать запуск setup.exe в ОС и чистую установку после загрузки с USB."
+  }
+]

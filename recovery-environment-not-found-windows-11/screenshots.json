@@ -1,0 +1,43 @@
+[
+  {
+    "step_id": "alternatives",
+    "action": "Показать два разных способа переустановки",
+    "expected": "Ремонт через Центр обновления и возврат в исходное состояние",
+    "file": "assets/recovery-settings-ru.png",
+    "original": "assets/recovery-settings-ru.png",
+    "annotated": null,
+    "captured_at": "2026-10-02",
+    "environment": {
+      "language": "ru",
+      "version": "Windows 11, точная сборка не записана",
+      "platform": "Windows",
+      "plan": "Архивный безопасный кадр редакции",
+      "permissions": "Повторное использование собственного кадра"
+    },
+    "caption": "Собственный архивный кадр двух вариантов восстановления",
+    "alt": "Ремонт через Центр обновления и возврат в исходное состояние",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный кадр; Microsoft screenshot permissions"
+  },
+  {
+    "step_id": "diagnose",
+    "action": "Прочитать Disabled",
+    "expected": "Русский вывод /info",
+    "file": "https://remontka.pro/images/recovery-environment-disabled-info.png",
+    "original": "external",
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "language": "ru",
+      "version": "Точная сборка неизвестна"
+    },
+    "caption": "Внешний кадр remontka.pro",
+    "alt": "Состояние Disabled",
+    "status": "external-reviewed",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "См. illustrations.md; файл не распространяется в GitHub"
+  }
+]
