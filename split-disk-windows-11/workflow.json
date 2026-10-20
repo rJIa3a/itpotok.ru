@@ -6,40 +6,40 @@
   "created_at": "2026-10-20T16:44:00.985323+00:00",
   "stages": {
     "article-brief": {
-      "recorded_at": "2026-10-20T16:54:39.758140+00:00",
+      "recorded_at": "2026-10-20T17:03:19.409169+00:00",
       "files": {
         "brief.md": "0c3eeb32baa36083fc8d1131e75ae8652e83d7c0f1a9abece6570cd4a3c93055",
-        "duplicate-check.json": "342e16367ab9f47fa75dbc52a6a98a743db2cce889d8b7211e53b5200a300b21"
+        "duplicate-check.json": "1f86b2b1691840e8f16157f7eb8ad0c59b33f7677fea8bfda270c0504f3535f8"
       }
     },
     "research": {
-      "recorded_at": "2026-10-20T16:54:39.776806+00:00",
+      "recorded_at": "2026-10-20T17:03:19.420129+00:00",
       "files": {
         "brief.md": "0c3eeb32baa36083fc8d1131e75ae8652e83d7c0f1a9abece6570cd4a3c93055",
-        "research.md": "97b6be35a217d009a58ac8ab95bc3536bb6021ad291504fce511c87d51749b66",
+        "research.md": "b5c35469ef70e9a7cb92337cb4de4d5ed0cc48fcde73c8309934b607c3e7648a",
         "sources.json": "a1a1fc0e271ed5cc5aa8cbd49f9b31a621327f7b52e0cc3694fdecad875f3806"
       }
     },
     "claim-ledger": {
-      "recorded_at": "2026-10-20T16:54:39.793454+00:00",
+      "recorded_at": "2026-10-20T17:03:19.441037+00:00",
       "files": {
-        "research.md": "97b6be35a217d009a58ac8ab95bc3536bb6021ad291504fce511c87d51749b66",
+        "research.md": "b5c35469ef70e9a7cb92337cb4de4d5ed0cc48fcde73c8309934b607c3e7648a",
         "sources.json": "a1a1fc0e271ed5cc5aa8cbd49f9b31a621327f7b52e0cc3694fdecad875f3806",
         "claims.json": "0a36a64419c4222e09a305e0725060c1bf13e9b6f1c59761d207008fe9e28fe4"
       }
     },
     "procedure-runner": {
-      "recorded_at": "2026-10-20T16:54:39.807759+00:00",
+      "recorded_at": "2026-10-20T17:03:19.451342+00:00",
       "files": {
         "procedure.json": "0eaae9551646f4ee92decf891b84048ff2cb75c312516989697bce660fe725fb",
-        "research.md": "97b6be35a217d009a58ac8ab95bc3536bb6021ad291504fce511c87d51749b66"
+        "research.md": "b5c35469ef70e9a7cb92337cb4de4d5ed0cc48fcde73c8309934b607c3e7648a"
       }
     },
     "screenshot-capture": {
-      "recorded_at": "2026-10-20T16:54:39.825295+00:00",
+      "recorded_at": "2026-10-20T17:03:19.467120+00:00",
       "files": {
         "screenshots.json": "60769e3a76f7fe68978c18a8da65cb0773729cb58d1165b1221676ade6a4c157",
-        "illustrations.md": "86ec46709bec1dea91fcf9e8affb10234a908290c04c62f06f3233a0f09c4b8e",
+        "illustrations.md": "ba89794027a3632200d5f5c550dfef6a0a8fd4d4a1574278f60477bd02475ea2",
         "procedure.json": "0eaae9551646f4ee92decf891b84048ff2cb75c312516989697bce660fe725fb"
       }
     },
@@ -60,33 +60,34 @@
       }
     },
     "visuals": {
-      "recorded_at": "2026-10-20T16:54:39.866515+00:00",
+      "recorded_at": "2026-10-20T17:03:19.482299+00:00",
       "files": {
         "visuals.json": "fa9a9043cb7c14cb0daa5e2e9c063398ac6273352ab9e43de1ee6c4dc0faa7d4",
-        "illustrations.md": "86ec46709bec1dea91fcf9e8affb10234a908290c04c62f06f3233a0f09c4b8e",
+        "illustrations.md": "ba89794027a3632200d5f5c550dfef6a0a8fd4d4a1574278f60477bd02475ea2",
         "images/split-disk-cover-20261020.jpg": "ec67701dfc631ca6f651b40397ad9c06882fdc7ddb0ae4403a3d00338aab649d"
       }
     },
     "fact-and-procedure-check": {
-      "recorded_at": "2026-10-20T16:54:39.892152+00:00",
+      "recorded_at": "2026-10-20T17:03:19.505097+00:00",
       "files": {
         "article.html": "c8fc643dfd895776f6aa367d399c4bcdda33130cb8260aa71172e6996fe40788",
-        "review.json": "20c799ca75bb3351c8e46d934aa49784aa718ea0934e5a7639fb317c88f1bb76",
-        "review.md": "11295533c8e303f30c8f1d5c40c4de5e49c298a2482ca540b0fb4e355fb563ad",
+        "review.json": "4da45a621ad3c2b680446edf6253610cc057e40f54c0c3a49fb59b344b28353d",
+        "review.md": "91138469a06726eb55624fbacedc1d2e0954fa8cddd74a2770636af861327149",
         "procedure.json": "0eaae9551646f4ee92decf891b84048ff2cb75c312516989697bce660fe725fb",
         "screenshots.json": "60769e3a76f7fe68978c18a8da65cb0773729cb58d1165b1221676ade6a4c157"
       }
     },
     "edit-and-package": {
-      "recorded_at": "2026-10-20T16:54:39.923045+00:00",
+      "recorded_at": "2026-10-20T17:03:19.552195+00:00",
       "files": {
         "article.html": "c8fc643dfd895776f6aa367d399c4bcdda33130cb8260aa71172e6996fe40788",
         "excerpt.txt": "b2109947fed5b6e493061b9252b354f1587c64be983cfd5881079690f7a8cfea",
         "faq.json": "f1eec163fafd5f965a676a2107eeafd0d962d19a3bec9eb5235645f9df4d3f93",
-        "faq.md": "096d547a561470a8ac0857fdb8a468e06acb2eb01b2b1f22ec704a3afecb905c",
-        "README.md": "22860d2b8fd77326da6308a9e10181f2201ab249aa522c134e40b18bed2be1a7",
-        "visual-check.md": "69d893b1e3e5323ac3870b2f55a7aa2b1cede3b4b56949fb90b8584dcc5ff80b",
-        "rest-check.json": "db4b5acf25c8c49cd571f99bb8a245fe57a10ac3931e96523251d3a33047549c"
+        "faq.md": "aee8b16bfa9269d80a584dfae8255e3c0656398b5d2c6dbcbc3349d63e297f87",
+        "README.md": "9e2a9fdac839a6664d8be392590c4cc57e714a4bc194f1970d3d19f537c64043",
+        "visual-check.md": "c4cf2e6843596b340f6668e428c2d634e33db89f9e7e359c99444eb29aac378b",
+        "rest-check.json": "db4b5acf25c8c49cd571f99bb8a245fe57a10ac3931e96523251d3a33047549c",
+        "publication-check.json": "f787501b505d495de57f9c729747f90ab13795b70a9a95637b64e99d94ef347b"
       }
     }
   }

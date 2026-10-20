@@ -1,7 +1,14 @@
 {
   "checked": "2026-10-20",
-  "total": 360,
+  "total": 361,
   "relevant": [
+    {
+      "id": 12137,
+      "status": "draft",
+      "slug": "split-disk-windows-11",
+      "title": "Как разделить диск в Windows 11 и создать новый раздел",
+      "url": "https://itpotok.ru/?p=12137"
+    },
     {
       "id": 12003,
       "status": "draft",

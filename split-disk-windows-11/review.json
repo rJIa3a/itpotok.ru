@@ -16,5 +16,9 @@
       "evidence": "S5 S6"
     }
   ],
-  "reviewed_at": "2026-10-20"
+  "reviewed_at": "2026-10-20",
+  "publication_authorized": true,
+  "publication_status": "publish",
+  "fact_rechecked_at": "2026-10-20",
+  "fact_recheck_result": "No factual corrections required; practical and screenshot gaps remain"
 }
