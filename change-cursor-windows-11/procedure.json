@@ -1,0 +1,26 @@
+{
+  "environment": {
+    "version": "Windows 11: сборка не установлена",
+    "platform": "Windows",
+    "language": "ru-RU — целевая, не подтверждена окном",
+    "plan": "Штатные функции ОС",
+    "permissions": "Запуск инструментов Windows через Computer Use отклонён"
+  },
+  "runs": [
+    {
+      "id": "initial-access-check",
+      "kind": "initial",
+      "executed_at": "2026-10-20",
+      "steps": [
+        {
+          "id": "P0",
+          "action": "Открыть SystemSettings.exe, затем после восстановления control.exe",
+          "expected": "Доступное окно настроек",
+          "actual": "Окно SystemSettings не появилось; control.exe: Computer Use was not approved to use Инструменты Windows",
+          "status": "blocked",
+          "evidence": "review.md"
+        }
+      ]
+    }
+  ]
+}

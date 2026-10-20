@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cover",
+    "file": "assets/cursor-cover-16x9-20261020.jpg",
+    "purpose": "Редакционная обложка 16:9",
+    "caption": "Редакционная иллюстрация ITpotok.ru, созданная с помощью imagegen.",
+    "alt": "Курсор в Windows 11: стрелки разного размера и цвета",
+    "status": "verified",
+    "required": true
+  }
+]

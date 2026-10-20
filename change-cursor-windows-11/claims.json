@@ -1,0 +1,79 @@
+[
+  {
+    "id": "C1",
+    "claim": "Размер и стиль указателя меняются в Специальных возможностях",
+    "source_id": "S1",
+    "evidence": "Mouse pointer and touch; Mouse pointer style; Size",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "size-color"
+  },
+  {
+    "id": "C2",
+    "claim": "Есть белый, чёрный, инвертированный и пользовательский цвет указателя",
+    "source_id": "S2",
+    "evidence": "white, black, inverted; Choose another color",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "size-color"
+  },
+  {
+    "id": "C3",
+    "claim": "Схема меняет набор указателей, Browse назначает один указатель",
+    "source_id": "S1",
+    "evidence": "Scheme; Customize; Browse; Open; OK",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "schemes"
+  },
+  {
+    "id": "C4",
+    "claim": "Файлы курсоров имеют форматы .cur и .ani",
+    "source_id": "S3",
+    "evidence": "either .CUR or .ANI format",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "cursor-files"
+  },
+  {
+    "id": "C5",
+    "claim": "Толщина точки ввода и цвет индикатора настраиваются отдельно",
+    "source_id": "S2",
+    "evidence": "Text cursor thickness; Text cursor indicator",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "text-cursor"
+  },
+  {
+    "id": "C6",
+    "claim": "Приложение может менять вид указателя",
+    "source_id": "S4",
+    "evidence": "the system (or an application) changes the appearance of the cursor",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "check"
+  },
+  {
+    "id": "C7",
+    "claim": "После изменения указателей подтверждают окно кнопкой OK",
+    "source_id": "S1",
+    "evidence": "Once the mouse pointer is changed as desired, select the OK button",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "schemes"
+  }
+]

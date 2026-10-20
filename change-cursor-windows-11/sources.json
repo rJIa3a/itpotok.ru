@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/en-us/windows/hardware/input-devices/change-mouse-settings",
+    "title": "Change mouse settings",
+    "excerpt": "select the drop-down list under Scheme",
+    "limitations": "Справка Windows 11/10; использовать вкладку Windows 11. Не доказательство русского интерфейса.",
+    "checked_at": "2026-10-20"
+  },
+  {
+    "id": "S2",
+    "url": "https://support.microsoft.com/en-us/accessibility/windows/make-your-mouse-keyboard-and-other-input-devices-easier-to-use",
+    "title": "Make input devices easier to use",
+    "excerpt": "Windows 11 lets you change the thickness of the text cursor",
+    "limitations": "Индикатор и толщина не равны изменению указателя мыши.",
+    "checked_at": "2026-10-20"
+  },
+  {
+    "id": "S3",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-loadcursorfromfilea",
+    "title": "LoadCursorFromFileA",
+    "excerpt": "either .CUR or .ANI format",
+    "limitations": "Документация форматов, не инструкция установки темы.",
+    "checked_at": "2026-10-20"
+  },
+  {
+    "id": "S4",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/menurc/about-cursors",
+    "title": "About Cursors",
+    "excerpt": "the system (or an application) changes the appearance of the cursor",
+    "limitations": "Приложения могут задавать свои курсоры.",
+    "checked_at": "2026-10-20"
+  },
+  {
+    "id": "S5",
+    "url": "https://support.microsoft.com/ru-ru/windows/hardware/input-devices/change-mouse-settings",
+    "title": "Изменение параметров мыши",
+    "excerpt": "Изменение внешнего вида указателя мыши",
+    "limitations": "Локализация справки; точные подписи не проверены на системе.",
+    "checked_at": "2026-10-20"
+  }
+]

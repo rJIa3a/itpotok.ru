@@ -1,0 +1,59 @@
+[
+  {
+    "step_id": "P1",
+    "action": "Открыть настройки указателя",
+    "expected": "Стили и размер указателя",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "platform": "Windows 11",
+      "language": "ru-RU"
+    },
+    "caption": "Стили и размер указателя",
+    "alt": "Стили и размер указателя",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен"
+  },
+  {
+    "step_id": "P2",
+    "action": "Открыть вкладку Указатели",
+    "expected": "Схема и назначение ролей",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "platform": "Windows 11",
+      "language": "ru-RU"
+    },
+    "caption": "Схема и назначение ролей",
+    "alt": "Схема и назначение ролей",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен"
+  },
+  {
+    "step_id": "P3",
+    "action": "Открыть Текстовый курсор",
+    "expected": "Толщина и цвет индикатора",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "platform": "Windows 11",
+      "language": "ru-RU"
+    },
+    "caption": "Толщина и цвет индикатора",
+    "alt": "Толщина и цвет индикатора",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен"
+  }
+]
