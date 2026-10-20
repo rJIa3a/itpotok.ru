@@ -1,0 +1,26 @@
+{
+  "environment": {
+    "version": "Windows 11; точная сборка тестовой среды не установлена",
+    "platform": "Windows desktop",
+    "language": "ru-RU",
+    "plan": "not applicable",
+    "permissions": "Только попытка чтения; изменение реальных дисков запрещено заданием"
+  },
+  "runs": [
+    {
+      "id": "attempt-20261020",
+      "kind": "initial",
+      "executed_at": "2026-10-20",
+      "steps": [
+        {
+          "id": "P1",
+          "action": "Открыть Управление дисками только для чтения",
+          "expected": "Окно разметки",
+          "actual": "Запрос UAC; инструмент запрещает управлять запросами безопасности. Не подтверждался. Изменения дисков не выполнялись.",
+          "status": "blocked",
+          "evidence": "research.md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "step_id": "P1",
+    "action": "Открыть меню тома",
+    "expected": "Сжать том",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "language": "ru-RU"
+    },
+    "caption": "",
+    "alt": "",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен подходящий кадр"
+  },
+  {
+    "step_id": "P2",
+    "action": "Открыть диалог сжатия",
+    "expected": "Предел, размер и остаток",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "language": "ru-RU"
+    },
+    "caption": "",
+    "alt": "",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен подходящий кадр"
+  },
+  {
+    "step_id": "P3",
+    "action": "Меню новой области",
+    "expected": "Создать простой том",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "language": "ru-RU"
+    },
+    "caption": "",
+    "alt": "",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен подходящий кадр"
+  },
+  {
+    "step_id": "P4",
+    "action": "Страница форматирования",
+    "expected": "NTFS нового тома",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "language": "ru-RU"
+    },
+    "caption": "",
+    "alt": "",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен подходящий кадр"
+  },
+  {
+    "step_id": "P5",
+    "action": "Проверка результата",
+    "expected": "Два тома на одном диске",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "language": "ru-RU"
+    },
+    "caption": "",
+    "alt": "",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не получен подходящий кадр"
+  }
+]

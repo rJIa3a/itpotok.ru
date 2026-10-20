@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cover",
+    "file": "images/split-disk-cover-20261020.jpg",
+    "purpose": "Редакционная обложка 16:9",
+    "caption": "Редакционная иллюстрация ITpotok.ru, созданная с помощью imagegen.",
+    "alt": "Иллюстрация разделения одного SSD на тома C: и D: в Windows 11",
+    "status": "verified",
+    "required": true
+  }
+]

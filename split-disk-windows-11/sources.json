@@ -1,0 +1,74 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/en-us/windows/experience/storage-filemanagement/disk-management-in-windows",
+    "title": "Disk Management in Windows",
+    "checked_at": "2026-10-20",
+    "excerpt": "Right-click an unallocated region on your hard disk, and then select New Simple Volume.",
+    "limitations": "Официальная справка Windows 10/11; этапы мастера, форматирование существующего тома разрушает данные."
+  },
+  {
+    "id": "S2",
+    "url": "https://learn.microsoft.com/en-us/windows-server/storage/disk-management/shrink-a-basic-volume",
+    "title": "Shrink a basic volume",
+    "checked_at": "2026-10-20",
+    "excerpt": "There's no need to reformat the disk to shrink the partition.",
+    "limitations": "Применимость включает Windows 11; штатное сжатие NTFS/RAW, RAW с данными исключён из инструкции."
+  },
+  {
+    "id": "S3",
+    "url": "https://learn.microsoft.com/en-us/windows-server/storage/disk-management/manage-basic-volumes",
+    "title": "Manage basic volumes",
+    "checked_at": "2026-10-20",
+    "excerpt": "Partitions and logical drives on basic disks are called basic volumes.",
+    "limitations": "Обычные базовые тома; не универсальное описание Storage Spaces/динамических томов."
+  },
+  {
+    "id": "S4",
+    "url": "https://learn.microsoft.com/en-us/windows-server/storage/disk-management/overview-of-disk-management",
+    "title": "Overview of Disk Management",
+    "checked_at": "2026-10-20",
+    "excerpt": "The recommended practice is to not modify these partitions in any way.",
+    "limitations": "Предупреждение относится к EFI System и Recovery; процент свободного места не доказывает пустоту."
+  },
+  {
+    "id": "S5",
+    "url": "https://support.microsoft.com/en-us/windows/security/encryption/find-your-bitlocker-recovery-key",
+    "title": "Find your BitLocker recovery key",
+    "checked_at": "2026-10-20",
+    "excerpt": "A BitLocker recovery key is a 48-digit number",
+    "limitations": "Подготовка доступа к ключу; не подтверждает необходимость расшифровки перед каждым сжатием."
+  },
+  {
+    "id": "S6",
+    "url": "https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/faq",
+    "title": "BitLocker FAQ",
+    "checked_at": "2026-10-20",
+    "excerpt": "Suspend keeps the data encrypted",
+    "limitations": "Приостановка и расшифровка различаются. Нет универсальной инструкции «приостановить для сжатия»."
+  },
+  {
+    "id": "S7",
+    "url": "https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-a-drive-letter",
+    "title": "Change a drive letter",
+    "checked_at": "2026-10-20",
+    "excerpt": "Changing the drive letter of a drive that contains Windows or apps might cause apps to have trouble",
+    "limitations": "Назначение буквы обычному новому тому; не служебным разделам."
+  },
+  {
+    "id": "S8",
+    "url": "https://learn.microsoft.com/en-us/windows-server/storage/disk-management/extend-a-basic-volume",
+    "title": "Extend a basic or dynamic volume",
+    "checked_at": "2026-10-20",
+    "excerpt": "The unallocated space must be located immediately after the volume that you want to extend.",
+    "limitations": "Та же физическая единица, смежное пространство справа, NTFS/ReFS; инструкция использует NTFS."
+  },
+  {
+    "id": "S9",
+    "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shrink",
+    "title": "shrink",
+    "checked_at": "2026-10-20",
+    "excerpt": "querymax",
+    "limitations": "Подтверждает единицы МБ и расчёт предела; команды не включены в читательский порядок."
+  }
+]

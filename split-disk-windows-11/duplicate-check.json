@@ -1,0 +1,132 @@
+{
+  "checked": "2026-10-20",
+  "total": 360,
+  "relevant": [
+    {
+      "id": 12003,
+      "status": "draft",
+      "slug": "clean-drive-c-windows-11-short",
+      "title": "Как почистить диск C в Windows 11 — короткая версия",
+      "url": "https://itpotok.ru/?p=12003"
+    },
+    {
+      "id": 11994,
+      "status": "publish",
+      "slug": "clean-drive-c-windows-11",
+      "title": "Как почистить диск C в Windows 11: безопасные способы освободить место",
+      "url": "https://itpotok.ru/clean-drive-c-windows-11/"
+    },
+    {
+      "id": 7838,
+      "status": "publish",
+      "slug": "osobennosti-defragmentatsii-diskov-v-windows-8",
+      "title": "Особенности дефрагментации дисков в Windows 8",
+      "url": "https://itpotok.ru/osobennosti-defragmentatsii-diskov-v-windows-8/"
+    },
+    {
+      "id": 7076,
+      "status": "publish",
+      "slug": "poisk-zakachka-i-zapis-na-disk-originalnogo-obraza-windows-7",
+      "title": "Поиск, закачка и запись на диск оригинального образа Windows 7?",
+      "url": "https://itpotok.ru/poisk-zakachka-i-zapis-na-disk-originalnogo-obraza-windows-7/"
+    },
+    {
+      "id": 6931,
+      "status": "publish",
+      "slug": "polnoe-udalenie-windows-7-s-jeskogo-diska",
+      "title": "Полное удаление Windows 7 с жесткого диска",
+      "url": "https://itpotok.ru/polnoe-udalenie-windows-7-s-jeskogo-diska/"
+    },
+    {
+      "id": 3214,
+      "status": "publish",
+      "slug": "razdelenie-zhestkogo-diska-v-operacionnoj-sisteme-windows-7",
+      "title": "Разделение жесткого диска в операционной системе Windows 7",
+      "url": "https://itpotok.ru/razdelenie-zhestkogo-diska-v-operacionnoj-sisteme-windows-7/"
+    },
+    {
+      "id": 3193,
+      "status": "publish",
+      "slug": "rabota-s-zhestkimi-diskami-v-xode-ustanovki-windows-7-i-ne-tolko",
+      "title": "Работа с жесткими дисками в ходе установки Windows 7 и не только",
+      "url": "https://itpotok.ru/rabota-s-zhestkimi-diskami-v-xode-ustanovki-windows-7-i-ne-tolko/"
+    },
+    {
+      "id": 3147,
+      "status": "publish",
+      "slug": "defragmentaciya-v-pomosh-dlya-osvobogdeniya-mesta-na-diske-v-windows-7",
+      "title": "Дефрагментация в помощь для освобождения места на диске в Windows 7?",
+      "url": "https://itpotok.ru/defragmentaciya-v-pomosh-dlya-osvobogdeniya-mesta-na-diske-v-windows-7/"
+    },
+    {
+      "id": 3089,
+      "status": "publish",
+      "slug": "kak-razbit-zhestkij-disk-na-razdely-v-windows-7",
+      "title": "Как разбить жесткий диск на разделы в Windows 7?",
+      "url": "https://itpotok.ru/kak-razbit-zhestkij-disk-na-razdely-v-windows-7/"
+    },
+    {
+      "id": 2904,
+      "status": "publish",
+      "slug": "chistka-diska-ot-musora-v-windows-7",
+      "title": "Чистка диска от мусора в Windows 7?",
+      "url": "https://itpotok.ru/chistka-diska-ot-musora-v-windows-7/"
+    },
+    {
+      "id": 2308,
+      "status": "publish",
+      "slug": "osobennosti-ustanovki-windows-xp-s-zhestkogo-diska-na-ssd",
+      "title": "Особенности установки Windows XP с жесткого диска на SSD",
+      "url": "https://itpotok.ru/osobennosti-ustanovki-windows-xp-s-zhestkogo-diska-na-ssd/"
+    },
+    {
+      "id": 1843,
+      "status": "publish",
+      "slug": "vosstanovlenie-sistemy-windows-xp-cherez-programmu-ili-disk",
+      "title": "Восстановление операционной системы Windows XP через программу или диск",
+      "url": "https://itpotok.ru/vosstanovlenie-sistemy-windows-xp-cherez-programmu-ili-disk/"
+    },
+    {
+      "id": 1676,
+      "status": "publish",
+      "slug": "sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska",
+      "title": "Способы традиционной и автоматической установки Windows XP с диска",
+      "url": "https://itpotok.ru/sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska/"
+    },
+    {
+      "id": 9911,
+      "status": "publish",
+      "slug": "kak-samostoyatelno-ustanovit-windows-xp-na-ssd-disk",
+      "title": "Как самостоятельно установить Windows XP на SSD диск?",
+      "url": "https://itpotok.ru/kak-samostoyatelno-ustanovit-windows-xp-na-ssd-disk/"
+    },
+    {
+      "id": 1015,
+      "status": "publish",
+      "slug": "kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov",
+      "title": "Как переустановить Windows XP, если у вас нет привода для чтения дисков",
+      "url": "https://itpotok.ru/kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov/"
+    },
+    {
+      "id": 859,
+      "status": "publish",
+      "slug": "kak-razdelit-ili-podelit-na-chasti-zhestkij-disk-windows-xp",
+      "title": "Как разделить или поделить на части жесткий диск Windows XP?",
+      "url": "https://itpotok.ru/kak-razdelit-ili-podelit-na-chasti-zhestkij-disk-windows-xp/"
+    },
+    {
+      "id": 538,
+      "status": "publish",
+      "slug": "azbuka-ustanovki-windows-xp-sozdanie-zagruzochnogo-diska",
+      "title": "Азбука установки Windows XP: создание загрузочного диска",
+      "url": "https://itpotok.ru/azbuka-ustanovki-windows-xp-sozdanie-zagruzochnogo-diska/"
+    },
+    {
+      "id": 439,
+      "status": "publish",
+      "slug": "esli-operacionnaya-sistema-daet-sboj-sozdaem-zagruzochnyj-disk-windows-xp",
+      "title": "Если операционная система дает сбой: создаем загрузочный диск Windows XP",
+      "url": "https://itpotok.ru/esli-operacionnaya-sistema-daet-sboj-sozdaem-zagruzochnyj-disk-windows-xp/"
+    }
+  ]
+}

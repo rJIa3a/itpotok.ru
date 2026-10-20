@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1",
+    "claim": "Управление дисками открывается из меню Пуск или diskmgmt.msc; мастер создаёт том в нераспределённой области, задаёт размер, букву и форматирование.",
+    "source_id": "S1",
+    "evidence": "Официальные разделы Open Disk Management и Create and format a new partition (volume); предупреждение форматирования.",
+    "location": "open, create, check",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C2",
+    "claim": "Штатное сжатие уменьшает том с конца, не требует форматирования исходного NTFS и создаёт область под новый раздел.",
+    "source_id": "S2",
+    "evidence": "Начальные абзацы и Ways to shrink a basic volume.",
+    "location": "lead, shrink",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C3",
+    "claim": "На одном физическом базовом диске бывают несколько разделов/томов; разделение не добавляет физический накопитель.",
+    "source_id": "S3",
+    "evidence": "Определение basic disk и basic volumes; вывод о границе отказа одного устройства — редакционное объяснение.",
+    "location": "before, check",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C4",
+    "claim": "Ключ BitLocker следует подготовить; приостановка сохраняет шифрование и отличается от расшифровки.",
+    "source_id": "S6",
+    "evidence": "Раздел What is the difference between suspending and decrypting BitLocker; ключ дополнительно S5. Новый том необходимо проверить отдельно, гарантии автоматического шифрования не дано.",
+    "location": "before",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C5",
+    "claim": "EFI и Recovery содержат критические файлы и не должны изменяться ради разделения.",
+    "source_id": "S4",
+    "evidence": "View drives and partitions, Important: даже 100% свободно не означает отсутствие важных файлов.",
+    "location": "before",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C6",
+    "claim": "Инструкция ограничена базовым исправным NTFS; для RAW с данными сжатие опасно.",
+    "source_id": "S2",
+    "evidence": "Caution о RAW; Note о NTFS и отсутствии файловой системы.",
+    "location": "before, open, shrink, limits",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C7",
+    "claim": "Сжатие ограничивается неперемещаемыми файлами; предел отличается от свободного места; размер операции задаётся в МБ.",
+    "source_id": "S2",
+    "evidence": "Other considerations: paging file, shadow copies, event ID 259; единицы также S9. 102400/1024=100 — арифметический пример, не результат теста.",
+    "location": "shrink, limits",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C8",
+    "claim": "Обычному тому можно назначить свободную букву; изменение буквы тома с приложениями может нарушить их работу.",
+    "source_id": "S7",
+    "evidence": "Назначение/изменение буквы; предупреждение об установленных приложениях. NTFS и параметры нового тома — редакционный выбор для внутреннего тома Windows, не универсально единственная файловая система.",
+    "location": "create, check",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C9",
+    "claim": "Расширение требует нераспределённого смежного пространства справа на том же диске; удаление соседнего тома уничтожает его данные.",
+    "source_id": "S8",
+    "evidence": "Prerequisites; предупреждение удаления и необходимость копии в диагностике расширения.",
+    "location": "undo",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true
+  }
+]
