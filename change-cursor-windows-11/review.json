@@ -1,13 +1,19 @@
 {
-  "article_sha256": "9fb68d4d9cf613b563042a7e388672121597c892d831a9ccd6b2478406f1a534",
+  "article_sha256": "6aa771dfe901a7405ae45c377ede47d20cc67da566ad5e13610d38936f37fbcc",
   "coverage_checked": true,
   "sources_reopened": true,
-  "visuals_checked": false,
+  "visuals_checked": true,
   "editor_reviewed": true,
   "unresolved_material": [
-    "Нет обязательных русских кадров Windows",
-    "Не выполнены практический и повторный прогоны инструкции"
+    "Полный повторный практический прогон текущего руководства не выполнен; границы зафиксированы в procedure-evidence.md"
   ],
-  "corrections": [],
+  "corrections": [
+    {
+      "before": "Прежняя либо встроенная стандартная схема",
+      "after": "Прежняя схема или По умолчанию (системная)",
+      "reason": "Уточнено точное название в русском интерфейсе",
+      "evidence": "images/originals/mouse-pointers-scheme-ru.jpg"
+    }
+  ],
   "reviewed_at": "2026-10-20"
 }

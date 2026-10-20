@@ -1,14 +1,9 @@
 {
-  "checked_at": "2026-10-20T16:59:14.587433+00:00",
+  "checked_at": "2026-10-20T17:13:59.644160+00:00",
   "status": "unverified-draft",
-  "article_sha256": "9fb68d4d9cf613b563042a7e388672121597c892d831a9ccd6b2478406f1a534",
+  "article_sha256": "6aa771dfe901a7405ae45c377ede47d20cc67da566ad5e13610d38936f37fbcc",
   "blockers": [
-    "Unverified screenshots: None",
-    "Unverified screenshots: None",
-    "Unverified screenshots: None",
-    "Review missing: visuals_checked",
     "Open material review findings",
-    "No successful initial with saved evidence/current text",
     "No successful rerun with saved evidence/current text"
   ],
   "limits": "Completeness checks only; source truth and visual quality require recorded editorial review. No publication."

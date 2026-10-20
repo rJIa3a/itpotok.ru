@@ -75,5 +75,16 @@
     "status": "supported",
     "material": true,
     "location": "schemes"
+  },
+  {
+    "id": "C8",
+    "claim": "В проверенной русской Windows встроенная исходная схема называется По умолчанию (системная)",
+    "source_id": "S6",
+    "evidence": "images/originals/mouse-pointers-scheme-ru.jpg; смена на Черная (системная) и возврат через Применить",
+    "checked_at": "2026-10-20",
+    "next_review": "2027-01-20",
+    "status": "supported",
+    "material": true,
+    "location": "check"
   }
 ]

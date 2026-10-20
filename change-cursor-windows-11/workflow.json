@@ -6,87 +6,98 @@
   "created_at": "2026-10-20T16:46:56.770776+00:00",
   "stages": {
     "article-brief": {
-      "recorded_at": "2026-10-20T16:59:14.433764+00:00",
+      "recorded_at": "2026-10-20T17:13:59.421700+00:00",
       "files": {
         "brief.md": "2c7d1dcd7d7b54156416d4772e71d0b7d247f262f641d210ababef54139834fd",
         "duplicate-check.json": "8348d3221e1f7f161313405416855e50a644d6538f46a3aafbcf83efaffc2a81"
       }
     },
     "research": {
-      "recorded_at": "2026-10-20T16:59:14.445836+00:00",
+      "recorded_at": "2026-10-20T17:13:59.453210+00:00",
       "files": {
         "brief.md": "2c7d1dcd7d7b54156416d4772e71d0b7d247f262f641d210ababef54139834fd",
-        "research.md": "4d75f47aec8143a8663d8cd6b5f1590f1d4a253b32b49c576c11a4aa9c3b3397",
-        "sources.json": "5157b14cc03657eb60fadde4bebe10c6b35d15e395c09180663c53defe8b084c"
+        "research.md": "7d21814e8857cb3392af844b0f5b9310b120d49b9b6a926b40c52584f6676fed",
+        "sources.json": "493bba679bfab0f469e58b2935752979cb50829f4c1abb323066f59b7e52a5cc"
       }
     },
     "claim-ledger": {
-      "recorded_at": "2026-10-20T16:59:14.452241+00:00",
+      "recorded_at": "2026-10-20T17:13:59.472498+00:00",
       "files": {
-        "sources.json": "5157b14cc03657eb60fadde4bebe10c6b35d15e395c09180663c53defe8b084c",
-        "claims.json": "33ee4927dddf73cba67648fb7bc3c36c09b97d07b057501feeb1d80e6c5ee013"
+        "sources.json": "493bba679bfab0f469e58b2935752979cb50829f4c1abb323066f59b7e52a5cc",
+        "claims.json": "dcf51510d63453b8e2a69f6acf2a0a65c67bbb32ac89b771f4f63a264e2e76cf"
       }
     },
     "procedure-runner": {
-      "recorded_at": "2026-10-20T16:59:14.459899+00:00",
+      "recorded_at": "2026-10-20T17:13:59.491495+00:00",
       "files": {
         "brief.md": "2c7d1dcd7d7b54156416d4772e71d0b7d247f262f641d210ababef54139834fd",
-        "procedure.json": "33a4f38cb8cf54ece74a2ff5a3ab8b85cd2cd47dc6eae6a0672e223f0ca3a7db",
-        "review.md": "1093a36b5f8e6d8c13f40ec40b2d5c3e25d6521d8bfecb6fac8025810e2862de"
+        "procedure.json": "d528fadf1205df14eb13750f588582f9978fa5665a2b6711c647e369d78dcd14",
+        "review.md": "7b95f442cf4feab694a8920e153ff6e930f4ea48904aabba732cf5885b002e38",
+        "procedure-evidence.md": "9ad168236d3306690518296600e65eabeb5a350d7f6a918dcac5db702fde527f"
       }
     },
     "screenshot-capture": {
-      "recorded_at": "2026-10-20T16:59:14.469094+00:00",
+      "recorded_at": "2026-10-20T17:13:59.507297+00:00",
       "files": {
-        "procedure.json": "33a4f38cb8cf54ece74a2ff5a3ab8b85cd2cd47dc6eae6a0672e223f0ca3a7db",
-        "screenshots.json": "80eff078aceedbd1f3d6dab187fbec990cb9a4fd1d193df86ef26aeaaa31bc37",
-        "illustrations.md": "9cb54c404df8317f2908b1f89d7cd74b3aa020cc5c4597ee53d3b55f1bd6f808"
+        "procedure.json": "d528fadf1205df14eb13750f588582f9978fa5665a2b6711c647e369d78dcd14",
+        "screenshots.json": "3378a962176439abf03460842e49d952b829d4b018c7ac622579b703c808488a",
+        "illustrations.md": "bb7b91cda65d03d50dd50560550a68da9defebf87c9eaa16bfbcf34f2c8b7a37",
+        "images/originals/pointer-size-color-ru.jpg": "10210d45c76bc5c9611d379b71083e6446ecdd81c197f9f4614fccf71bddbbbd",
+        "images/originals/mouse-pointers-scheme-ru.jpg": "9793514fd5194bb6d04dc8df9d38315bef521625ec022078f0a581b897f7e787",
+        "images/originals/cursor-file-dialog-ru.jpg": "b62ea4990187694a7ea0900920e66f9f374b187df07a50f681fc00203e2c74cb",
+        "images/originals/text-cursor-ru.jpg": "d8aa4601c0bc3b623607fb675f837c750edb192df061682cba7316a74960b8c4"
       }
     },
     "outline": {
-      "recorded_at": "2026-10-20T16:59:14.478711+00:00",
+      "recorded_at": "2026-10-20T17:13:59.516017+00:00",
       "files": {
-        "claims.json": "33ee4927dddf73cba67648fb7bc3c36c09b97d07b057501feeb1d80e6c5ee013",
+        "claims.json": "dcf51510d63453b8e2a69f6acf2a0a65c67bbb32ac89b771f4f63a264e2e76cf",
         "outline.md": "d438092a9bd003d7b2f5d21ff4864d780afa45e2024f3f49c21f39790a3641c7"
       }
     },
     "draft": {
-      "recorded_at": "2026-10-20T16:59:14.488079+00:00",
+      "recorded_at": "2026-10-20T17:13:59.520018+00:00",
       "files": {
         "outline.md": "d438092a9bd003d7b2f5d21ff4864d780afa45e2024f3f49c21f39790a3641c7",
-        "claims.json": "33ee4927dddf73cba67648fb7bc3c36c09b97d07b057501feeb1d80e6c5ee013",
-        "article.html": "9fb68d4d9cf613b563042a7e388672121597c892d831a9ccd6b2478406f1a534",
+        "claims.json": "dcf51510d63453b8e2a69f6acf2a0a65c67bbb32ac89b771f4f63a264e2e76cf",
+        "article.html": "6aa771dfe901a7405ae45c377ede47d20cc67da566ad5e13610d38936f37fbcc",
         "excerpt.txt": "7088f7a12a72be033e6cf4f4cbb9b2a6ad4a8bf17cb5e17a78a34b2e99382e05"
       }
     },
     "visuals": {
-      "recorded_at": "2026-10-20T16:59:14.488079+00:00",
+      "recorded_at": "2026-10-20T17:13:59.530981+00:00",
       "files": {
-        "illustrations.md": "9cb54c404df8317f2908b1f89d7cd74b3aa020cc5c4597ee53d3b55f1bd6f808",
+        "illustrations.md": "bb7b91cda65d03d50dd50560550a68da9defebf87c9eaa16bfbcf34f2c8b7a37",
         "visuals.json": "661962acdb04697c69eeb80b2a22d2ec02a34631e4eb4d0b4ec9912c30c3eed3",
         "assets/cursor-cover-16x9-20261020.jpg": "3cd008d3284ac1c3aab226a7db4e065a6f849d8293cc05d0deda47ad5d097d64"
       }
     },
     "fact-and-procedure-check": {
-      "recorded_at": "2026-10-20T16:59:14.504083+00:00",
+      "recorded_at": "2026-10-20T17:13:59.548215+00:00",
       "files": {
-        "article.html": "9fb68d4d9cf613b563042a7e388672121597c892d831a9ccd6b2478406f1a534",
-        "sources.json": "5157b14cc03657eb60fadde4bebe10c6b35d15e395c09180663c53defe8b084c",
-        "claims.json": "33ee4927dddf73cba67648fb7bc3c36c09b97d07b057501feeb1d80e6c5ee013",
-        "procedure.json": "33a4f38cb8cf54ece74a2ff5a3ab8b85cd2cd47dc6eae6a0672e223f0ca3a7db",
-        "review.json": "5142f546f436b7e2075a5393a927aa8c3902a7609f4b99a8dd1114cf2ecb5dca",
-        "review.md": "1093a36b5f8e6d8c13f40ec40b2d5c3e25d6521d8bfecb6fac8025810e2862de"
+        "article.html": "6aa771dfe901a7405ae45c377ede47d20cc67da566ad5e13610d38936f37fbcc",
+        "sources.json": "493bba679bfab0f469e58b2935752979cb50829f4c1abb323066f59b7e52a5cc",
+        "claims.json": "dcf51510d63453b8e2a69f6acf2a0a65c67bbb32ac89b771f4f63a264e2e76cf",
+        "procedure.json": "d528fadf1205df14eb13750f588582f9978fa5665a2b6711c647e369d78dcd14",
+        "review.json": "a084a7b204ebbdfc20fac1fad56adba0266558ebdd7cd263543450df49294090",
+        "review.md": "7b95f442cf4feab694a8920e153ff6e930f4ea48904aabba732cf5885b002e38"
       }
     },
     "edit-and-package": {
-      "recorded_at": "2026-10-20T16:59:14.515148+00:00",
+      "recorded_at": "2026-10-20T17:13:59.584056+00:00",
       "files": {
-        "article.html": "9fb68d4d9cf613b563042a7e388672121597c892d831a9ccd6b2478406f1a534",
+        "article.html": "6aa771dfe901a7405ae45c377ede47d20cc67da566ad5e13610d38936f37fbcc",
         "excerpt.txt": "7088f7a12a72be033e6cf4f4cbb9b2a6ad4a8bf17cb5e17a78a34b2e99382e05",
         "faq.md": "9b4550eafb9332227ee113435afa90442e70126e7883bfa4ee31b5bc0a220715",
-        "README.md": "2c33d4cc4b86831b7e1d98759112edc35e98b96e41bad4b1c0d0b7d9a5fc972b",
-        "review.md": "1093a36b5f8e6d8c13f40ec40b2d5c3e25d6521d8bfecb6fac8025810e2862de"
+        "README.md": "393700d481e380e3d5662f9e1649575a17f7c83728a04a3af01e25e0e5676302",
+        "review.md": "7b95f442cf4feab694a8920e153ff6e930f4ea48904aabba732cf5885b002e38",
+        "rest-check.json": "84d1c0f2c0422b4fcb2f9b24bf62b580110e5f2b743885be307f133769805a1c",
+        "public-check.json": "73b1618c3fd86623e6b5307770402fba3701efade7b0dc89afbe4a97e3cf0e8f",
+        "evidence/publication-browser-check.json": "9299f8961887683f0cf6c4e6662c6b46dbb9f2cd674067003d9b5730d6c1bf86"
       }
     }
-  }
+  },
+  "delivery_status": "published",
+  "wordpress_id": 12130,
+  "published_url": "https://itpotok.ru/change-cursor-windows-11/"
 }

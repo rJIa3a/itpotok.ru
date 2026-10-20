@@ -1,10 +1,11 @@
 {
   "id": 12130,
-  "status": "draft",
+  "status": "publish",
   "body_matches": true,
   "excerpt_matches": true,
   "cover_matches": true,
   "faq_count": 5,
   "visible_shortcode": false,
+  "screenshots": 4,
   "checked": "2026-10-20"
 }

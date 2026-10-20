@@ -7,5 +7,27 @@
   },
   "draft_id": 12130,
   "preview_url": "https://itpotok.ru/?p=12130&preview=true",
-  "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12130&action=edit"
+  "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12130&action=edit",
+  "screenshots": {
+    "pointer-size-color-ru.jpg": {
+      "id": 12140,
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/cursor-pointer-size-color-ru.jpg"
+    },
+    "mouse-pointers-scheme-ru.jpg": {
+      "id": 12141,
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/cursor-mouse-pointers-scheme-ru.jpg"
+    },
+    "cursor-file-dialog-ru.jpg": {
+      "id": 12142,
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/cursor-cursor-file-dialog-ru.jpg"
+    },
+    "text-cursor-ru.jpg": {
+      "id": 12143,
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/cursor-text-cursor-ru.jpg"
+    }
+  },
+  "post_id": 12130,
+  "status": "publish",
+  "published_url": "https://itpotok.ru/change-cursor-windows-11/",
+  "published_at": "2026-10-20T20:12:05"
 }

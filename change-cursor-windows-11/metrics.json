@@ -1,9 +1,9 @@
 {
   "started_at": "2026-10-20",
-  "checked_at": null,
+  "checked_at": "2026-10-20",
   "factual_corrections": 0,
   "manual_edit_minutes": null,
-  "reproducibility": "not-tested",
-  "screenshot_quality": "missing",
+  "reproducibility": "partial-practical-check-with-restore",
+  "screenshot_quality": "four-real-russian-safe-screenshots",
   "chart_quality": "not-applicable"
 }

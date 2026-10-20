@@ -38,5 +38,13 @@
     "excerpt": "Изменение внешнего вида указателя мыши",
     "limitations": "Локализация справки; точные подписи не проверены на системе.",
     "checked_at": "2026-10-20"
+  },
+  {
+    "id": "S6",
+    "url": "https://github.com/rJIa3a/itpotok.ru/blob/editorial/change-cursor-windows-11/change-cursor-windows-11/procedure-evidence.md",
+    "title": "Собственный прогон Windows 11 и безопасные снимки",
+    "checked_at": "2026-10-20",
+    "excerpt": "По умолчанию (системная); Обзор; Указатели (*.ani, *.cur)",
+    "limitations": "Полный повторный прогон всего руководства, собственный скачанный .ani и сохранение новой пользовательской схемы не выполнялись. Журнал procedure.json."
   }
 ]

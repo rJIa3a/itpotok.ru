@@ -1,59 +1,90 @@
 [
   {
     "step_id": "P1",
-    "action": "Открыть настройки указателя",
-    "expected": "Стили и размер указателя",
-    "file": null,
-    "original": null,
+    "action": "Выбрать цветной стиль и размер 4",
+    "expected": "Размер и цвет указателя в русских Параметрах Windows 11",
+    "file": "images/originals/pointer-size-color-ru.jpg",
+    "original": "images/originals/pointer-size-color-ru.jpg",
     "annotated": null,
-    "captured_at": null,
+    "captured_at": "2026-10-20",
     "environment": {
-      "platform": "Windows 11",
-      "language": "ru-RU"
+      "version": "Windows 11 Pro 26H2, 26300.9711",
+      "platform": "Windows",
+      "language": "ru-RU",
+      "plan": "Штатные средства Windows",
+      "permissions": "Обычный пользователь; изменения оформления с возвратом"
     },
-    "caption": "Стили и размер указателя",
-    "alt": "Стили и размер указателя",
-    "status": "missing",
+    "caption": "Выберите цветной стиль, затем цвет и размер указателя.",
+    "alt": "Размер и цвет указателя в русских Параметрах Windows 11",
+    "status": "verified",
     "required": true,
-    "privacy_checked": false,
-    "rights": "Не получен"
+    "privacy_checked": true,
+    "rights": "Собственный снимок русской Windows; безопасная область. Без внешних файлов и личных данных."
   },
   {
     "step_id": "P2",
     "action": "Открыть вкладку Указатели",
-    "expected": "Схема и назначение ролей",
-    "file": null,
-    "original": null,
+    "expected": "Вкладка Указатели: системная схема, список ролей и кнопка Обзор",
+    "file": "images/originals/mouse-pointers-scheme-ru.jpg",
+    "original": "images/originals/mouse-pointers-scheme-ru.jpg",
     "annotated": null,
-    "captured_at": null,
+    "captured_at": "2026-10-20",
     "environment": {
-      "platform": "Windows 11",
-      "language": "ru-RU"
+      "version": "Windows 11 Pro 26H2, 26300.9711",
+      "platform": "Windows",
+      "language": "ru-RU",
+      "plan": "Штатные средства Windows",
+      "permissions": "Обычный пользователь; изменения оформления с возвратом"
     },
-    "caption": "Схема и назначение ролей",
-    "alt": "Схема и назначение ролей",
-    "status": "missing",
+    "caption": "На вкладке «Указатели» выбирается схема целиком или отдельная роль.",
+    "alt": "Вкладка Указатели: системная схема, список ролей и кнопка Обзор",
+    "status": "verified",
     "required": true,
-    "privacy_checked": false,
-    "rights": "Не получен"
+    "privacy_checked": true,
+    "rights": "Собственный снимок русской Windows; безопасная область. Без внешних файлов и личных данных."
   },
   {
     "step_id": "P3",
-    "action": "Открыть Текстовый курсор",
-    "expected": "Толщина и цвет индикатора",
-    "file": null,
-    "original": null,
+    "action": "Открыть Обзор для роли Основной режим",
+    "expected": "Диалог Обзор с фильтром файлов .ani и .cur",
+    "file": "images/originals/cursor-file-dialog-ru.jpg",
+    "original": "images/originals/cursor-file-dialog-ru.jpg",
     "annotated": null,
-    "captured_at": null,
+    "captured_at": "2026-10-20",
     "environment": {
-      "platform": "Windows 11",
-      "language": "ru-RU"
+      "version": "Windows 11 Pro 26H2, 26300.9711",
+      "platform": "Windows",
+      "language": "ru-RU",
+      "plan": "Штатные средства Windows",
+      "permissions": "Обычный пользователь; изменения оформления с возвратом"
     },
-    "caption": "Толщина и цвет индикатора",
-    "alt": "Толщина и цвет индикатора",
-    "status": "missing",
+    "caption": "Окно «Обзор» принимает файлы .ani и .cur. На снимке — встроенные курсоры из папки Windows.",
+    "alt": "Диалог Обзор с фильтром файлов .ani и .cur",
+    "status": "verified",
+    "required": false,
+    "privacy_checked": true,
+    "rights": "Собственный снимок русской Windows; безопасная область. Без внешних файлов и личных данных."
+  },
+  {
+    "step_id": "P4",
+    "action": "Включить индикатор текстового курсора",
+    "expected": "Индикатор текстового курсора и ползунок толщины в Windows 11",
+    "file": "images/originals/text-cursor-ru.jpg",
+    "original": "images/originals/text-cursor-ru.jpg",
+    "annotated": null,
+    "captured_at": "2026-10-20",
+    "environment": {
+      "version": "Windows 11 Pro 26H2, 26300.9711",
+      "platform": "Windows",
+      "language": "ru-RU",
+      "plan": "Штатные средства Windows",
+      "permissions": "Обычный пользователь; изменения оформления с возвратом"
+    },
+    "caption": "Цветные метки индикатора и толщина точки ввода настраиваются отдельно.",
+    "alt": "Индикатор текстового курсора и ползунок толщины в Windows 11",
+    "status": "verified",
     "required": true,
-    "privacy_checked": false,
-    "rights": "Не получен"
+    "privacy_checked": true,
+    "rights": "Собственный снимок русской Windows; безопасная область. Без внешних файлов и личных данных."
   }
 ]

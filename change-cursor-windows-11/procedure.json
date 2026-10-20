@@ -1,10 +1,10 @@
 {
   "environment": {
-    "version": "Windows 11: сборка не установлена",
+    "version": "Windows 11 Pro 26H2, 26300.9711",
     "platform": "Windows",
-    "language": "ru-RU — целевая, не подтверждена окном",
-    "plan": "Штатные функции ОС",
-    "permissions": "Запуск инструментов Windows через Computer Use отклонён"
+    "language": "ru-RU",
+    "plan": "Штатные средства Windows",
+    "permissions": "Обычный пользователь; изменения оформления с возвратом"
   },
   "runs": [
     {
@@ -19,6 +19,45 @@
           "actual": "Окно SystemSettings не появилось; control.exe: Computer Use was not approved to use Инструменты Windows",
           "status": "blocked",
           "evidence": "review.md"
+        }
+      ]
+    },
+    {
+      "id": "publication-factcheck-20261020",
+      "kind": "initial",
+      "executed_at": "2026-10-20",
+      "steps": [
+        {
+          "id": "P1",
+          "action": "Изменить цвет и размер, вернуть исходные",
+          "expected": "Цветной указатель размер 4, затем белый размер 1",
+          "actual": "Немедленная смена; возврат подтверждён",
+          "status": "passed",
+          "evidence": "procedure-evidence.md"
+        },
+        {
+          "id": "P2",
+          "action": "Применить чёрную системную схему и вернуть исходную",
+          "expected": "Обе схемы применяются",
+          "actual": "Черная (системная) применена, По умолчанию (системная) восстановлена",
+          "status": "passed",
+          "evidence": "procedure-evidence.md"
+        },
+        {
+          "id": "P3",
+          "action": "Открыть .cur через Обзор и вернуть роль по умолчанию",
+          "expected": "Файл применяется без установщика",
+          "actual": "aero_arrow_l.cur применён; роль восстановлена",
+          "status": "passed",
+          "evidence": "procedure-evidence.md"
+        },
+        {
+          "id": "P4",
+          "action": "Изменить индикатор и толщину, вернуть исходные",
+          "expected": "Индикатор включается, толщина меняется",
+          "actual": "Индикатор включён, толщина4; восстановлены выкл/толщина1",
+          "status": "passed",
+          "evidence": "procedure-evidence.md"
         }
       ]
     }
