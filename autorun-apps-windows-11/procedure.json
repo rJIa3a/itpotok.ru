@@ -1,0 +1,34 @@
+{
+  "environment": {
+    "platform": "Windows desktop",
+    "version": "26300.9711 / DisplayVersion 26H2",
+    "language": "ru-RU",
+    "plan": "не применимо",
+    "permissions": "без повышения, рабочую автозагрузку не меняли"
+  },
+  "runs": [
+    {
+      "id": "access-20261021",
+      "kind": "initial",
+      "executed_at": "2026-10-21",
+      "steps": [
+        {
+          "id": "settings",
+          "action": "Запустить SystemSettings через sky.launch_app",
+          "expected": "Окно русских Параметров",
+          "actual": "launched app did not expose a targetable window",
+          "status": "blocked",
+          "evidence": "evidence/access.md"
+        },
+        {
+          "id": "task-manager",
+          "action": "Открыть Диспетчер и перейти в автозагрузку",
+          "expected": "Стабильное целевое окно с разделом автозагрузки",
+          "actual": "Получен русский Диспетчер, но несколько active request; последующие кадры перекрыты другими окнами и не соответствуют выбранному приложению. Изменения не выполнялись.",
+          "status": "blocked",
+          "evidence": "evidence/access.md"
+        }
+      ]
+    }
+  ]
+}

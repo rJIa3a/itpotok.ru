@@ -1,0 +1,90 @@
+[
+  {
+    "id": "C1",
+    "claim": "Параметры: Приложения → Автозагрузка; выключение/включение управляет запуском при входе.",
+    "source_id": "S1",
+    "evidence": "Раздел настройки через Параметры, On/Off at sign in.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "settings"
+  },
+  {
+    "id": "C2",
+    "claim": "Диспетчер задач управляет тем же списком; Disable/Enable и влияние на запуск.",
+    "source_id": "S1",
+    "evidence": "Раздел настройки через Task Manager: same list, enable/disable.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "task-manager"
+  },
+  {
+    "id": "C3",
+    "claim": "shell:startup — текущий пользователь; shell:common startup — все пользователи; добавляется/удаляется ярлык.",
+    "source_id": "S7",
+    "evidence": "File Explorer: two folders; create/copy shortcut; delete links to remove.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "startup-folders"
+  },
+  {
+    "id": "C4",
+    "claim": "shell:appsfolder открывает список приложений; приложение можно перетащить в папку автозагрузки.",
+    "source_id": "S7",
+    "evidence": "Инструкция File Explorer, шаги 2–5.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "add-app"
+  },
+  {
+    "id": "C5",
+    "claim": "Запуск группы Startup может быть задержан; фиксированный порядок не гарантируется.",
+    "source_id": "S2",
+    "evidence": "Last paragraph: delay execution in Run key and Startup group.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "check-result"
+  },
+  {
+    "id": "C6",
+    "claim": "Восстановление перезапускаемых приложений управляется отдельно в параметрах входа.",
+    "source_id": "S3",
+    "evidence": "Дополнительные параметры: отдельный переключатель сохранения и перезапуска.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "restart-apps"
+  },
+  {
+    "id": "C7",
+    "claim": "Автоматические службы запускает SCM при загрузке; это отдельный механизм от пользовательских ярлыков.",
+    "source_id": "S4",
+    "evidence": "Первый абзац: SCM starts all auto-start services during boot.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "troubleshooting"
+  },
+  {
+    "id": "C8",
+    "claim": "Autoruns показывает logon, tasks, services, drivers; подходит для поиска другого источника запуска.",
+    "source_id": "S5",
+    "evidence": "Introduction and usage enumerate autostart locations; category tabs.",
+    "checked_at": "2026-10-21",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "troubleshooting"
+  }
+]

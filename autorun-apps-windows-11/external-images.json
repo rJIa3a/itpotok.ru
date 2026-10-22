@@ -1,0 +1,26 @@
+[
+  {
+    "step_id": "task-manager",
+    "url": "https://windows-school.ru/images/alf011/dannie_avtozagruzki_prilozheniy.webp",
+    "source": "https://windows-school.ru/blog/kak_uskorit_windows/2023-02-15-1152",
+    "language": "ru",
+    "verified": true,
+    "stored_in_git": false
+  },
+  {
+    "step_id": "startup-folders",
+    "url": "https://windows-school.ru/images/alf010/otkrivaem_papku_avtozagruzki.webp",
+    "source": "https://windows-school.ru/blog/dostup_k_papke_avtozagruzki/2022-12-16-1094",
+    "language": "ru",
+    "verified": true,
+    "stored_in_git": false
+  },
+  {
+    "step_id": "add-app",
+    "url": "https://windows-school.ru/images/alf010/novaya_avtozagruzka.webp",
+    "source": "https://windows-school.ru/blog/dostup_k_papke_avtozagruzki/2022-12-16-1094",
+    "language": "ru",
+    "verified": true,
+    "stored_in_git": false
+  }
+]

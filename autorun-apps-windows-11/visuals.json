@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cover",
+    "file": "assets/startup-cover-16x9-20261021.jpg",
+    "purpose": "Редакционная обложка 16:9",
+    "caption": "Редакционная иллюстрация ITpotok.ru, созданная с помощью imagegen.",
+    "alt": "Выбор приложений для автоматического запуска: символ питания и отдельные плитки",
+    "status": "verified",
+    "required": true
+  }
+]

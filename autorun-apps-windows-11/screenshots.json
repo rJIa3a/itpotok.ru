@@ -1,0 +1,24 @@
+[
+  {
+    "step_id": "settings",
+    "action": "Открыть Параметры → Приложения → Автозагрузка",
+    "expected": "Русский интерфейс и переключатель программы",
+    "file": null,
+    "original": null,
+    "annotated": null,
+    "captured_at": null,
+    "environment": {
+      "platform": "Windows",
+      "version": "26300.9711 / 26H2 (локальная рабочая среда)",
+      "language": "ru-RU",
+      "plan": "не применимо",
+      "permissions": "без повышения"
+    },
+    "caption": "Переключатель автозагрузки",
+    "alt": "Параметры Windows 11 — Автозагрузка",
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": "Не применимо: кадр не получен"
+  }
+]
