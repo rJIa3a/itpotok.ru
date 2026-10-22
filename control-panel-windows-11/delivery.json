@@ -1,0 +1,33 @@
+{
+  "github_branch": "editorial/control-panel-windows-11-20261021",
+  "checked": "2026-10-22",
+  "wordpress_id": 12155,
+  "wordpress_status": "publish",
+  "remote_files": [
+    {
+      "file": "README.md",
+      "matches": true
+    },
+    {
+      "file": "article.html",
+      "matches": true
+    },
+    {
+      "file": "factcheck.md",
+      "matches": true
+    },
+    {
+      "file": "publication-check.json",
+      "matches": true
+    },
+    {
+      "file": "images/control-panel-icons-ru-20261021.jpg",
+      "matches": true
+    },
+    {
+      "file": "images/control-panel-cover-20261021.png",
+      "matches": true
+    }
+  ],
+  "comparison": "text normalized LF, images byte-for-byte"
+}
