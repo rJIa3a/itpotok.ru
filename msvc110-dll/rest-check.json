@@ -1,12 +1,12 @@
 {
+  "checked": "2026-10-22",
   "id": 12147,
   "status": "draft",
-  "slug": "fix-msvcp110-msvcr110-dll",
+  "url": "https://itpotok.ru/?p=12147",
   "body_matches": true,
   "excerpt_matches": true,
   "cover_matches": true,
-  "faq_fields_match": false,
-  "faq_count": 0,
-  "visible_shortcode": false,
-  "checked": "2026-10-21"
+  "faq_count": 5,
+  "faq_matches": true,
+  "visible_shortcode": false
 }

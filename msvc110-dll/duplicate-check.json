@@ -1,9 +1,29 @@
 {
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "queries": {
-    "msvcp110": [],
-    "msvcr110": [],
+    "msvcp110": [
+      {
+        "id": 12147,
+        "status": "draft",
+        "slug": "fix-msvcp110-msvcr110-dll",
+        "title": "MSVCP110.dll и MSVCR110.dll отсутствуют: как исправить ошибку"
+      }
+    ],
+    "msvcr110": [
+      {
+        "id": 12147,
+        "status": "draft",
+        "slug": "fix-msvcp110-msvcr110-dll",
+        "title": "MSVCP110.dll и MSVCR110.dll отсутствуют: как исправить ошибку"
+      }
+    ],
     "Visual C++": [
+      {
+        "id": 12147,
+        "status": "draft",
+        "slug": "fix-msvcp110-msvcr110-dll",
+        "title": "MSVCP110.dll и MSVCR110.dll отсутствуют: как исправить ошибку"
+      },
       {
         "id": 12003,
         "status": "draft",
