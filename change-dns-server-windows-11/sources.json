@@ -1,0 +1,130 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/ru-ru/windows/experience/connectivity-networking/essential-network-settings-and-tasks-in-windows",
+    "title": "Microsoft: основные параметры сети",
+    "checked_at": "2026-10-22",
+    "excerpt": "Для Wi-Fi сети выберите Wi-Fi > Управление известными сетями.",
+    "limitations": "Автоперевод содержит ошибку для DoH Off; путь ведёт через IP, поэтому отдельное назначение DNS сверено по S2."
+  },
+  {
+    "id": "S2",
+    "url": "https://developers.cloudflare.com/1.1.1.1/setup/windows/",
+    "title": "Cloudflare: Windows",
+    "checked_at": "2026-10-22",
+    "excerpt": "Scroll to DNS server assignment and select Edit.",
+    "limitations": "Современные отдельные параметры DNS Windows 11; интерфейс английский."
+  },
+  {
+    "id": "S3",
+    "url": "https://developers.google.com/speed/public-dns/docs/using",
+    "title": "Google: Get Started",
+    "checked_at": "2026-10-22",
+    "excerpt": "8.8.8.8; 8.8.4.4",
+    "limitations": "Классический пример для Windows 10; адреса IPv4/IPv6 применимы к сервису, интерфейс W11 требует проверки."
+  },
+  {
+    "id": "S4",
+    "url": "https://support.microsoft.com/en-us/windows/experience/connectivity-networking/essential-network-settings-and-tasks-in-windows",
+    "title": "Microsoft: Essential Network Settings",
+    "checked_at": "2026-10-22",
+    "excerpt": "Off: All DNS queries will be sent to the DNS server unencrypted",
+    "limitations": "Проверен смысл DoH и fallback; не использован ошибочный русский перевод Off."
+  },
+  {
+    "id": "S5",
+    "url": "https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/",
+    "title": "Cloudflare: DNS over HTTPS",
+    "checked_at": "2026-10-22",
+    "excerpt": "DNS queries are sent over a secure HTTPS connection",
+    "limitations": "Шифруется участок клиент — резолвер, не весь трафик."
+  },
+  {
+    "id": "S6",
+    "url": "https://developers.google.com/speed/public-dns/docs/doh",
+    "title": "Google: DNS-over-HTTPS",
+    "checked_at": "2026-10-22",
+    "excerpt": "https://dns.google/dns-query",
+    "limitations": "Шаблон RFC8484, не JSON API /resolve."
+  },
+  {
+    "id": "S7",
+    "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig",
+    "title": "Microsoft: ipconfig",
+    "checked_at": "2026-10-22",
+    "excerpt": "Flushes and resets the contents of the DNS client resolver cache.",
+    "limitations": "Применяется к Windows 11; /all показывает конфигурацию, /flushdns не меняет адреса DNS."
+  },
+  {
+    "id": "S8",
+    "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup",
+    "title": "Microsoft: nslookup",
+    "checked_at": "2026-10-22",
+    "excerpt": "If you omit the second argument, nslookup uses the default DNS name server.",
+    "limitations": "Тест ответа утилиты, не проверка браузерного DNS или шифрования."
+  },
+  {
+    "id": "S9",
+    "url": "https://support.mozilla.org/ru/kb/dns-cherez-https-v-firefox",
+    "title": "Mozilla: DNS через HTTPS в Firefox",
+    "checked_at": "2026-10-22",
+    "excerpt": "Включите DNS через HTTPS",
+    "limitations": "Источник о браузерной настройке; не инструкция для Windows."
+  },
+  {
+    "id": "S10",
+    "url": "https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-name-resolution",
+    "title": "Microsoft: VPN name resolution",
+    "checked_at": "2026-10-22",
+    "excerpt": "it receives an IP address and, optionally, the IP address of one or more DNS servers.",
+    "limitations": "NRPT и DNS VPN могут влиять на системное разрешение имён."
+  },
+  {
+    "id": "S11",
+    "url": "https://learn.microsoft.com/en-us/windows-server/networking/dns/dns-overview",
+    "title": "Microsoft: DNS overview",
+    "checked_at": "2026-10-22",
+    "excerpt": "DNS is essential for Active Directory Domain Services",
+    "limitations": "Серверная статья подтверждает роль DNS организации; не источник кнопок Windows 11."
+  },
+  {
+    "id": "S12",
+    "url": "https://www.rfc-editor.org/rfc/rfc3596.txt",
+    "title": "RFC 3596",
+    "checked_at": "2026-10-22",
+    "excerpt": "The transport protocol used to carry a query is independent of the IP version",
+    "limitations": "Различие транспорта запроса и типа возвращаемой записи."
+  },
+  {
+    "id": "S13",
+    "url": "https://learn.microsoft.com/en-us/azure/dns/private-reverse-dns",
+    "title": "Microsoft: reverse DNS",
+    "checked_at": "2026-10-22",
+    "excerpt": "Server:  UnKnown",
+    "limitations": "Пример успешного ответа с Unknown; причинное объяснение основано на роли PTR, не на форумном ответе."
+  },
+  {
+    "id": "S14",
+    "url": "https://developers.cloudflare.com/1.1.1.1/setup/router/",
+    "title": "Cloudflare: router",
+    "checked_at": "2026-10-22",
+    "excerpt": "applies the DNS setting to every device on your network",
+    "limitations": "Настройки/исключения зависят от модели и ручного DNS клиента."
+  },
+  {
+    "id": "S15",
+    "url": "https://learn.microsoft.com/en-us/windows-server/networking/dns/doh-client-support",
+    "title": "Microsoft: Secure DNS Client over HTTPS",
+    "checked_at": "2026-10-22",
+    "excerpt": "Encrypted only (DNS over HTTPS).",
+    "limitations": "Область — Windows Server; используется только для сопоставления старых режимов, не доказательство испытания Windows 11."
+  },
+  {
+    "id": "S16",
+    "url": "https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/",
+    "title": "Cloudflare: Make API requests",
+    "checked_at": "2026-10-22",
+    "excerpt": "https://cloudflare-dns.com/dns-query",
+    "limitations": "Прямое подтверждение RFC8484 URL, в отличие от обзорной страницы S5."
+  }
+]

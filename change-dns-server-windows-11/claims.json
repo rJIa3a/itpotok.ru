@@ -1,0 +1,178 @@
+[
+  {
+    "id": "C1",
+    "claim": "DNS можно задать вручную в отдельном пункте назначения DNS для нужного подключения.",
+    "source_id": "S2",
+    "evidence": "DNS server assignment → Edit → Manual → Save",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#settings"
+  },
+  {
+    "id": "C2",
+    "claim": "DNS сопоставляет имена с IP; смена не устраняет физическую неисправность и не гарантирует скорость/доступ.",
+    "source_id": "S11",
+    "evidence": "maps computer names to IP addresses; граница функции DNS, редакционный вывод",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#before"
+  },
+  {
+    "id": "C3",
+    "claim": "Сохранить старые настройки; учитывать DNS организации и VPN.",
+    "source_id": "S10",
+    "evidence": "VPN receives DNS servers; NRPT determines name resolution. Сохранение настроек также S3.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#before"
+  },
+  {
+    "id": "C4",
+    "claim": "Настройки подключений, роутера и других устройств имеют разную область.",
+    "source_id": "S14",
+    "evidence": "Router configuration applies DNS to network devices; S3 repeat for additional connections.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#before"
+  },
+  {
+    "id": "C5",
+    "claim": "Адреса Cloudflare IPv4 и IPv6 приведены верно.",
+    "source_id": "S2",
+    "evidence": "1.1.1.1, 1.0.0.1; 2606:4700:4700::1111, 2606:4700:4700::1001",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#addresses"
+  },
+  {
+    "id": "C6",
+    "claim": "Адреса Google IPv4 и IPv6 приведены верно.",
+    "source_id": "S3",
+    "evidence": "8.8.8.8, 8.8.4.4; 2001:4860:4860::8888, 2001:4860:4860::8844",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#addresses"
+  },
+  {
+    "id": "C7",
+    "claim": "Версия транспорта DNS не определяет версию возвращаемых адресов; отключение IPv6 для смены DNS не нужно.",
+    "source_id": "S12",
+    "evidence": "DNS transport is independent of the IP version of the records queried.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#addresses"
+  },
+  {
+    "id": "C8",
+    "claim": "Параметры Wi-Fi выбираются для нужной сети; Ethernet отдельно; сохранение и повторное открытие.",
+    "source_id": "S1",
+    "evidence": "Wi-Fi > Manage known networks; Ethernet selected network; Save. Отдельный DNS по S2.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#settings"
+  },
+  {
+    "id": "C9",
+    "claim": "Адреса DNS меняются в свойствах TCP/IPv4 или TCP/IPv6 нужного адаптера.",
+    "source_id": "S3",
+    "evidence": "TCP/IP Properties; Networking; IPv4/IPv6; Properties; Advanced DNS list; Use following addresses.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#adapter"
+  },
+  {
+    "id": "C10",
+    "claim": "DoH включается отдельно, имеет режимы шифрования и fallback; не шифрует весь трафик.",
+    "source_id": "S4",
+    "evidence": "Automatic/manual template; plaintext fallback; no query if HTTPS cannot be used and fallback disabled. Старые названия S15.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#doh"
+  },
+  {
+    "id": "C11",
+    "claim": "Шаблоны DoH Cloudflare и Google соответствуют сервисам.",
+    "source_id": "S6",
+    "evidence": "Google RFC8484 endpoint https://dns.google/dns-query; Cloudflare endpoint подтверждён S16.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#doh"
+  },
+  {
+    "id": "C12",
+    "claim": "ipconfig /all показывает конфигурацию всех адаптеров.",
+    "source_id": "S7",
+    "evidence": "Displays the full TCP/IP configuration for all adapters.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#check"
+  },
+  {
+    "id": "C13",
+    "claim": "nslookup проверяет DNS-ответ; второй аргумент задаёт сервер; Unknown само по себе не сбой; DoH этим не доказан.",
+    "source_id": "S8",
+    "evidence": "First argument name; second DNS server; omit second → default server; успешный Unknown в S13.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#check"
+  },
+  {
+    "id": "C14",
+    "claim": "Браузер может использовать свой DoH и DNS-кэш.",
+    "source_id": "S9",
+    "evidence": "Firefox DoH and provider selection operate within browser.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#check"
+  },
+  {
+    "id": "C15",
+    "claim": "ipconfig /flushdns удаляет динамический клиентский кэш, не меняет DNS-сервер.",
+    "source_id": "S7",
+    "evidence": "Flushes and resets DNS resolver cache; discards negative and dynamically added entries.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#cache"
+  },
+  {
+    "id": "C16",
+    "claim": "Возврат: автоматические DNS либо записанные исходные ручные параметры.",
+    "source_id": "S3",
+    "evidence": "Write down settings for backup and revert; S1 Automatic DHCP.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "#restore"
+  }
+]

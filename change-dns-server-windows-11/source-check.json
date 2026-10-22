@@ -1,0 +1,82 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/ru-ru/windows/experience/connectivity-networking/essential-network-settings-and-tasks-in-windows",
+    "http": 200
+  },
+  {
+    "id": "S2",
+    "url": "https://developers.cloudflare.com/1.1.1.1/setup/windows/",
+    "http": 200
+  },
+  {
+    "id": "S3",
+    "url": "https://developers.google.com/speed/public-dns/docs/using",
+    "http": 200
+  },
+  {
+    "id": "S4",
+    "url": "https://support.microsoft.com/en-us/windows/experience/connectivity-networking/essential-network-settings-and-tasks-in-windows",
+    "http": 200
+  },
+  {
+    "id": "S5",
+    "url": "https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/",
+    "http": 200
+  },
+  {
+    "id": "S6",
+    "url": "https://developers.google.com/speed/public-dns/docs/doh",
+    "http": 200
+  },
+  {
+    "id": "S7",
+    "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig",
+    "http": 200
+  },
+  {
+    "id": "S8",
+    "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup",
+    "http": 200
+  },
+  {
+    "id": "S9",
+    "url": "https://support.mozilla.org/ru/kb/dns-cherez-https-v-firefox",
+    "http": 200
+  },
+  {
+    "id": "S10",
+    "url": "https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-name-resolution",
+    "http": 200
+  },
+  {
+    "id": "S11",
+    "url": "https://learn.microsoft.com/en-us/windows-server/networking/dns/dns-overview",
+    "http": 200
+  },
+  {
+    "id": "S12",
+    "url": "https://www.rfc-editor.org/rfc/rfc3596.txt",
+    "http": 200
+  },
+  {
+    "id": "S13",
+    "url": "https://learn.microsoft.com/en-us/azure/dns/private-reverse-dns",
+    "http": 200
+  },
+  {
+    "id": "S14",
+    "url": "https://developers.cloudflare.com/1.1.1.1/setup/router/",
+    "http": 200
+  },
+  {
+    "id": "S15",
+    "url": "https://learn.microsoft.com/en-us/windows-server/networking/dns/doh-client-support",
+    "http": 200
+  },
+  {
+    "id": "S16",
+    "url": "https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/",
+    "http": 200
+  }
+]

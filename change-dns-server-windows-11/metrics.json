@@ -1,0 +1,9 @@
+{
+  "started_at": "2026-10-21",
+  "checked_at": "2026-10-22",
+  "factual_corrections": null,
+  "manual_edit_minutes": null,
+  "reproducibility": "not-measured; complete procedure not run",
+  "screenshot_quality": "one safe Russian dialog; required DNS/DoH captures missing",
+  "chart_quality": "not-applicable"
+}

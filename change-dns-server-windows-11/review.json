@@ -1,0 +1,26 @@
+{
+  "article_sha256": "5cfc34cb2806f967378d24103cbf5d1addb7a3dce4711d43b853ebfdfa2d51ee",
+  "coverage_checked": true,
+  "sources_reopened": true,
+  "visuals_checked": false,
+  "editor_reviewed": true,
+  "unresolved_material": [
+    "Нет полного прогона изменения DNS/DoH и возврата в тестовой среде.",
+    "Отсутствуют кадры Параметров DNS, DoH и полей IPv4."
+  ],
+  "corrections": [
+    {
+      "before": "Microsoft RU: Off назван зашифрованным",
+      "after": "Off — незашифрованные DNS-запросы",
+      "reason": "Ошибка перевода; подтверждено EN и документацией провайдеров",
+      "evidence": "S4 S5 S6"
+    },
+    {
+      "before": "Обложка обрезалась темой",
+      "after": "Локальный CSS 16:9, проверен на desktop/mobile",
+      "reason": "Сохранить пропорции и надписи",
+      "evidence": "verification/public-mobile-top.png"
+    }
+  ],
+  "reviewed_at": "2026-10-22"
+}

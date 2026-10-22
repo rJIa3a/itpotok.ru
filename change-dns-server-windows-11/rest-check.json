@@ -1,0 +1,29 @@
+{
+  "checked": "2026-10-22",
+  "id": 12151,
+  "status": "publish",
+  "url": "https://itpotok.ru/change-dns-server-windows-11/",
+  "http_public": 200,
+  "body_matches": true,
+  "excerpt_matches": true,
+  "cover_matches": true,
+  "faq_count": 5,
+  "public_faq_count": 5,
+  "faq_answers_present": true,
+  "visible_shortcode": false,
+  "public_image_count": 1,
+  "image_status": [
+    {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/dns-windows-11-cover-20261021.png",
+      "http": 200,
+      "alt": "Редакционная иллюстрация: DNS, Windows 11, ноутбук и два сервера"
+    },
+    {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/ethernet-components-ru-20261022.jpg",
+      "http": 200,
+      "alt": "Окно Ethernet: свойства в Windows 11; в списке компонентов видна строка IP версии 4 (TCP/IPv4)"
+    }
+  ],
+  "article_sha256": "77f5f77feb9bce4d35056641f244f2b04cea92ae1dd10d78d73a9850b17a823c",
+  "line_ending_comparison": "CRLF normalized to LF; no content transformation"
+}

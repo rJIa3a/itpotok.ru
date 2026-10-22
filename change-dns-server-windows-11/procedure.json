@@ -1,0 +1,50 @@
+{
+  "environment": {
+    "version": "Windows 11 Pro 10.0.26300",
+    "platform": "Windows x64",
+    "language": "ru-RU",
+    "plan": "локальная Windows",
+    "permissions": "просмотр окон; изменение сети пользователя запрещено заданием"
+  },
+  "runs": [
+    {
+      "id": "readonly-ui-20261022",
+      "kind": "initial",
+      "executed_at": "2026-10-22",
+      "steps": [
+        {
+          "id": "adapter-components",
+          "action": "Открыть Центр управления сетями → Изменение параметров адаптера → свойства Ethernet",
+          "expected": "Список компонентов на русском языке",
+          "actual": "Список открыт и снят безопасным ограниченным кадром; DNS не менялся.",
+          "status": "passed",
+          "evidence": "assets/ethernet-components-ru-20261022.jpg"
+        },
+        {
+          "id": "apply-dns",
+          "action": "Сменить DNS, включить DoH и вернуть исходное состояние в тестовой среде",
+          "expected": "Сохранение, разрешение имён, шифрование и возврат",
+          "actual": "Не выполнено: на компьютере пользователя менять сеть запрещено; отдельная тестовая среда не подготовлена.",
+          "status": "not-run",
+          "evidence": null
+        }
+      ]
+    },
+    {
+      "id": "text-rerun-20261022",
+      "kind": "rerun",
+      "executed_at": "2026-10-22",
+      "article_sha256": "5cfc34cb2806f967378d24103cbf5d1addb7a3dce4711d43b853ebfdfa2d51ee",
+      "steps": [
+        {
+          "id": "apply-dns",
+          "action": "Выполнить текущий текст полностью",
+          "expected": "Повторяемое применение и отмена",
+          "actual": "Не выполнено; документационное чтение не объявлено испытанием.",
+          "status": "not-run",
+          "evidence": null
+        }
+      ]
+    }
+  ]
+}

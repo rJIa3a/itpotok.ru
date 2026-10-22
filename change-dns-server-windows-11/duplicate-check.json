@@ -1,0 +1,450 @@
+[
+  {
+    "id": 8428,
+    "status": "publish",
+    "slug": "ispravlyaem-oshibki-kabelnyh-setevyh-podklyuchenij-na-windows-8",
+    "link": "https://itpotok.ru/ispravlyaem-oshibki-kabelnyh-setevyh-podklyuchenij-na-windows-8/",
+    "title": "Исправляем ошибки кабельных сетевых подключений на Windows 8",
+    "search": "DNS"
+  },
+  {
+    "id": 8310,
+    "status": "publish",
+    "slug": "reshaem-problemy-s-podklyucheniem-wi-fi-na-windows-8",
+    "link": "https://itpotok.ru/reshaem-problemy-s-podklyucheniem-wi-fi-na-windows-8/",
+    "title": "Решаем проблемы с подключением Wi-Fi на Windows 8",
+    "search": "DNS"
+  },
+  {
+    "id": 7357,
+    "status": "publish",
+    "slug": "sozdaem-i-zapuskaem-virtualnuyu-tochku-dostupa-na-noutbuke-s-windows-7",
+    "link": "https://itpotok.ru/sozdaem-i-zapuskaem-virtualnuyu-tochku-dostupa-na-noutbuke-s-windows-7/",
+    "title": "Создаем и запускаем виртуальную точку доступа на ноутбуке с Windows 7",
+    "search": "DNS"
+  },
+  {
+    "id": 4715,
+    "status": "publish",
+    "slug": "obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti",
+    "link": "https://itpotok.ru/obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti/",
+    "title": "Обзор сетевых настроек и подключения Windows 7 к сети",
+    "search": "DNS"
+  },
+  {
+    "id": 4452,
+    "status": "publish",
+    "slug": "razblikirovka-windows-7-ot-troyana-vimogatelya",
+    "link": "https://itpotok.ru/razblikirovka-windows-7-ot-troyana-vimogatelya/",
+    "title": "Разблокировка Windows 7 от трояка-вымогателя",
+    "search": "DNS"
+  },
+  {
+    "id": 3620,
+    "status": "publish",
+    "slug": "podklyuchenie-i-optimizaciya-interneta-v-windows-7",
+    "link": "https://itpotok.ru/podklyuchenie-i-optimizaciya-interneta-v-windows-7/",
+    "title": "Подключение и оптимизация интернета в Windows 7",
+    "search": "DNS"
+  },
+  {
+    "id": 2124,
+    "status": "publish",
+    "slug": "nastrojka-seti-i-interneta-pri-rabote-s-windows-xp",
+    "link": "https://itpotok.ru/nastrojka-seti-i-interneta-pri-rabote-s-windows-xp/",
+    "title": "Настройка сети и интернета при работе с Windows XP",
+    "search": "DNS"
+  },
+  {
+    "id": 1292,
+    "status": "publish",
+    "slug": "kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp",
+    "link": "https://itpotok.ru/kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp/",
+    "title": "Как объединить в локальную сеть компьютеры с Windows XP?",
+    "search": "DNS"
+  },
+  {
+    "id": 946,
+    "status": "publish",
+    "slug": "izuchaem-sposoby-razblokirovki-windows-xp",
+    "link": "https://itpotok.ru/izuchaem-sposoby-razblokirovki-windows-xp/",
+    "title": "Изучаем способы разблокировки Windows XP",
+    "search": "DNS"
+  },
+  {
+    "id": 318,
+    "status": "publish",
+    "slug": "kak-nastoit-wi-fi-svoimi-rukami-raznimi-sposobami",
+    "link": "https://itpotok.ru/kak-nastoit-wi-fi-svoimi-rukami-raznimi-sposobami/",
+    "title": "Как настроить Wi-Fi своими руками в Windows XP разными способами?",
+    "search": "DNS"
+  },
+  {
+    "id": 289,
+    "status": "publish",
+    "slug": "osobennosti-nastrojki-wi-fi-v-windows-xp",
+    "link": "https://itpotok.ru/osobennosti-nastrojki-wi-fi-v-windows-xp/",
+    "title": "Особенности настройки Wi-Fi  в Windows XP",
+    "search": "DNS"
+  },
+  {
+    "id": 12122,
+    "status": "publish",
+    "slug": "disable-updates-windows-11",
+    "link": "https://itpotok.ru/disable-updates-windows-11/",
+    "title": "Как отключить обновления Windows 11: пауза и ручная установка",
+    "search": "сервер"
+  },
+  {
+    "id": 12099,
+    "status": "publish",
+    "slug": "media-creation-tool-launch-error-windows-11",
+    "link": "https://itpotok.ru/media-creation-tool-launch-error-windows-11/",
+    "title": "По неизвестной причине запуск этого средства не удался: Media Creation Tool в Windows 11",
+    "search": "сервер"
+  },
+  {
+    "id": 12048,
+    "status": "publish",
+    "slug": "reset-windows-11",
+    "link": "https://itpotok.ru/reset-windows-11/",
+    "title": "Как сбросить Windows 11 до заводских настроек",
+    "search": "сервер"
+  },
+  {
+    "id": 12031,
+    "status": "publish",
+    "slug": "disable-firewall-windows-11",
+    "link": "https://itpotok.ru/disable-firewall-windows-11/",
+    "title": "Как отключить брандмауэр Windows 11 и вернуть защиту",
+    "search": "сервер"
+  },
+  {
+    "id": 12015,
+    "status": "publish",
+    "slug": "download-windows-11-iso",
+    "link": "https://itpotok.ru/download-windows-11-iso/",
+    "title": "Как скачать Windows 11 с официального сайта на русском",
+    "search": "сервер"
+  },
+  {
+    "id": 8575,
+    "status": "publish",
+    "slug": "rabota-i-reshenie-problem-s-magazinom-prilogenii-windows-10",
+    "link": "https://itpotok.ru/rabota-i-reshenie-problem-s-magazinom-prilogenii-windows-10/",
+    "title": "Работа и решение проблем с магазином приложений Windows 10",
+    "search": "сервер"
+  },
+  {
+    "id": 8428,
+    "status": "publish",
+    "slug": "ispravlyaem-oshibki-kabelnyh-setevyh-podklyuchenij-na-windows-8",
+    "link": "https://itpotok.ru/ispravlyaem-oshibki-kabelnyh-setevyh-podklyuchenij-na-windows-8/",
+    "title": "Исправляем ошибки кабельных сетевых подключений на Windows 8",
+    "search": "сервер"
+  },
+  {
+    "id": 8310,
+    "status": "publish",
+    "slug": "reshaem-problemy-s-podklyucheniem-wi-fi-na-windows-8",
+    "link": "https://itpotok.ru/reshaem-problemy-s-podklyucheniem-wi-fi-na-windows-8/",
+    "title": "Решаем проблемы с подключением Wi-Fi на Windows 8",
+    "search": "сервер"
+  },
+  {
+    "id": 8212,
+    "status": "publish",
+    "slug": "ustanovka-obnovlenie-i-otkat-directx-na-windows-8-i-8-1",
+    "link": "https://itpotok.ru/ustanovka-obnovlenie-i-otkat-directx-na-windows-8-i-8-1/",
+    "title": "Установка, обновление и откат DirectX на Windows 8 и 8.1",
+    "search": "сервер"
+  },
+  {
+    "id": 7523,
+    "status": "publish",
+    "slug": "magazin-windows-kak-v-nego-zajti-i-kak-vosstanovit-esli-on-ne-rabotaet",
+    "link": "https://itpotok.ru/magazin-windows-kak-v-nego-zajti-i-kak-vosstanovit-esli-on-ne-rabotaet/",
+    "title": "Вход в магазин Windows 8 и его восстановление, если он не работает",
+    "search": "сервер"
+  },
+  {
+    "id": 7411,
+    "status": "publish",
+    "slug": "rabota-s-web-kameroi-na-kompyutere-s-windows-7",
+    "link": "https://itpotok.ru/rabota-s-web-kameroi-na-kompyutere-s-windows-7/",
+    "title": "Работа с web-камерой на компьютере с Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 7284,
+    "status": "pending",
+    "slug": "gadzhety-rabochego-stola-gde-bezopasno-skachat-kak-ustanovit-i-kak-udalit",
+    "link": "https://itpotok.ru/?p=7284",
+    "title": "Гаджеты рабочего стола: где безопасно скачать, как установить и как удалить",
+    "search": "сервер"
+  },
+  {
+    "id": 7076,
+    "status": "publish",
+    "slug": "poisk-zakachka-i-zapis-na-disk-originalnogo-obraza-windows-7",
+    "link": "https://itpotok.ru/poisk-zakachka-i-zapis-na-disk-originalnogo-obraza-windows-7/",
+    "title": "Поиск, закачка и запись на диск оригинального образа Windows 7?",
+    "search": "сервер"
+  },
+  {
+    "id": 6252,
+    "status": "publish",
+    "slug": "optimizaciya-windows-7-dlya-uskoreniya-raboty",
+    "link": "https://itpotok.ru/optimizaciya-windows-7-dlya-uskoreniya-raboty/",
+    "title": "Оптимизация Windows 7 для ускорения работы",
+    "search": "сервер"
+  },
+  {
+    "id": 4746,
+    "status": "publish",
+    "slug": "osnovnye-funktsii-i-ispolzovanie-paneli-upravleniya-v-windows-7",
+    "link": "https://itpotok.ru/osnovnye-funktsii-i-ispolzovanie-paneli-upravleniya-v-windows-7/",
+    "title": "Основные функции и использование панели управления в Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 4715,
+    "status": "publish",
+    "slug": "obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti",
+    "link": "https://itpotok.ru/obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti/",
+    "title": "Обзор сетевых настроек и подключения Windows 7 к сети",
+    "search": "сервер"
+  },
+  {
+    "id": 4697,
+    "status": "publish",
+    "slug": "otkuda-mozhno-vzyat-drajvera-dlya-windows-7-i-kak-vybirat-podhodyashhie",
+    "link": "https://itpotok.ru/otkuda-mozhno-vzyat-drajvera-dlya-windows-7-i-kak-vybirat-podhodyashhie/",
+    "title": "Откуда можно взять драйвера для Windows 7 и как выбирать подходящие",
+    "search": "сервер"
+  },
+  {
+    "id": 4614,
+    "status": "publish",
+    "slug": "izmenenie-parametrov-otkritiya-papok-v-windows-7",
+    "link": "https://itpotok.ru/izmenenie-parametrov-otkritiya-papok-v-windows-7/",
+    "title": "Изменение параметров открытия папок в Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 4532,
+    "status": "publish",
+    "slug": "sovety-po-uluchsheniyu-proizvoditelnosti-i-effektivnosti-windows-7",
+    "link": "https://itpotok.ru/sovety-po-uluchsheniyu-proizvoditelnosti-i-effektivnosti-windows-7/",
+    "title": "Советы по улучшению производительности и эффективности Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 3958,
+    "status": "publish",
+    "slug": "avtomaticheskoe-obnovlenie-operatsionnoj-sistemy-windows-7",
+    "link": "https://itpotok.ru/avtomaticheskoe-obnovlenie-operatsionnoj-sistemy-windows-7/",
+    "title": "Автоматическое обновление операционной системы Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 3893,
+    "status": "publish",
+    "slug": "nastroika-windows-7-dlya-bezopasnogo-ispolzovaniya",
+    "link": "https://itpotok.ru/nastroika-windows-7-dlya-bezopasnogo-ispolzovaniya/",
+    "title": "Настройка Windows 7 для безопасного использования",
+    "search": "сервер"
+  },
+  {
+    "id": 3757,
+    "status": "publish",
+    "slug": "osobennosti-paketa-ms-office-i-redaktora-word-versii-2007-i-2010-goda-pod-windows-7",
+    "link": "https://itpotok.ru/osobennosti-paketa-ms-office-i-redaktora-word-versii-2007-i-2010-goda-pod-windows-7/",
+    "title": "Особенности пакета MS Office и редактора Word версий 2007 и 2010 года под Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 3620,
+    "status": "publish",
+    "slug": "podklyuchenie-i-optimizaciya-interneta-v-windows-7",
+    "link": "https://itpotok.ru/podklyuchenie-i-optimizaciya-interneta-v-windows-7/",
+    "title": "Подключение и оптимизация интернета в Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 3453,
+    "status": "publish",
+    "slug": "kak-s-pomoshhyu-raznyx-programm-sozdat-zagruzochnuyu-fleshku-windows-7",
+    "link": "https://itpotok.ru/kak-s-pomoshhyu-raznyx-programm-sozdat-zagruzochnuyu-fleshku-windows-7/",
+    "title": "Как с помощью разных программ создать загрузочную флешку Windows 7?",
+    "search": "сервер"
+  },
+  {
+    "id": 2792,
+    "status": "publish",
+    "slug": "osobennosti-i-otlichiya-redakcii-windows-7",
+    "link": "https://itpotok.ru/osobennosti-i-otlichiya-redakcii-windows-7/",
+    "title": "Особенности и отличия редакций Windows 7",
+    "search": "сервер"
+  },
+  {
+    "id": 2640,
+    "status": "publish",
+    "slug": "chto-takoe-panel-upravleniya-v-windows-xp-i-kak-s-nej-rabotat",
+    "link": "https://itpotok.ru/chto-takoe-panel-upravleniya-v-windows-xp-i-kak-s-nej-rabotat/",
+    "title": "Что такое панель управления в Windows XP и как с ней работать?",
+    "search": "сервер"
+  },
+  {
+    "id": 2364,
+    "status": "publish",
+    "slug": "legitimnye-i-piratskie-sposoby-aktivacii-windows-xp",
+    "link": "https://itpotok.ru/legitimnye-i-piratskie-sposoby-aktivacii-windows-xp/",
+    "title": "Легитимные и пиратские способы активации Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 2266,
+    "status": "publish",
+    "slug": "zapusk-konsoli-vosstanovleniya-v-os-windows-xp",
+    "link": "https://itpotok.ru/zapusk-konsoli-vosstanovleniya-v-os-windows-xp/",
+    "title": "Запуск консоли восстановления в ОС Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 2151,
+    "status": "publish",
+    "slug": "pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya",
+    "link": "https://itpotok.ru/pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya/",
+    "title": "Почему компьютер под управлением Windows XP не запускается",
+    "search": "сервер"
+  },
+  {
+    "id": 2124,
+    "status": "publish",
+    "slug": "nastrojka-seti-i-interneta-pri-rabote-s-windows-xp",
+    "link": "https://itpotok.ru/nastrojka-seti-i-interneta-pri-rabote-s-windows-xp/",
+    "title": "Настройка сети и интернета при работе с Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 2113,
+    "status": "publish",
+    "slug": "ispolzovanie-programm-dlya-obnovleniya-windows-xp",
+    "link": "https://itpotok.ru/ispolzovanie-programm-dlya-obnovleniya-windows-xp/",
+    "title": "Использование программ для обновления Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 2090,
+    "status": "publish",
+    "slug": "chto-delat-esli-windows-xp-ne-proshla-proverku-podlinnosti",
+    "link": "https://itpotok.ru/chto-delat-esli-windows-xp-ne-proshla-proverku-podlinnosti/",
+    "title": "Что делать, если Windows XP не прошла проверку подлинности?",
+    "search": "сервер"
+  },
+  {
+    "id": 2050,
+    "status": "publish",
+    "slug": "nastrojka-terminalnogo-servera-na-windows-xp",
+    "link": "https://itpotok.ru/nastrojka-terminalnogo-servera-na-windows-xp/",
+    "title": "Настройка терминального сервера на Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 2031,
+    "status": "publish",
+    "slug": "ustanovka-i-nastrojka-windows-xp-dlya-ispolzovaniya-na-slabyx-kompyuterax",
+    "link": "https://itpotok.ru/ustanovka-i-nastrojka-windows-xp-dlya-ispolzovaniya-na-slabyx-kompyuterax/",
+    "title": "Установка и настройка Windows XP для использования на слабых компьютерах",
+    "search": "сервер"
+  },
+  {
+    "id": 1772,
+    "status": "publish",
+    "slug": "nastrojka-i-ustranenie-nepoladok-avtomaticheskogo-obnovleniya-windows-xp",
+    "link": "https://itpotok.ru/nastrojka-i-ustranenie-nepoladok-avtomaticheskogo-obnovleniya-windows-xp/",
+    "title": "Настройка и устранение неполадок автоматического обновления Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 1753,
+    "status": "publish",
+    "slug": "kak-ustanovit-windows-xp-na-virtualnuyu-mashinu",
+    "link": "https://itpotok.ru/kak-ustanovit-windows-xp-na-virtualnuyu-mashinu/",
+    "title": "Как установить Windows XP  на виртуальную машину",
+    "search": "сервер"
+  },
+  {
+    "id": 1735,
+    "status": "publish",
+    "slug": "chto-takoe-setevye-porty-i-kak-ix-otkryt-v-windows-xp",
+    "link": "https://itpotok.ru/chto-takoe-setevye-porty-i-kak-ix-otkryt-v-windows-xp/",
+    "title": "Что такое сетевые порты и как их открыть в Windows XP?",
+    "search": "сервер"
+  },
+  {
+    "id": 9912,
+    "status": "publish",
+    "slug": "neskolko-sposobov-aktivirovat-windows-xp",
+    "link": "https://itpotok.ru/neskolko-sposobov-aktivirovat-windows-xp/",
+    "title": "Несколько способов активировать Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 1292,
+    "status": "publish",
+    "slug": "kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp",
+    "link": "https://itpotok.ru/kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp/",
+    "title": "Как объединить в локальную сеть компьютеры с Windows XP?",
+    "search": "сервер"
+  },
+  {
+    "id": 9897,
+    "status": "publish",
+    "slug": "zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit",
+    "link": "https://itpotok.ru/zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit/",
+    "title": "Как сбросить забытый пароль к Windows XP?",
+    "search": "сервер"
+  },
+  {
+    "id": 9896,
+    "status": "publish",
+    "slug": "vosstanovlenie-zapuska-windows-xp-pri-povrezhdenii-zagruzchika",
+    "link": "https://itpotok.ru/vosstanovlenie-zapuska-windows-xp-pri-povrezhdenii-zagruzchika/",
+    "title": "Восстановление запуска Windows XP при повреждении загрузчика",
+    "search": "сервер"
+  },
+  {
+    "id": 9887,
+    "status": "publish",
+    "slug": "ustanovka-obnovlenij-sistemy-windows-xp-na-kompyuter",
+    "link": "https://itpotok.ru/ustanovka-obnovlenij-sistemy-windows-xp-na-kompyuter/",
+    "title": "Установка обновлений системы Windows XP на компьютер",
+    "search": "сервер"
+  },
+  {
+    "id": 403,
+    "status": "publish",
+    "slug": "sozdanie-zagruzochnoj-fleshki-i-ustanovka-operacionnoj-sistemy-windows-xp",
+    "link": "https://itpotok.ru/sozdanie-zagruzochnoj-fleshki-i-ustanovka-operacionnoj-sistemy-windows-xp/",
+    "title": "Создание загрузочной флешки и установка операционной системы Windows XP",
+    "search": "сервер"
+  },
+  {
+    "id": 318,
+    "status": "publish",
+    "slug": "kak-nastoit-wi-fi-svoimi-rukami-raznimi-sposobami",
+    "link": "https://itpotok.ru/kak-nastoit-wi-fi-svoimi-rukami-raznimi-sposobami/",
+    "title": "Как настроить Wi-Fi своими руками в Windows XP разными способами?",
+    "search": "сервер"
+  },
+  {
+    "id": 289,
+    "status": "publish",
+    "slug": "osobennosti-nastrojki-wi-fi-v-windows-xp",
+    "link": "https://itpotok.ru/osobennosti-nastrojki-wi-fi-v-windows-xp/",
+    "title": "Особенности настройки Wi-Fi  в Windows XP",
+    "search": "сервер"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "step_id": "adapter-components",
+    "action": "открыть Ethernet: свойства",
+    "expected": "русский список компонентов с TCP/IPv4",
+    "file": "assets/ethernet-components-ru-20261022.jpg",
+    "original": "assets/ethernet-components-ru-20261022.jpg",
+    "annotated": null,
+    "annotation_reason": "Не нужны: подпись называет нужную строку.",
+    "captured_at": "2026-10-22",
+    "environment": {
+      "version": "Windows 11 Pro 10.0.26300",
+      "platform": "Windows x64",
+      "language": "ru-RU",
+      "plan": "локальная Windows",
+      "permissions": "просмотр окон; изменение сети пользователя запрещено заданием"
+    },
+    "caption": "Список компонентов Ethernet, в котором видна строка IP версии 4.",
+    "alt": "Окно Ethernet: свойства в Windows 11, список компонентов с IP версии 4.",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный редакционный ограниченный снимок интерфейса Windows; сторонние материалы не копировались."
+  },
+  {
+    "step_id": "settings-dns",
+    "file": null,
+    "status": "missing",
+    "required": true,
+    "reason": "Нет доступного русского кадра назначения и полей DNS."
+  },
+  {
+    "step_id": "doh",
+    "file": null,
+    "status": "missing",
+    "required": true,
+    "reason": "Нет русского кадра режимов DoH и fallback."
+  },
+  {
+    "step_id": "adapter-ipv4",
+    "file": null,
+    "status": "missing",
+    "required": true,
+    "reason": "Диалог dllhost не возвращён как управляемое окно."
+  }
+]
