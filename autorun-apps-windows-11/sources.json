@@ -3,7 +3,7 @@
     "id": "S1",
     "url": "https://support.microsoft.com/ru-ru/windows/experience/startup-boot/configure-startup-applications-in-windows",
     "title": "Настройка автозагрузки приложений в Windows",
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-22",
     "excerpt": "Диспетчер задач предоставляет тот же список запускаемых приложений",
     "limitations": "Русская машинная локализация искажает shell:common startup; команда сверена с английской версией."
   },
@@ -11,7 +11,7 @@
     "id": "S2",
     "url": "https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys",
     "title": "Run and RunOnce Registry Keys",
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-22",
     "excerpt": "The system does not provide guarantees about how promptly the programs in the Run key are run.",
     "limitations": "Описание механизма, не собственный прогон."
   },
@@ -19,7 +19,7 @@
     "id": "S3",
     "url": "https://support.microsoft.com/ru-ru/accessibility/windows/use-a-screen-reader-to-navigate-sign-in-options-in-windows",
     "title": "Навигация по параметрам входа",
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-22",
     "excerpt": "Автоматическое сохранение перезагружаемых приложений и их перезапуск при повторном входе",
     "limitations": "Перевод названия может отличаться от конкретной сборки; раздел не посвящён безопасности."
   },
@@ -27,7 +27,7 @@
     "id": "S4",
     "url": "https://learn.microsoft.com/en-us/windows/win32/services/automatically-starting-services",
     "title": "Automatically Starting Services",
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-22",
     "excerpt": "During system boot, the SCM starts all auto-start services",
     "limitations": "Техническая справка о службах, не инструкция отключения."
   },
@@ -35,7 +35,7 @@
     "id": "S5",
     "url": "https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns",
     "title": "Autoruns v14.3",
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-22",
     "excerpt": "To disable an auto-start entry uncheck its check box.",
     "limitations": "Страница на английском; утилита в этой работе не запускалась, только ссылка для диагностики."
   },
@@ -43,7 +43,7 @@
     "id": "S6",
     "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions",
     "title": "Use of Microsoft copyrighted content",
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-22",
     "excerpt": "Do not alter the screenshot except to resize it.",
     "limitations": "Не даёт разрешения на сторонний контент. Чужие файлы в GitHub не копируются."
   },
@@ -51,7 +51,7 @@
     "id": "S7",
     "url": "https://support.microsoft.com/en-US/Windows/Experience/Startup-Boot/configure-startup-applications-in-windows",
     "title": "Configure Startup applications in Windows",
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-22",
     "excerpt": "shell:common startup",
     "limitations": "Английский первоисточник используется только для проверки литеральных shell-команд, не для интерфейсных иллюстраций."
   }

@@ -1,13 +1,37 @@
 {
   "id": 12164,
-  "status": "draft",
+  "status": "publish",
+  "url": "https://itpotok.ru/disable-autorun-apps-windows-11/",
+  "checked_at": "2026-10-22",
   "body_matches": true,
   "excerpt_matches": true,
+  "title_matches": true,
   "cover_matches": true,
-  "faq_count": 0,
+  "faq_count": 5,
   "visible_shortcode": false,
-  "checked_at": "2026-10-22",
-  "visual_desktop": false,
-  "visual_mobile": false,
-  "faq_saved": false
+  "anonymous_http_status": 200,
+  "anonymous_admin_toolbar": false,
+  "faq_answers_present": true,
+  "visual_desktop": true,
+  "visual_mobile": true,
+  "faq_saved": true,
+  "faq_expansion_checked": true,
+  "anonymous_visual": false,
+  "reader_images": [
+    {
+      "url": "https://windows-school.ru/images/alf011/dannie_avtozagruzki_prilozheniy.webp",
+      "status": 200,
+      "bytes": 17182
+    },
+    {
+      "url": "https://windows-school.ru/images/alf010/otkrivaem_papku_avtozagruzki.webp",
+      "status": 200,
+      "bytes": 11110
+    },
+    {
+      "url": "https://windows-school.ru/images/alf010/novaya_avtozagruzka.webp",
+      "status": 200,
+      "bytes": 17440
+    }
+  ]
 }

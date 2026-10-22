@@ -1,14 +1,12 @@
 {
-  "article_sha256": "aa3f2c82fffe933463176ae376a02b53b81205b657cfe91d9e4e1ac538dc413b",
+  "article_sha256": "502e4a57740cb701a314ad1870ea7892f68beacf1fcab53a30d5789a07591b25",
   "coverage_checked": true,
-  "sources_reopened": false,
+  "sources_reopened": true,
   "visuals_checked": true,
   "editor_reviewed": true,
   "unresolved_material": [
-    "Нет собственного прогона/повторного прогона текущего текста и отмены",
-    "Нет русского кадра основной страницы Параметров",
-    "FAQ не сохранён в штатных полях",
-    "Не выполнена визуальная проверка темы на широком/узком экране"
+    "Нет практического прогона/повторного прогона Windows и отмены",
+    "Нет отдельного русского кадра Параметров"
   ],
   "corrections": [
     {
@@ -18,5 +16,5 @@
       "evidence": "S7"
     }
   ],
-  "reviewed_at": "2026-10-21"
+  "reviewed_at": "2026-10-22"
 }

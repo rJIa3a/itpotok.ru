@@ -1,10 +1,9 @@
 {
-  "checked_at": "2026-10-22T11:30:20.733671+00:00",
+  "checked_at": "2026-10-22T12:27:55.446232+00:00",
   "status": "unverified-draft",
-  "article_sha256": "aa3f2c82fffe933463176ae376a02b53b81205b657cfe91d9e4e1ac538dc413b",
+  "article_sha256": "502e4a57740cb701a314ad1870ea7892f68beacf1fcab53a30d5789a07591b25",
   "blockers": [
     "Unverified screenshots: None",
-    "Review missing: sources_reopened",
     "Open material review findings",
     "No successful initial with saved evidence/current text",
     "No successful rerun with saved evidence/current text"
