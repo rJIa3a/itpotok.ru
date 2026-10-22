@@ -40,10 +40,10 @@
       }
     },
     "screenshot-capture": {
-      "recorded_at": "2026-10-22T12:28:36.608703+00:00",
+      "recorded_at": "2026-10-22T12:32:33.957608+00:00",
       "files": {
         "screenshots.json": "ecff8f8ab59ef46c05ee99fa1be8ee40925f94554893b694591f91a17928e87c",
-        "illustrations.md": "ac855384f65a3626806df3e93ed1f124c12ff26b0d21e97b985b1532e61fca29",
+        "illustrations.md": "d338955191521c91df4ba8950be6e74a7c5eb8fc687141a2c416b6e6bfb5a5af",
         "images/device-manager-usb-category-ru.png": "2baa53c1052275d86ceba1f19b4c9710dd2dec8bb39ca041819f19ff10a2ebd7"
       }
     },
@@ -55,30 +55,32 @@
       }
     },
     "visuals": {
-      "recorded_at": "2026-10-22T12:28:36.631338+00:00",
+      "recorded_at": "2026-10-22T12:32:33.964911+00:00",
       "files": {
         "visuals.json": "f89361e5428a4b349cf871c5977fac642e3a5169c6c0be1608de6586a0c912c1",
-        "illustrations.md": "ac855384f65a3626806df3e93ed1f124c12ff26b0d21e97b985b1532e61fca29",
+        "illustrations.md": "d338955191521c91df4ba8950be6e74a7c5eb8fc687141a2c416b6e6bfb5a5af",
         "images/usb-descriptor-cover-20261021.jpg": "7fc7cff889905a57011df52e408a5ddc99c7f1837128daa266e666709d54fe9f"
       }
     },
     "fact-and-procedure-check": {
-      "recorded_at": "2026-10-22T12:28:36.645330+00:00",
+      "recorded_at": "2026-10-22T12:32:33.966943+00:00",
       "files": {
         "article.html": "37dc8c925ce9747a13e1a4131bde922003e7c2d9ceaba5dec783cee445a26c62",
         "review.json": "40fc6d01354994267e7514be48d2f268afe722d5b3c235a05a88bc4e72508c01",
-        "review.md": "e51a3b53db5e007b04a91f3af314927af23b88c6f2fc65c68f413d5797e7e3fb",
+        "review.md": "920d9f37bb839dcd183ac1e1bdd9898b8b733b61f7d0940ca6548ff71cb3e83d",
         "procedure.json": "bd371f4ab53dc86df91270933b9a21ced25c32134333f7fb66c39a2d080da35b"
       }
     },
     "edit-and-package": {
-      "recorded_at": "2026-10-22T12:28:36.682887+00:00",
+      "recorded_at": "2026-10-22T12:32:34.017814+00:00",
       "files": {
         "article.html": "37dc8c925ce9747a13e1a4131bde922003e7c2d9ceaba5dec783cee445a26c62",
         "excerpt.txt": "dbc7c5d3bafd059c02f5a9f92b271d5cfe29f6bcfd97f77445c1da92bbbf821f",
-        "README.md": "7ae0acd3721ad247b1adfd26e9e0f2d504513fa7535f7d1667e301a9db19ee59",
+        "README.md": "2f4fb10518cb8dbe00553707a0090a2443c8b1c43eff633adedff37464fa5bca",
         "faq.md": "e918bdcbc1e3a34de77d00032e6a7678006caa75e340af559d6973aac86a2fa0",
-        "faq.json": "8c52bf7c7f73720775cddde36bc8f398424570932fb22925587d1a3e20a82592"
+        "faq.json": "8c52bf7c7f73720775cddde36bc8f398424570932fb22925587d1a3e20a82592",
+        "rest-check.json": "729b686fb76e3e8d9b98f58aefe54c6cc9d5c58f05faddb6354a5e2dfb8bbce3",
+        "public-check.json": "d2ac89ff53589bc1092b1d2b8916d99fa96c00a5a183f3e8a8be3fd6ea523bcb"
       }
     }
   }

@@ -1,0 +1,29 @@
+{
+  "checked": "2026-10-22",
+  "url": "https://itpotok.ru/usb-descriptor-failure-windows-11/",
+  "http_status": 200,
+  "title": "Сбой запроса дескриптора USB-устройства в Windows 11: что проверить при коде 43",
+  "faq_count": 5,
+  "shortcode_visible": false,
+  "cover_found": true,
+  "image_found": true,
+  "authenticated": false,
+  "browser_authenticated": false,
+  "desktop_viewport": 1280,
+  "mobile_viewport": 390,
+  "mobile_horizontal_overflow": false,
+  "cover_desktop": {
+    "width": 370,
+    "height": 208.125
+  },
+  "cover_mobile": {
+    "width": 335.2,
+    "height": 188.55
+  },
+  "faq_answers_match": true,
+  "faq_expansion_checked": 5,
+  "image_loaded": true,
+  "image_enlargement_checked": true,
+  "article_source_matches": true,
+  "excerpt_source_matches": true
+}
