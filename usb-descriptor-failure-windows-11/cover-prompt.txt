@@ -1,0 +1,3 @@
+Create a polished editorial cover illustration for a Russian Windows 11 troubleshooting article about USB device descriptor failure. Wide horizontal 16:9 composition. A realistic USB-A cable connector and a USB-C connector resting next to a laptop port, with a small amber warning triangle as a conceptual symbol. Clean dark blue studio background, subtle cool lighting, precise attractive materials. All main objects centered within middle 60 percent to survive website side crops. No text, no logos, no interface screenshot, no diagnostic claims. Professional technology editorial image.
+
+Инструмент: built-in imagegen. Для сайта центральная обрезка до 1600×900, JPEG.

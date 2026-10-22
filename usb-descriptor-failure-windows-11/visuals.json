@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cover",
+    "file": "images/usb-descriptor-cover-20261021.jpg",
+    "purpose": "Обложка записи, 16:9",
+    "caption": "Редакционная иллюстрация, imagegen",
+    "alt": "USB-кабели рядом с портом ноутбука и символом предупреждения",
+    "status": "verified",
+    "required": true
+  }
+]

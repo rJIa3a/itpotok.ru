@@ -1,0 +1,33 @@
+[
+  {
+    "step_id": "open-manager",
+    "action": "Найти раздел Контроллеры USB",
+    "expected": "Видна нужная категория",
+    "file": "images/device-manager-usb-category-ru.png",
+    "original": "images/device-manager-usb-category-ru.png",
+    "annotated": null,
+    "captured_at": "2026-10-21",
+    "environment": {
+      "version": "Windows 11 Pro 26H2 26300.9711",
+      "platform": "Windows x64",
+      "language": "ru-RU",
+      "plan": "локальный ПК",
+      "permissions": "просмотр; без удаления/изменения драйверов"
+    },
+    "caption": "Категории русского Диспетчера устройств; ошибка не воспроизводилась.",
+    "alt": "Контроллеры USB и Другие устройства",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный редакционный снимок интерфейса; имя ПК исключено обрезкой."
+  },
+  {
+    "step_id": "diagnose-failure",
+    "action": "Прочитать состояние проблемного устройства",
+    "expected": "Полное сообщение и код43",
+    "file": null,
+    "status": "missing",
+    "required": false,
+    "reason": "Желательное дополнение, а не обязательный ориентир для поиска кнопки. Ошибка описана текстом; непроведённое испытание не изображается."
+  }
+]

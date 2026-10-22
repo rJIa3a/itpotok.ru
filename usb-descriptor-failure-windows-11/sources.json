@@ -1,0 +1,82 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/en-us/windows/hardware/drivers/error-codes-in-device-manager-in-windows",
+    "title": "Error codes in Device Manager",
+    "checked_at": "2026-10-22",
+    "excerpt": "One of the drivers controlling the device notified the operating system that the device failed in some manner.",
+    "limitations": "Документация, не практический прогон лечения."
+  },
+  {
+    "id": "S2",
+    "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/usbcon/case-study--troubleshooting-an-unknown-usb-device-by-using-etw-and-netmon",
+    "title": "Troubleshooting an unknown USB device",
+    "checked_at": "2026-10-22",
+    "excerpt": "The request for the USB device’s Device Descriptor failed.",
+    "limitations": "Исторический разбор ETW; поясняет этапы enumeration, не испытание Windows 11 и не инструкция запускать Netmon."
+  },
+  {
+    "id": "S3",
+    "url": "https://support.microsoft.com/en-us/windows/hardware/usb/fix-usb-c-problems-in-windows",
+    "title": "Fix USB-C problems in Windows",
+    "checked_at": "2026-10-22",
+    "excerpt": "If the USB device can be powered externally, plug it into an external power source.",
+    "limitations": "Документация, не практический прогон лечения."
+  },
+  {
+    "id": "S4",
+    "url": "https://support.microsoft.com/en-us/windows/update-drivers-through-device-manager-in-windows-ec62f46c-ff14-c91d-eead-d7126dc1f7b6",
+    "title": "Update drivers through Device Manager",
+    "checked_at": "2026-10-22",
+    "excerpt": "Make sure to download the correct drivers that match the version and architecture of Windows.",
+    "limitations": "Документация, не практический прогон лечения."
+  },
+  {
+    "id": "S5",
+    "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/usbcon/usb-selective-suspend",
+    "title": "USB selective suspend",
+    "checked_at": "2026-10-22",
+    "excerpt": "Microsoft strongly recommends not disabling selective suspend.",
+    "limitations": "Документация, не практический прогон лечения."
+  },
+  {
+    "id": "S6",
+    "url": "https://support.microsoft.com/en-us/windows/hardware/input-devices/mouse-and-keyboard-problems-in-windows",
+    "title": "Mouse and keyboard problems in Windows",
+    "checked_at": "2026-10-22",
+    "excerpt": "Try using a different USB port on your PC.",
+    "limitations": "Справка про мыши и клавиатуры; физические проверки применены с оговорками для других устройств."
+  },
+  {
+    "id": "S8",
+    "url": "https://www.dell.com/support/kbdoc/en-us/000132048/how-to-troubleshoot-usb-issues",
+    "title": "Dell: How to Fix USB Port Issues",
+    "checked_at": "2026-10-22",
+    "excerpt": "Plug the USB device into another computer to confirm whether the device itself is working correctly.",
+    "limitations": "Для Dell. Не переносим массовое удаление контроллеров, сброс BIOS и отключение selective suspend на все компьютеры."
+  },
+  {
+    "id": "S9",
+    "url": "https://support.microsoft.com/en-au/windows/hardware/drivers/automatically-get-recommended-and-updated-hardware-drivers",
+    "title": "Microsoft: Automatically get recommended and updated hardware drivers",
+    "checked_at": "2026-10-22",
+    "excerpt": "Under Additional options, select Optional updates.",
+    "limitations": "Официальный путь к необязательным драйверам; наличие пакетов зависит от ПК."
+  },
+  {
+    "id": "S10",
+    "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/usbcon/usb-device-descriptors",
+    "title": "Microsoft: USB device descriptors",
+    "checked_at": "2026-10-22",
+    "excerpt": "The device descriptor contains information about a USB device as a whole.",
+    "limitations": "Документация разработчика; не пользовательский прогон устранения сбоя."
+  },
+  {
+    "id": "S11",
+    "url": "https://www.dell.com/support/kbdoc/en-us/000274680/dell-pro-14-plus-pb14250-running-windows-11-23h2-has-a-yellow-bang-on-the-intel-usb-3-20-extensible-host-controller-in-device-manager",
+    "title": "Dell: USB Type-A Ports, Integrated Camera, Smartcard Reader, or Fingerprint Reader Are Not Working",
+    "checked_at": "2026-10-22",
+    "excerpt": "Integrated USB camera, Smartcard reader, Fingerprint reader (Dell Control Vault device)",
+    "limitations": "Только подтверждение существования внутренних USB-компонентов. Описанный Dell код 10, конкретный KB и изменения защиты не относятся к нашей инструкции и не перенесены."
+  }
+]

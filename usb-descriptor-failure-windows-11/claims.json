@@ -1,0 +1,123 @@
+[
+  {
+    "id": "C1",
+    "claim": "Код 43 — общее уведомление драйвера о проблеме, а не доказательство одной причины.",
+    "source_id": "S1",
+    "evidence": "One of the drivers controlling the device notified the operating system that the device failed in some manner.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "meaning"
+  },
+  {
+    "id": "C2",
+    "claim": "Сбой дескриптора относится к enumeration; USB\\UNKNOWN не точная модель.",
+    "source_id": "S2",
+    "evidence": "The request for the USB device’s Device Descriptor failed.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "meaning"
+  },
+  {
+    "id": "C3",
+    "claim": "Проверка другого порта, кабеля, хаба и ПК помогает локализовать подключение.",
+    "source_id": "S6",
+    "evidence": "Try using a different USB port on your PC.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "connection"
+  },
+  {
+    "id": "C4",
+    "claim": "USB-C требует подходящих возможностей кабеля/порта; отдельное питание применимо к поддерживающим его устройствам.",
+    "source_id": "S3",
+    "evidence": "If the USB device can be powered externally, plug it into an external power source.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "connection"
+  },
+  {
+    "id": "C5",
+    "claim": "Повторная установка касается выбранного устройства; Windows пытается вернуть драйвер после перезапуска/сканирования.",
+    "source_id": "S4",
+    "evidence": "Make sure to download the correct drivers that match the version and architecture of Windows.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "rediscover"
+  },
+  {
+    "id": "C6",
+    "claim": "Нужны совместимые драйверы Windows Update/производителя; откат требует прав администратора.",
+    "source_id": "S4",
+    "evidence": "Make sure to download the correct drivers that match the version and architecture of Windows.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "drivers"
+  },
+  {
+    "id": "C7",
+    "claim": "Выборочная приостановка USB включена по умолчанию; Microsoft рекомендует не отключать её.",
+    "source_id": "S5",
+    "evidence": "Microsoft strongly recommends not disabling selective suspend.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "sleep"
+  },
+  {
+    "id": "C8",
+    "claim": "Выбор одной проблемной записи требует идентификации; удаление контроллеров может затронуть ввод.",
+    "source_id": "S4",
+    "evidence": "Microsoft указывает определить нужное устройство перед удалением. Предупреждение о потере ввода — редакционный вывод из удаления общего контроллера; такой способ в статье не предлагается.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "identify rediscover sleep"
+  },
+  {
+    "id": "C9",
+    "claim": "При физическом повреждении нужен сервис; сравнение с другим ПК и кабелем отделяет часть аппаратных причин.",
+    "source_id": "S8",
+    "evidence": "Plug the USB device into another computer to confirm whether the device itself is working correctly.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "connection"
+  },
+  {
+    "id": "C10",
+    "claim": "Необязательные драйверы находятся в дополнительных параметрах Windows Update.",
+    "source_id": "S9",
+    "evidence": "Справка указывает Advanced options → Optional updates и выбор нужных драйверов.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": true,
+    "location": "drivers"
+  },
+  {
+    "id": "C11",
+    "claim": "USB используется также внутренними компонентами; отсутствие внешних устройств не доказывает отсутствие USB-устройства.",
+    "source_id": "S11",
+    "evidence": "Dell прямо описывает Integrated USB camera; назначение конкретной записи без документации не утверждается.",
+    "checked_at": "2026-10-22",
+    "next_review": "2027-01-21",
+    "status": "supported",
+    "material": false,
+    "location": "faq.json question 4"
+  }
+]

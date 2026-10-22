@@ -1,0 +1,492 @@
+{
+  "checked": "2026-10-22",
+  "queries": {
+    "дескриптор": [
+      {
+        "id": 12161,
+        "status": "draft",
+        "title": "Сбой запроса дескриптора USB-устройства в Windows 11: что проверить при коде 43",
+        "url": "https://itpotok.ru/?p=12161"
+      },
+      {
+        "id": 2819,
+        "status": "publish",
+        "title": "Как работать с процессами и выполнить откат системы в Windows 7?",
+        "url": "https://itpotok.ru/kak-rabotat-s-processami-i-vypolnit-otkat-sistemy-v-windows-7/"
+      }
+    ],
+    "неизвестное USB": [
+      {
+        "id": 12161,
+        "status": "draft",
+        "title": "Сбой запроса дескриптора USB-устройства в Windows 11: что проверить при коде 43",
+        "url": "https://itpotok.ru/?p=12161"
+      },
+      {
+        "id": 6668,
+        "status": "publish",
+        "title": "Устранение неполадок и настройка клавиатуры в Windows 7",
+        "url": "https://itpotok.ru/ustranenie-nepoladok-i-nastrojka-klaviatury-v-windows-7/"
+      },
+      {
+        "id": 1621,
+        "status": "publish",
+        "title": "Решение проблем с принтером и печатью на компьютере с Windows XP",
+        "url": "https://itpotok.ru/reshenie-problem-s-printerom-i-pechatyu-na-kompyutere-s-windows-xp/"
+      }
+    ],
+    "USB": [
+      {
+        "id": 12161,
+        "status": "draft",
+        "title": "Сбой запроса дескриптора USB-устройства в Windows 11: что проверить при коде 43",
+        "url": "https://itpotok.ru/?p=12161"
+      },
+      {
+        "id": 12134,
+        "status": "publish",
+        "title": "Невозможно найти среду восстановления Windows 11: как проверить и включить WinRE",
+        "url": "https://itpotok.ru/recovery-environment-not-found-windows-11/"
+      },
+      {
+        "id": 12099,
+        "status": "publish",
+        "title": "По неизвестной причине запуск этого средства не удался: Media Creation Tool в Windows 11",
+        "url": "https://itpotok.ru/media-creation-tool-launch-error-windows-11/"
+      },
+      {
+        "id": 12067,
+        "status": "publish",
+        "title": "Как зайти в безопасный режим Windows 11 и выйти из него",
+        "url": "https://itpotok.ru/safe-mode-windows-11/"
+      },
+      {
+        "id": 12048,
+        "status": "publish",
+        "title": "Как сбросить Windows 11 до заводских настроек",
+        "url": "https://itpotok.ru/reset-windows-11/"
+      },
+      {
+        "id": 12040,
+        "status": "publish",
+        "title": "Как зайти в BIOS или UEFI на Windows 11",
+        "url": "https://itpotok.ru/enter-bios-uefi-windows-11/"
+      },
+      {
+        "id": 12025,
+        "status": "draft",
+        "title": "Как обновить Windows 10 до Windows 11 с сохранением файлов и программ",
+        "url": "https://itpotok.ru/?p=12025"
+      },
+      {
+        "id": 11989,
+        "status": "publish",
+        "title": "Rufus для Windows 11: как создать загрузочную флешку",
+        "url": "https://itpotok.ru/create-windows-11-usb/"
+      },
+      {
+        "id": 12015,
+        "status": "publish",
+        "title": "Как скачать Windows 11 с официального сайта на русском",
+        "url": "https://itpotok.ru/download-windows-11-iso/"
+      },
+      {
+        "id": 11926,
+        "status": "draft",
+        "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+        "url": "https://itpotok.ru/?p=11926"
+      },
+      {
+        "id": 11544,
+        "status": "publish",
+        "title": "Как обновить Windows 10 до Windows 11 с сохранением файлов и программ",
+        "url": "https://itpotok.ru/upgrade-windows-10-to-windows-11/"
+      },
+      {
+        "id": 11476,
+        "status": "publish",
+        "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+        "url": "https://itpotok.ru/how-to-install-windows-11/"
+      },
+      {
+        "id": 9881,
+        "status": "draft",
+        "title": "Старая https://itpotok.ru/boot-usb-flash-drive-windows-10/",
+        "url": "https://itpotok.ru/?p=9881"
+      },
+      {
+        "id": 9835,
+        "status": "draft",
+        "title": "Лучшие беспроводные TWS-наушники в 2023 году",
+        "url": "https://itpotok.ru/?p=9835"
+      },
+      {
+        "id": 9829,
+        "status": "draft",
+        "title": "Лучшие ноутбуки до 100000 рублей",
+        "url": "https://itpotok.ru/?p=9829"
+      },
+      {
+        "id": 9595,
+        "status": "publish",
+        "title": "Лучшие смартфоны до 20000 рублей 2023 года",
+        "url": "https://itpotok.ru/best-smartphones-under-20000/"
+      },
+      {
+        "id": 9564,
+        "status": "publish",
+        "title": "Телефон с хорошей камерой &#8212; 2023 год",
+        "url": "https://itpotok.ru/best-camera-phone/"
+      },
+      {
+        "id": 9521,
+        "status": "publish",
+        "title": "Лучшие смартфоны Xiaomi- 2023 год",
+        "url": "https://itpotok.ru/best-xiaomi-smartphones/"
+      },
+      {
+        "id": 9427,
+        "status": "publish",
+        "title": "Лучший монитор &#8212; 2023 год: лучшие мониторы под любой бюджет",
+        "url": "https://itpotok.ru/best-monitor/"
+      },
+      {
+        "id": 9402,
+        "status": "publish",
+        "title": "Лучшие бюджетные смартфоны &#8212; 2023 год",
+        "url": "https://itpotok.ru/best-budget-smartphone/"
+      },
+      {
+        "id": 9382,
+        "status": "publish",
+        "title": "Лучший смартфон &#8212; 2023 год",
+        "url": "https://itpotok.ru/best-smartphone/"
+      },
+      {
+        "id": 9346,
+        "status": "publish",
+        "title": "Лучшие беспроводные Bluetooth-наушники &#8212; 2023 год",
+        "url": "https://itpotok.ru/best-wireless-headphones/"
+      },
+      {
+        "id": 8770,
+        "status": "publish",
+        "title": "Создать загрузочную флешку с Windows 10",
+        "url": "https://itpotok.ru/boot-usb-flash-drive-windows-10/"
+      },
+      {
+        "id": 8727,
+        "status": "publish",
+        "title": "9 способов зайти в безопасный режим Widnows 10",
+        "url": "https://itpotok.ru/safe-mode-widnows-10/"
+      },
+      {
+        "id": 8685,
+        "status": "publish",
+        "title": "Установка Windows 10 с флешки",
+        "url": "https://itpotok.ru/how-install-windows-10-from-usb/"
+      },
+      {
+        "id": 8646,
+        "status": "publish",
+        "title": "Как убрать пароль при входе в Windows 10",
+        "url": "https://itpotok.ru/how-disable-lock-screen-windows-10/"
+      },
+      {
+        "id": 8230,
+        "status": "publish",
+        "title": "Устанавливаем принтер в Windows 8. Решаем проблемы с установкой",
+        "url": "https://itpotok.ru/ustanavlivaem-printer-v-windows-8-reshaem-problemy-s-ustanovkoj/"
+      },
+      {
+        "id": 7907,
+        "status": "publish",
+        "title": "Спящий режим в Windows 8. Отключение и устранение неполадок спящего режима",
+        "url": "https://itpotok.ru/spyashhij-rezhim-v-windows-8-otklyuchenie-i-ustranenie-nepoladok-spyashhego-rezhima/"
+      },
+      {
+        "id": 7411,
+        "status": "publish",
+        "title": "Работа с web-камерой на компьютере с Windows 7",
+        "url": "https://itpotok.ru/rabota-s-web-kameroi-na-kompyutere-s-windows-7/"
+      },
+      {
+        "id": 7099,
+        "status": "publish",
+        "title": "Пять способов создания установочной флешки с Windows 7",
+        "url": "https://itpotok.ru/pyat-sposobov-sozdaniya-ustanovochnoj-fleshki-s-windows-7/"
+      },
+      {
+        "id": 6782,
+        "status": "publish",
+        "title": "Записываем образ Windows 7 на установочную флешку",
+        "url": "https://itpotok.ru/zapisyvaem-obraz-windows-7-na-ustanovochnuyu-fleshku/"
+      },
+      {
+        "id": 6668,
+        "status": "publish",
+        "title": "Устранение неполадок и настройка клавиатуры в Windows 7",
+        "url": "https://itpotok.ru/ustranenie-nepoladok-i-nastrojka-klaviatury-v-windows-7/"
+      },
+      {
+        "id": 6156,
+        "status": "publish",
+        "title": "Как установить Windows 7 на компьютер или ноутбук?",
+        "url": "https://itpotok.ru/kak-ustanovit-windows-7-na-kompyuter-ili-noutbuk/"
+      },
+      {
+        "id": 4715,
+        "status": "publish",
+        "title": "Обзор сетевых настроек и подключения Windows 7 к сети",
+        "url": "https://itpotok.ru/obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti/"
+      },
+      {
+        "id": 4684,
+        "status": "publish",
+        "title": "Что такое BIOS и как его настроить для установки Windows 7?",
+        "url": "https://itpotok.ru/chto-takoe-bios-i-kak-ego-nastroit-dlya-ustanovki-windows-7/"
+      },
+      {
+        "id": 4670,
+        "status": "publish",
+        "title": "Настройка локальной сети и общего доступа на Windows 7",
+        "url": "https://itpotok.ru/nastroika-lokalnoi-seti-i-obshego-dostupa-na-windows-7/"
+      },
+      {
+        "id": 4384,
+        "status": "publish",
+        "title": "Основные данные об ОС Windows XP и Windows 7",
+        "url": "https://itpotok.ru/osnovnye-dannye-ob-os-windows-xp-i-windows-7/"
+      },
+      {
+        "id": 4319,
+        "status": "publish",
+        "title": "Установка операционной системы Windows 7 с помощью USB",
+        "url": "https://itpotok.ru/ustanovka-operatsionnoy-sistemi-windows-7-s-pomoshhyu-usb/"
+      },
+      {
+        "id": 4309,
+        "status": "publish",
+        "title": "Несколько способов создать загрузочную флешку с Windows 7",
+        "url": "https://itpotok.ru/neskolko-sposobov-sozdat-zagruzochnuyu-fleshku-s-windows-7/"
+      },
+      {
+        "id": 4299,
+        "status": "publish",
+        "title": "Инструкция по созданию установочной флешки с Windows 7",
+        "url": "https://itpotok.ru/instrukciya-po-sozdaniu-ustanovochnoi-fleshki-s-windows-7/"
+      },
+      {
+        "id": 4268,
+        "status": "publish",
+        "title": "Настройка принтера на работу в локальной сети Windows 7",
+        "url": "https://itpotok.ru/nastroika-printera-na-rabotu-v-lokalnou-seti-windows-7/"
+      },
+      {
+        "id": 3868,
+        "status": "publish",
+        "title": "Оптимизация настроек Windows 7 и сброс к заводскому состоянию",
+        "url": "https://itpotok.ru/optimizaciya-nastroek-windows-7-i-sbros-k-zavodskomu-sostoyaniu/"
+      },
+      {
+        "id": 3793,
+        "status": "publish",
+        "title": "Установка и настройка беспроводных сетей в Windows XP",
+        "url": "https://itpotok.ru/ustanovka-i-nastroika-besprovodnih-setei-v-windows-xp/"
+      },
+      {
+        "id": 3671,
+        "status": "publish",
+        "title": "Обзор основных достоинств и недостатков Windows 7",
+        "url": "https://itpotok.ru/obzor-osnovnih-dostoinstv-i-nedostatkov-windows-7/"
+      },
+      {
+        "id": 3649,
+        "status": "publish",
+        "title": "Перенос образа Windows 7 для создания установочной флешки",
+        "url": "https://itpotok.ru/perenos-obraza-windows-7-dlya-sozdaniya-ustanovochnoj-fleshki/"
+      },
+      {
+        "id": 3525,
+        "status": "publish",
+        "title": "Подключение к компьютеру наушников и устранение проблем со звуком в Windows 7",
+        "url": "https://itpotok.ru/podklyuchenie-k-kompyuteru-naushnikov-i-ustranenie-problem-so-zvukom-v-windows-7/"
+      },
+      {
+        "id": 3453,
+        "status": "publish",
+        "title": "Как с помощью разных программ создать загрузочную флешку Windows 7?",
+        "url": "https://itpotok.ru/kak-s-pomoshhyu-raznyx-programm-sozdat-zagruzochnuyu-fleshku-windows-7/"
+      },
+      {
+        "id": 3354,
+        "status": "publish",
+        "title": "Три способа сделать загрузочную флешку для инсталляции Windows 7",
+        "url": "https://itpotok.ru/tri-sposoba-sdelat-zagruzochnuyu-fleshku-dlya-instalyacii-windows-7/"
+      },
+      {
+        "id": 3272,
+        "status": "publish",
+        "title": "Создание загрузочной флешки с дистрибутивом Windows 7",
+        "url": "https://itpotok.ru/sozdanie-zagruzochnoj-fleshki-s-distributivom-windows-7/"
+      },
+      {
+        "id": 2840,
+        "status": "publish",
+        "title": "Как произвести установку обновления в Windows 7?",
+        "url": "https://itpotok.ru/kak-proizvesti-ustanovku-obnovleniya-v-windows-7/"
+      },
+      {
+        "id": 2546,
+        "status": "publish",
+        "title": "Создание образа для установки Windows XP на флешке",
+        "url": "https://itpotok.ru/sozdanie-obraza-dlya-ustanovki-windows-xp-na-fleshke/"
+      },
+      {
+        "id": 2477,
+        "status": "publish",
+        "title": "Отличия Windows 7 от предыдущих версий",
+        "url": "https://itpotok.ru/otlichiya-windows-7-ot-predydushhix-versij/"
+      },
+      {
+        "id": 2288,
+        "status": "publish",
+        "title": "Установка Windows XP с флешки с помощью WinSetupFromUSB",
+        "url": "https://itpotok.ru/ustanovka-windows-xp-s-fleshki-s-pomoshhyu-winsetupfromusb/"
+      },
+      {
+        "id": 2266,
+        "status": "publish",
+        "title": "Запуск консоли восстановления в ОС Windows XP",
+        "url": "https://itpotok.ru/zapusk-konsoli-vosstanovleniya-v-os-windows-xp/"
+      },
+      {
+        "id": 2172,
+        "status": "publish",
+        "title": "Способы создания точки доступа и беспроводной сети на Windows XP",
+        "url": "https://itpotok.ru/sposoby-sozdaniya-tochki-dostupa-i-besprovodnoj-seti-na-windows-xp/"
+      },
+      {
+        "id": 2151,
+        "status": "publish",
+        "title": "Почему компьютер под управлением Windows XP не запускается",
+        "url": "https://itpotok.ru/pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya/"
+      },
+      {
+        "id": 2050,
+        "status": "publish",
+        "title": "Настройка терминального сервера на Windows XP",
+        "url": "https://itpotok.ru/nastrojka-terminalnogo-servera-na-windows-xp/"
+      },
+      {
+        "id": 1814,
+        "status": "publish",
+        "title": "Пошаговое руководство установки Windows XP с флешки",
+        "url": "https://itpotok.ru/poshagovoe-rukovodstvo-ustanovki-windows-xp-s-fleshki/"
+      },
+      {
+        "id": 1753,
+        "status": "publish",
+        "title": "Как установить Windows XP  на виртуальную машину",
+        "url": "https://itpotok.ru/kak-ustanovit-windows-xp-na-virtualnuyu-mashinu/"
+      },
+      {
+        "id": 1676,
+        "status": "publish",
+        "title": "Способы традиционной и автоматической установки Windows XP с диска",
+        "url": "https://itpotok.ru/sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska/"
+      },
+      {
+        "id": 1621,
+        "status": "publish",
+        "title": "Решение проблем с принтером и печатью на компьютере с Windows XP",
+        "url": "https://itpotok.ru/reshenie-problem-s-printerom-i-pechatyu-na-kompyutere-s-windows-xp/"
+      },
+      {
+        "id": 9906,
+        "status": "publish",
+        "title": "Инструкции по обновлению Windows XP до Windows XP SP3",
+        "url": "https://itpotok.ru/instrukcii-po-obnoveniu-windows-xp-do-windows-xp-sp3/"
+      },
+      {
+        "id": 1363,
+        "status": "publish",
+        "title": "Руководство по созданию загрузочной флешки с Windows XP",
+        "url": "https://itpotok.ru/rukovodstvo-po-sozdaniyu-zagruzochnoj-fleshki-s-windows-xp/"
+      },
+      {
+        "id": 1015,
+        "status": "publish",
+        "title": "Как переустановить Windows XP, если у вас нет привода для чтения дисков",
+        "url": "https://itpotok.ru/kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov/"
+      },
+      {
+        "id": 9897,
+        "status": "publish",
+        "title": "Как сбросить забытый пароль к Windows XP?",
+        "url": "https://itpotok.ru/zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit/"
+      },
+      {
+        "id": 9888,
+        "status": "publish",
+        "title": "Как записать образ Windows XP через UltraISO?",
+        "url": "https://itpotok.ru/kak-zapisat-obraz-windows-xp-cherez-ultraiso/"
+      },
+      {
+        "id": 577,
+        "status": "publish",
+        "title": "Как создать мультизагрузочную флешку с Windows XP и программами?",
+        "url": "https://itpotok.ru/kak-sozdat-multizagruzochnuyu-fleshku-s-windows-xp-i-programmami/"
+      },
+      {
+        "id": 462,
+        "status": "publish",
+        "title": "Пошаговая инструкция: как установить Windows ХР на нетбук новичку",
+        "url": "https://itpotok.ru/kak-ustanovit-windows-xp-na-netbuk-poshagovaya-instrukciya-dlya-novichkov/"
+      },
+      {
+        "id": 403,
+        "status": "publish",
+        "title": "Создание загрузочной флешки и установка операционной системы Windows XP",
+        "url": "https://itpotok.ru/sozdanie-zagruzochnoj-fleshki-i-ustanovka-operacionnoj-sistemy-windows-xp/"
+      },
+      {
+        "id": 363,
+        "status": "publish",
+        "title": "Создание загрузочной флешки c операционной системой Windows XP",
+        "url": "https://itpotok.ru/sozdanie-zagruzochnoj-fleshki-s-operacionnoj-sistemoj-windows-xp-1/"
+      },
+      {
+        "id": 9885,
+        "status": "publish",
+        "title": "Почему у Windows XP не удается распознать флешку?",
+        "url": "https://itpotok.ru/pochemu-u-windows-xp-ne-udaetsya-raspoznat-fleshku/"
+      },
+      {
+        "id": 318,
+        "status": "publish",
+        "title": "Как настроить Wi-Fi своими руками в Windows XP разными способами?",
+        "url": "https://itpotok.ru/kak-nastoit-wi-fi-svoimi-rukami-raznimi-sposobami/"
+      },
+      {
+        "id": 9882,
+        "status": "publish",
+        "title": "Советы по созданию загрузочной флешки с Windows XP",
+        "url": "https://itpotok.ru/soveti-po-sozdaniu-zagruzochnoj-fleshki-s-windows-xp/"
+      },
+      {
+        "id": 9436,
+        "status": "publish",
+        "title": "Как создать загрузочную флешку программой  Ultra ISO под Windows XP?",
+        "url": "https://itpotok.ru/kak-sozdat-zagruzochnuu-fleshku-programmoi-ultra-iso/"
+      },
+      {
+        "id": 9432,
+        "status": "publish",
+        "title": "Подробная установка Windows XP на нетбук",
+        "url": "https://itpotok.ru/podrobnaya-ustanovka-windows-xp-na-netbook/"
+      }
+    ]
+  },
+  "decision": "Новая запись 12161. Тематического дубля среди опубликованных записей и найденных черновиков нет."
+}

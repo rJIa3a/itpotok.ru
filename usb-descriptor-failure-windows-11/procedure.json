@@ -1,0 +1,34 @@
+{
+  "environment": {
+    "version": "Windows 11 Pro 26H2 26300.9711",
+    "platform": "Windows x64",
+    "language": "ru-RU",
+    "plan": "локальный ПК",
+    "permissions": "просмотр; без удаления/изменения драйверов"
+  },
+  "runs": [
+    {
+      "id": "ui-inspection-1",
+      "kind": "initial",
+      "executed_at": "2026-10-21T02:22:00+00:00",
+      "steps": [
+        {
+          "id": "open-manager",
+          "action": "Открыть Диспетчер устройств и прочитать список категорий",
+          "expected": "Русские категории USB и другие устройства",
+          "actual": "Окно открыто; категории видны, безопасный кадр сохранён.",
+          "status": "passed",
+          "evidence": "images/device-manager-usb-category-ru.png"
+        },
+        {
+          "id": "diagnose-failure",
+          "action": "Воспроизвести сбой и выполнить диагностику текущего текста",
+          "expected": "Сопоставить ошибку с устройством и проверить результат лечения",
+          "actual": "Не выполнено: неисправного устройства нет.",
+          "status": "not-run",
+          "evidence": "research.md"
+        }
+      ]
+    }
+  ]
+}
