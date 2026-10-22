@@ -1,0 +1,15 @@
+{
+  "checked": "2026-10-21",
+  "queries": {
+    "msvcp110": [],
+    "msvcr110": [],
+    "Visual C++": [
+      {
+        "id": 12003,
+        "status": "draft",
+        "slug": "clean-drive-c-windows-11-short",
+        "title": "Как почистить диск C в Windows 11 — короткая версия"
+      }
+    ]
+  }
+}

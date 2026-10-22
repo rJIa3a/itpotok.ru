@@ -1,0 +1,19 @@
+{
+  "checked": "2026-10-21",
+  "files": [
+    {
+      "architecture": "x86",
+      "url": "https://download.microsoft.com/download/e/c/c/eccd0a46-78bf-4580-804c-ce0b61cf921e/VSU4/vcredist_x86.exe",
+      "http": 200,
+      "bytes": 6557096,
+      "sha256": "fd8f23c2ed640f7a4b18e55b10ef415febd83cbb8d58338ab71bee693f7e8d84"
+    },
+    {
+      "architecture": "x64",
+      "url": "https://download.microsoft.com/download/e/c/c/eccd0a46-78bf-4580-804c-ce0b61cf921e/VSU4/vcredist_x64.exe",
+      "http": 200,
+      "bytes": 7189504,
+      "sha256": "11cb1f23472e6636cc2532c82b5584f1a644b37210a8bf4c339d4f19482acf93"
+    }
+  ]
+}
