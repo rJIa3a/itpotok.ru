@@ -1,0 +1,3 @@
+Built-in imagegen. Use case: stylized-concept. Editorial cover for Russian guide to opening Control Panel in Windows 11. Wide horizontal 16:9 composition. Refined blue background, central symbolic control board with three tactile sliders and subtle window motif, no real UI or fake screenshots. Large exact Russian title «Панель управления», smaller «Windows 11». All lettering and main objects strictly within central 65% safe area, lots of outer breathing room for theme cropping. Crisp readable typography. No watermark, no personal data.
+
+Результат: images/control-panel-cover-20261021.png, 1672×941, практически 16:9. Изображение осмотрено: надписи корректны, личных данных нет.

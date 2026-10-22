@@ -1,0 +1,26 @@
+{
+  "environment": {
+    "version": "26H2 26300.9711 preview",
+    "platform": "Windows 11",
+    "language": "ru-RU",
+    "plan": "локальная Windows, не применимо",
+    "permissions": "обычный доступ, системные настройки не менялись"
+  },
+  "runs": [
+    {
+      "id": "initial-1",
+      "kind": "initial",
+      "executed_at": "2026-10-21",
+      "steps": [
+        {
+          "id": "view",
+          "action": "Alt+Up из Инструменты Windows",
+          "expected": "Все элементы панели управления",
+          "actual": "Общий список, Крупные значки",
+          "status": "passed",
+          "evidence": "images/control-panel-icons-ru-20261021.jpg"
+        }
+      ]
+    }
+  ]
+}

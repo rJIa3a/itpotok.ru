@@ -1,0 +1,50 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/en-us/windows/experience/system-configuration-tools-in-windows",
+    "title": "System configuration tools in Windows",
+    "checked_at": "2026-10-21",
+    "excerpt": "type control and press Enter",
+    "limitations": "Поиск, control, отличие и миграция. Не собственный тест."
+  },
+  {
+    "id": "S2",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/shell/executing-control-panel-items",
+    "title": "Executing Control Panel Items",
+    "checked_at": "2026-10-21",
+    "excerpt": "control.exe /name",
+    "limitations": "Историческая документация синтаксиса."
+  },
+  {
+    "id": "S3",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/shell/controlpanel-canonical-names",
+    "title": "Canonical Names of Control Panel Items",
+    "checked_at": "2026-10-21",
+    "excerpt": "not all Control Panel items are present",
+    "limitations": "Список исторический, не доказательство наличия всех элементов в 11."
+  },
+  {
+    "id": "S4",
+    "url": "https://support.microsoft.com/ru-ru/office/lifecycle/error-code-30033-when-installing-office",
+    "title": "Код ошибки 30033 при установке Office",
+    "checked_at": "2026-10-21",
+    "excerpt": "Крупные значки или Мелкие значки",
+    "limitations": "Использована только терминология Панели управления."
+  },
+  {
+    "id": "S5",
+    "url": "https://support.microsoft.com/ru-ru/windows/experience/personalization/customize-the-desktop-icons-in-windows",
+    "title": "Настройка значков рабочего стола в Windows",
+    "checked_at": "2026-10-21",
+    "excerpt": "Настройка значков рабочего стола по умолчанию",
+    "limitations": "Windows 11/10, редакционный путь требует практического прогона."
+  },
+  {
+    "id": "S6",
+    "url": "local:images/control-panel-icons-ru-20261021.jpg",
+    "title": "Собственный снимок Windows 26300.9711",
+    "checked_at": "2026-10-21",
+    "excerpt": "Просмотр: Крупные значки",
+    "limitations": "Предварительная сборка, только видимые элементы."
+  }
+]

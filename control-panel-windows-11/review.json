@@ -1,0 +1,22 @@
+{
+  "article_sha256": "e2e14eeaa0f5e056bbe6f30afe111c03796fc25bcb81a5347c845ae68f318282",
+  "coverage_checked": true,
+  "sources_reopened": true,
+  "visuals_checked": true,
+  "editor_reviewed": true,
+  "unresolved_material": [
+    "Не выполнен полный прогон текущего текста",
+    "Нет обязательных кадров поиска и мастера ярлыка",
+    "Мастер ярлыка не проверен в доступном продукте",
+    "Браузерная проверка темы, раскрытия FAQ и узкого экрана заблокирована сбоем IAB"
+  ],
+  "corrections": [
+    {
+      "before": "Русский перевод control как элемент управления",
+      "after": "control",
+      "reason": "Команда должна оставаться латинской",
+      "evidence": "S1"
+    }
+  ],
+  "reviewed_at": "2026-10-22"
+}

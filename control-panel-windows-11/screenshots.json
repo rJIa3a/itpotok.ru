@@ -1,0 +1,40 @@
+[
+  {
+    "step_id": "view",
+    "action": "Alt+Up из Инструменты Windows",
+    "expected": "Общий список элементов",
+    "file": "images/control-panel-icons-ru-20261021.jpg",
+    "original": "images/control-panel-icons-ru-20261021.jpg",
+    "annotated": null,
+    "captured_at": "2026-10-21",
+    "environment": {
+      "version": "26H2 26300.9711 preview",
+      "platform": "Windows 11",
+      "language": "ru-RU",
+      "plan": "локальная Windows, не применимо",
+      "permissions": "обычный доступ, системные настройки не менялись"
+    },
+    "caption": "Общий список элементов, Крупные значки",
+    "alt": "Все элементы Панели управления в русском интерфейсе",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный снимок редакции"
+  },
+  {
+    "step_id": "search",
+    "file": null,
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": null
+  },
+  {
+    "step_id": "shortcut",
+    "file": null,
+    "status": "missing",
+    "required": true,
+    "privacy_checked": false,
+    "rights": null
+  }
+]

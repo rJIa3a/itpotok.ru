@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cover",
+    "file": "images/control-panel-cover-20261021.png",
+    "purpose": "Редакционная обложка, не интерфейс",
+    "caption": "Панель управления Windows 11",
+    "alt": "Редакционная иллюстрация с ползунками",
+    "status": "verified",
+    "required": true
+  }
+]

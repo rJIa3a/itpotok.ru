@@ -1,0 +1,27 @@
+{
+  "id": 12155,
+  "status": "publish",
+  "url": "https://itpotok.ru/control-panel-windows-11/",
+  "checked": "2026-10-22",
+  "body_matches": true,
+  "excerpt_matches": true,
+  "title_matches": true,
+  "cover_matches": true,
+  "faq_count": 4,
+  "visible_shortcode": false,
+  "anonymous_http": 200,
+  "anonymous_adminbar": false,
+  "public_title": "Как открыть Панель управления в Windows 11",
+  "images": [
+    {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/control-panel-cover-20261021.png",
+      "status": 200,
+      "bytes": 1240048
+    },
+    {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/control-panel-icons-ru-20261021.jpg",
+      "status": 200,
+      "bytes": 92806
+    }
+  ]
+}
