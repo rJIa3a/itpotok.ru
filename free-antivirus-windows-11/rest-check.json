@@ -1,0 +1,25 @@
+{
+  "checked": "2026-10-26",
+  "id": 12177,
+  "status": "draft",
+  "body_matches": true,
+  "excerpt_matches": true,
+  "cover_matches": true,
+  "faq_count": 5,
+  "faq_expected": 5,
+  "faq_saved": true,
+  "visible_shortcode": false,
+  "external_links_nofollow": true,
+  "images": [
+    {
+      "url": "https://support.microsoft.com/ru-ru/windows/media/virus-and-threat-protection.png",
+      "http": 200
+    },
+    {
+      "url": "https://support.microsoft.com/ru-ru/windows/media/windows-security-settings.png",
+      "http": 200
+    }
+  ],
+  "article_sha256": "0a67f33c2d91c5641685746e601f6ac558d09d94e2418c95d6663872a4e9f645",
+  "faq_answers_match": true
+}
