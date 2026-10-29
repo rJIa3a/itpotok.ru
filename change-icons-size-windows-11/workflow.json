@@ -6,16 +6,16 @@
   "created_at": "2026-10-29T02:37:45.636379+00:00",
   "stages": {
     "article-brief": {
-      "recorded_at": "2026-10-29T02:52:51.931797+00:00",
+      "recorded_at": "2026-10-29T02:58:55.911695+00:00",
       "files": {
         "brief.md": "8a342d48f2593d5e845bf9600f91f8031b3c2e3974d3874ddf2b779cc9ab2e2e",
-        "duplicate-check.json": "700e3cdb9003b3ece3b79480a1c6e0ae491689689fbc21b204b4ec525f0e38b9"
+        "duplicate-check.json": "201f9abc915eac13435fa686b1a43a5e458ea0be9efc141e0acf415b8363f119"
       }
     },
     "research": {
-      "recorded_at": "2026-10-29T02:52:51.947139+00:00",
+      "recorded_at": "2026-10-29T02:58:55.931263+00:00",
       "files": {
-        "research.md": "9bf97bdb15e00984f4e1f72d82651a1065208726fdd2920363286ade6a14eca7",
+        "research.md": "a834e91dfa416b1a06af873773a4e93b20c4783c8688334fc42cda8f88ea788b",
         "sources.json": "05bc6f87378c715da851c42037184f4764e5c7ade163677b4905eaf46de882d4"
       }
     },
@@ -34,9 +34,9 @@
       }
     },
     "procedure-runner": {
-      "recorded_at": "2026-10-29T02:52:51.977385+00:00",
+      "recorded_at": "2026-10-29T02:58:55.956343+00:00",
       "files": {
-        "procedure.json": "c7ae01ec0c906524f74a55e02a1bc3d6237b13607584ac54d944804f35d7d114"
+        "procedure.json": "dbee79be8057d126d53efbc648dfd4c965e4d3914ce834fef86420f189f56ce3"
       }
     },
     "screenshot-capture": {
@@ -49,9 +49,9 @@
       }
     },
     "draft": {
-      "recorded_at": "2026-10-29T02:52:52.001393+00:00",
+      "recorded_at": "2026-10-29T02:58:55.965963+00:00",
       "files": {
-        "article.html": "5b7182ad5c3d695f030c297f79a0466a940a770102cd07a450a8d1c504a22fc2",
+        "article.html": "f15306db0e2c9b6bdc28f264a414a9cdabfb0f61b0a85088e64fa9aa114d91f0",
         "excerpt.txt": "95fae25a42ff587e7ec610daa844d9e8f448e0c51a487f60a7c4e468d4a444bf",
         "outline.md": "d9f7655c1f087bfe3f4dcfa0b443ed5f37d8f135e173f0c242a1bab1eb8aff73"
       }
@@ -65,22 +65,23 @@
       }
     },
     "fact-and-procedure-check": {
-      "recorded_at": "2026-10-29T02:52:52.029139+00:00",
+      "recorded_at": "2026-10-29T03:00:18.297195+00:00",
       "files": {
-        "review.json": "197805d2f7fcc96a1011adfac4639c6e520540e48c84c4397a01620b9f38c9d6",
-        "review.md": "da556316bac4b90e44343bef71caf608c438b8fd4dc04174608cfb4515d1584b",
-        "procedure.json": "c7ae01ec0c906524f74a55e02a1bc3d6237b13607584ac54d944804f35d7d114",
-        "article.html": "5b7182ad5c3d695f030c297f79a0466a940a770102cd07a450a8d1c504a22fc2"
+        "review.json": "a22c48890e85c1d60e5bd1f7db17317b32e55ef8448e88d35937801c326a917c",
+        "review.md": "4bc2f22fdb5ddd0ac91e719fd3ce2067586cdeddf134a436d39acdda0a9ef910",
+        "procedure.json": "dbee79be8057d126d53efbc648dfd4c965e4d3914ce834fef86420f189f56ce3",
+        "article.html": "f15306db0e2c9b6bdc28f264a414a9cdabfb0f61b0a85088e64fa9aa114d91f0"
       }
     },
     "edit-and-package": {
-      "recorded_at": "2026-10-29T02:52:52.052343+00:00",
+      "recorded_at": "2026-10-29T03:00:18.347081+00:00",
       "files": {
-        "README.md": "00856ed6ba5512f8ff27e33fdff0d6ca6bbd8c15df1774891a3d1b366ead514a",
-        "article.html": "5b7182ad5c3d695f030c297f79a0466a940a770102cd07a450a8d1c504a22fc2",
+        "README.md": "df6aca6adfe0fa0f310a36a8511b2db42e03686411b453911369b72bf2c10179",
+        "article.html": "f15306db0e2c9b6bdc28f264a414a9cdabfb0f61b0a85088e64fa9aa114d91f0",
         "excerpt.txt": "95fae25a42ff587e7ec610daa844d9e8f448e0c51a487f60a7c4e468d4a444bf",
         "faq.md": "3f97c2d635d3dae1837b7635c12fc6850656cc3d939c7c52360e11f505b04caf",
-        "site-check.json": "bc2fe1c598948d9e3759ec92abb62063d27ca3cc1a805e36f66224b7b1ff7077"
+        "site-check.json": "1d36ea9e1871ea4d0e5e64fbc17734f05bd8a24478b39615f03e5fe96510e136",
+        "publication-check.json": "0c1ae11679b371a918436ed18309e20804e6504cbaf0bb342e0b9111920c10ff"
       }
     }
   }

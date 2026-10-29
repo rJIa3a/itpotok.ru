@@ -1,5 +1,5 @@
 {
-  "article_sha256": "5b7182ad5c3d695f030c297f79a0466a940a770102cd07a450a8d1c504a22fc2",
+  "article_sha256": "f15306db0e2c9b6bdc28f264a414a9cdabfb0f61b0a85088e64fa9aa114d91f0",
   "coverage_checked": true,
   "sources_reopened": true,
   "visuals_checked": true,
@@ -14,6 +14,12 @@
       "after": "Описаны обновления 2025/2026 с оговоркой доступности",
       "reason": "Актуальная документация Microsoft",
       "evidence": "S4 S5"
+    },
+    {
+      "before": "Не указано расположение компактной панели",
+      "after": "Добавлено: компактный размер поддерживается сверху и снизу",
+      "reason": "Ограничение Microsoft KB5120998",
+      "evidence": "S5"
     }
   ],
   "reviewed_at": "2026-10-29"

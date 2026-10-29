@@ -36,8 +36,7 @@
     "extra_schema_added": false
   },
   "limits": [
-    "Просмотр авторизованного черновика; публичная опубликованная страница не создавалась",
-    "Проверка Windows ограничена Проводником; см. procedure.json"
+    "Полный практический прогон Windows не выполнен; см. procedure.json"
   ],
   "evidence": [
     "evidence/site-start-wide.jpg",
@@ -46,5 +45,19 @@
     "evidence/site-faq-wide.jpg",
     "evidence/site-faq-mobile.jpg",
     "evidence/site-image-zoom-mobile.jpg"
-  ]
+  ],
+  "publication": {
+    "url": "https://itpotok.ru/change-icons-size-windows-11/",
+    "status": "publish",
+    "anonymous_http_200": true,
+    "browser_wide_faq_opened": true,
+    "browser_mobile_faq_opened": true,
+    "mobile_page_overflow": false,
+    "browser_session": "Авторизованный просмотр публичного URL; анонимность отдельно проверена requests без cookie/auth",
+    "evidence": [
+      "evidence/published-start-wide.jpg",
+      "evidence/published-faq-wide.jpg",
+      "evidence/published-faq-mobile.jpg"
+    ]
+  }
 }
