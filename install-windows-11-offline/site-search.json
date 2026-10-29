@@ -1,0 +1,36 @@
+{
+  "checked": "2026-10-29",
+  "queries": [
+    "без интернета",
+    "без Интернета",
+    "локальной учётной",
+    "установка windows 11"
+  ],
+  "conclusion": "Узкая запись не найдена; общую запись 11476 и черновик 11926 не менять. Широкий поиск проверен только на первой странице.",
+  "related": [
+    {
+      "query": "установка windows 11",
+      "id": 12122,
+      "status": "publish",
+      "title": "Как отключить обновления Windows 11: пауза и ручная установка",
+      "url": "https://itpotok.ru/disable-updates-windows-11/",
+      "slug": "disable-updates-windows-11"
+    },
+    {
+      "query": "установка windows 11",
+      "id": 11926,
+      "status": "draft",
+      "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+      "url": "https://itpotok.ru/?p=11926",
+      "slug": ""
+    },
+    {
+      "query": "установка windows 11",
+      "id": 11476,
+      "status": "publish",
+      "title": "Как установить или переустановить Windows 11: с флешки и без неё",
+      "url": "https://itpotok.ru/how-to-install-windows-11/",
+      "slug": "how-to-install-windows-11"
+    }
+  ]
+}
