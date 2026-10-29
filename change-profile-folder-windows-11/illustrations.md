@@ -16,3 +16,6 @@ assets/profile-folder-windows-11-cover-20261029.png — built-in imagegen, ре�
 
 ## Доказательства сайта
 draft-desktop-top.png, draft-mobile-top.png, draft-mobile-table.png, draft-mobile-faq.png — снимки страницы WordPress, не Windows. Реальные проверки темы: широкий экран и 390×844; FAQ раскрыт. Все файлы принадлежат редакционному пакету, внешние кадры не использованы.
+
+
+assets/published-top.png — снимок опубликованной страницы 2026-10-29; браузер авторизован, анонимная проверка выполнена отдельным HTTP-клиентом без cookies (publication-check.json).

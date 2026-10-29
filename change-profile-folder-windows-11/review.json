@@ -1,5 +1,5 @@
 {
-  "article_sha256": "f57b9a8e483669a27206911ae6c3010a6b7d8db9534ee0a8f198e76530f9a2f2",
+  "article_sha256": "fef233aca40c0820e4b1a33546b1ca6934865ab50aeb6d501ab8501955b4ac35",
   "coverage_checked": true,
   "sources_reopened": true,
   "visuals_checked": true,
@@ -19,6 +19,12 @@
       "after": "16:9 CSS только записи",
       "reason": "Тема искажала пропорции",
       "evidence": "assets/draft-desktop-top.png"
+    },
+    {
+      "before": "После переноса сразу итоговые проверки",
+      "after": "Сначала перезагрузка и повторный вход",
+      "reason": "Шаг официальной инструкции S2",
+      "evidence": "https://support.microsoft.com/en-us/windows/security/identity-signin/fix-a-corrupted-user-profile"
     }
   ],
   "reviewed_at": "2026-10-29"
