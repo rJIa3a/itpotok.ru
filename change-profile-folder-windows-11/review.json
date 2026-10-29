@@ -1,0 +1,25 @@
+{
+  "article_sha256": "f57b9a8e483669a27206911ae6c3010a6b7d8db9534ee0a8f198e76530f9a2f2",
+  "coverage_checked": true,
+  "sources_reopened": true,
+  "visuals_checked": true,
+  "editor_reviewed": true,
+  "unresolved_material": [
+    "Нет полного initial/rerun создания и переноса профиля, проверки приложений/OneDrive/Store в выделенной тестовой среде"
+  ],
+  "corrections": [
+    {
+      "before": "Универсальная ветвь через Microsoft",
+      "after": "Также прямое открытие локальной формы",
+      "reason": "Наблюдение русского интерфейса",
+      "evidence": "assets/create-local-user-ru.jpg"
+    },
+    {
+      "before": "Кадрирование 370×289",
+      "after": "16:9 CSS только записи",
+      "reason": "Тема искажала пропорции",
+      "evidence": "assets/draft-desktop-top.png"
+    }
+  ],
+  "reviewed_at": "2026-10-29"
+}

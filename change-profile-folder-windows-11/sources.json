@@ -1,0 +1,50 @@
+[
+  {
+    "id": "S1",
+    "url": "https://learn.microsoft.com/en-us/previous-versions/troubleshoot/windows-client/renaming-user-account-not-change-profile-path",
+    "title": "Renaming a user account does not automatically change the profile path",
+    "excerpt": "Don't apply the workaround to computers that are running Windows 10 or later.",
+    "limitations": "Историческая инструкция Windows 7/2008 R2; важное предупреждение относится к новым версиям. Обновление 2025-01-15.",
+    "checked_at": "2026-10-29"
+  },
+  {
+    "id": "S2",
+    "url": "https://support.microsoft.com/en-us/windows/security/identity-signin/fix-a-corrupted-user-profile",
+    "title": "Fix a corrupted user profile",
+    "excerpt": "Some applications previously installed might need to be reconfigured or reinstalled.",
+    "limitations": "Windows 11/10; источник о восстановлении повреждённого профиля, а не отдельная команда переименования.",
+    "checked_at": "2026-10-29"
+  },
+  {
+    "id": "S3",
+    "url": "https://support.microsoft.com/en-us/windows/security/identity-signin/manage-user-accounts-in-windows",
+    "title": "Manage User Accounts in Windows",
+    "excerpt": "If you want to create a local account, select the option Add a user without a Microsoft account",
+    "limitations": "Windows 11/10; точное имя папки не гарантирует.",
+    "checked_at": "2026-10-29"
+  },
+  {
+    "id": "S4",
+    "url": "https://support.microsoft.com/en-us/onedrive/save-disk-space-with-onedrive-files-on-demand-for-windows",
+    "title": "Save disk space with OneDrive Files On-Demand for Windows",
+    "excerpt": "Online-only files don’t take up space on your computer.",
+    "limitations": "Страница помечена SharePoint Server 2019, раздел Windows Files On-Demand объясняет статусы; не источник процедуры миграции профиля.",
+    "checked_at": "2026-10-29"
+  },
+  {
+    "id": "S5",
+    "url": "https://support.microsoft.com/en-us/onedrive/change-the-location-of-your-onedrive-folder",
+    "title": "Change the location of your OneDrive folder",
+    "excerpt": "unlink, move, then relink",
+    "limitations": "Перемещение OneDrive отдельно от создания профиля.",
+    "checked_at": "2026-10-29"
+  },
+  {
+    "id": "S6",
+    "url": "https://support.microsoft.com/en-us/accounts-billing/manage/change-from-a-local-account-to-a-microsoft-account-in-windows",
+    "title": "Change From a Local Account to a Microsoft Account in Windows",
+    "excerpt": "Select Sign in with a Microsoft account instead.",
+    "limitations": "Переход локальная/Microsoft; фактический профиль требуется проверить. Конфликт привязки не воспроизводился.",
+    "checked_at": "2026-10-29"
+  }
+]

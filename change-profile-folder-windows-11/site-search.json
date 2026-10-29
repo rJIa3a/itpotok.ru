@@ -1,0 +1,1064 @@
+[
+  {
+    "term": "папку пользователя",
+    "posts": [
+      {
+        "id": 12164,
+        "status": "publish",
+        "title": "Как отключить автозапуск приложений в Windows 11",
+        "link": "https://itpotok.ru/disable-autorun-apps-windows-11/",
+        "slug": "disable-autorun-apps-windows-11"
+      },
+      {
+        "id": 12112,
+        "status": "publish",
+        "title": "Как показать скрытые папки и файлы в Windows 11 и снова скрыть их",
+        "link": "https://itpotok.ru/show-hidden-files-windows-11/",
+        "slug": "show-hidden-files-windows-11"
+      },
+      {
+        "id": 12073,
+        "status": "publish",
+        "title": "Как поменять имя пользователя в Windows 11",
+        "link": "https://itpotok.ru/change-user-name-windows-11/",
+        "slug": "change-user-name-windows-11"
+      },
+      {
+        "id": 12015,
+        "status": "publish",
+        "title": "Как скачать Windows 11 с официального сайта на русском",
+        "link": "https://itpotok.ru/download-windows-11-iso/",
+        "slug": "download-windows-11-iso"
+      },
+      {
+        "id": 9938,
+        "status": "publish",
+        "title": "Как изменить имя пользователя в Windows 10",
+        "link": "https://itpotok.ru/kak-izmenit-imya-polzovatelya-v-windows-10/",
+        "slug": "kak-izmenit-imya-polzovatelya-v-windows-10"
+      },
+      {
+        "id": 9935,
+        "status": "publish",
+        "title": "Как открыть командную строку в Windows 10",
+        "link": "https://itpotok.ru/kak-otkryt-komandnuyu-stroku-v-windows-10/",
+        "slug": "kak-otkryt-komandnuyu-stroku-v-windows-10"
+      },
+      {
+        "id": 9875,
+        "status": "publish",
+        "title": "Как отключить обновления Windows 10",
+        "link": "https://itpotok.ru/kak-otklyuchit-obnovleniya-windows-10/",
+        "slug": "kak-otklyuchit-obnovleniya-windows-10"
+      },
+      {
+        "id": 8699,
+        "status": "publish",
+        "title": "Автозагрузка программ в Windows 10",
+        "link": "https://itpotok.ru/autorun-windows-10/",
+        "slug": "autorun-windows-10"
+      },
+      {
+        "id": 8685,
+        "status": "publish",
+        "title": "Установка Windows 10 с флешки",
+        "link": "https://itpotok.ru/how-install-windows-10-from-usb/",
+        "slug": "how-install-windows-10-from-usb"
+      },
+      {
+        "id": 8179,
+        "status": "publish",
+        "title": "Как работать с папками в Windows 8: новые возможности проводника",
+        "link": "https://itpotok.ru/kak-rabotat-s-papkami-v-windows-8-novye-vozmozhnosti-provodnika/",
+        "slug": "kak-rabotat-s-papkami-v-windows-8-novye-vozmozhnosti-provodnika"
+      },
+      {
+        "id": 7768,
+        "status": "publish",
+        "title": "Все способы выключения компьютера под Windows 8",
+        "link": "https://itpotok.ru/vse-sposoby-vyklyucheniya-kompyutera-pod-windows-8/",
+        "slug": "vse-sposoby-vyklyucheniya-kompyutera-pod-windows-8"
+      },
+      {
+        "id": 7704,
+        "status": "publish",
+        "title": "Меняем вид экрана приветствия и блокировки в Windows 8",
+        "link": "https://itpotok.ru/menyaem-vid-ekrana-privetstviya-i-blokirovki-v-windows-8/",
+        "slug": "menyaem-vid-ekrana-privetstviya-i-blokirovki-v-windows-8"
+      },
+      {
+        "id": 7627,
+        "status": "publish",
+        "title": "Открытие редактора реестра в Windows 8, 8.1 стандартными способами и с помощью программ",
+        "link": "https://itpotok.ru/otkrytie-redaktora-reestra-v-windows-8-standarnimi-sposobami-i-s-pomoshiu-programm/",
+        "slug": "otkrytie-redaktora-reestra-v-windows-8-standarnimi-sposobami-i-s-pomoshiu-programm"
+      },
+      {
+        "id": 7569,
+        "status": "publish",
+        "title": "Все способы изменения стандартных иконок в Windows 8",
+        "link": "https://itpotok.ru/vse-sposoby-izmeneniya-standartnyh-ikonok-v-windows-8/",
+        "slug": "vse-sposoby-izmeneniya-standartnyh-ikonok-v-windows-8"
+      },
+      {
+        "id": 7357,
+        "status": "publish",
+        "title": "Создаем и запускаем виртуальную точку доступа на ноутбуке с Windows 7",
+        "link": "https://itpotok.ru/sozdaem-i-zapuskaem-virtualnuyu-tochku-dostupa-na-noutbuke-s-windows-7/",
+        "slug": "sozdaem-i-zapuskaem-virtualnuyu-tochku-dostupa-na-noutbuke-s-windows-7"
+      },
+      {
+        "id": 6931,
+        "status": "publish",
+        "title": "Полное удаление Windows 7 с жесткого диска",
+        "link": "https://itpotok.ru/polnoe-udalenie-windows-7-s-jeskogo-diska/",
+        "slug": "polnoe-udalenie-windows-7-s-jeskogo-diska"
+      },
+      {
+        "id": 6752,
+        "status": "publish",
+        "title": "Восстановление реестра Windows 7 с помощью утилит Regedit и ERUNT",
+        "link": "https://itpotok.ru/vosstanovlenie-reestra-windows-7-s-pomoshhyu-utilit-regedit-i-erunt/",
+        "slug": "vosstanovlenie-reestra-windows-7-s-pomoshhyu-utilit-regedit-i-erunt"
+      },
+      {
+        "id": 6691,
+        "status": "publish",
+        "title": "Где найти подходящие драйвера для ОС Windows 7 на ноутбук?",
+        "link": "https://itpotok.ru/gde-najti-podhodyashhie-drajvera-dlya-os-windows-7-na-noutbuk/",
+        "slug": "gde-najti-podhodyashhie-drajvera-dlya-os-windows-7-na-noutbuk"
+      },
+      {
+        "id": 6532,
+        "status": "publish",
+        "title": "Общая папка и как открыть к ней доступ в Windows 7",
+        "link": "https://itpotok.ru/obshhaya-papka-i-kak-otkryt-k-nej-dostup-v-windows-7/",
+        "slug": "obshhaya-papka-i-kak-otkryt-k-nej-dostup-v-windows-7"
+      },
+      {
+        "id": 6284,
+        "status": "publish",
+        "title": "Оформление рабочей среды Windows 7 с помощью панели персонализации",
+        "link": "https://itpotok.ru/oformlenie-rabochej-sredy-windows-7-s-pomoshhyu-paneli-personalizatsii/",
+        "slug": "oformlenie-rabochej-sredy-windows-7-s-pomoshhyu-paneli-personalizatsii"
+      },
+      {
+        "id": 4768,
+        "status": "publish",
+        "title": "Добавление панели быстрого доступа на панель задач в Windows 7",
+        "link": "https://itpotok.ru/dobavlenie-paneli-bystrogo-dostupa-na-panel-zadach-v-windows-7/",
+        "slug": "dobavlenie-paneli-bystrogo-dostupa-na-panel-zadach-v-windows-7"
+      },
+      {
+        "id": 4715,
+        "status": "publish",
+        "title": "Обзор сетевых настроек и подключения Windows 7 к сети",
+        "link": "https://itpotok.ru/obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti/",
+        "slug": "obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti"
+      },
+      {
+        "id": 4614,
+        "status": "publish",
+        "title": "Изменение параметров открытия папок в Windows 7",
+        "link": "https://itpotok.ru/izmenenie-parametrov-otkritiya-papok-v-windows-7/",
+        "slug": "izmenenie-parametrov-otkritiya-papok-v-windows-7"
+      },
+      {
+        "id": 4563,
+        "status": "publish",
+        "title": "Откат Windows 7 к сохраненному состоянию, factory reset и полное удаление",
+        "link": "https://itpotok.ru/otkat-windows-7-k-sohranennomu-sostoyaniu-factory-reset-i-polnoe-udalenie/",
+        "slug": "otkat-windows-7-k-sohranennomu-sostoyaniu-factory-reset-i-polnoe-udalenie"
+      },
+      {
+        "id": 4452,
+        "status": "publish",
+        "title": "Разблокировка Windows 7 от трояка-вымогателя",
+        "link": "https://itpotok.ru/razblikirovka-windows-7-ot-troyana-vimogatelya/",
+        "slug": "razblikirovka-windows-7-ot-troyana-vimogatelya"
+      },
+      {
+        "id": 4429,
+        "status": "publish",
+        "title": "Настройка прав администратора в Windows 7",
+        "link": "https://itpotok.ru/nastroika-prav-administratora-v-windows-7/",
+        "slug": "nastroika-prav-administratora-v-windows-7"
+      },
+      {
+        "id": 4275,
+        "status": "publish",
+        "title": "Как можно запустить редактор реестра в Windows 7?",
+        "link": "https://itpotok.ru/kak-mozhno-zapustit-redaktor-reestra-v-windows-7/",
+        "slug": "kak-mozhno-zapustit-redaktor-reestra-v-windows-7"
+      },
+      {
+        "id": 4268,
+        "status": "publish",
+        "title": "Настройка принтера на работу в локальной сети Windows 7",
+        "link": "https://itpotok.ru/nastroika-printera-na-rabotu-v-lokalnou-seti-windows-7/",
+        "slug": "nastroika-printera-na-rabotu-v-lokalnou-seti-windows-7"
+      },
+      {
+        "id": 3743,
+        "status": "publish",
+        "title": "Инсталляция программы Java на Windows 7",
+        "link": "https://itpotok.ru/installayciay-programmy-java-na-windows-7/",
+        "slug": "installayciay-programmy-java-na-windows-7"
+      },
+      {
+        "id": 3584,
+        "status": "publish",
+        "title": "Причины ошибок при загрузке Windows 7 и методы их устранения",
+        "link": "https://itpotok.ru/prichiny-oshibok-pri-zagruzke-windows-7-i-metody-ix-ustraneniya/",
+        "slug": "prichiny-oshibok-pri-zagruzke-windows-7-i-metody-ix-ustraneniya"
+      },
+      {
+        "id": 3505,
+        "status": "publish",
+        "title": "Работа с автозапуском  встроенными средствами Windows 7",
+        "link": "https://itpotok.ru/rabota-s-avtozapuskom-vstroennymi-sredstvami-windows-7/",
+        "slug": "rabota-s-avtozapuskom-vstroennymi-sredstvami-windows-7"
+      },
+      {
+        "id": 3396,
+        "status": "publish",
+        "title": "Почему не запускается Windows 7 и как восстановить запуск?",
+        "link": "https://itpotok.ru/pochemu-ne-zapuskaetsya-windows-7-i-kak-vosstanovit-zapusk/",
+        "slug": "pochemu-ne-zapuskaetsya-windows-7-i-kak-vosstanovit-zapusk"
+      },
+      {
+        "id": 3383,
+        "status": "publish",
+        "title": "Изменение темы на операционной системе Windows 7?",
+        "link": "https://itpotok.ru/izmenenie-temi-na-operacionnoj-sisteme-windows-7/",
+        "slug": "izmenenie-temi-na-operacionnoj-sisteme-windows-7"
+      },
+      {
+        "id": 3036,
+        "status": "publish",
+        "title": "Способы просмотра и редактирования автозагрузки в Windows 7",
+        "link": "https://itpotok.ru/sposoby-prosmotra-i-redaktirovaniya-avtozagruzki-v-windows-7/",
+        "slug": "sposoby-prosmotra-i-redaktirovaniya-avtozagruzki-v-windows-7"
+      },
+      {
+        "id": 2819,
+        "status": "publish",
+        "title": "Как работать с процессами и выполнить откат системы в Windows 7?",
+        "link": "https://itpotok.ru/kak-rabotat-s-processami-i-vypolnit-otkat-sistemy-v-windows-7/",
+        "slug": "kak-rabotat-s-processami-i-vypolnit-otkat-sistemy-v-windows-7"
+      },
+      {
+        "id": 2734,
+        "status": "publish",
+        "title": "В чем основные отличия операционной системы Windows XP от системы Windows 7?",
+        "link": "https://itpotok.ru/v-chem-osnovnie-otlichiya-operacionnoi-sistemi-windows-xp-ot-sistemi-windows7/",
+        "slug": "v-chem-osnovnie-otlichiya-operacionnoi-sistemi-windows-xp-ot-sistemi-windows7"
+      },
+      {
+        "id": 2454,
+        "status": "publish",
+        "title": "Добавление и настройка учетных записей пользователей в Windows XP",
+        "link": "https://itpotok.ru/dobavlenie-i-nastrojka-uchetnyx-zapisej-polzovatelej-v-windows-xp/",
+        "slug": "dobavlenie-i-nastrojka-uchetnyx-zapisej-polzovatelej-v-windows-xp"
+      },
+      {
+        "id": 2439,
+        "status": "publish",
+        "title": "Основные способы отключения автозапуска в Windows XP",
+        "link": "https://itpotok.ru/osnovnye-sposoby-otklyucheniya-avtozapuska-v-windows-xp/",
+        "slug": "osnovnye-sposoby-otklyucheniya-avtozapuska-v-windows-xp"
+      },
+      {
+        "id": 2388,
+        "status": "publish",
+        "title": "Установка гаджета «Календарь» в Windows XP",
+        "link": "https://itpotok.ru/ustanovka-gadzheta-kalendar-v-windows-xp/",
+        "slug": "ustanovka-gadzheta-kalendar-v-windows-xp"
+      },
+      {
+        "id": 2364,
+        "status": "publish",
+        "title": "Легитимные и пиратские способы активации Windows XP",
+        "link": "https://itpotok.ru/legitimnye-i-piratskie-sposoby-aktivacii-windows-xp/",
+        "slug": "legitimnye-i-piratskie-sposoby-aktivacii-windows-xp"
+      },
+      {
+        "id": 2340,
+        "status": "publish",
+        "title": "Настройка локальной сети на компьютере с Windows XP",
+        "link": "https://itpotok.ru/nastroika-lokalnoi-seti-na-kompyutere-s-windows-xp/",
+        "slug": "nastroika-lokalnoi-seti-na-kompyutere-s-windows-xp"
+      },
+      {
+        "id": 2288,
+        "status": "publish",
+        "title": "Установка Windows XP с флешки с помощью WinSetupFromUSB",
+        "link": "https://itpotok.ru/ustanovka-windows-xp-s-fleshki-s-pomoshhyu-winsetupfromusb/",
+        "slug": "ustanovka-windows-xp-s-fleshki-s-pomoshhyu-winsetupfromusb"
+      },
+      {
+        "id": 2151,
+        "status": "publish",
+        "title": "Почему компьютер под управлением Windows XP не запускается",
+        "link": "https://itpotok.ru/pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya/",
+        "slug": "pochemu-kompyuter-pod-upravleniem-windows-xp-ne-zapuskaetsya"
+      },
+      {
+        "id": 2124,
+        "status": "publish",
+        "title": "Настройка сети и интернета при работе с Windows XP",
+        "link": "https://itpotok.ru/nastrojka-seti-i-interneta-pri-rabote-s-windows-xp/",
+        "slug": "nastrojka-seti-i-interneta-pri-rabote-s-windows-xp"
+      },
+      {
+        "id": 2050,
+        "status": "publish",
+        "title": "Настройка терминального сервера на Windows XP",
+        "link": "https://itpotok.ru/nastrojka-terminalnogo-servera-na-windows-xp/",
+        "slug": "nastrojka-terminalnogo-servera-na-windows-xp"
+      },
+      {
+        "id": 2005,
+        "status": "publish",
+        "title": "Как ускорить загрузку Windows XP, если она загружается медленно и долго?",
+        "link": "https://itpotok.ru/kak-uskorit-zagruzku-windows-xp-esli-ona-zagruzhaetsya-medlenno-i-dolgo/",
+        "slug": "kak-uskorit-zagruzku-windows-xp-esli-ona-zagruzhaetsya-medlenno-i-dolgo"
+      },
+      {
+        "id": 1958,
+        "status": "publish",
+        "title": "Где скачать и как настроить значки рабочего стола Windows XP?",
+        "link": "https://itpotok.ru/gde-skachat-i-kak-nastroit-znachki-rabochego-stola-windows-xp/",
+        "slug": "gde-skachat-i-kak-nastroit-znachki-rabochego-stola-windows-xp"
+      },
+      {
+        "id": 1788,
+        "status": "publish",
+        "title": "Как удалить операционную систему Windows XP?",
+        "link": "https://itpotok.ru/kak-udalit-operacionnuyu-sistemu-windows-xp/",
+        "slug": "kak-udalit-operacionnuyu-sistemu-windows-xp"
+      },
+      {
+        "id": 1753,
+        "status": "publish",
+        "title": "Как установить Windows XP  на виртуальную машину",
+        "link": "https://itpotok.ru/kak-ustanovit-windows-xp-na-virtualnuyu-mashinu/",
+        "slug": "kak-ustanovit-windows-xp-na-virtualnuyu-mashinu"
+      },
+      {
+        "id": 1676,
+        "status": "publish",
+        "title": "Способы традиционной и автоматической установки Windows XP с диска",
+        "link": "https://itpotok.ru/sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska/",
+        "slug": "sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska"
+      },
+      {
+        "id": 1645,
+        "status": "publish",
+        "title": "Настройка удаленного доступа к файлам и папкам в Windows XP",
+        "link": "https://itpotok.ru/nastroika-udalennogo-dostupa-k-fajlam-i-papkam-v-windows-xp/",
+        "slug": "nastroika-udalennogo-dostupa-k-fajlam-i-papkam-v-windows-xp"
+      },
+      {
+        "id": 9904,
+        "status": "publish",
+        "title": "Основные причины появления ошибки stop 0x0000007B при установке Windows XP",
+        "link": "https://itpotok.ru/osnovnie-prichini-poyavleniya-oshibki-stop-0x0000007b-pri-ustanovke-windows-xp/",
+        "slug": "osnovnie-prichini-poyavleniya-oshibki-stop-0x0000007b-pri-ustanovke-windows-xp"
+      },
+      {
+        "id": 1292,
+        "status": "publish",
+        "title": "Как объединить в локальную сеть компьютеры с Windows XP?",
+        "link": "https://itpotok.ru/kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp/",
+        "slug": "kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp"
+      },
+      {
+        "id": 9903,
+        "status": "publish",
+        "title": "Горячие клавиши &#8212; чтобы управлять своим компьютером со скоростью мысли",
+        "link": "https://itpotok.ru/goryachie-klavishi-chtoby-upravlyat-svoim-kompyuterom-so-skorostyu-mysli/",
+        "slug": "goryachie-klavishi-chtoby-upravlyat-svoim-kompyuterom-so-skorostyu-mysli"
+      },
+      {
+        "id": 1102,
+        "status": "publish",
+        "title": "Как узнать или сбросить забытый пароль входа в аккаунт Windows XP?",
+        "link": "https://itpotok.ru/kak-uznat-ili-sbrosit-zabytyj-parol-vxoda-v-akkaunt-windows-xp/",
+        "slug": "kak-uznat-ili-sbrosit-zabytyj-parol-vxoda-v-akkaunt-windows-xp"
+      },
+      {
+        "id": 1015,
+        "status": "publish",
+        "title": "Как переустановить Windows XP, если у вас нет привода для чтения дисков",
+        "link": "https://itpotok.ru/kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov/",
+        "slug": "kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov"
+      },
+      {
+        "id": 9897,
+        "status": "publish",
+        "title": "Как сбросить забытый пароль к Windows XP?",
+        "link": "https://itpotok.ru/zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit/",
+        "slug": "zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit"
+      },
+      {
+        "id": 9896,
+        "status": "publish",
+        "title": "Восстановление запуска Windows XP при повреждении загрузчика",
+        "link": "https://itpotok.ru/vosstanovlenie-zapuska-windows-xp-pri-povrezhdenii-zagruzchika/",
+        "slug": "vosstanovlenie-zapuska-windows-xp-pri-povrezhdenii-zagruzchika"
+      },
+      {
+        "id": 9887,
+        "status": "publish",
+        "title": "Установка обновлений системы Windows XP на компьютер",
+        "link": "https://itpotok.ru/ustanovka-obnovlenij-sistemy-windows-xp-na-kompyuter/",
+        "slug": "ustanovka-obnovlenij-sistemy-windows-xp-na-kompyuter"
+      },
+      {
+        "id": 518,
+        "status": "publish",
+        "title": "Работа с файлами и папками в Windows XP: операции с объектами",
+        "link": "https://itpotok.ru/rabota-s-fajlami-i-papkami-v-windows-xp-operacii-s-obektami/",
+        "slug": "rabota-s-fajlami-i-papkami-v-windows-xp-operacii-s-obektami"
+      },
+      {
+        "id": 439,
+        "status": "publish",
+        "title": "Если операционная система дает сбой: создаем загрузочный диск Windows XP",
+        "link": "https://itpotok.ru/esli-operacionnaya-sistema-daet-sboj-sozdaem-zagruzochnyj-disk-windows-xp/",
+        "slug": "esli-operacionnaya-sistema-daet-sboj-sozdaem-zagruzochnyj-disk-windows-xp"
+      },
+      {
+        "id": 193,
+        "status": "publish",
+        "title": "Как убрать или отключить проверку подлинности Windows XP?",
+        "link": "https://itpotok.ru/kak-ubrat-ili-otklyuchit-proverku-podlinnosti-windows-xp/",
+        "slug": "kak-ubrat-ili-otklyuchit-proverku-podlinnosti-windows-xp"
+      },
+      {
+        "id": 102,
+        "status": "publish",
+        "title": "Как отладить автозагрузку Windows XP?",
+        "link": "https://itpotok.ru/kak-otladit-avtozagruzku-windows-xp/",
+        "slug": "kak-otladit-avtozagruzku-windows-xp"
+      }
+    ]
+  },
+  {
+    "term": "имя пользователя",
+    "posts": [
+      {
+        "id": 12164,
+        "status": "publish",
+        "title": "Как отключить автозапуск приложений в Windows 11",
+        "link": "https://itpotok.ru/disable-autorun-apps-windows-11/",
+        "slug": "disable-autorun-apps-windows-11"
+      },
+      {
+        "id": 12118,
+        "status": "publish",
+        "title": "Как отключить пароль при входе в Windows 11",
+        "link": "https://itpotok.ru/disable-login-password-windows-11/",
+        "slug": "disable-login-password-windows-11"
+      },
+      {
+        "id": 12073,
+        "status": "publish",
+        "title": "Как поменять имя пользователя в Windows 11",
+        "link": "https://itpotok.ru/change-user-name-windows-11/",
+        "slug": "change-user-name-windows-11"
+      },
+      {
+        "id": 11989,
+        "status": "publish",
+        "title": "Rufus для Windows 11: как создать загрузочную флешку",
+        "link": "https://itpotok.ru/create-windows-11-usb/",
+        "slug": "create-windows-11-usb"
+      },
+      {
+        "id": 12015,
+        "status": "publish",
+        "title": "Как скачать Windows 11 с официального сайта на русском",
+        "link": "https://itpotok.ru/download-windows-11-iso/",
+        "slug": "download-windows-11-iso"
+      },
+      {
+        "id": 11975,
+        "status": "draft",
+        "title": "Виджеты Windows 11: как добавить, настроить и убрать",
+        "link": "https://itpotok.ru/?p=11975",
+        "slug": ""
+      },
+      {
+        "id": 11944,
+        "status": "publish",
+        "title": "Виджеты Windows 11: как добавить, настроить и убрать",
+        "link": "https://itpotok.ru/widgets-windows-11/",
+        "slug": "widgets-windows-11"
+      },
+      {
+        "id": 9938,
+        "status": "publish",
+        "title": "Как изменить имя пользователя в Windows 10",
+        "link": "https://itpotok.ru/kak-izmenit-imya-polzovatelya-v-windows-10/",
+        "slug": "kak-izmenit-imya-polzovatelya-v-windows-10"
+      },
+      {
+        "id": 9871,
+        "status": "publish",
+        "title": "Как убрать пароль при входе в Windows 10",
+        "link": "https://itpotok.ru/kak-ubrat-parol-pri-vhode-v-windows-10/",
+        "slug": "kak-ubrat-parol-pri-vhode-v-windows-10"
+      },
+      {
+        "id": 9854,
+        "status": "publish",
+        "title": "Топ 5 способов узнать пароль от Wi-Fi на Windows 10",
+        "link": "https://itpotok.ru/top-5-sposobov-uznat-parol-ot-wi-fi-na-windows-10/",
+        "slug": "top-5-sposobov-uznat-parol-ot-wi-fi-na-windows-10"
+      },
+      {
+        "id": 8699,
+        "status": "publish",
+        "title": "Автозагрузка программ в Windows 10",
+        "link": "https://itpotok.ru/autorun-windows-10/",
+        "slug": "autorun-windows-10"
+      },
+      {
+        "id": 8646,
+        "status": "publish",
+        "title": "Как убрать пароль при входе в Windows 10",
+        "link": "https://itpotok.ru/how-disable-lock-screen-windows-10/",
+        "slug": "how-disable-lock-screen-windows-10"
+      },
+      {
+        "id": 9220,
+        "status": "publish",
+        "title": "Командная строка Windows 10",
+        "link": "https://itpotok.ru/command-line-windows-10/",
+        "slug": "command-line-windows-10"
+      },
+      {
+        "id": 8179,
+        "status": "publish",
+        "title": "Как работать с папками в Windows 8: новые возможности проводника",
+        "link": "https://itpotok.ru/kak-rabotat-s-papkami-v-windows-8-novye-vozmozhnosti-provodnika/",
+        "slug": "kak-rabotat-s-papkami-v-windows-8-novye-vozmozhnosti-provodnika"
+      },
+      {
+        "id": 8136,
+        "status": "publish",
+        "title": "Новые функции поиска в Windows 8. Как искать и делать видимыми скрытые файлы",
+        "link": "https://itpotok.ru/novye-funktsii-poiska-v-windows-8-kak-iskat-i-delat-vidimymi-skrytye-fajly/",
+        "slug": "novye-funktsii-poiska-v-windows-8-kak-iskat-i-delat-vidimymi-skrytye-fajly"
+      },
+      {
+        "id": 7768,
+        "status": "publish",
+        "title": "Все способы выключения компьютера под Windows 8",
+        "link": "https://itpotok.ru/vse-sposoby-vyklyucheniya-kompyutera-pod-windows-8/",
+        "slug": "vse-sposoby-vyklyucheniya-kompyutera-pod-windows-8"
+      },
+      {
+        "id": 7381,
+        "status": "publish",
+        "title": "Все способы правильного удаления программ в Windows 7",
+        "link": "https://itpotok.ru/vse-sposoby-pravilnogo-udaleniya-programm-v-windows-7/",
+        "slug": "vse-sposoby-pravilnogo-udaleniya-programm-v-windows-7"
+      },
+      {
+        "id": 7357,
+        "status": "publish",
+        "title": "Создаем и запускаем виртуальную точку доступа на ноутбуке с Windows 7",
+        "link": "https://itpotok.ru/sozdaem-i-zapuskaem-virtualnuyu-tochku-dostupa-na-noutbuke-s-windows-7/",
+        "slug": "sozdaem-i-zapuskaem-virtualnuyu-tochku-dostupa-na-noutbuke-s-windows-7"
+      },
+      {
+        "id": 6752,
+        "status": "publish",
+        "title": "Восстановление реестра Windows 7 с помощью утилит Regedit и ERUNT",
+        "link": "https://itpotok.ru/vosstanovlenie-reestra-windows-7-s-pomoshhyu-utilit-regedit-i-erunt/",
+        "slug": "vosstanovlenie-reestra-windows-7-s-pomoshhyu-utilit-regedit-i-erunt"
+      },
+      {
+        "id": 6532,
+        "status": "publish",
+        "title": "Общая папка и как открыть к ней доступ в Windows 7",
+        "link": "https://itpotok.ru/obshhaya-papka-i-kak-otkryt-k-nej-dostup-v-windows-7/",
+        "slug": "obshhaya-papka-i-kak-otkryt-k-nej-dostup-v-windows-7"
+      },
+      {
+        "id": 6156,
+        "status": "publish",
+        "title": "Как установить Windows 7 на компьютер или ноутбук?",
+        "link": "https://itpotok.ru/kak-ustanovit-windows-7-na-kompyuter-ili-noutbuk/",
+        "slug": "kak-ustanovit-windows-7-na-kompyuter-ili-noutbuk"
+      },
+      {
+        "id": 4768,
+        "status": "publish",
+        "title": "Добавление панели быстрого доступа на панель задач в Windows 7",
+        "link": "https://itpotok.ru/dobavlenie-paneli-bystrogo-dostupa-na-panel-zadach-v-windows-7/",
+        "slug": "dobavlenie-paneli-bystrogo-dostupa-na-panel-zadach-v-windows-7"
+      },
+      {
+        "id": 4756,
+        "status": "publish",
+        "title": "Восстановление запуска и работы языковой панели в Windows 7",
+        "link": "https://itpotok.ru/vosstanovlenie-zapuska-i-raboty-yazykovoj-paneli-v-windows-7/",
+        "slug": "vosstanovlenie-zapuska-i-raboty-yazykovoj-paneli-v-windows-7"
+      },
+      {
+        "id": 4715,
+        "status": "publish",
+        "title": "Обзор сетевых настроек и подключения Windows 7 к сети",
+        "link": "https://itpotok.ru/obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti/",
+        "slug": "obzor-setevyh-nastroek-i-podklyucheniya-windows-7-k-seti"
+      },
+      {
+        "id": 4621,
+        "status": "publish",
+        "title": "Основы работы служб Windows 7 и способы их настройки",
+        "link": "https://itpotok.ru/osnovy-raboty-sluzhb-windows-7-i-sposoby-ih-nastrojki/",
+        "slug": "osnovy-raboty-sluzhb-windows-7-i-sposoby-ih-nastrojki"
+      },
+      {
+        "id": 4452,
+        "status": "publish",
+        "title": "Разблокировка Windows 7 от трояка-вымогателя",
+        "link": "https://itpotok.ru/razblikirovka-windows-7-ot-troyana-vimogatelya/",
+        "slug": "razblikirovka-windows-7-ot-troyana-vimogatelya"
+      },
+      {
+        "id": 4429,
+        "status": "publish",
+        "title": "Настройка прав администратора в Windows 7",
+        "link": "https://itpotok.ru/nastroika-prav-administratora-v-windows-7/",
+        "slug": "nastroika-prav-administratora-v-windows-7"
+      },
+      {
+        "id": 4319,
+        "status": "publish",
+        "title": "Установка операционной системы Windows 7 с помощью USB",
+        "link": "https://itpotok.ru/ustanovka-operatsionnoy-sistemi-windows-7-s-pomoshhyu-usb/",
+        "slug": "ustanovka-operatsionnoy-sistemi-windows-7-s-pomoshhyu-usb"
+      },
+      {
+        "id": 4268,
+        "status": "publish",
+        "title": "Настройка принтера на работу в локальной сети Windows 7",
+        "link": "https://itpotok.ru/nastroika-printera-na-rabotu-v-lokalnou-seti-windows-7/",
+        "slug": "nastroika-printera-na-rabotu-v-lokalnou-seti-windows-7"
+      },
+      {
+        "id": 3986,
+        "status": "publish",
+        "title": "Восстановление загрузки Windows 7 после установки сбойного обновления",
+        "link": "https://itpotok.ru/vosstanovlenie-zagruzku-windows-7-posle-ustanovki-sbojnogo-obnovleniya/",
+        "slug": "vosstanovlenie-zagruzku-windows-7-posle-ustanovki-sbojnogo-obnovleniya"
+      },
+      {
+        "id": 3813,
+        "status": "publish",
+        "title": "Защита операционной системы и отключение встроенного защитника в Windows 7",
+        "link": "https://itpotok.ru/zashita-operacionnoi-sistemu-i-otklyuchenie-vstroennogo-zashitnika-v-windows-7/",
+        "slug": "zashita-operacionnoi-sistemu-i-otklyuchenie-vstroennogo-zashitnika-v-windows-7"
+      },
+      {
+        "id": 3793,
+        "status": "publish",
+        "title": "Установка и настройка беспроводных сетей в Windows XP",
+        "link": "https://itpotok.ru/ustanovka-i-nastroika-besprovodnih-setei-v-windows-xp/",
+        "slug": "ustanovka-i-nastroika-besprovodnih-setei-v-windows-xp"
+      },
+      {
+        "id": 3649,
+        "status": "publish",
+        "title": "Перенос образа Windows 7 для создания установочной флешки",
+        "link": "https://itpotok.ru/perenos-obraza-windows-7-dlya-sozdaniya-ustanovochnoj-fleshki/",
+        "slug": "perenos-obraza-windows-7-dlya-sozdaniya-ustanovochnoj-fleshki"
+      },
+      {
+        "id": 3505,
+        "status": "publish",
+        "title": "Работа с автозапуском  встроенными средствами Windows 7",
+        "link": "https://itpotok.ru/rabota-s-avtozapuskom-vstroennymi-sredstvami-windows-7/",
+        "slug": "rabota-s-avtozapuskom-vstroennymi-sredstvami-windows-7"
+      },
+      {
+        "id": 3153,
+        "status": "publish",
+        "title": "Чистка реестра Windows 7 вручную и автоматически",
+        "link": "https://itpotok.ru/chistka-reestra-windows-7-vruchnuyu-i-avtomaticheski/",
+        "slug": "chistka-reestra-windows-7-vruchnuyu-i-avtomaticheski"
+      },
+      {
+        "id": 3063,
+        "status": "publish",
+        "title": "Как побороть синий экран смерти в операционной системе Windows 7?",
+        "link": "https://itpotok.ru/kak-poborot-sinij-ekran-smerti-v-operacionnoj-sisteme-windows-7/",
+        "slug": "kak-poborot-sinij-ekran-smerti-v-operacionnoj-sisteme-windows-7"
+      },
+      {
+        "id": 2628,
+        "status": "publish",
+        "title": "WinRAR как лучший из архиваторов для Windows 7 на рынке",
+        "link": "https://itpotok.ru/winrar-kak-luchshij-iz-arxivatorov-dlya-windows-7-na-rynke/",
+        "slug": "winrar-kak-luchshij-iz-arxivatorov-dlya-windows-7-na-rynke"
+      },
+      {
+        "id": 2525,
+        "status": "publish",
+        "title": "Работа с автозапуском в Windows XP",
+        "link": "https://itpotok.ru/rabota-s-avtozapuskom-v-windows-xp/",
+        "slug": "rabota-s-avtozapuskom-v-windows-xp"
+      },
+      {
+        "id": 2477,
+        "status": "publish",
+        "title": "Отличия Windows 7 от предыдущих версий",
+        "link": "https://itpotok.ru/otlichiya-windows-7-ot-predydushhix-versij/",
+        "slug": "otlichiya-windows-7-ot-predydushhix-versij"
+      },
+      {
+        "id": 2454,
+        "status": "publish",
+        "title": "Добавление и настройка учетных записей пользователей в Windows XP",
+        "link": "https://itpotok.ru/dobavlenie-i-nastrojka-uchetnyx-zapisej-polzovatelej-v-windows-xp/",
+        "slug": "dobavlenie-i-nastrojka-uchetnyx-zapisej-polzovatelej-v-windows-xp"
+      },
+      {
+        "id": 2426,
+        "status": "publish",
+        "title": "Основные методы перезагрузки компьютера на Windows XP",
+        "link": "https://itpotok.ru/osnovnye-metody-perezagruzki-kompyutera-na-windows-xp/",
+        "slug": "osnovnye-metody-perezagruzki-kompyutera-na-windows-xp"
+      },
+      {
+        "id": 2340,
+        "status": "publish",
+        "title": "Настройка локальной сети на компьютере с Windows XP",
+        "link": "https://itpotok.ru/nastroika-lokalnoi-seti-na-kompyutere-s-windows-xp/",
+        "slug": "nastroika-lokalnoi-seti-na-kompyutere-s-windows-xp"
+      },
+      {
+        "id": 2288,
+        "status": "publish",
+        "title": "Установка Windows XP с флешки с помощью WinSetupFromUSB",
+        "link": "https://itpotok.ru/ustanovka-windows-xp-s-fleshki-s-pomoshhyu-winsetupfromusb/",
+        "slug": "ustanovka-windows-xp-s-fleshki-s-pomoshhyu-winsetupfromusb"
+      },
+      {
+        "id": 2172,
+        "status": "publish",
+        "title": "Способы создания точки доступа и беспроводной сети на Windows XP",
+        "link": "https://itpotok.ru/sposoby-sozdaniya-tochki-dostupa-i-besprovodnoj-seti-na-windows-xp/",
+        "slug": "sposoby-sozdaniya-tochki-dostupa-i-besprovodnoj-seti-na-windows-xp"
+      },
+      {
+        "id": 2124,
+        "status": "publish",
+        "title": "Настройка сети и интернета при работе с Windows XP",
+        "link": "https://itpotok.ru/nastrojka-seti-i-interneta-pri-rabote-s-windows-xp/",
+        "slug": "nastrojka-seti-i-interneta-pri-rabote-s-windows-xp"
+      },
+      {
+        "id": 1958,
+        "status": "publish",
+        "title": "Где скачать и как настроить значки рабочего стола Windows XP?",
+        "link": "https://itpotok.ru/gde-skachat-i-kak-nastroit-znachki-rabochego-stola-windows-xp/",
+        "slug": "gde-skachat-i-kak-nastroit-znachki-rabochego-stola-windows-xp"
+      },
+      {
+        "id": 1902,
+        "status": "publish",
+        "title": "Как настроить автовход в систему Windows XP?",
+        "link": "https://itpotok.ru/kak-nastroit-avtovxod-v-sistemu-windows-xp/",
+        "slug": "kak-nastroit-avtovxod-v-sistemu-windows-xp"
+      },
+      {
+        "id": 1882,
+        "status": "publish",
+        "title": "Создание и использование точек восстановления в Windows XP",
+        "link": "https://itpotok.ru/sozdanie-i-ispolzovanie-tochek-vosstanovleniya-v-windows-xp/",
+        "slug": "sozdanie-i-ispolzovanie-tochek-vosstanovleniya-v-windows-xp"
+      },
+      {
+        "id": 1843,
+        "status": "publish",
+        "title": "Восстановление операционной системы Windows XP через программу или диск",
+        "link": "https://itpotok.ru/vosstanovlenie-sistemy-windows-xp-cherez-programmu-ili-disk/",
+        "slug": "vosstanovlenie-sistemy-windows-xp-cherez-programmu-ili-disk"
+      },
+      {
+        "id": 1788,
+        "status": "publish",
+        "title": "Как удалить операционную систему Windows XP?",
+        "link": "https://itpotok.ru/kak-udalit-operacionnuyu-sistemu-windows-xp/",
+        "slug": "kak-udalit-operacionnuyu-sistemu-windows-xp"
+      },
+      {
+        "id": 1676,
+        "status": "publish",
+        "title": "Способы традиционной и автоматической установки Windows XP с диска",
+        "link": "https://itpotok.ru/sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska/",
+        "slug": "sposoby-tradicionnoj-i-avtomaticheskoj-ustanovki-windows-xp-s-diska"
+      },
+      {
+        "id": 1645,
+        "status": "publish",
+        "title": "Настройка удаленного доступа к файлам и папкам в Windows XP",
+        "link": "https://itpotok.ru/nastroika-udalennogo-dostupa-k-fajlam-i-papkam-v-windows-xp/",
+        "slug": "nastroika-udalennogo-dostupa-k-fajlam-i-papkam-v-windows-xp"
+      },
+      {
+        "id": 1621,
+        "status": "publish",
+        "title": "Решение проблем с принтером и печатью на компьютере с Windows XP",
+        "link": "https://itpotok.ru/reshenie-problem-s-printerom-i-pechatyu-na-kompyutere-s-windows-xp/",
+        "slug": "reshenie-problem-s-printerom-i-pechatyu-na-kompyutere-s-windows-xp"
+      },
+      {
+        "id": 1378,
+        "status": "publish",
+        "title": "Как правильно удалить забытый пароль входа в Windows XP?",
+        "link": "https://itpotok.ru/kak-pravilno-udalit-zabitii-parol-vhoda-v-windows-xp/",
+        "slug": "kak-pravilno-udalit-zabitii-parol-vhoda-v-windows-xp"
+      },
+      {
+        "id": 1292,
+        "status": "publish",
+        "title": "Как объединить в локальную сеть компьютеры с Windows XP?",
+        "link": "https://itpotok.ru/kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp/",
+        "slug": "kak-obedinit-v-lokalnuyu-set-kompyutery-s-windows-xp"
+      },
+      {
+        "id": 9902,
+        "status": "publish",
+        "title": "Устраняем ошибки установки Windows XP",
+        "link": "https://itpotok.ru/ustranyaem-oshibki-ustanovki-windows-xp/",
+        "slug": "ustranyaem-oshibki-ustanovki-windows-xp"
+      },
+      {
+        "id": 1149,
+        "status": "publish",
+        "title": "Пошаговая инструкция правильной установки Windows XP",
+        "link": "https://itpotok.ru/poshagovaya-instrukciya-pravilnaya-ustanovki-windows-xp/",
+        "slug": "poshagovaya-instrukciya-pravilnaya-ustanovki-windows-xp"
+      },
+      {
+        "id": 1102,
+        "status": "publish",
+        "title": "Как узнать или сбросить забытый пароль входа в аккаунт Windows XP?",
+        "link": "https://itpotok.ru/kak-uznat-ili-sbrosit-zabytyj-parol-vxoda-v-akkaunt-windows-xp/",
+        "slug": "kak-uznat-ili-sbrosit-zabytyj-parol-vxoda-v-akkaunt-windows-xp"
+      },
+      {
+        "id": 1015,
+        "status": "publish",
+        "title": "Как переустановить Windows XP, если у вас нет привода для чтения дисков",
+        "link": "https://itpotok.ru/kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov/",
+        "slug": "kak-pereustanovit-windows-xp-esli-u-vas-net-privoda-dlya-chteniya-diskov"
+      },
+      {
+        "id": 916,
+        "status": "publish",
+        "title": "Как пользоваться функцией &#171;удаленный рабочий стол&#187; в Windows XP?",
+        "link": "https://itpotok.ru/kak-polzovatsya-funkciej-udalennyj-rabochij-stol-v-windows-xp/",
+        "slug": "kak-polzovatsya-funkciej-udalennyj-rabochij-stol-v-windows-xp"
+      },
+      {
+        "id": 9897,
+        "status": "publish",
+        "title": "Как сбросить забытый пароль к Windows XP?",
+        "link": "https://itpotok.ru/zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit/",
+        "slug": "zabytyj-parol-k-windows-xp-eto-ne-problema-esli-znat-kak-ego-sbrosit"
+      },
+      {
+        "id": 563,
+        "status": "publish",
+        "title": "Как узнать пароль Wi-Fi на операционной системе Windows XP?",
+        "link": "https://itpotok.ru/kak-uznat-parol-wi-fi-na-operacionnoj-sisteme-windows-xp/",
+        "slug": "kak-uznat-parol-wi-fi-na-operacionnoj-sisteme-windows-xp"
+      },
+      {
+        "id": 518,
+        "status": "publish",
+        "title": "Работа с файлами и папками в Windows XP: операции с объектами",
+        "link": "https://itpotok.ru/rabota-s-fajlami-i-papkami-v-windows-xp-operacii-s-obektami/",
+        "slug": "rabota-s-fajlami-i-papkami-v-windows-xp-operacii-s-obektami"
+      },
+      {
+        "id": 403,
+        "status": "publish",
+        "title": "Создание загрузочной флешки и установка операционной системы Windows XP",
+        "link": "https://itpotok.ru/sozdanie-zagruzochnoj-fleshki-i-ustanovka-operacionnoj-sistemy-windows-xp/",
+        "slug": "sozdanie-zagruzochnoj-fleshki-i-ustanovka-operacionnoj-sistemy-windows-xp"
+      },
+      {
+        "id": 318,
+        "status": "publish",
+        "title": "Как настроить Wi-Fi своими руками в Windows XP разными способами?",
+        "link": "https://itpotok.ru/kak-nastoit-wi-fi-svoimi-rukami-raznimi-sposobami/",
+        "slug": "kak-nastoit-wi-fi-svoimi-rukami-raznimi-sposobami"
+      },
+      {
+        "id": 102,
+        "status": "publish",
+        "title": "Как отладить автозагрузку Windows XP?",
+        "link": "https://itpotok.ru/kak-otladit-avtozagruzku-windows-xp/",
+        "slug": "kak-otladit-avtozagruzku-windows-xp"
+      },
+      {
+        "id": 9432,
+        "status": "publish",
+        "title": "Подробная установка Windows XP на нетбук",
+        "link": "https://itpotok.ru/podrobnaya-ustanovka-windows-xp-na-netbook/",
+        "slug": "podrobnaya-ustanovka-windows-xp-na-netbook"
+      }
+    ]
+  },
+  {
+    "term": "профиль",
+    "posts": [
+      {
+        "id": 12164,
+        "status": "publish",
+        "title": "Как отключить автозапуск приложений в Windows 11",
+        "link": "https://itpotok.ru/disable-autorun-apps-windows-11/",
+        "slug": "disable-autorun-apps-windows-11"
+      },
+      {
+        "id": 12118,
+        "status": "publish",
+        "title": "Как отключить пароль при входе в Windows 11",
+        "link": "https://itpotok.ru/disable-login-password-windows-11/",
+        "slug": "disable-login-password-windows-11"
+      },
+      {
+        "id": 12112,
+        "status": "publish",
+        "title": "Как показать скрытые папки и файлы в Windows 11 и снова скрыть их",
+        "link": "https://itpotok.ru/show-hidden-files-windows-11/",
+        "slug": "show-hidden-files-windows-11"
+      },
+      {
+        "id": 12073,
+        "status": "publish",
+        "title": "Как поменять имя пользователя в Windows 11",
+        "link": "https://itpotok.ru/change-user-name-windows-11/",
+        "slug": "change-user-name-windows-11"
+      },
+      {
+        "id": 12052,
+        "status": "publish",
+        "title": "Как открыть командную строку в Windows 11",
+        "link": "https://itpotok.ru/open-command-prompt-windows-11/",
+        "slug": "open-command-prompt-windows-11"
+      },
+      {
+        "id": 12031,
+        "status": "publish",
+        "title": "Как отключить брандмауэр Windows 11 и вернуть защиту",
+        "link": "https://itpotok.ru/disable-firewall-windows-11/",
+        "slug": "disable-firewall-windows-11"
+      },
+      {
+        "id": 9938,
+        "status": "publish",
+        "title": "Как изменить имя пользователя в Windows 10",
+        "link": "https://itpotok.ru/kak-izmenit-imya-polzovatelya-v-windows-10/",
+        "slug": "kak-izmenit-imya-polzovatelya-v-windows-10"
+      },
+      {
+        "id": 9505,
+        "status": "publish",
+        "title": "Лучшие роботы-пылесосы- 2023 год",
+        "link": "https://itpotok.ru/best-robot-vacuums/",
+        "slug": "best-robot-vacuums"
+      },
+      {
+        "id": 9346,
+        "status": "publish",
+        "title": "Лучшие беспроводные Bluetooth-наушники &#8212; 2023 год",
+        "link": "https://itpotok.ru/best-wireless-headphones/",
+        "slug": "best-wireless-headphones"
+      },
+      {
+        "id": 8179,
+        "status": "publish",
+        "title": "Как работать с папками в Windows 8: новые возможности проводника",
+        "link": "https://itpotok.ru/kak-rabotat-s-papkami-v-windows-8-novye-vozmozhnosti-provodnika/",
+        "slug": "kak-rabotat-s-papkami-v-windows-8-novye-vozmozhnosti-provodnika"
+      },
+      {
+        "id": 7547,
+        "status": "publish",
+        "title": "Несколько способов изменения разрешения экрана в Windows 8",
+        "link": "https://itpotok.ru/neskolko-sposobov-izmeneniya-razresheniya-ekrana-v-windows-8/",
+        "slug": "neskolko-sposobov-izmeneniya-razresheniya-ekrana-v-windows-8"
+      },
+      {
+        "id": 7523,
+        "status": "publish",
+        "title": "Вход в магазин Windows 8 и его восстановление, если он не работает",
+        "link": "https://itpotok.ru/magazin-windows-kak-v-nego-zajti-i-kak-vosstanovit-esli-on-ne-rabotaet/",
+        "slug": "magazin-windows-kak-v-nego-zajti-i-kak-vosstanovit-esli-on-ne-rabotaet"
+      },
+      {
+        "id": 6462,
+        "status": "publish",
+        "title": "Два способа изменения разрешения экрана в Windows 7",
+        "link": "https://itpotok.ru/dva-sposoba-izmeneniya-razresheniya-ekrana-v-windows-7/",
+        "slug": "dva-sposoba-izmeneniya-razresheniya-ekrana-v-windows-7"
+      },
+      {
+        "id": 3322,
+        "status": "publish",
+        "title": "Причины и решения черного экрана смерти при запуске Windows 7",
+        "link": "https://itpotok.ru/prichiny-i-resheniya-chernogo-ekrana-smerti-pri-zapuske-windows-7/",
+        "slug": "prichiny-i-resheniya-chernogo-ekrana-smerti-pri-zapuske-windows-7"
+      },
+      {
+        "id": 2948,
+        "status": "publish",
+        "title": "Выход из системы Windows 7 и возобновление работы операционной системы",
+        "link": "https://itpotok.ru/vyxod-iz-sistemy-windows-7-i-vozobnovlenie-raboty-operacionnoj-sistemy/",
+        "slug": "vyxod-iz-sistemy-windows-7-i-vozobnovlenie-raboty-operacionnoj-sistemy"
+      },
+      {
+        "id": 2077,
+        "status": "publish",
+        "title": "Настройка яркости экрана компьютера на Windows XP",
+        "link": "https://itpotok.ru/nastrojka-yarkosti-ekrana-kompyutera-na-windows-xp/",
+        "slug": "nastrojka-yarkosti-ekrana-kompyutera-na-windows-xp"
+      },
+      {
+        "id": 9911,
+        "status": "publish",
+        "title": "Как самостоятельно установить Windows XP на SSD диск?",
+        "link": "https://itpotok.ru/kak-samostoyatelno-ustanovit-windows-xp-na-ssd-disk/",
+        "slug": "kak-samostoyatelno-ustanovit-windows-xp-na-ssd-disk"
+      },
+      {
+        "id": 939,
+        "status": "publish",
+        "title": "Как поменять параметры экрана Windowos XP?",
+        "link": "https://itpotok.ru/kak-pomenyat-parametry-ekrana-windows-xp/",
+        "slug": "kak-pomenyat-parametry-ekrana-windows-xp"
+      },
+      {
+        "id": 289,
+        "status": "publish",
+        "title": "Особенности настройки Wi-Fi  в Windows XP",
+        "link": "https://itpotok.ru/osobennosti-nastrojki-wi-fi-v-windows-xp/",
+        "slug": "osobennosti-nastrojki-wi-fi-v-windows-xp"
+      }
+    ]
+  },
+  {
+    "term": "change-profile-folder-windows-11",
+    "posts": []
+  }
+]

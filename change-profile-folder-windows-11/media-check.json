@@ -1,0 +1,20 @@
+[
+  {
+    "kind": "cover",
+    "http": 200,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/profile-folder-windows-11-cover-20261029.png",
+    "bytes": 1236991
+  },
+  {
+    "kind": "other_users",
+    "http": 200,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/profile-other-users-ru.png",
+    "bytes": 57103
+  },
+  {
+    "kind": "local_form",
+    "http": 200,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/profile-create-local-user-ru.jpg",
+    "bytes": 56185
+  }
+]

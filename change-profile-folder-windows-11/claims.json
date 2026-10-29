@@ -1,0 +1,68 @@
+[
+  {
+    "id": "C1",
+    "source_id": "S1",
+    "claim": "Старый workaround ProfileImagePath не применять к Windows 10 и новее; возможен отказ winget.",
+    "evidence": "Don't apply the workaround to computers that are running Windows 10 or later.",
+    "location": "Ввод и choose",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C2",
+    "source_id": "S2",
+    "claim": "В новом профиле копируют личные данные без скрытых системных файлов; приложения могут требовать установки/настройки, Store — повторного входа, почта — отдельного импорта.",
+    "evidence": "Some applications previously installed might need to be reconfigured or reinstalled.",
+    "location": "files/apps",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C3",
+    "source_id": "S3",
+    "claim": "Локального пользователя создают в Other users и меняют тип на Administrator; удаление удаляет данные с устройства, не Microsoft account.",
+    "evidence": "If you want to create a local account, select the option Add a user without a Microsoft account",
+    "location": "create/finish",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C4",
+    "source_id": "S4",
+    "claim": "Online-only не являются локально загруженными; Always keep загружает файлы.",
+    "evidence": "Online-only files don’t take up space on your computer.",
+    "location": "onedrive",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C5",
+    "source_id": "S5",
+    "claim": "Перемещение OneDrive: отвязать, переместить, подключить.",
+    "evidence": "unlink, move, then relink",
+    "location": "onedrive",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true
+  },
+  {
+    "id": "C6",
+    "source_id": "S6",
+    "claim": "Переход между локальным и Microsoft входом доступен в Your info.",
+    "evidence": "Select Sign in with a Microsoft account instead.",
+    "location": "apps",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true
+  }
+]

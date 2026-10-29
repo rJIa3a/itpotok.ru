@@ -1,0 +1,65 @@
+{
+  "environment": {
+    "version": "Windows 11 26H2, build 26300.9711 (предварительная сборка)",
+    "platform": "Windows",
+    "language": "ru",
+    "plan": "Личный ПК; только открытие мастера, без создания профиля",
+    "permissions": "Чтение UI; профиль пользователя не переименовывать"
+  },
+  "runs": [
+    {
+      "id": "initial-unavailable",
+      "kind": "initial",
+      "executed_at": "2026-10-29",
+      "steps": [
+        {
+          "id": "create",
+          "action": "Создать новый профиль и перенести данные",
+          "expected": "Нужный путь и доступные файлы",
+          "actual": "Не выполнялось: нет выделенной доступной тестовой среды; computer-use занят",
+          "status": "not-run",
+          "evidence": null
+        }
+      ]
+    },
+    {
+      "id": "ui-capture-20261029",
+      "kind": "initial",
+      "executed_at": "2026-10-29",
+      "steps": [
+        {
+          "id": "create-1",
+          "action": "Кнопка добавления пользователя в русских Параметрах Windows 11",
+          "expected": "Другие пользователи: Добавить учётную запись",
+          "actual": "Наблюдено и снято; форма пустая. Создание не подтверждалось.",
+          "status": "passed",
+          "evidence": "assets/other-users-ru.png"
+        },
+        {
+          "id": "create-2",
+          "action": "Пустая форма создания локального пользователя; учётная запись не создавалась",
+          "expected": "Создать пользователя для этого компьютера: имя и пароль",
+          "actual": "Наблюдено и снято; форма пустая. Создание не подтверждалось.",
+          "status": "passed",
+          "evidence": "assets/create-local-user-ru.jpg"
+        }
+      ]
+    },
+    {
+      "id": "migration-not-run",
+      "kind": "rerun",
+      "executed_at": "2026-10-29",
+      "article_sha256": "f57b9a8e483669a27206911ae6c3010a6b7d8db9534ee0a8f198e76530f9a2f2",
+      "steps": [
+        {
+          "id": "migration",
+          "action": "Перенос по текущему тексту",
+          "expected": "Файлы и приложения доступны в новом профиле",
+          "actual": "Не выполнено: нет выделенной тестовой среды; рабочий профиль не менялся",
+          "status": "not-run",
+          "evidence": null
+        }
+      ]
+    }
+  ]
+}

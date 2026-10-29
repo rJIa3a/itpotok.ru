@@ -1,0 +1,46 @@
+[
+  {
+    "step_id": "create-1",
+    "action": "Кнопка добавления пользователя в русских Параметрах Windows 11",
+    "expected": "Другие пользователи: Добавить учётную запись",
+    "file": "assets/other-users-ru.png",
+    "original": "assets/other-users-ru.png",
+    "annotated": null,
+    "captured_at": "2026-10-29",
+    "environment": {
+      "version": "Windows 11 26H2, build 26300.9711 (предварительная сборка)",
+      "platform": "Windows",
+      "language": "ru",
+      "plan": "Личный ПК; только открытие мастера, без создания профиля",
+      "permissions": "Чтение UI; профиль пользователя не переименовывать"
+    },
+    "caption": "Кнопка добавления пользователя в русских Параметрах Windows 11",
+    "alt": "Другие пользователи: Добавить учётную запись",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный безопасный снимок. Полный приватный кадр не сохранён."
+  },
+  {
+    "step_id": "create-2",
+    "action": "Пустая форма создания локального пользователя; учётная запись не создавалась",
+    "expected": "Создать пользователя для этого компьютера: имя и пароль",
+    "file": "assets/create-local-user-ru.jpg",
+    "original": "assets/create-local-user-ru.jpg",
+    "annotated": null,
+    "captured_at": "2026-10-29",
+    "environment": {
+      "version": "Windows 11 26H2, build 26300.9711 (предварительная сборка)",
+      "platform": "Windows",
+      "language": "ru",
+      "plan": "Личный ПК; только открытие мастера, без создания профиля",
+      "permissions": "Чтение UI; профиль пользователя не переименовывать"
+    },
+    "caption": "Пустая форма создания локального пользователя; учётная запись не создавалась",
+    "alt": "Создать пользователя для этого компьютера: имя и пароль",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный безопасный снимок. Полный приватный кадр не сохранён."
+  }
+]
