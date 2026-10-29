@@ -1,0 +1,28 @@
+{
+  "checked": "2026-10-29",
+  "id": 12177,
+  "status": "publish",
+  "url": "https://itpotok.ru/free-antivirus-windows-11/",
+  "anonymous_http": 200,
+  "body_matches": true,
+  "excerpt_matches": true,
+  "cover_matches": true,
+  "faq_count": 5,
+  "faq_answers_match": true,
+  "visible_shortcode": false,
+  "article_sha256": "7e8e9fed114c826d9fe267284e4801a7c86034f6d04f807a8a51c5cf0ad22de8",
+  "public_images": [
+    {
+      "url": "https://itpotok.ru/wp-content/uploads/2026/10/free-antivirus-cover-20261026.jpg",
+      "http": 200
+    },
+    {
+      "url": "https://support.microsoft.com/ru-ru/windows/media/virus-and-threat-protection.png",
+      "http": 200
+    },
+    {
+      "url": "https://support.microsoft.com/ru-ru/windows/media/windows-security-settings.png",
+      "http": 200
+    }
+  ]
+}

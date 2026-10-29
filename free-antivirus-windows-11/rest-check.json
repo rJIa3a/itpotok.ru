@@ -1,7 +1,7 @@
 {
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "id": 12177,
-  "status": "draft",
+  "status": "publish",
   "body_matches": true,
   "excerpt_matches": true,
   "cover_matches": true,
@@ -20,6 +20,6 @@
       "http": 200
     }
   ],
-  "article_sha256": "0a67f33c2d91c5641685746e601f6ac558d09d94e2418c95d6663872a4e9f645",
+  "article_sha256": "7e8e9fed114c826d9fe267284e4801a7c86034f6d04f807a8a51c5cf0ad22de8",
   "faq_answers_match": true
 }

@@ -8,7 +8,9 @@
   "draft_id": 12177,
   "preview_url": "https://itpotok.ru/?p=12177&preview=true",
   "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12177&action=edit",
-  "status": "draft",
+  "status": "publish",
   "readiness": "draft-verified-with-documented-practical-limits",
-  "faq_saved": true
+  "faq_saved": true,
+  "published_id": 12177,
+  "published_url": "https://itpotok.ru/free-antivirus-windows-11/"
 }
