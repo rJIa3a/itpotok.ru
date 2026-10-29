@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S1",
+    "url": "https://support.microsoft.com/ru-ru/windows/experience/personalization/customize-the-desktop-icons-in-windows",
+    "title": "Настройка значков рабочего стола в Windows",
+    "checked_at": "2026-10-29",
+    "excerpt": "Вы также можете использовать колесико мыши для изменения размера значков рабочего стола.",
+    "limitations": "Документация, не собственное испытание. Доступность зависит от сборки."
+  },
+  {
+    "id": "S2",
+    "url": "https://support.microsoft.com/en-au/accessibility/windows/keyboard-shortcuts-in-windows",
+    "title": "Keyboard shortcuts in Windows",
+    "checked_at": "2026-10-29",
+    "excerpt": "Ctrl+mouse scroll wheel: Change the size and appearance of file and folder icons.",
+    "limitations": "Документация, не собственное испытание. Доступность зависит от сборки."
+  },
+  {
+    "id": "S3",
+    "url": "https://support.microsoft.com/en-us/accessibility/windows/make-text-and-apps-bigger",
+    "title": "Make text and apps bigger",
+    "checked_at": "2026-10-29",
+    "excerpt": "Under Scale & layout, expand the Scale menu and select the option you want.",
+    "limitations": "Документация, не собственное испытание. Доступность зависит от сборки."
+  },
+  {
+    "id": "S4",
+    "url": "https://support.microsoft.com/en-gb/servicing/os/windows-11/2025/06/june-26-2025-kb5060829-os-build-26100-4484-preview",
+    "title": "KB5060829, 26 June 2025",
+    "checked_at": "2026-10-29",
+    "excerpt": "Show smaller taskbar buttons.",
+    "limitations": "Документация, не собственное испытание. Доступность зависит от сборки."
+  },
+  {
+    "id": "S5",
+    "url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/08/kb5120998-windows-11-24h2-25h2-update",
+    "title": "KB5120998, 27 August 2026",
+    "checked_at": "2026-10-29",
+    "excerpt": "When set to Small, both the icons and the taskbar height become smaller.",
+    "limitations": "Документация, не собственное испытание. Доступность зависит от сборки."
+  }
+]

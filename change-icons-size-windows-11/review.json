@@ -1,0 +1,20 @@
+{
+  "article_sha256": "5b7182ad5c3d695f030c297f79a0466a940a770102cd07a450a8d1c504a22fc2",
+  "coverage_checked": true,
+  "sources_reopened": true,
+  "visuals_checked": true,
+  "editor_reviewed": true,
+  "unresolved_material": [
+    "Нет обязательного кадра рабочего стола",
+    "Нет полного initial/rerun текущего руководства"
+  ],
+  "corrections": [
+    {
+      "before": "Панель задач без отдельной настройки в старых материалах",
+      "after": "Описаны обновления 2025/2026 с оговоркой доступности",
+      "reason": "Актуальная документация Microsoft",
+      "evidence": "S4 S5"
+    }
+  ],
+  "reviewed_at": "2026-10-29"
+}

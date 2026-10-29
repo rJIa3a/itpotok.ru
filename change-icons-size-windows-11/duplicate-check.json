@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-29",
+  "queries": [
+    "значк",
+    "иконк",
+    "рабочий стол"
+  ],
+  "scope": "REST status=any context=edit per_page=100",
+  "unique_results": 94,
+  "relevant_candidates": [
+    {
+      "id": 6407,
+      "status": "publish",
+      "title": "Нестандартные иконки в Windows 7 &#8212; штрихи вашей индивидуальности",
+      "url": "https://itpotok.ru/nestandartnye-ikonki-v-windows-7-shtrihi-vashej-individualnosti/"
+    },
+    {
+      "id": 1958,
+      "status": "publish",
+      "title": "Где скачать и как настроить значки рабочего стола Windows XP?",
+      "url": "https://itpotok.ru/gde-skachat-i-kak-nastroit-znachki-rabochego-stola-windows-xp/"
+    }
+  ],
+  "decision": "Новая запись Windows 11; записи Windows XP и Windows 7 сохраняются"
+}

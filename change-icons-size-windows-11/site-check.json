@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-10-29",
+  "draft_id": 12193,
+  "preview": "https://itpotok.ru/?p=12193&preview=true",
+  "wide": {
+    "viewport": [
+      1366,
+      900
+    ],
+    "cover_css": [
+      470,
+      338.84
+    ],
+    "cover_objects_visible": true,
+    "title_excerpt_toc_intro_read": true
+  },
+  "narrow": {
+    "viewport": [
+      390,
+      844
+    ],
+    "cover_css": [
+      335.2,
+      188.55
+    ],
+    "page_horizontal_overflow": false,
+    "table_horizontal_scroll_container": true,
+    "faq_fourth_answer_opened": true,
+    "image_lightbox_opened": true
+  },
+  "faq": {
+    "count": 4,
+    "source_id": 12193,
+    "second_answer_opened_wide": true,
+    "fourth_answer_opened_narrow": true,
+    "extra_schema_added": false
+  },
+  "limits": [
+    "Просмотр авторизованного черновика; публичная опубликованная страница не создавалась",
+    "Проверка Windows ограничена Проводником; см. procedure.json"
+  ],
+  "evidence": [
+    "evidence/site-start-wide.jpg",
+    "evidence/site-start-mobile.jpg",
+    "evidence/site-table-mobile.jpg",
+    "evidence/site-faq-wide.jpg",
+    "evidence/site-faq-mobile.jpg",
+    "evidence/site-image-zoom-mobile.jpg"
+  ]
+}

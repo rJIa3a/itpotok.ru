@@ -1,0 +1,39 @@
+{
+  "environment": {
+    "version": "Windows 11 26H2, build 26300.9711 (registry DisplayVersion/CurrentBuild/UBR)",
+    "platform": "Windows x64",
+    "language": "ru-RU",
+    "plan": "локальная установленная ОС, без подписки",
+    "permissions": "обычный пользователь; только демонстрационная папка"
+  },
+  "runs": [
+    {
+      "id": "initial-20261029",
+      "kind": "initial",
+      "executed_at": "2026-10-29",
+      "steps": [
+        {
+          "id": "folder-menu",
+          "action": "Открыто Просмотреть в демонстрационной папке",
+          "expected": "Видны размеры",
+          "actual": "Видны Огромные, Крупные, Обычные, Мелкие и режимы списка",
+          "status": "passed",
+          "evidence": "images/originals/explorer-view-ru.png"
+        },
+        {
+          "id": "folder-small",
+          "action": "Выбрано Мелкие значки",
+          "expected": "Размер уменьшится",
+          "actual": "Три папки стали мелкими значками",
+          "status": "passed",
+          "evidence": "images/originals/explorer-small-ru.png"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Нет полного прогона рабочего стола и Ctrl+колеса",
+    "Нет повторного прогона по текущему исходнику",
+    "Возврат крупных значков прерван конфликтом Computer Use; папка демонстрационная, рабочие папки не менялись"
+  ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "C1",
+    "claim": "Меню «Вид» меняет общий размер значков рабочего стола, выбранный размер можно вернуть.",
+    "source_id": "S1",
+    "evidence": "Resize the desktop icons",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true,
+    "location": "desktop-menu"
+  },
+  {
+    "id": "C2",
+    "claim": "Ctrl+колесо изменяет размер рабочего стола, обратное вращение возвращает размер.",
+    "source_id": "S1",
+    "evidence": "press and hold Ctrl while you scroll the wheel",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true,
+    "location": "ctrl-wheel"
+  },
+  {
+    "id": "C3",
+    "claim": "В Проводнике есть отдельное меню размеров и видов; Ctrl+колесо меняет размер и вид элементов.",
+    "source_id": "S2",
+    "evidence": "Change the size and appearance of file and folder icons; собственное меню images/originals/explorer-view-ru.png",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true,
+    "location": "folder-icons"
+  },
+  {
+    "id": "C4",
+    "claim": "Масштаб меняет изображения, приложения и текст; размер текста настраивается отдельно.",
+    "source_id": "S3",
+    "evidence": "Make images and apps bigger; Make text bigger",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true,
+    "location": "display-scale"
+  },
+  {
+    "id": "C5",
+    "claim": "Обновление 2025 года добавило варианты маленьких кнопок панели задач.",
+    "source_id": "S4",
+    "evidence": "Never / Always / when the taskbar is full",
+    "checked_at": "2026-10-29",
+    "next_review": "2026-11-29",
+    "status": "supported",
+    "material": true,
+    "location": "taskbar"
+  },
+  {
+    "id": "C6",
+    "claim": "Новое компактное отображение панели уменьшает высоту и значки, доступность поэтапная.",
+    "source_id": "S5",
+    "evidence": "Gradual rollout; both the icons and the taskbar height become smaller",
+    "checked_at": "2026-10-29",
+    "next_review": "2026-11-29",
+    "status": "supported",
+    "material": true,
+    "location": "taskbar"
+  },
+  {
+    "id": "C7",
+    "claim": "Пункт отображения значков скрывает и возвращает их, а не задаёт размер.",
+    "source_id": "S1",
+    "evidence": "Show or hide all desktop icons",
+    "checked_at": "2026-10-29",
+    "next_review": "2027-01-29",
+    "status": "supported",
+    "material": true,
+    "location": "troubleshooting"
+  }
+]

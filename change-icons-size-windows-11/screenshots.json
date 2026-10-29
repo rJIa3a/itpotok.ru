@@ -1,0 +1,54 @@
+[
+  {
+    "step_id": "folder-menu",
+    "action": "Открыть Просмотреть",
+    "expected": "Размеры значков и виды папки",
+    "file": "images/originals/explorer-view-ru.png",
+    "original": "images/originals/explorer-view-ru.png",
+    "annotated": null,
+    "captured_at": "2026-10-29",
+    "environment": {
+      "version": "Windows 11 26H2, build 26300.9711 (registry DisplayVersion/CurrentBuild/UBR)",
+      "platform": "Windows x64",
+      "language": "ru-RU",
+      "plan": "локальная установленная ОС, без подписки",
+      "permissions": "обычный пользователь; только демонстрационная папка"
+    },
+    "caption": "Меню Просмотреть в русском Проводнике",
+    "alt": "Размеры значков и виды в Проводнике",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный безопасный кадр редакции; интерфейс Microsoft"
+  },
+  {
+    "step_id": "folder-small",
+    "action": "Выбрать Мелкие значки",
+    "expected": "Три мелких значка папок",
+    "file": "images/originals/explorer-small-ru.png",
+    "original": "images/originals/explorer-small-ru.png",
+    "annotated": null,
+    "captured_at": "2026-10-29",
+    "environment": {
+      "version": "Windows 11 26H2, build 26300.9711 (registry DisplayVersion/CurrentBuild/UBR)",
+      "platform": "Windows x64",
+      "language": "ru-RU",
+      "plan": "локальная установленная ОС, без подписки",
+      "permissions": "обычный пользователь; только демонстрационная папка"
+    },
+    "caption": "Результат уменьшения в демонстрационной папке",
+    "alt": "Три мелких значка демонстрационных папок",
+    "status": "verified",
+    "required": true,
+    "privacy_checked": true,
+    "rights": "Собственный безопасный кадр редакции; интерфейс Microsoft"
+  },
+  {
+    "step_id": "desktop-menu",
+    "action": "Открыть Вид рабочего стола",
+    "expected": "Мелкие, обычные, крупные значки",
+    "file": "images/originals/desktop-view-ru.png",
+    "status": "missing",
+    "required": true
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "cover": {
+    "id": 12188,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/icons-size-cover-20261029.jpg",
+    "width": 1600,
+    "height": 900
+  },
+  "menu": {
+    "id": 12189,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/icons-explorer-view-ru-20261029.png"
+  },
+  "small": {
+    "id": 12191,
+    "url": "https://itpotok.ru/wp-content/uploads/2026/10/icons-explorer-small-ru-20261029.png"
+  },
+  "draft_id": 12193,
+  "preview_url": "https://itpotok.ru/?p=12193&preview=true",
+  "edit_url": "https://itpotok.ru/wp-admin/post.php?post=12193&action=edit"
+}

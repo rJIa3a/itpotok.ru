@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cover",
+    "file": "images/icons-size-cover-20261029.jpg",
+    "purpose": "Редакционная обложка",
+    "caption": "Иллюстрация изменения размера значков",
+    "alt": "Большая и маленькая папки, Ctrl и мышь",
+    "status": "verified",
+    "required": true
+  }
+]
